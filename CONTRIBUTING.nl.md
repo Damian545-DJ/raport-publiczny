@@ -1,11 +1,8 @@
-# [Nederlands Version]
-
-# Jak pomóc (CONTRIBUTING)
-
-1) **Tłumaczenia (NL/EN)** – szczególnie streszczenia i osi czasu.  
-2) **Weryfikacja faktów** – sprawdzanie spójności dat, kwot i opisów.  
-3) **Porady dot. anonimizacji** – jak publikować dowody bez naruszeń prywatności.  
-4) **Kontakt do mediów / NGO** – organizacje pracownicze, dziennikarze śledczy.  
-
-Zgłoszenia: otwórz Issue i opisz, czego dotyczy.
+[Nederlands Version]
+Hoe je kunt helpen (CONTRIBUTING)
+1.	Vertalingen (NL/EN) – vooral samenvattingen en de tijdlijn.
+2.	Feitencheck – consistentie van data, bedragen en beschrijvingen.
+3.	Advies over anonimisering – hoe bewijs te publiceren zonder privacy te schenden.
+4.	Contacten voor media / NGO’s – werknemersorganisaties, onderzoeksjournalisten.
+Bijdragen: open een Issue en beschrijf waar het over gaat.
 
