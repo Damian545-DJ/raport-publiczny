@@ -6,7 +6,7 @@ Repozytorium zawiera **anonimizowaną** dokumentację sprawy w trzech językach:
 
 ## Dlaczego publikujemy
 Publikujemy ten raport, ponieważ mimo bardzo mocnych dowodów oraz wielomiesięcznych działań system w praktyce Niderlandach jak narazie za dobrze nie działa. W naszej ocenie obecny przebieg sprawy sprawia wrażenie, jakby interes agencji był skuteczniej chroniony niż prawa pracownika.   
-Instytucje, które zajmowały się sprawą (m.in. FairWork, Juridisch Loket, SNCU, Orde van Advocaten), a podmioty powiązane z certyfikatami/standardami (m.in. NBBU, SNF) nie odpowiedziały na nasze pisma.  
+Instytucje, które zajmóją się sprawą obecnie (m.in. FairWork, Juridisch Loket, SNCU, Orde van Advocaten) a podmioty powiązane z certyfikatami/standardami (m.in. NBBU, SNF) nie odpowiedziały na nasze pisma.  
 Boimy się, że ta długa walka o sprawiedliwość przepadnie w ciszy i czasie – dlatego tworzymy stałą, publiczną wersję raportu.
 
 ## Materiały wrażliwe
