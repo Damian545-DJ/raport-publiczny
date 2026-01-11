@@ -1,40 +1,41 @@
 # [English Version]
 
-# Naruszenia i podstawa prawna (ALLEGATIONS_AND_LAW)
+# Allegations and legal basis (ALLEGATIONS_AND_LAW)
 
-> To jest mapa „co zarzucamy” + „na jakich przepisach się opieramy”, zgodnie z tym, co jest wskazane w raporcie.
+> This is a map of “what we allege” + “which provisions we rely on”, in line with what is indicated in the report.
 
-## A) Intrixo B.V. – naruszenia prawa pracy i standardów
+## A) Intrixo B.V. – labour-law violations and standards
 
-### 1. Wynagrodzenie za okresy braku pracy / gwarancja godzin
-- **BW art. 7:628** – obowiązek wypłaty wynagrodzenia w określonych sytuacjach braku pracy
-- **BW art. 7:610b** – domniemanie wymiaru czasu pracy (przy stałym schemacie)
-- **Karta Praw Podstawowych UE art. 31** – sprawiedliwe warunki pracy
+### 1. Pay for periods without work / guaranteed hours
+- **BW art. 7:628** – obligation to pay wages in specific situations where no work is provided
+- **BW art. 7:610b** – presumption of working hours (with a consistent schedule)
+- **EU Charter of Fundamental Rights art. 31** – fair and just working conditions
 
-### 2. Opóźnienia w wypłatach
-- **BW art. 7:625** – ustawowa podwyżka/„kara” za zwłokę w wypłacie
+### 2. Delays in payments
+- **BW art. 7:625** – statutory increase/“penalty” for late payment of wages
 
-### 3. Urlopy i rozliczenia urlopowe
-- **BW art. 7:639–641** – zasady płatnego urlopu i rozliczeń
-- **Karta UE art. 31 ust. 2** – prawo do corocznego płatnego urlopu
+### 3. Leave and leave settlement
+- **BW art. 7:639–641** – rules for paid leave and settlement
+- **EU Charter art. 31(2)** – right to annual paid leave
 
-### 4. Wakantiegeld (8%)
+### 4. Vakantiegeld (8%)
 - **WML art. 15** – 8% vakantiegeld (vakantiebijslag)
 
-### 5. Potrącenia mieszkaniowe
-- **WAADI/WAS** – limit potrąceń za mieszkanie (w raporcie: 25%)
+### 5. Housing deductions
+- **WAADI/WAS** – cap on deductions for housing (in the report: 25%)
 
-### 6. Rzetelność danych / dokumentacji
-- **RODO (GDPR)** – zasady rzetelności danych (w raporcie wskazana zasada rzetelności)
+### 6. Data accuracy / documentation
+- **GDPR (RODO)** – principles of data accuracy (the report points to the accuracy principle)
 
-### 7. Prywatność zakwaterowania / wejścia do pokoju
-- Standardy prywatności i bezpieczeństwa (wątek nagrań wideo – wejścia do zamkniętego pokoju)
+### 7. Privacy of accommodation / room entries
+- Privacy and safety standards (video recordings thread – entries into a locked room)
 
-## B) Pełnomocnicy – standardy staranności i informowania klienta
+## B) Legal representatives – duty of care and keeping the client informed
 
-### 1. Brak przekazania dokumentów / brak informacji
-- standardy zawodowe adwokata: rzetelne informowanie, przekazanie akt, działanie w interesie klienta
-- standardy europejskie: prawo do skutecznego środka prawnego i realnego dostępu do ochrony prawnej
+### 1. Failure to provide documents / lack of information
+- professional standards for lawyers: reliable information, handing over the case file, acting in the client’s interest
+- European standards: right to an effective remedy and real access to legal protection
 
-> Uwaga: w wersji publicznej opisujemy fakty i dowody. Ocena prawna i kwalifikacja powinna być potwierdzona przez niezależnego prawnika.
+> Note: in the public version we describe facts and evidence. Legal assessment/classification should be confirmed by an independent lawyer.
+
 
