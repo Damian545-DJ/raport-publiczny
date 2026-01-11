@@ -1,11 +1,9 @@
-# [English Version]
+[English Version]
+How to help (CONTRIBUTING)
+1.	Translations (NL/EN) – especially summaries and the timeline.
+2.	Fact checking – consistency of dates, amounts, and descriptions.
+3.	Anonymization guidance – how to publish evidence without privacy violations.
+4.	Media / NGO contacts – worker organisations, investigative journalists.
+To contribute: open an Issue and describe what it concerns.
 
-# Jak pomóc (CONTRIBUTING)
-
-1) **Tłumaczenia (NL/EN)** – szczególnie streszczenia i osi czasu.  
-2) **Weryfikacja faktów** – sprawdzanie spójności dat, kwot i opisów.  
-3) **Porady dot. anonimizacji** – jak publikować dowody bez naruszeń prywatności.  
-4) **Kontakt do mediów / NGO** – organizacje pracownicze, dziennikarze śledczy.  
-
-Zgłoszenia: otwórz Issue i opisz, czego dotyczy.
 
