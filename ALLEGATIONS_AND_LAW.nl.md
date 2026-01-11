@@ -1,40 +1,41 @@
 # [Nederlands Version]
 
-# Naruszenia i podstawa prawna (ALLEGATIONS_AND_LAW)
+# Verwijten en juridische basis (ALLEGATIONS_AND_LAW)
 
-> To jest mapa „co zarzucamy” + „na jakich przepisach się opieramy”, zgodnie z tym, co jest wskazane w raporcie.
+> Dit is een overzicht van “wat we verwijten” + “op welke regels we ons baseren”, conform wat in het rapport is aangegeven.
 
-## A) Intrixo B.V. – naruszenia prawa pracy i standardów
+## A) Intrixo B.V. – overtredingen van arbeidsrecht en standaarden
 
-### 1. Wynagrodzenie za okresy braku pracy / gwarancja godzin
-- **BW art. 7:628** – obowiązek wypłaty wynagrodzenia w określonych sytuacjach braku pracy
-- **BW art. 7:610b** – domniemanie wymiaru czasu pracy (przy stałym schemacie)
-- **Karta Praw Podstawowych UE art. 31** – sprawiedliwe warunki pracy
+### 1. Loon bij gebrek aan werk / uren-garantie
+- **BW art. 7:628** – verplichting tot doorbetaling van loon in bepaalde situaties zonder werk
+- **BW art. 7:610b** – vermoeden van arbeidsomvang (bij een vast patroon)
+- **EU-Handvest art. 31** – eerlijke en rechtvaardige arbeidsomstandigheden
 
-### 2. Opóźnienia w wypłatach
-- **BW art. 7:625** – ustawowa podwyżka/„kara” za zwłokę w wypłacie
+### 2. Vertragingen in uitbetaling
+- **BW art. 7:625** – wettelijke verhoging/“boete” bij te late loonbetaling
 
-### 3. Urlopy i rozliczenia urlopowe
-- **BW art. 7:639–641** – zasady płatnego urlopu i rozliczeń
-- **Karta UE art. 31 ust. 2** – prawo do corocznego płatnego urlopu
+### 3. Verlof en verlof-afrekening
+- **BW art. 7:639–641** – regels voor betaald verlof en afrekening
+- **EU-Handvest art. 31 lid 2** – recht op jaarlijkse betaalde vakantie
 
-### 4. Wakantiegeld (8%)
+### 4. Vakantiegeld (8%)
 - **WML art. 15** – 8% vakantiegeld (vakantiebijslag)
 
-### 5. Potrącenia mieszkaniowe
-- **WAADI/WAS** – limit potrąceń za mieszkanie (w raporcie: 25%)
+### 5. Huisvestingsinhoudingen
+- **WAADI/WAS** – maximum voor inhoudingen voor huisvesting (in het rapport: 25%)
 
-### 6. Rzetelność danych / dokumentacji
-- **RODO (GDPR)** – zasady rzetelności danych (w raporcie wskazana zasada rzetelności)
+### 6. Betrouwbaarheid van data / administratie
+- **AVG (GDPR/RODO)** – beginselen van juistheid van gegevens (in het rapport: beginsel van juistheid)
 
-### 7. Prywatność zakwaterowania / wejścia do pokoju
-- Standardy prywatności i bezpieczeństwa (wątek nagrań wideo – wejścia do zamkniętego pokoju)
+### 7. Privacy van huisvesting / binnenkomen in de kamer
+- Standaarden voor privacy en veiligheid (video-opnames – binnenkomen in een afgesloten kamer)
 
-## B) Pełnomocnicy – standardy staranności i informowania klienta
+## B) Gemachtigden – zorgvuldigheid en informatieplicht
 
-### 1. Brak przekazania dokumentów / brak informacji
-- standardy zawodowe adwokata: rzetelne informowanie, przekazanie akt, działanie w interesie klienta
-- standardy europejskie: prawo do skutecznego środka prawnego i realnego dostępu do ochrony prawnej
+### 1. Geen documenten overgedragen / geen informatie
+- beroepsnormen voor advocaten: correcte informatie, overdracht van het dossier, handelen in het belang van de cliënt
+- Europese normen: recht op een doeltreffende voorziening in rechte en daadwerkelijke toegang tot rechtsbescherming
 
-> Uwaga: w wersji publicznej opisujemy fakty i dowody. Ocena prawna i kwalifikacja powinna być potwierdzona przez niezależnego prawnika.
+> Let op: in de openbare versie beschrijven we feiten en bewijzen. Juridische beoordeling/kwalificatie moet door een onafhankelijke jurist worden bevestigd.
+
 
