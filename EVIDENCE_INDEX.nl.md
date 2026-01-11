@@ -1,23 +1,22 @@
 # [Nederlands Version]
 
-# Spis dowodów (EVIDENCE_INDEX)
+# Bewijsoverzicht (EVIDENCE_INDEX)
 
-> Ten plik jest szablonem. W wersji publicznej **nie publikuj** surowych danych osobowych ani pełnych dokumentów zawierających dane wrażliwe.
-> Zamiast tego: publikuj **fragmenty po anonimizacji** i/lub metadane (np. daty, numery tygodni, typ dokumentu), a pełne materiały przekazuj instytucjom/pełnomocnikom na żądanie.
+> Dit bestand is een sjabloon. In de openbare versie publiceren we **geen** persoonsgegevens en geen volledige documenten met gevoelige gegevens.
+> In plaats daarvan: publiceer **geanonimiseerde fragmenten** en/of verstrek de volledige materialen op verzoek aan instanties/gemachtigden.
 
-## Kategorie dowodów
-1. **Paski płacowe / loonstroken** (analiza rozliczeń, potrąceń, dodatków, urlopów)
-2. **Nagrania audio** (spotkania/rozmowy – presja, próby wymuszeń)
-3. **Nagrania wideo** (wejścia do pokoju, data i godzina na obrazie)
-4. **Korespondencja** (e-maile, pisma do instytucji, odpowiedzi/brak odpowiedzi)
-5. **Dokumenty sądowe** (np. proces-verbaal / potwierdzenia terminów/ustaleń)
+## Categorieën bewijsmateriaal
+1. **Loonstroken / payslips** (analyse van afrekeningen, inhoudingen, toeslagen, verlof)
+2. **Audio-opnames** (gesprekken/overleggen – druk, pogingen tot afdwingen)
+3. **Video-opnames** (binnenkomen in de kamer, datum en tijd zichtbaar in beeld)
+4. **Correspondentie** (e-mails, brieven aan instanties, reacties/geen reacties)
+5. **Rechtbankdocumenten** (bijv. proces-verbaal / bevestigingen van termijnen/afspraken)
 
-## Szablon wpisu dowodu
-- **ID dowodu:** E-001  
-- **Typ:** (loonstrook/audio/video/pismo/sąd)  
-- **Zakres dat:** (YYYY-MM-DD)  
-- **Co potwierdza:** 1–2 zdania  
-- **Wersja publiczna:** link do anonimizowanego pliku / zrzutu  
-- **Wersja pełna:** dostępna na żądanie instytucji / pełnomocnika  
-- **Uwagi:** (np. czy widoczna data/godzina, czy jest tłumaczenie)
-
+## Sjabloon voor een bewijs-item
+- **Bewijs-ID:** E-001  
+- **Type:** (loonstrook/audio/video/brief/rechtbank)  
+- **Datumbereik:** (YYYY-MM-DD)  
+- **Wat het aantoont:** 1–2 zinnen  
+- **Openbare versie:** link naar geanonimiseerd bestand / screenshot  
+- **Volledige versie:** beschikbaar op verzoek van een instantie / gemachtigde  
+- **Opmerkingen:** (bijv. of datum/tijd zichtbaar is; of er een vertaling is)
