@@ -1,20 +1,16 @@
-# [Nederlands Version]
-
-# Anonimizacja (ANONYMIZATION)
-
-## Co usuwamy / maskujemy w wersji publicznej
-- PESEL, numery dokumentów, daty urodzenia
-- adresy prywatne, numery pokoi (jeśli nie są kluczowe), numery telefonów, e-maile prywatne
-- numery kont bankowych, numery BSN
-- podpisy odręczne, zdjęcia twarzy osób prywatnych (poza sytuacją, gdy publikacja jest konieczna i legalna – wtedy skonsultuj)
-- pełne dane osób trzecich (pracownicy recepcji, przypadkowe osoby w tle)
-
-## Co zostawiamy (bo jest kluczowe dowodowo)
-- daty i godziny zdarzeń (np. na nagraniach)
-- nazwa firmy i rola (np. „agencja pracy”, „pełnomocnik”)
-- numery tygodni rozliczeń (week X) bez danych wrażliwych
-- fragmenty dokumentów po zamazaniu danych osobowych
-
-## Zasada bezpieczeństwa
-Jeśli masz wątpliwość – usuń więcej niż mniej. Pełne materiały przekazuj instytucjom.
+[Nederlands Version]
+Anonimisering (ANONYMIZATION)
+Wat we verwijderen / afschermen in de openbare versie
+⦁	PESEL, documentnummers, geboortedata
+⦁	privéadressen, kamernummers (als die niet essentieel zijn), telefoonnummers, privé e-mailadressen
+⦁	bankrekeningnummers, BSN-nummers
+⦁	handgeschreven handtekeningen, foto’s van gezichten van privépersonen (behalve wanneer publicatie noodzakelijk en rechtmatig is – overleg dan eerst)
+⦁	volledige gegevens van derden (receptiemedewerkers, toevallige personen op de achtergrond)
+Wat we laten staan (omdat het bewijs-technisch cruciaal is)
+⦁	data en tijden van gebeurtenissen (bijv. op opnames)
+⦁	bedrijfsnaam en rol (bijv. “uitzendbureau”, “gemachtigde”)
+⦁	weeknummers van afrekeningen (week X) zonder gevoelige gegevens
+⦁	fragmenten van documenten na het afschermen van persoonsgegevens
+Veiligheidsregel
+Bij twijfel: liever te veel verwijderen dan te weinig. Verstrek de volledige materialen aan instanties.
 
