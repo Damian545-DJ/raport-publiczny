@@ -20,6 +20,25 @@ Materiały wrażliwe nie są publikowane publicznie i są udostępniane wyłącz
 
 ---
 
+Why we publish
+
+We are publishing this report because, despite very strong evidence and many months of actions taken, the system in practice in the Netherlands is currently not functioning well. In our assessment, the current course of the case gives the impression that the interests of the agency are being protected more effectively than the rights of the worker.
+
+The institutions that are currently dealing with the case (including FairWork, Juridisch Loket, SNCU, and the Orde van Advocaten), as well as entities connected with certifications and standards (including NBBU and SNF), have not responded to our letters.
+
+We are concerned that this long struggle for justice will disappear in silence and over time — therefore, we are creating a permanent, public version of the report.
+
+Sensitive materials
+
+Audio and video recordings are not published publicly. We provide them exclusively to institutions and media outlets upon a justified request.
+
+Disclaimer
+
+This report constitutes a public, anonymized documentation based on the evidence and correspondence in our possession. It does not violate the personal rights of third parties nor the confidentiality of ongoing proceedings. Sensitive materials are not published publicly and are provided exclusively to institutions or media outlets upon a justified request.
+
+---
+
+
 ## 🇵🇱 Polski
 - [Streszczenie sprawy](README.pl.md)
 - [Oś czasu](TIMELINE.pl.md)
