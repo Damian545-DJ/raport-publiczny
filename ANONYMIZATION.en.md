@@ -1,20 +1,16 @@
-# [English Version]
-
-# Anonimizacja (ANONYMIZATION)
-
-## Co usuwamy / maskujemy w wersji publicznej
-- PESEL, numery dokumentów, daty urodzenia
-- adresy prywatne, numery pokoi (jeśli nie są kluczowe), numery telefonów, e-maile prywatne
-- numery kont bankowych, numery BSN
-- podpisy odręczne, zdjęcia twarzy osób prywatnych (poza sytuacją, gdy publikacja jest konieczna i legalna – wtedy skonsultuj)
-- pełne dane osób trzecich (pracownicy recepcji, przypadkowe osoby w tle)
-
-## Co zostawiamy (bo jest kluczowe dowodowo)
-- daty i godziny zdarzeń (np. na nagraniach)
-- nazwa firmy i rola (np. „agencja pracy”, „pełnomocnik”)
-- numery tygodni rozliczeń (week X) bez danych wrażliwych
-- fragmenty dokumentów po zamazaniu danych osobowych
-
-## Zasada bezpieczeństwa
-Jeśli masz wątpliwość – usuń więcej niż mniej. Pełne materiały przekazuj instytucjom.
+[English Version]
+Anonymization (ANONYMIZATION)
+What we remove / mask in the public version
+⦁	PESEL, document numbers, dates of birth
+⦁	private addresses, room numbers (if not key), phone numbers, private email addresses
+⦁	bank account numbers, BSN numbers
+⦁	handwritten signatures, photos of faces of private individuals (except in a situation where publication is necessary and lawful – then consult first)
+⦁	full data of third parties (reception staff, random people in the background)
+What we keep (because it is crucial as evidence)
+⦁	dates and times of events (e.g., on recordings)
+⦁	company name and role (e.g., “agency”, “legal representative”)
+⦁	settlement week numbers (week X) without sensitive data
+⦁	excerpts of documents after personal data is redacted
+Safety principle
+If in doubt — remove more rather than less. Provide the full materials to institutions.
 
