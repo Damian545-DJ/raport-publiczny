@@ -1,23 +1,24 @@
 # [English Version]
 
-# Spis dowodów (EVIDENCE_INDEX)
+# Evidence index (EVIDENCE_INDEX)
 
-> Ten plik jest szablonem. W wersji publicznej **nie publikuj** surowych danych osobowych ani pełnych dokumentów zawierających dane wrażliwe.
-> Zamiast tego: publikuj **fragmenty po anonimizacji** i/lub metadane (np. daty, numery tygodni, typ dokumentu), a pełne materiały przekazuj instytucjom/pełnomocnikom na żądanie.
+> This file is a template. In the public version we **do not publish** personal data or full documents that contain sensitive data.
+> Instead: publish **anonymized excerpts** and/or provide the full materials to institutions/legal representatives on request.
 
-## Kategorie dowodów
-1. **Paski płacowe / loonstroken** (analiza rozliczeń, potrąceń, dodatków, urlopów)
-2. **Nagrania audio** (spotkania/rozmowy – presja, próby wymuszeń)
-3. **Nagrania wideo** (wejścia do pokoju, data i godzina na obrazie)
-4. **Korespondencja** (e-maile, pisma do instytucji, odpowiedzi/brak odpowiedzi)
-5. **Dokumenty sądowe** (np. proces-verbaal / potwierdzenia terminów/ustaleń)
+## Evidence categories
+1. **Pay slips / loonstroken** (analysis of settlements, deductions, allowances, leave)
+2. **Audio recordings** (meetings/conversations – pressure, attempts to force things)
+3. **Video recordings** (room entries, date and time visible on the image)
+4. **Correspondence** (emails, letters to institutions, replies/no replies)
+5. **Court documents** (e.g., proces-verbaal / confirmations of deadlines/arrangements)
 
-## Szablon wpisu dowodu
-- **ID dowodu:** E-001  
-- **Typ:** (loonstrook/audio/video/pismo/sąd)  
-- **Zakres dat:** (YYYY-MM-DD)  
-- **Co potwierdza:** 1–2 zdania  
-- **Wersja publiczna:** link do anonimizowanego pliku / zrzutu  
-- **Wersja pełna:** dostępna na żądanie instytucji / pełnomocnika  
-- **Uwagi:** (np. czy widoczna data/godzina, czy jest tłumaczenie)
+## Evidence entry template
+- **Evidence ID:** E-001  
+- **Type:** (loonstrook/audio/video/letter/court)  
+- **Date range:** (YYYY-MM-DD)  
+- **What it confirms:** 1–2 sentences  
+- **Public version:** link to anonymized file / screenshot  
+- **Full version:** available on request for an institution / legal representative  
+- **Notes:** (e.g., whether date/time is visible; whether there is a translation)
+
 
