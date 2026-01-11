@@ -1,172 +1,172 @@
 # [English Version]
 
-[TRANSLATION NEEDED]
+---
+
+# PUBLIC EVIDENCE REPORT (FULLY ANONYMIZED VERSION)
+
+**Case:** Temporary employment agency in the Netherlands (**Intrixo B.V.**, formerly operating under the name **Voorneputten**)  
+**Scope:** labour-law violations + privacy breaches in agency housing + issues with legal representation  
+**Authors of the account:** **Employee A** + **Employee B** (all personal data removed)  
+**Source:** adaptation and structuring of content from the document *Complete Report 2026* for publication (GitHub).
 
 ---
 
-# PUBLICZNY RAPORT DOWODOWY (WERSJA W PEŁNI ANONIMIZOWANA)
-
-**Sprawa:** Agencja pracy tymczasowej w Holandii (**Intrixo B.V.**, wcześniej działająca pod nazwą **Voorneputten**)  
-**Zakres:** naruszenia pracownicze + naruszenia prywatności w zakwaterowaniu agencyjnym + problemy z obsługą prawną  
-**Autorzy relacji:** **Pracownik A** + **Pracownica B** (dane osobowe w całości usunięte)  
-**Źródło:** przeróbka i uporządkowanie treści z dokumentu „Kompletny Raport 2026” do publikacji (GitHub).
+## 0) Important notes (for accuracy and fairness)
+1. This document describes facts **based on available evidence** (documents, correspondence, audio and video recordings).  
+2. Terms such as *fraud*, *manipulation*, *misrepresentation* indicate **suspicions and assessments by the authors derived from facts**, not any final criminal judgment.  
+3. This version is **fully anonymized**: names of private persons, room numbers, housing address and other identifying details have been removed.
 
 ---
 
-## 0) Ważne zastrzeżenia (żeby było uczciwie i twardo)
-1. Ten dokument opisuje fakty **na podstawie posiadanych dowodów** (dokumenty, korespondencja, nagrania audio i wideo).  
-2. Sformułowania typu „oszustwo”, „manipulacja”, „wprowadzanie w błąd” oznaczają **podejrzenie i ocenę autorów wynikającą z faktów**, a nie prawomocny wyrok w sprawie karnej.  
-3. Wersja jest **anonimizowana**: usunięto imiona/nazwiska osób prywatnych, numer pokoju, nazwę i adres zakwaterowania oraz inne dane identyfikujące.
+## 1) Case summary (core points)
+The case concerns serious labour-rights violations, including:
+- leaving **Employee B** without means of subsistence for nearly half a year,  
+- charging her a “debt” for accommodation that **increased weekly** up to about **EUR 1 000**,  
+- breach of a **Phase C** (permanent) contract guaranteeing **32 hours per week**,  
+- systematic payroll and settlement irregularities concerning **Employee A**,  
+- pressure and attempts to force a signature during meetings with the agency (evidence: audio recordings),  
+- repeated entries by third parties into an occupied, locked room in the agency housing (evidence: video recordings).
+
+Additionally, the report notes serious issues with legal assistance: missing key documents, long silence periods, contradictory information, and invoices lacking clear breakdowns of services.
 
 ---
 
-## 1) Streszczenie sprawy (sedno)
-Sprawa dotyczy poważnych naruszeń praw pracowniczych, w tym:
-- pozostawienia **Pracownicy B** bez środków do życia przez prawie pół roku,
-- naliczania jej „długu” za zakwaterowanie, który **co tydzień wzrastał** i osiągnął ok. **1000 EUR**,
-- naruszenia umowy w **fazie C** (czas nieokreślony) z gwarancją **32 godzin tygodniowo**,
-- systemowych nieprawidłowości płacowych i rozliczeniowych wobec **Pracownika A**,
-- presji i prób wymuszenia podpisu na spotkaniach z agencją (dowody: nagrania audio),
-- powtarzalnych wejść osób trzecich do zamieszkanego, zamkniętego pokoju w zakwaterowaniu agencyjnym (dowody: nagrania wideo).
+## 2) Evidence materials (what exists and what supports it)
+According to the authors they possess, among others:
+- a **court document (“proces-verbaal”)** from the hearing of **12 March 2024**,  
+- **audio recordings** of meetings with the agency (pressure, coercion attempts),  
+- **video recordings** showing third-party entries into the accommodation room (date / time visible),  
+- correspondence and traces of contact (or lack thereof) with lawyers and institutions (including the **Orde van Advocaten**, the dean, **Raad van Discipline**, **Juridisch Loket**),  
+- payslips / settlement records (described in the source report as numerous and systemic irregularities).
 
-Dodatkowo opisano poważne problemy z obsługą prawną: brak przekazania kluczowych dokumentów, długie okresy ciszy, sprzeczne komunikaty oraz faktury bez jasnego wykazania wykonanych czynności.
-
----
-
-## 2) Materiał dowodowy (co istnieje i czym to jest poparte)
-Autorzy wskazują, że posiadają m.in.:
-- **dokument sądowy („proces‑verbaal”)** z rozprawy z dnia **12.03.2024**,
-- **nagrania audio** ze spotkań z agencją (presja, próby wymuszeń),
-- **nagrania wideo** wejść osób trzecich do pokoju w zakwaterowaniu agencyjnym (daty i godziny na obrazie),
-- korespondencję i ślady kontaktu (lub jego braku) z prawnikami oraz instytucjami (w tym **Orde van Advocaten**, dziekan, **Rada Dyscyplinarna / Raad van Discipline**, **Juridisch Loket**),
-- dokumenty płacowe/rozliczeniowe (w raporcie źródłowym opisane jako liczne i systemowe nieprawidłowości).
-
-> Uwaga techniczna: w repozytorium (GitHub) te materiały powinny być dodawane jako załączniki w sposób bezpieczny (zamazanie danych wrażliwych, brak publikacji twarzy osób postronnych, itd.).  
+> **Technical note:** In the GitHub repository these materials should be attached securely (blurred sensitive data, no public release of third-party faces, etc.).
 
 ---
 
-## 3) Oś czasu (konkretne daty z raportu)
-### 3.1. Uzyskanie pomocy prawnej i rozprawa
-- **Przed Nowym Rokiem 2024:** autorzy proszą o pomoc księgową; księgowa poleca **Prawnika 1** (później: skarga do Orde van Advocaten).  
-- **12.03.2024:** odbywa się rozprawa sądowa.  
-  - Według relacji: podczas rozprawy obie strony miały błędy w obliczeniach; sąd miał dać czas na dokładne przeliczenia.  
-  - Agencja miała wypłacić **5000 EUR** w określonym terminie (opisywane jako uzyskane „w ciągu 2 tygodni”).  
+## 3) Timeline (key dates from the report)
+### 3.1  Legal aid and court hearing
+- **Before New Year 2024:** the authors sought bookkeeping help; the accountant recommended **Lawyer 1** (later subject of a complaint to the Orde van Advocaten).  
+- **12 Mar 2024:** court hearing.  
+  - Both sides allegedly had calculation errors; the court allowed time for precise recalculation.  
+  - The agency was to pay **EUR 5 000** within a set period (“within two weeks”).  
 
-### 3.2. Co po rozprawie i dlaczego sprawa nie została domknięta
-- **Kwiecień 2024:** spotkanie z **Prawnikiem 1** – zapowiedź dalszych działań, gdy agencja prześle pełne wyliczenia; potem brak realnego postępu.  
-- **24.05.2024:** księgowa informuje, że jest rozstrzygnięcie i że Pracownica B powinna je omówić z Prawnikiem 1; według korespondencji e-mail  kontakt z Prawnikiem 1 nadal praktycznie nie działa.  
-- **Czerwiec 2024:** autorzy zatrudniają **Prawnika 2** (druga kancelaria). Pada deklaracja, że sprawa może potrwać ok. **3-4 miesiące** i będzie kontakt.
+### 3.2  After the hearing – why the case was not concluded
+- **Apr 2024:** meeting with **Lawyer 1** – promised further action once the agency provided full calculations; then no progress.  
+- **24 May 2024:** accountant informed there was a decision and that Employee B should discuss it with Lawyer 1; emails show contact still ineffective.  
+- **Jun 2024:** the authors engaged **Lawyer 2** (second office), who said resolution may take **3–4 months**.
 
-### 3.3. Brak działań / sprzeczne informacje
-- **Po ok. 4 miesiącach:** brak informacji; Prawnik 2 telefonicznie twierdzi, że nie może uzyskać dokumentów od Prawnika 1.  
-- **16.09.2024:** autorzy proszą księgową o interwencję w sprawie dokumentacji; Prawnik 1 przesyła jakieś dokumenty – według relacji nieistotne.  
-- W tym samym czasie Prawnik 2 informuje, że „otrzymali dokumenty i analizują”, po czym znów następuje cisza.  
-- **Po ok. 2 miesiącach:** autorzy dostają informację, że „doszło do ugody i nic się nie da zrobić” (Korespondencja WhatsApp), a dokument miał pochodzić od Intrixo – lecz **nie został pokazany autorom**.  
-- **Przed Nowym Rokiem 2025:** po zapowiedzi zgłoszenia „oszustwa” Prawnik 2 oddzwania; autorzy proszą o uzyskanie rozstrzygnięcia bezpośrednio z sądu – według relacji do dziś brak efektu oraz brak zwrotu wpłaconych pieniędzy; zamiast tego pojawiają się niejasne faktury „do dopłaty”.
-
----
-
-## 4) Naruszenia pracownicze – Pracownica B (faza C, 32h)
-Z raportu wynika, że:
-1. Pracownica B została pozostawiona bez środków do życia przez prawie pół roku.  
-2. Następnie naliczano jej „dług” za zakwaterowanie, który rósł co tydzień i osiągnął ok. 1000 EUR.  
-3. Agencja miała naruszyć umowę fazy C (czas nieokreślony) z gwarancją 32h tygodniowo.  
-4. Pracownica B była wzywana do biura, gdzie – zamiast rozwiązania sprawy/umowy – miało dojść do próby kolejnego nadużycia (autorzy wskazują, że mają na to dowody).
+### 3.3  Lack of action / conflicting information
+- **≈ 4 months later:** still no update; Lawyer 2 said he could not obtain files from Lawyer 1.  
+- **16 Sep 2024:** accountant asked to intervene regarding documentation; Lawyer 1 sent some files – irrelevant per authors.  
+- Around the same time Lawyer 2 stated “we received documents and are analysing”, then again silence.  
+- **≈ 2 months later:** message that “a settlement exists and nothing can be done” (WhatsApp); the document allegedly from Intrixo **was never shown**.  
+- **Before New Year 2025:** after the authors announced intent to report “fraud”, Lawyer 2 called back; they requested the court decision directly – no result and no refund of paid fees; instead unclear *extra invoices* appeared.
 
 ---
 
-## 5) Naruszenia pracownicze – Pracownik A (obraz systemowy)
-Raport źródłowy opisuje szereg nieprawidłowości jako **systemowe**, m.in.:
-- brak realizacji gwarancji minimalnych godzin pracy w fazie C,
-- niewypłacanie pełnego wynagrodzenia za okresy braku pracy,
-- przekraczanie dopuszczalnych potrąceń (pozostawianie pracownika poniżej minimum do życia),
-- odmowa świadczeń urlopowych (w naturze i w pieniądzu),
-- zaniżanie ustawowych dodatków,
-- opóźnienia w wypłatach,
-- działania opisane jako „manipulowanie dokumentacją”, mające ukryć uchybienia.
+## 4) Labour-law violations – Employee B (Phase C, 32 h)
+From the report:
+1. Employee B was left without income for nearly six months.  
+2. A “housing debt” was imposed, growing weekly to ≈ EUR 1 000.  
+3. The agency breached the Phase C contract (permanent, 32 h/week).  
+4. She was summoned to the office where – instead of resolving the contract – another form of abuse allegedly occurred (supported by evidence).
 
 ---
 
-## 6) Presja i próby wymuszeń – analiza nagrań audio
-Z nagrań audio (wg opisu w raporcie źródłowym) ma wynikać, że:
-- Pracownica B była **dwukrotnie wzywana** na konfrontacyjne spotkania,
-- podczas spotkań próbowano wymusić podpisanie dokumentu o anulowaniu „długu”,
-- po stronie agencji miała występować niedopuszczalna presja, a nawet groźby (zawoalowane) i taktyki zastraszania,
-- autorzy kwalifikują to jako próbę obejścia gwarancji wynikających z fazy C oraz naruszenie swobody woli, godności i poczucia bezpieczeństwa pracownika.
+## 5) Labour-law violations – Employee A (systemic pattern)
+Described as **systemic** irregularities:
+- failure to guarantee minimum contracted hours in Phase C,  
+- non-payment for idle periods,  
+- excessive deductions (leaving pay below subsistence),  
+- denial of holiday entitlements (in kind / cash),  
+- reduction of statutory supplements,  
+- delayed payments,  
+- actions described as “document manipulation” to conceal deficiencies.
 
 ---
 
-## 7) Zakwaterowanie agencyjne – wejścia osób trzecich do zamkniętego pokoju (wideo)
-Z kolejnych dowodów (nagrania wideo) wynika, że osoby trzecie wielokrotnie:
-- otwierały drzwi i wchodziły do zamieszkanego pokoju w zakwaterowaniu agencyjnym,
-- mimo że pokój był zamykany na klucz,
-- bez wcześniejszej informacji o kontroli lub innych czynnościach,
-- a na nagraniach są widoczne daty i godziny.
-
-W raporcie wskazano co najmniej cztery terminy zdarzeń:
-- **23.12.2024**
-- **08.01.2025**
-- **31.03.2025**
-- **02.08.2025**  
-Łącznie: **8 nagrań**.
-
-Wnioski dowodowe z raportu:
-- materiał stanowi obiektywną podstawę do żądania od podmiotu zarządzającego zakwaterowaniem: procedur wejść do pokoi, listy osób z dostępem do kluczy/master key, rejestrów/logów wejść oraz protokołów ewentualnych kontroli dla wskazanych dat i godzin.
+## 6) Pressure and coercion – audio-record analysis
+Recordings allegedly show:
+- Employee B was **summoned twice** for confrontational meetings,  
+- attempts were made to force her to sign a document annulling the “debt”,  
+- agency representatives applied **unacceptable pressure**, including veiled threats / intimidation,  
+- authors qualify this as an attempt to circumvent Phase C guarantees and a breach of free will, dignity, and safety of the worker.
 
 ---
 
-## 8) Obsługa prawna – faktyczny problem (bez emocji, tylko fakty)
-### 8.1. Prawnik 1
-- autorzy złożyli skargę do **Orde van Advocaten**,
-- jednym z zarzutów jest brak rzetelnego informowania oraz nieprzekazanie kluczowych dokumentów ani autorom, ani Prawnikowi 2,
-- według relacji Prawnik 1 odnosząc się do skargi nie przedstawił dowodów na swoje twierdzenia,
-- dziekan miał częściowo nie uwzględnić materiału z powodu braku tłumaczeń; autorzy wykonali tłumaczenia i ponawiali wysyłkę,
-- sprawa trafiła do Rady Dyscyplinarnej; autorzy otrzymali informację o nieuwzględnieniu skargi z powodu „braku tłumaczeń”, mimo że – według nich – tłumaczenia zostały dosłane; autorzy złożyli odwołanie.
+## 7) Agency housing – unauthorized entries (video)
+Video evidence indicates that third parties repeatedly:
+- opened doors and entered the occupied room,  
+- despite it being locked,  
+- without prior notice of inspection / maintenance,  
+- with visible date / time stamps.
 
-### 8.2. Prawnik 2
-- przyjęcie sprawy i wynagrodzenia, deklaracja działania w ~3-4 miesiące, potem długie okresy ciszy,
-- informacja o braku dokumentów od Prawnika 1,
-- później informacja o „ugodzie i że nic nie da się zrobić”, bez pokazania autorom dokumentu,
-- brak uzyskania rozstrzygnięcia bezpośrednio z sądu (mimo prośby),
-- brak zwrotu wpłaconych pieniędzy (wg relacji e-mail) oraz wysyłanie niejasnych faktur.
+Reported dates:
+- **23 Dec 2024**  
+- **08 Jan 2025**  
+- **31 Mar 2025**  
+- **02 Aug 2025**  
+Total: **8 videos**.
 
----
-
-## 9) Podstawa prawna (punkty zaczepienia – do weryfikacji)
-Poniżej wskazania, które **łączą się z opisanymi faktami** (to nie jest porada prawna, tylko mapa przepisów):
-
-- **Loon bij geen arbeid** (wynagrodzenie mimo braku pracy, gdy przyczyna leży po stronie pracodawcy): art. **7:628 BW**.  
-- **Wettelijke verhoging** (ustawowa podwyżka/„kara” za nieterminową wypłatę wynagrodzenia – do 50%, z możliwością miarkowania przez sąd): art. **7:625 BW**.  
-- **Wynagrodzenie podczas urlopu**: art. **7:639 BW** (i kolejne).  
-- **Domniemanie wymiaru pracy** (gdy umowa trwa ≥ 3 miesiące, zakres pracy domniemywa się wg średniej z poprzednich 3 miesięcy): art. **7:610b BW**.  
-- **Minimumvakantiebijslag** (co najmniej 8%): art. **15 WML**.  
-- **Potrącenia za zakwaterowanie przy minimumloon**: dopuszczalne tylko pod warunkami (m.in. upoważnienie/volmacht i inne wymogi) – zasady opisuje Rijksoverheid.  
-- **Rzetelność/zgodność danych** (jeśli dokumenty płacowe lub rozliczenia są korygowane nierzetelnie): zasada „accuracy” w art. **5 GDPR**.
+**Findings:** the material justifies requesting from the housing operator:
+- entry procedures,  
+- list of persons with key / master-key access,  
+- access logs and inspection protocols for the listed dates / times.
 
 ---
 
-## 10) Konkluzja (co z tego wynika)
-Z raportu źródłowego wynika, że autorzy posiadają wielowarstwowy materiał dowodowy wskazujący na:
-1. poważne naruszenia praw pracowniczych (faza C / 32h, potrącenia, niewypłacanie, urlopy, terminowość i rozliczenia),  
-2. presję i próby wymuszeń (audio),  
-3. naruszenia prywatności i bezpieczeństwa w zakwaterowaniu agencyjnym (wideo),  
-4. rażące problemy z obsługą prawną (brak dokumentów, brak kontaktu, sprzeczne komunikaty, faktury bez jasnych podstaw).
+## 8) Legal representation – factual issues
+### 8.1  Lawyer 1
+- complaint filed with the **Orde van Advocaten**,  
+- allegations: poor communication / failure to deliver key documents to authors and to Lawyer 2,  
+- Lawyer 1’s reply lacked supporting evidence,  
+- dean allegedly disregarded some materials due to missing translations; authors provided them later,  
+- case moved to **Raad van Discipline**; complaint rejected citing “missing translations” though translations had been sent; appeal filed.
+
+### 8.2  Lawyer 2
+- accepted the case + payment, promised outcome within 3–4 months, then silence,  
+- claimed inability to get files from Lawyer 1,  
+- later said “a settlement exists and nothing can be done” without showing it,  
+- did not obtain the ruling directly from court,  
+- no refund of fees + sent unclear invoices.
 
 ---
 
-## 11) Index dowodów (szablon do repozytorium)
-Poniżej szkielet – wstaw w miejsce „[PLIK]” realne nazwy plików w repo:
+## 9) Legal basis (reference points – to verify)
+Related Dutch provisions – for orientation only:
 
-- **D‑01** – proces‑verbaal z rozprawy 12.03.2024: `[PLIK]`  
-- **D‑02** – korespondencja z agencją dot. wyliczeń/ugodowych obowiązków: `[PLIK]`  
-- **D‑03** – korespondencja z Juridisch Loket: `[PLIK]`  
-- **D‑04** – skarga do Orde van Advocaten + załączniki + tłumaczenia: `[PLIK]`  
-- **D‑05** – pismo/odwołanie do Rady Dyscyplinarnej: `[PLIK]`  
-- **D‑06** – nagrania audio (2 szt.) + transkrypcje/opisy: `[PLIK]`  
-- **D‑07** – nagrania wideo (8 szt.) + log dat/godzin: `[PLIK]`  
-- **D‑08** – dokumenty płacowe/analizy (zanonimizowane): `[PLIK]`  
+- **Wages despite no work** (*loon bij geen arbeid*): Art. 7:628 BW  
+- **Statutory increase for late payment** (*wettelijke verhoging* up to 50 %): Art. 7:625 BW  
+- **Holiday pay entitlement**: Art. 7:639 BW et seq.  
+- **Presumed working hours** (*rechtsvermoeden arbeidsomvang* ≥ 3 months = average): Art. 7:610b BW  
+- **Minimum holiday allowance (≥ 8 %)**: Art. 15 WML  
+- **Housing deductions at minimum wage**: allowed only under strict conditions (written consent etc.) – Rijksoverheid rules  
+- **Accuracy of data** – incorrect payroll corrections may breach Art. 5 GDPR
 
 ---
 
+## 10) Conclusions
+Evidence indicates:
+1. serious labour-law breaches (Phase C / 32 h, deductions, non-payment, holidays, timeliness, settlements);  
+2. pressure / coercion (audio);  
+3. privacy and safety violations in agency housing (video);  
+4. severe deficiencies in legal assistance (missing files, lack of contact, contradictory communication, unjustified invoices).
 
-**Oświadczenie autorów:** „Wszystko, co tu opisane, jest – według naszej wiedzy i posiadanych materiałów – poparte jednoznacznie dowodami, które posiadamy.”
+---
+
+## 11) Evidence index – repository template
+Replace `[FILE]` with actual filenames in the repo:
+
+- **D-01** – proces-verbaal 12 Mar 2024  `[FILE]`  
+- **D-02** – Correspondence with agency on calculations / settlement duties  `[FILE]`  
+- **D-03** – Correspondence with Juridisch Loket  `[FILE]`  
+- **D-04** – Complaint to Orde van Advocaten + attachments + translations  `[FILE]`  
+- **D-05** – Appeal to Raad van Discipline  `[FILE]`  
+- **D-06** – Audio recordings (2) + transcripts  `[FILE]`  
+- **D-07** – Video recordings (8) + log of dates / times  `[FILE]`  
+- **D-08** – Payslip documents / analyses (anonymized)  `[FILE]`
+
+---
+
+**Authors’ statement:**  
+> “Everything described here is, to the best of our knowledge and based on the materials in our possession, clearly supported by evidence that we hold.”
