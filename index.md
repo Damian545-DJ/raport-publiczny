@@ -38,6 +38,13 @@ This report constitutes a public, anonymized documentation based on the evidence
 
 ---
 
+## Kontakt / Contact
+
+Masz pytanie / dowód / prośbę medialną lub prawną?
+Napisz tutaj (formularz na GitHubie):
+https://github.com/Damian545-DJ/raport-publiczny/issues/new/choose
+
+---
 
 ## 🇵🇱 Polski
 - [Streszczenie sprawy](README.pl.md)
