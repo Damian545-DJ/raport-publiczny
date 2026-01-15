@@ -1,117 +1,116 @@
 # [English Version]
 
-# Intrixo B.V. – publiczny raport (anonimizowany) o naruszeniach i braku realnej reakcji systemu
+# Intrixo B.V. – public report (anonymized) on violations and the lack of real system response
 
-**TL;DR:** Mamy mocne dowody (paski płacowe + nagrania audio/wideo + korespondencję), a mimo tego od miesięcy/lat odbijamy się od ściany.  
-W praktyce wygląda to tak, jakby **agencja była lepiej chroniona niż pracownik**. Publikujemy to, żeby sprawa nie „umarła w papierach”.
+**TL;DR:** We have strong evidence (payslips + audio/video recordings + correspondence), and despite that we’ve been hitting a wall for months/years.  
+In practice it looks like **the agency is better protected than the worker**. We publish this so the case does not “die in paperwork”.
 
-**Status:** wersja publiczna (anonimizowana)  
-**Ostatnia aktualizacja:** 2026-01-10  
-**Repo:** służy do weryfikacji, nagłośnienia i zebrania wsparcia (prawnego/medialnego/społecznego)
-
----
-
-## Dlaczego to pokazujemy światu
-
-Bo widzimy, że bez nagłośnienia:
-- sprawa może przepaść w procedurach,
-- instytucje potrafią milczeć tygodniami/miesiącami,
-- pracownik zostaje sam z ciężarem dowodów, kosztów i stresu.
-
-Nasze doświadczenie jest brutalnie proste: **dowody są, a skuteczności brakuje**.
+**Status:** public version (anonymized)  
+**Last update:** 2026-01-10  
+**Repo:** for verification, raising awareness, and gathering support (legal/media/community)
 
 ---
 
-## Kogo dotyczy sprawa (w skrócie)
+## Why we are showing this to the world
 
-Sprawa dotyczy agencji pracy tymczasowej **Intrixo B.V.** (wcześniej Voorneputten) oraz wątków:
-- zatrudnienie (m.in. umowa/faza C i gwarancja godzin),
-- wynagrodzenia i potrącenia,
-- urlopy i dodatki (w tym vakantiegeld),
-- rzetelność dokumentacji i danych,
-- zakwaterowanie i prywatność (wejścia do zamkniętego pokoju),
-- działania/zaniedbania pełnomocników.
+Because we see that without public attention:
+- the case can disappear in procedures,
+- institutions can stay silent for weeks/months,
+- the worker is left alone with the burden of evidence, costs, and stress.
 
-> Wersja publiczna jest anonimizowana. Pełne materiały dowodowe są przekazywane instytucjom/pełnomocnikom na żądanie.
+Our experience is brutally simple: **the evidence exists, but effectiveness is missing**.
 
 ---
 
-## Co konkretnie zarzucamy (najważniejsze punkty)
+## Who this case concerns (briefly)
 
-### 1) Wynagrodzenia / rozliczenia / potrącenia
-Według naszej dokumentacji agencja:
-- nie wywiązywała się z gwarancji stabilnych warunków (faza C / minimalne godziny),
-- nie wypłacała pełnego wynagrodzenia za okresy braku pracy,
-- spóźniała się z wypłatami,
-- przekraczała dopuszczalne potrącenia (zostawiając pracownika z kwotą poniżej minimum do życia),
-- odmawiała świadczeń urlopowych (w naturze i w pieniądzu),
-- zaniżała ustawowe dodatki (w tym vakantiegeld),
-- prowadziła dokumentację w sposób budzący poważne wątpliwości (korekty, niespójności, „znikające” informacje).
+The case concerns the temporary work agency **Intrixo B.V.** (formerly Voorneputten) and topics such as:
+- employment (including contract/Phase C and guaranteed hours),
+- wages and deductions,
+- leave and allowances (including vakantiegeld),
+- reliability of records and data,
+- housing and privacy (entries into a locked room),
+- actions/neglect of legal representatives.
 
-### 2) Presja i próby wymuszenia podpisu
-Z nagrań audio wynika presja na podpisanie dokumentów dotyczących „długu” – z elementami zastraszania.
-
-### 3) Prywatność i bezpieczeństwo zakwaterowania
-Z nagrań wideo wynika wielokrotne wejście osób trzecich do zamkniętego, zamieszkanego pokoju (data/godzina na obrazie), bez naszej zgody i bez wcześniejszej informacji.
+> This public version is anonymized. Full evidence materials are provided to institutions/representatives on request.
 
 ---
 
-## Instytucje i brak realnej odpowiedzi (nasze doświadczenie)
+## What exactly we allege (key points)
 
-Sprawą zajmowały się / były informowane m.in.:
+### 1) Wages / settlements / deductions
+Based on our documentation, the agency:
+- did not comply with the guarantee of stable conditions (Phase C / minimum hours),
+- did not pay full wages for periods without work,
+- was late with payments,
+- exceeded permissible deductions (leaving the worker with less than the minimum to live on),
+- refused holiday entitlements (in kind and in money),
+- underpaid statutory allowances (including vakantiegeld),
+- kept records in a way that raises serious doubts (corrections, inconsistencies, “missing” information).
+
+### 2) Pressure and attempts to force a signature
+Audio recordings show pressure to sign documents about an alleged “debt”, with elements of intimidation.
+
+### 3) Privacy and housing security
+Video recordings show repeated entry by third parties into a locked, occupied room (date/time visible on the footage), without our consent and without prior notice.
+
+---
+## Institutions and lack of real response (our experience)
+
+The case is being handled by / the following have been informed, among others:
 - **FairWork**
 - **Juridisch Loket**
 - **SNCU**
 - **Orde van Advocaten**
 
-Jednocześnie podmioty, na które agencja powołuje się certyfikacyjnie / branżowo:
+At the same time, bodies the agency cites for certification / industry status:
 - **NBBU**
 - **SNF**
 
-— według naszej dokumentacji **do dnia 2026-01-10 nie udzieliły odpowiedzi na nasze pisma** (lub odpowiedź była niewystarczająca).
+— according to our documentation, **as of 2026-01-10 they have not replied to our letters** (or the reply was insufficient).
 
 ---
 
-## Czego oczekujemy (konkretnie)
+## What we expect (concretely)
 
-1) **Pisemnej reakcji** podmiotów, które mają pilnować standardów (w tym certyfikacji i kontroli).  
-2) **Niezależnej weryfikacji dowodów** (prawnik/NGO/dziennikarz).  
-3) **Rozliczenia godzin i wynagrodzeń** w sposób pełny i transparentny.  
-4) **Wyjaśnienia wątku zakwaterowania** (kto wchodził, na jakiej podstawie, gdzie są logi, kto miał dostęp do kluczy).  
-5) **Ochrony innych pracowników** – żeby wiedzieli, jak się zabezpieczać i jak zbierać dowody.
-
----
-
-## Co tu jest, a czego tu nie ma
-
-✅ Jest:
-- oś czasu,
-- spis dowodów (bez wrażliwych danych),
-- mapowanie zarzutów do podstaw prawnych (NL/UE),
-- zasady anonimizacji.
-
-⛔ Nie ma:
-- pełnych danych osobowych,
-- surowych dokumentów zawierających BSN, numery kont, podpisy itd.
+1) **Written responses** from bodies that should enforce standards (including certification and oversight).  
+2) **Independent verification of the evidence** (lawyer/NGO/journalist).  
+3) **A full, transparent calculation** of hours and wages.  
+4) **Clarification of the housing issue** (who entered, on what basis, where the logs are, who had key access).  
+5) **Protection of other workers** – so they know how to protect themselves and how to collect evidence.
 
 ---
 
-## Jak czytać repozytorium
+## What is here, and what is not
 
-- [`TIMELINE.md`](TIMELINE.md) – oś czasu najważniejszych zdarzeń  
-- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – spis dowodów i co potwierdzają  
-- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – naruszenia + podstawy prawne (NL/UE)  
-- [`ANONYMIZATION.md`](ANONYMIZATION.md) – zasady anonimizacji  
-- [`DISCLAIMER.md`](DISCLAIMER.md) – zastrzeżenia  
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) – jak pomóc
+✅ Included:
+- a timeline,
+- an evidence index (without sensitive data),
+- mapping of allegations to legal bases (NL/EU),
+- anonymization rules.
+
+⛔ Not included:
+- full personal data,
+- raw documents containing BSN, bank account numbers, signatures, etc.
 
 ---
 
-## Jak możesz pomóc
+## How to read the repository
 
-- Tłumaczenie streszczeń na **EN/NL**  
-- Weryfikacja spójności: daty, opisy, logika  
-- Kontakt do **mediów / NGO / prawników**  
-- Analiza potrąceń i rozliczeń (z zachowaniem anonimizacji)
+- [`TIMELINE.md`](TIMELINE.md) – timeline of key events  
+- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – evidence index and what it proves  
+- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – violations + legal bases (NL/EU)  
+- [`ANONYMIZATION.md`](ANONYMIZATION.md) – anonymization rules  
+- [`DISCLAIMER.md`](DISCLAIMER.md) – disclaimers  
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) – how to help
 
-Jeśli chcesz pomóc – otwórz **Issue** i napisz, w czym konkretnie.
+---
+
+## How you can help
+
+- Translate summaries into **EN/NL**  
+- Check consistency: dates, descriptions, logic  
+- Share contacts to **media / NGOs / lawyers**  
+- Analyze deductions and settlements (while keeping anonymization)
+
+If you want to help – open an **Issue** and write what exactly you can do.
