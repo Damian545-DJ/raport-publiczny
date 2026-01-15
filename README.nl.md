@@ -1,117 +1,117 @@
-# [Nederlands Version]
+# [Nederlandse versie]
 
-# Intrixo B.V. – publiczny raport (anonimizowany) o naruszeniach i braku realnej reakcji systemu
+# Intrixo B.V. – openbaar rapport (geanonimiseerd) over overtredingen en het uitblijven van echte systeemreactie
 
-**TL;DR:** Mamy mocne dowody (paski płacowe + nagrania audio/wideo + korespondencję), a mimo tego od miesięcy/lat odbijamy się od ściany.  
-W praktyce wygląda to tak, jakby **agencja była lepiej chroniona niż pracownik**. Publikujemy to, żeby sprawa nie „umarła w papierach”.
+**TL;DR:** We hebben sterk bewijs (loonstroken + audio-/video-opnames + correspondentie), en toch lopen we al maanden/jaren tegen een muur aan.  
+In de praktijk lijkt het alsof **het uitzendbureau beter wordt beschermd dan de werknemer**. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
 
-**Status:** wersja publiczna (anonimizowana)  
-**Ostatnia aktualizacja:** 2026-01-10  
-**Repo:** służy do weryfikacji, nagłośnienia i zebrania wsparcia (prawnego/medialnego/społecznego)
-
----
-
-## Dlaczego to pokazujemy światu
-
-Bo widzimy, że bez nagłośnienia:
-- sprawa może przepaść w procedurach,
-- instytucje potrafią milczeć tygodniami/miesiącami,
-- pracownik zostaje sam z ciężarem dowodów, kosztów i stresu.
-
-Nasze doświadczenie jest brutalnie proste: **dowody są, a skuteczności brakuje**.
+**Status:** openbare versie (geanonimiseerd)  
+**Laatste update:** 2026-01-10  
+**Repo:** bedoeld voor verificatie, bekendmaking en het verzamelen van steun (juridisch/media/sociaal)
 
 ---
 
-## Kogo dotyczy sprawa (w skrócie)
+## Waarom we dit openbaar maken
 
-Sprawa dotyczy agencji pracy tymczasowej **Intrixo B.V.** (wcześniej Voorneputten) oraz wątków:
-- zatrudnienie (m.in. umowa/faza C i gwarancja godzin),
-- wynagrodzenia i potrącenia,
-- urlopy i dodatki (w tym vakantiegeld),
-- rzetelność dokumentacji i danych,
-- zakwaterowanie i prywatność (wejścia do zamkniętego pokoju),
-- działania/zaniedbania pełnomocników.
+Omdat we zien dat zonder aandacht:
+- de zaak kan vastlopen in procedures,
+- instanties weken/maanden kunnen zwijgen,
+- de werknemer alleen achterblijft met de bewijslast, kosten en stress.
 
-> Wersja publiczna jest anonimizowana. Pełne materiały dowodowe są przekazywane instytucjom/pełnomocnikom na żądanie.
+Onze ervaring is keihard simpel: **het bewijs is er, maar de effectiviteit ontbreekt**.
 
 ---
 
-## Co konkretnie zarzucamy (najważniejsze punkty)
+## Over wie gaat deze zaak (kort)
 
-### 1) Wynagrodzenia / rozliczenia / potrącenia
-Według naszej dokumentacji agencja:
-- nie wywiązywała się z gwarancji stabilnych warunków (faza C / minimalne godziny),
-- nie wypłacała pełnego wynagrodzenia za okresy braku pracy,
-- spóźniała się z wypłatami,
-- przekraczała dopuszczalne potrącenia (zostawiając pracownika z kwotą poniżej minimum do życia),
-- odmawiała świadczeń urlopowych (w naturze i w pieniądzu),
-- zaniżała ustawowe dodatki (w tym vakantiegeld),
-- prowadziła dokumentację w sposób budzący poważne wątpliwości (korekty, niespójności, „znikające” informacje).
+De zaak gaat over het uitzendbureau **Intrixo B.V.** (voorheen Voorneputten) en onderwerpen zoals:
+- arbeid (o.a. contract/Fase C en uren-garantie),
+- loon en inhoudingen,
+- verlof en toeslagen (incl. vakantiegeld),
+- betrouwbaarheid van administratie en gegevens,
+- huisvesting en privacy (binnenkomst in een afgesloten kamer),
+- handelen/nalatigheid van gemachtigden.
 
-### 2) Presja i próby wymuszenia podpisu
-Z nagrań audio wynika presja na podpisanie dokumentów dotyczących „długu” – z elementami zastraszania.
-
-### 3) Prywatność i bezpieczeństwo zakwaterowania
-Z nagrań wideo wynika wielokrotne wejście osób trzecich do zamkniętego, zamieszkanego pokoju (data/godzina na obrazie), bez naszej zgody i bez wcześniejszej informacji.
+> Deze openbare versie is geanonimiseerd. Volledige bewijsmaterialen worden op verzoek aan instanties/gemachtigden verstrekt.
 
 ---
 
-## Instytucje i brak realnej odpowiedzi (nasze doświadczenie)
+## Wat we concreet stellen (belangrijkste punten)
 
-Sprawą zajmowały się / były informowane m.in.:
+### 1) Loon / afrekeningen / inhoudingen
+Op basis van onze documentatie heeft het bureau:
+- zich niet gehouden aan de garantie van stabiele voorwaarden (Fase C / minimumuren),
+- niet het volledige loon betaald voor periodes zonder werk,
+- betalingen vertraagd,
+- meer ingehouden dan toegestaan (waardoor de werknemer onder het bestaansminimum uitkomt),
+- vakantierrechten geweigerd (in natura en in geld),
+- wettelijke toeslagen te laag berekend (incl. vakantiegeld),
+- administratie gevoerd die serieuze twijfels oproept (correcties, inconsistenties, “verdwijnende” informatie).
+
+### 2) Druk en pogingen om een handtekening af te dwingen
+Uit audio-opnames blijkt druk om documenten te ondertekenen over een vermeende “schuld”, met elementen van intimidatie.
+
+### 3) Privacy en veiligheid van huisvesting
+Uit video-opnames blijkt herhaaldelijk binnentreden door derden in een afgesloten, bewoonde kamer (datum/tijd zichtbaar in beeld), zonder onze toestemming en zonder voorafgaande aankondiging.
+
+---
+
+## Instanties en het gebrek aan echte reactie (onze ervaring)
+
+Instanties die zich momenteel met de zaak bezighouden:
 - **FairWork**
 - **Juridisch Loket**
 - **SNCU**
 - **Orde van Advocaten**
 
-Jednocześnie podmioty, na które agencja powołuje się certyfikacyjnie / branżowo:
+Tegelijkertijd organisaties waar het bureau zich op beroept qua certificering / branche:
 - **NBBU**
 - **SNF**
 
-— według naszej dokumentacji **do dnia 2026-01-10 nie udzieliły odpowiedzi na nasze pisma** (lub odpowiedź była niewystarczająca).
+— volgens onze documentatie hebben zij **tot en met 2026-01-10 niet gereageerd op onze brieven** (of de reactie was onvoldoende).
 
 ---
 
-## Czego oczekujemy (konkretnie)
+## Wat we concreet verwachten
 
-1) **Pisemnej reakcji** podmiotów, które mają pilnować standardów (w tym certyfikacji i kontroli).  
-2) **Niezależnej weryfikacji dowodów** (prawnik/NGO/dziennikarz).  
-3) **Rozliczenia godzin i wynagrodzeń** w sposób pełny i transparentny.  
-4) **Wyjaśnienia wątku zakwaterowania** (kto wchodził, na jakiej podstawie, gdzie są logi, kto miał dostęp do kluczy).  
-5) **Ochrony innych pracowników** – żeby wiedzieli, jak się zabezpieczać i jak zbierać dowody.
-
----
-
-## Co tu jest, a czego tu nie ma
-
-✅ Jest:
-- oś czasu,
-- spis dowodów (bez wrażliwych danych),
-- mapowanie zarzutów do podstaw prawnych (NL/UE),
-- zasady anonimizacji.
-
-⛔ Nie ma:
-- pełnych danych osobowych,
-- surowych dokumentów zawierających BSN, numery kont, podpisy itd.
+1) **Schriftelijke reacties** van partijen die standaarden moeten bewaken (incl. certificering en toezicht).  
+2) **Onafhankelijke verificatie van het bewijs** (advocaat/NGO/journalist).  
+3) **Volledige en transparante herberekening** van uren en loon.  
+4) **Uitleg over de huisvestingskwestie** (wie kwam binnen, op welke basis, waar zijn de logs, wie had sleuteltoegang).  
+5) **Bescherming van andere werknemers** – zodat zij weten hoe ze zich kunnen beschermen en bewijs kunnen verzamelen.
 
 ---
 
-## Jak czytać repozytorium
+## Wat staat hier wel en wat niet
 
-- [`TIMELINE.md`](TIMELINE.md) – oś czasu najważniejszych zdarzeń  
-- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – spis dowodów i co potwierdzają  
-- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – naruszenia + podstawy prawne (NL/UE)  
-- [`ANONYMIZATION.md`](ANONYMIZATION.md) – zasady anonimizacji  
-- [`DISCLAIMER.md`](DISCLAIMER.md) – zastrzeżenia  
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) – jak pomóc
+✅ Wel:
+- een tijdlijn,
+- een bewijzenindex (zonder gevoelige data),
+- koppeling van beschuldigingen aan rechtsgronden (NL/EU),
+- anonymiseringsregels.
+
+⛔ Niet:
+- volledige persoonsgegevens,
+- ruwe documenten met BSN, bankrekeningnummers, handtekeningen, enz.
 
 ---
 
-## Jak możesz pomóc
+## Hoe lees je deze repository
 
-- Tłumaczenie streszczeń na **EN/NL**  
-- Weryfikacja spójności: daty, opisy, logika  
-- Kontakt do **mediów / NGO / prawników**  
-- Analiza potrąceń i rozliczeń (z zachowaniem anonimizacji)
+- [`TIMELINE.md`](TIMELINE.md) – tijdlijn van belangrijke gebeurtenissen  
+- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – bewijzenindex en wat het aantoont  
+- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – overtredingen + rechtsgronden (NL/EU)  
+- [`ANONYMIZATION.md`](ANONYMIZATION.md) – anonymiseringsregels  
+- [`DISCLAIMER.md`](DISCLAIMER.md) – disclaimers  
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) – hoe je kunt helpen
 
-Jeśli chcesz pomóc – otwórz **Issue** i napisz, w czym konkretnie.
+---
+
+## Hoe je kunt helpen
+
+- Vertalingen van samenvattingen naar **EN/NL**  
+- Controle van consistentie: data, beschrijvingen, logica  
+- Contacten naar **media / NGO’s / advocaten**  
+- Analyse van inhoudingen en afrekeningen (met behoud van anonimiteit)
+
+Wil je helpen – open een **Issue** en schrijf wat je precies kunt doen.
