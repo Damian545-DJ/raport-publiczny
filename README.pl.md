@@ -58,7 +58,7 @@ Z nagrań wideo wynika wielokrotne wejście osób trzecich do zamkniętego, zami
 
 ## Instytucje i brak realnej odpowiedzi (nasze doświadczenie)
 
-Sprawą zajmowały się / były informowane m.in.:
+Sprawą zajmóją się / były informowane m.in.:
 - **FairWork**
 - **Juridisch Loket**
 - **SNCU**
