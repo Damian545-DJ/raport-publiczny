@@ -1,35 +1,38 @@
-# [Nederlands Version]
+# [Nederlandse Versie]
 
-# Oś czasu (TIMELINE) – wersja publiczna
+# Tijdlijn (Publieke Versie)
 
-> Daty i opis są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja publiczna jest anonimizowana.
+> Data en beschrijvingen zijn gebaseerd op onze documentatie en bewijsmateriaal. Deze publieke versie is geanonimiseerd.
 
-## 2023–początek 2024
-- Narastające problemy pracownicze i rozliczeniowe, spór o potrącenia i gwarancję godzin (faza C).
+## 2023 – begin 2024
+- Toenemende arbeids- en loonproblemen, geschil over inhoudingen en gegarandeerde uren (fase C).
+- De werknemer werd enkele maanden zonder werk en inkomen gelaten.
+- Het uitzendbureau rekende een "schuld" aan voor huisvesting via het bedrijf.
+- Een bijeenkomst op het kantoor van Intrixo, waarbij druk en intimidatie werden uitgeoefend om de ondertekening van voor de werknemer nadelige documenten af te dwingen (geluidsopnames).
 
-## 12.03.2024 – rozprawa sądowa
-- Odbyła się rozprawa.
-- W toku sprawy miała zostać uzyskana zaliczka 5 000 EUR.
-- Sąd dał czas stronom na dostarczenie dokładnych obliczeń.
+## 12.03.2024 – Rechtszitting
+- De zitting vond plaats.
+- Tijdens de procedure moest een voorschot van 5.000 EUR worden verkregen.
+- De rechtbank gaf beide partijen tijd om nauwkeurige berekeningen te overleggen.
 
 ## 04.2024
-- Spotkanie, na którym omawiano możliwość kolejnej sprawy dotyczącej zaległych rozliczeń. Brak jasnej informacji o zakończeniu poprzedniej sprawy.
+- Een vergadering waarin de mogelijkheid van een nieuwe zaak over achterstallige afrekeningen werd besproken. Geen duidelijke informatie over de afronding van de vorige zaak.
+- De advocaat heeft het *proces-verbaal* niet overgedragen.
 
 ## 24.05.2024
-- Informacja o rozstrzygnięciu/wyroku przekazana przez księgową; w tym czasie brak kontaktu z pełnomocnikiem.
-- Pracownica spłaciła dług naliczany przez agencję (w naszej ocenie sprzeczny z prawem).
+- Informatie over de uitspraak werd door de boekhouder verstrekt; op dat moment was er geen contact met de advocaat.
+- De werkneemster betaalde een door het uitzendbureau opgelegde schuld (in strijd met de Nederlandse wet).
 
-## 06.2024 – zatrudnienie nowego pełnomocnika (MV Juridisch)
-- Pierwsze spotkanie pod koniec czerwca.
-- Deklarowany termin prowadzenia sprawy: ok. 3 miesiące.
+## 06.2024 – Inschakeling nieuwe advocaat (MV Juridisch)
+- Eerste ontmoeting eind juni.
+- Verwachte duur van de zaak: ongeveer 3 maanden.
 
-## 09.2024 i dalej
-- Brak informacji/komunikacji.
-- Informacja, że nie da się uzyskać dokumentów od poprzedniego prawnika.
-- Później: twierdzenie o ugodzie i „nic się nie da zrobić”, bez przedstawienia dokumentów.
-- Finalnie: brak zwrotu pieniędzy i pojawiające się niejasne faktury.
+## 09.2024 – 2025 en verder
+- Gebrek aan communicatie en updates.
+- Informatie dat documenten niet konden worden verkregen van de vorige advocaat.
+- Later: bewering dat er een schikking was bereikt en dat er "niets meer gedaan kon worden", zonder enig document te tonen.
+- Uiteindelijk: geen terugbetaling van betaalde bedragen en onduidelijke facturen voor "geen verrichte werkzaamheden" plus extra betalingen (vermoedelijke oplichting).
 
 ## 2025
-- Skarga na poprzedniego pełnomocnika do Orde van Advocaten, następnie sprawa w Radzie Dyscyplinarnej i odwołanie.
-- Samodzielne uzyskanie z sądu dokumentu (proces-verbaal) i ponowne pisma do podmiotów – bez odpowiedzi.
-
+- Klacht tegen de vorige advocaat bij de *Orde van Advocaten*, gevolgd door een zaak bij de Raad van Discipline en een beroep.
+- De auteurs hebben zelf het gerechtelijke document (*proces-verbaal*) verkregen en opnieuw brieven gestuurd naar de betrokken instanties met het verzoek om dossierdocumenten (van de eerste advocaat) en de uitvoering van de schikking (door Intrixo) – zonder antwoord.
