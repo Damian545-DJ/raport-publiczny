@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://damian545-dj.github.io/raport-publiczny/</loc>
-  </url>
+
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/</loc></url>
+
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.en.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.nl.md</loc></url>
+
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.pl.md</loc></url>
+
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.en.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.en.md</loc></url>
+
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.nl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.nl.md</loc></url>
+
 </urlset>
