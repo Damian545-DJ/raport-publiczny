@@ -26,6 +26,9 @@
 - Pierwsze spotkanie pod koniec czerwca.
 - Deklarowany termin prowadzenia sprawy: ok. 3 miesiące.
 
+## 07.2024 - Helpdesk/planistka
+- Agencja Intrixo (z certyfikatem NBBU) potwierdziła, że przy umowie faza C (gwarancja 32h) w przypadku braku pracy z ich strony naliczają pracownikowi zadłużenie. (Dowód: korespondencja)
+
 ## 09.2024 - 2025 i dalej
 - Brak informacji/komunikacji.
 - Informacja, że nie da się uzyskać dokumentów od poprzedniego prawnika.
