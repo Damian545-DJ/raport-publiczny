@@ -27,6 +27,9 @@
 - First meeting at the end of June.
 - Declared duration of the case: about 3 months.
 
+ ## 07.2024 - Helpdesk/planner 
+- Intrixo agency (NBBU-certified) confirmed that under a Phase C contract (32-hour guarantee), when there is no work due to their side, they create debt for the employee. (Evidence: correspondence)
+
 ## 09.2024 – 2025 and beyond
 - Lack of communication and updates.
 - Information that documents could not be obtained from the previous lawyer.
