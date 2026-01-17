@@ -26,7 +26,10 @@
 ## 06.2024 – Inschakeling nieuwe advocaat (MV Juridisch)
 - Eerste ontmoeting eind juni.
 - Verwachte duur van de zaak: ongeveer 3 maanden.
-
+  
+## 07.2024 - Helpdesk/planner
+- Uitzendbureau Intrixo (met NBBU-certificering) bevestigde dat bij een fase-C contract (32 uur garantie) zij bij gebrek aan werk aan hun kant een schuld bij de werknemer laten ontstaan. (Bewijs: correspondentie)
+ 
 ## 09.2024 – 2025 en verder
 - Gebrek aan communicatie en updates.
 - Informatie dat documenten niet konden worden verkregen van de vorige advocaat.
