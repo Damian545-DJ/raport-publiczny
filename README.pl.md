@@ -3,7 +3,7 @@
 # Intrixo B.V. – publiczny raport (anonimizowany) o naruszeniach i braku realnej reakcji systemu
 
 **TL;DR:** Mamy mocne dowody (paski płacowe + nagrania audio/wideo + korespondencję), a mimo tego od miesięcy/lat odbijamy się od ściany.  
-W praktyce wygląda to tak, jakby **agencja była lepiej chroniona niż pracownik**. Publikujemy to, żeby sprawa nie „umarła w papierach”.
+W praktyce wydaje się, że ochrona instytucjonalna dostępna dla agencji jest skuteczniejsza niż mechanizmy ochrony przysługujące pracownikom. Publikujemy to, żeby sprawa nie „umarła w papierach”.
 
 **Status:** wersja publiczna (anonimizowana)  
 **Ostatnia aktualizacja:** 2026-01-10  
