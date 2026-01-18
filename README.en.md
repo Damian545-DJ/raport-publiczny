@@ -3,7 +3,7 @@
 # Intrixo B.V. – public report (anonymized) on violations and the lack of real system response
 
 **TL;DR:** We have strong evidence (payslips + audio/video recordings + correspondence), and despite that we’ve been hitting a wall for months/years.  
-In practice it looks like **the agency is better protected than the worker**. We publish this so the case does not “die in paperwork”.
+In practice, the institutional protection available to agencies appears to be more effective than the protection mechanisms afforded to employees. We publish this so the case does not “die in paperwork”.
 
 **Status:** public version (anonymized)  
 **Last update:** 2026-01-10  
