@@ -3,7 +3,7 @@
 # Intrixo B.V. – openbaar rapport (geanonimiseerd) over overtredingen en het uitblijven van echte systeemreactie
 
 **TL;DR:** We hebben sterk bewijs (loonstroken + audio-/video-opnames + correspondentie), en toch lopen we al maanden/jaren tegen een muur aan.  
-In de praktijk lijkt het alsof **het uitzendbureau beter wordt beschermd dan de werknemer**. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
+In de praktijk lijkt de institutionele bescherming die beschikbaar is voor uitzendbureaus effectiever te zijn dan de beschermingsmechanismen die werknemers ter beschikking staan. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
 
 **Status:** openbare versie (geanonimiseerd)  
 **Laatste update:** 2026-01-10  
