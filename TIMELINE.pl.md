@@ -39,7 +39,8 @@
 - Skarga na poprzedniego pełnomocnika do Orde van Advocaten, następnie sprawa w Radzie Dyscyplinarnej i odwołanie.
 - Samodzielne uzyskanie z sądu dokumentu (proces-verbaal) i ponowne pisma do podmiotów o przesłanie dokumentów  sprawy (Pierwszy pełnomocnik) i wywiązania się  z treści zapisanej z ugody (Intrixo) - bez odpowiedzi.
 
-# Dowody – początek sprawy (skrót + timeline)
+# Pracownica 1 #
+ Dowody – początek sprawy (skrót + timeline) -  sprawa przeciwko agencji pracy (anonimowo)
 
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
 Od 21.11.2022 r. (umowa na czas nieokreślony, faza C, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).  
@@ -194,8 +195,8 @@ Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie d
 
 ---
 
-# Pracownik 2 – sprawa przeciwko agencji pracy (anonimowo)  
-## Dowody + oś czasu (ZIP) – wersja do GitHuba (PL)
+# Pracownik 2 #
+ Dowody -  Dowody – początek sprawy (skrót + timeline) 
 
 > Wersja publiczna: bez imion i nazwisk.  
 > W tekście używam oznaczeń: **Pracownik 2**, **Agencja [A]**, **Klient/zakład [B]**.  
