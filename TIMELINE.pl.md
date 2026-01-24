@@ -239,12 +239,16 @@ Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie d
   (pliki: `Screenshot_20240805-144355.png`, `Screenshot_20240805-144335.png`)
 
 ### Lipiec–sierpień 2025 – urlop, presja i wypowiedzenie
-- **09.07.2025** – złożenie wypowiedzenia (okres 1 miesiąc; koniec ok. 10.08.2025).  
+- **09.07.2025** – złożenie wypowiedzenia (okres 1 miesiąc; koniec ok. 10.08.2025) z możliwością wykorzystania godzin urlopowych.  
   (plik: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **24–29.07.2025** – urlop: pytanie o wykorzystanie urlopu do końca umowy; potwierdzenie **61,11 h**; następnie odmowa i żądanie stawienia się w pracy.  
-  (pliki: `Screenshot_20250729-114459.P4F.png`, `Screenshot_20250729-114514.P4F.png`, `Screenshot_20250729-114524.P4F.png`)
-- **29.07.2025** – wiadomość „Hoofdplanner”: nacisk, że wszyscy mają być w pracy; osoby nieobecne będą wzywane do biura.  
-  (plik: `Screenshot_20250729-201113.P4F.png`)
+- **24.07.2025** – Urlop: pytanie o możliwość wykorzystania posiadanych godzin urlopowych jak najszybciej, do ostatniego dnia umowy (prośba o odpowiedź).
+- **25.07.2025** – Planistka (Planner): informacja, że mogę wykorzystać godziny urlopowe **od przyszłego tygodnia**; posiadam **61,11 godzin urlopowych** i ma to zostać **podzielone na pół** na poczet **dwóch tygodni**.
+- **27.07.2025** – Urlop: wskazuję, że według moich wyliczeń wyszła większa liczba godzin (błąd systemu), ale **potwierdzam**, że wykorzystam urlop **od wtorku 29.07.2025 do końca**.
+- **28.07.2025** – Pracownik agencji: odmowa takiego rozwiązania; informacja, że mój **ostatni dzień pracy to 10.08.2025** zgodnie z wypowiedzeniem.
+- **28.07.2025** – Pracownik agencji: polecenie, aby **następnego dnia stawić się w pracy**, w przeciwnym razie ma to zostać potraktowane jako **niewywiązanie się z kontraktu/wypowiedzenia**.
+- **28.07.2025 (16:52)** – Urlop: wysyłam formalne wezwanie po ponownej odmowie umożliwienia mi wykorzystania urlopu; powołuję się na wcześniejszą pisemną zgodę planistki z 25.07.2025. Żądam umożliwienia wykorzystania **61,11 godzin** urlopu od **29.07.2025** do końca trwania umowy oraz potwierdzenia tej decyzji na piśmie. Wskazuję naruszenie art. **7:638 BW (Burgerlijk Wetboek)** i zapowiadam skargę do holenderskiej inspekcji pracy (Arbeidsinspectie) oraz dochodzenie praw na drodze prawnej.
+- **29.07.2025** - Rozpoczęcie urlopu do 10.08.2025
+- **29.07.2025 (10:22)** – Pracownik agencji: odpowiedź odmowna – „nie w momencie, kiedy złożył Pan już rezygnację” oraz stwierdzenie, że „nigdzie nie dostał Pan zgody” (zaprzeczenie wcześniejszej zgody planistki).
 - **03.08.2025** – mailowe doprecyzowanie wypowiedzenia i warunków rozliczenia (urlop, dokumenty końcowe, potwierdzenie).  
   (plik: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
 - **14.08.2025** – formalne **wezwanie do zapłaty** (m.in. 32h gwarancji, potrącenia, urlop, vakantiegeld, terminy, dokumenty).  
