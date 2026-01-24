@@ -191,32 +191,56 @@ In de praktijk: **structureel schuld creëren + terughalen via inhoudingen** (de
   (bestanden: `Screenshot_20240805-144355.png`, `Screenshot_20240805-144335.png`)
 
 ### Juli–augustus 2025 – vakantie, druk en opzegging
-- **09-07-2025** – opzegging ingediend (± 1 maand; einde rond 10-08-2025).  
-  (bestand: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **24–29-07-2025** – vakantie: verzoek vakantie tot einde contract; schriftelijke bevestiging **61,11 uur**; daarna weigering en eis om te komen werken.  
-  (bestanden: `Screenshot_20250729-114459.P4F.png`, `Screenshot_20250729-114514.P4F.png`, `Screenshot_20250729-114524.P4F.png`)
-- **29-07-2025** – bericht “Hoofdplanner”: iedereen moet komen; afwezigen worden naar kantoor geroepen.  
-  (bestand: `Screenshot_20250729-201113.P4F.png`)
-- **03-08-2025** – e-mail: verduidelijking opzegging + eisen voor afrekening (vakantie-uitbetaling, einddocumenten, bevestiging).  
-  (bestand: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **14-08-2025** – formele **sommatie/aanmaning** (32u-garantie, inhoudingen, vakantie, vakantiegeld, termijnen, documenten).  
-  (bestand: `Wezwanie do zapłaty - Poczta w Onet.pl.pdf`)
+## NL — Timeline (vakantie / opzegging / eindafrekening / SNCU)
 
-### Sep–dec 2025 – FairWork → Juridisch Loket → SNCU
-- **01-09-2025** – melding bij FairWork (beschrijving en hulpverzoek).  
-  (bestand: `Rozpoczęcie sprawy fairwork.pdf`)
-- **13-10-2025** – Juridisch Loket neemt over; vraagt om gegevens/bewijs.  
-  (bestand: `Rozpoczecie sprawy przes juridisch  loket.pdf`)
-- **03-12-2025** – SNCU dossiernummer: **37856**.  
-  (bestand: `Rozpoczecie sncu i nadanie numeru sprawy.pdf`)
-- **15-12-2025** – schriftelijke toestemming voor SNCU om namens Werknemer 2 contact op te nemen met Uitzendbureau [A].  
-  (bestand: `zgoda działania w moim imieniu.pdf`)
+- **09-07-2025 (20:55)** – Opzegging arbeidsovereenkomst met een opzegtermijn van één maand. Ik geef aan dat de laatste dag van het dienstverband **10-08-2025** is en dat ik diezelfde dag de **uitzend-/agency-huisvesting** verlaat. Verzoek om afrekening van openstaande bedragen en om (indien mogelijk) het opnemen van vakantieverlof in de opzegtermijn of **uitbetaling van niet-opgenomen vakantie-uren**. Ook verzoek ik om na beëindiging toe te sturen: bevestiging einde contract, eindafrekening, loonstroken/loonspecificaties en **jaaropgave** (zodra beschikbaar).  
+  *(bestand: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)*
 
-### Januari 2026 – bewijs inzending + afsluiting
-- **04-01-2026** – kernbewijzen naar SNCU + toelichting: “min/schuld”, vakantie 61,11 uur en druk, ontbrekende eindafrekening, vermoeden van manipulatie via correcties.  
-  (bestand: `Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf` + screenshots o.a. `Screenshot_20240719-123743.png`, `Screenshot_20250729-114524.P4F.png`)
-- **20-01-2026** – Juridisch Loket geeft uitslag door: SNCU sluit na reactie wederpartij; correspondentie bijgevoegd.  
-  (bestand: `Wynik od Sncu do Juridish loket.pdf)
+- **24-07-2025** – Vakantie/verlof: vraag of ik mijn opgebouwde verlofuren zo snel mogelijk kan opnemen tot en met de laatste dag van het contract (verzoek om antwoord).
+
+- **25-07-2025** – Planner: info dat ik verlof kan opnemen **vanaf volgende week**; ik heb **61,11 uur** verlof en dit zou **in tweeën** worden verdeeld voor **twee weken**.
+
+- **27-07-2025** – Vakantie/verlof: ik geef aan dat volgens mijn berekeningen het aantal uren hoger is (systeemfout), maar ik **bevestig** dat ik verlof zal opnemen **vanaf dinsdag 29-07-2025 tot het einde**.
+
+- **28-07-2025** – Medewerker uitzendbureau: weigering van dit plan; melding dat mijn **laatste dag (contract) 10-08-2025** is volgens de opzegging.
+
+- **28-07-2025** – Medewerker uitzendbureau: opdracht om **de volgende dag op het werk te verschijnen**, anders zou dit worden gezien als **niet-nakomen van het contract/opzegtermijn**.
+
+- **28-07-2025 (16:52)** – Vakantie/verlof: na opnieuw weigeren stuur ik een formele sommatie; ik verwijs naar de eerdere schriftelijke toestemming van de planner van **25-07-2025**. Ik eis dat ik **61,11 uur** verlof kan opnemen vanaf **29-07-2025** tot het einde van de arbeidsovereenkomst en dat dit schriftelijk wordt bevestigd. Ik wijs op schending van **art. 7:638 BW** en kondig een klacht aan bij de **Nederlandse Arbeidsinspectie** en het afdwingen van mijn rechten via juridische weg.
+
+- **29-07-2025** – Start verlof tot en met **10-08-2025**.
+
+- **29-07-2025 (10:22)** – Medewerker uitzendbureau: afwijzing – “niet op het moment dat u al ontslag heeft genomen” en de stelling dat ik “nergens toestemming heb gekregen” (ontkenning van de eerdere toestemming van de planner).
+
+- **03-08-2025 (14:47)** – Correctie/aanvulling: ik informeer Intrixo dat in de planning-app niet alles correct is opgeslagen en ik verzoek om spoedige aanvulling/correctie.
+
+- **10-08-2025** – Terugkeer naar Polen (einde verblijf in NL na einde werk/contract).
+
+- **14-08-2025** – **Betalingssommaties / ingebrekestelling** aan Intrixo wegens **ontbrekende eindafrekening**. In het systeem verschijnt opnieuw een **loonspecificatie (week 8, 2025)** ná **loonspecificatie (week 32, 2025)** – ditmaal met een **negatief saldo/schuld** dat aan mij wordt toegerekend (min-bedrag).
+
+### September–december 2025 – FairWork → Juridisch Loket → SNCU
+
+- **01-09-2025** – Melding bij FairWork (omschrijving van overtredingen en verzoek om hulp).  
+  *(bestand: `Rozpoczęcie sprawy fairwork.pdf`)*
+
+- **13-10-2025** – Juridisch Loket neemt de zaak over; vraagt om gegevens/documenten; beschrijft de hoofdpunten.  
+  *(bestand: `Rozpoczecie sprawy przes juridisch  loket.pdf`)*
+
+- **03-12-2025** – Dossiernummer SNCU: **37856**.  
+  *(bestand: `Rozpoczecie sncu i nadanie numeru sprawy.pdf`)*
+
+- **15-12-2025** – Toestemming voor SNCU om te handelen namens **Werknemer 2** (contact met **Uitzendbureau [A]**).  
+  *(bestand: `zgoda działania w moim imieniu.pdf`)*
+
+### Januari 2026 – bewijs aangeleverd + afsluiting
+
+- **04-01-2026** – Aan SNCU: aanlevering kernbewijzen + toelichting: “min/schuld”, vakantie **61,11 uur** en druk/pressie, geen afrekening na opzegging, vermoeden van manipulatie via correcties.  
+  *(bestanden: `Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf` + screenshots o.a. `Screenshot_20240719-123743.png`, `Screenshot_20250729-114524.P4F.png`)*
+
+- **20-01-2026** – SNCU / Juridisch Loket (signaal **37856 / V-657**): Juridisch Loket meldt dat SNCU een **vooronderzoek** startte, toestemming kreeg om de werkgever te benaderen, en na contact met de werkgever concludeerde dat SNCU **geen verdere stappen kan ondernemen**; het vooronderzoek is de vorige week afgesloten. In bijlage: SNCU–werkgever correspondentie + vertalingen. Inspecteur: melder heeft **fase C (32u)** en stelt dat hij onder druk werd gezet om verlof te nemen i.p.v. loon; moeilijkheid feitenvaststelling (mogelijk verlof op initiatief werknemer in week 31–32); verzoek aan werkgever om te verifiëren en ontbrekende uren eventueel te betalen. Werkgever: werknemer werkte week 29 >41u, week 30 = 2,5u, week 31 = 1 dag; **28-07-2025** zou laatste werkdag zijn (werknemer zou nieuwe baan hebben gemeld en niet teruggekeerd); volgens 4-wekengemiddelde correct betaald, dus “geen verdere actie”.
+
+- **20-01-2026** – Bezwaar/sprzeciw verzonden tegen **sluiting van de zaak**, met info op welke “bewijzen” men zich baseerde – **geen antwoord**.
+
 
 
 
