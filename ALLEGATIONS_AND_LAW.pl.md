@@ -38,3 +38,12 @@
 
 > Uwaga: w wersji publicznej opisujemy fakty i dowody. Ocena prawna i kwalifikacja powinna być potwierdzona przez niezależnego prawnika.
 
+C) SNCU (Stichting Naleving CAO voor Uitzendkrachten) – obowiązki instytucji kontrolnej i zarzuty dot. postępowania
+
+> **STATUS (24.01.2026):** Ta sekcja jest **wstępna** i może zostać zaktualizowana po otrzymaniu odpowiedzi SNCU (spodziewanej w najbliższych dniach/tygodniu). Do tego czasu opisujemy wyłącznie to, co wynika z posiadanych dokumentów i korespondencji.
+
+1. Rola i mandat SNCU (co to jest i co powinni robić)
+- SNCU to fundacja powołana przez strony układów zbiorowych (CAO) w sektorze pracy tymczasowej, której celem jest kontrola i egzekwowanie przestrzegania postanowień CAO dla pracowników tymczasowych (m.in. ABU CAO / NBBU CAO).
+- Zgodnie z opisywaną przez SNCU procedurą, po zgłoszeniu jednym z kluczowych kroków jest **pozyskanie danych z administracji płacowej (loonadministratie) od agencji** i weryfikacja zgodności z CAO na podstawie danych.
+- Materiał wejściowy do postępowania powinien być „konkretny, weryfikowalny i możliwy do prześledzenia” (standard, od którego zależy sens kontroli).
+
