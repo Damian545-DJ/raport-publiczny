@@ -190,32 +190,56 @@ In practice: **systematic creation of debt + recovery through deductions** (the 
   (files: `Screenshot_20240805-144355.png`, `Screenshot_20240805-144335.png`)
 
 ### July–August 2025 – vacation, pressure, resignation
-- **09-07-2025** – resignation submitted (≈ 1 month; end around 10-08-2025).  
-  (file: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **24–29-07-2025** – vacation: request to use leave until contract end; written confirmation **61.11 hours**; later refusal and demand to attend work.  
-  (files: `Screenshot_20250729-114459.P4F.png`, `Screenshot_20250729-114514.P4F.png`, `Screenshot_20250729-114524.P4F.png`)
-- **29-07-2025** – message “Hoofdplanner”: everyone must come; absentees will be called to the office.  
-  (file: `Screenshot_20250729-201113.P4F.png`)
-- **03-08-2025** – email: resignation clarification + settlement demands (leave payout, final documents, confirmation).  
-  (file: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **14-08-2025** – formal **demand for payment** (32h guarantee, deductions, leave, holiday allowance, deadlines, documentation).  
-  (file: `Wezwanie do zapłaty - Poczta w Onet.pl.pdf`)
+## EN — Timeline (holiday / resignation / final settlement / SNCU)
 
-### Sep–Dec 2025 – FairWork → Juridisch Loket → SNCU
-- **01-09-2025** – report to FairWork (description + request for help).  
-  (file: `Rozpoczęcie sprawy fairwork.pdf`)
-- **13-10-2025** – Juridisch Loket takes over; requests data and evidence.  
-  (file: `Rozpoczecie sprawy przes juridisch  loket.pdf`)
-- **03-12-2025** – SNCU reference: **case 37856**.  
-  (file: `Rozpoczecie sncu i nadanie numeru sprawy.pdf`)
-- **15-12-2025** – written consent for SNCU to act on behalf of Employee 2 and contact Agency [A].  
-  (file: `zgoda działania w moim imieniu.pdf`)
+- **2025-07-09 (20:55)** – Resignation/termination notice with a one-month notice period. I state that the last day of employment is **2025-08-10** and that I will leave the **agency housing** on the same day. Request for settlement of all outstanding amounts and either the possibility to use holiday leave during the notice period or **payment in lieu for unused holiday hours**. I also request that after the end of employment they provide: confirmation of contract termination, final settlement, payslips (loonstroken/loonspecificaties), and the **jaaropgave** (when available).  
+  *(file: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)*
 
-### January 2026 – evidence submission + closure
-- **04-01-2026** – key evidence sent to SNCU + summary: “minus/debt”, vacation 61.11h and pressure, missing final settlement, suspected manipulation via corrections.  
-  (file: `Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf` + screenshots e.g. `Screenshot_20240719-123743.png`, `Screenshot_20250729-114524.P4F.png`)
-- **20-01-2026** – Juridisch Loket forwards outcome: SNCU closes after the opposing party’s reply; correspondence attached.  
-  (file: `Wynik od Sncu do Juridish loket.pdf`)
+- **2025-07-24** – Holiday leave: question whether I can use my accrued holiday hours as soon as possible, up to the last day of the contract (request for reply).
+
+- **2025-07-25** – Planner: information that I can use holiday hours **from next week**; I have **61.11 hours** of holiday and it should be **split in half** to cover **two weeks**.
+
+- **2025-07-27** – Holiday leave: I indicate that my calculations show a higher number of hours (system error), but I **confirm** I will take holiday leave **from Tuesday 2025-07-29 until the end**.
+
+- **2025-07-28** – Agency employee: refusal of this arrangement; information that my **last day (contract end) is 2025-08-10** according to my resignation notice.
+
+- **2025-07-28** – Agency employee: instruction to **report to work the next day**, otherwise it would be treated as **failure to comply with the contract/notice period**.
+
+- **2025-07-28 (16:52)** – Holiday leave: after renewed refusal, I send a formal demand; I refer to the earlier written approval from the planner on **2025-07-25**. I demand the possibility to use **61.11 hours** of leave from **2025-07-29** until the end of the contract and written confirmation of this decision. I indicate a breach of **Article 7:638 BW (Dutch Civil Code)** and announce a complaint to the **Dutch Labour Inspectorate (Nederlandse Arbeidsinspectie)** and legal enforcement of my rights.
+
+- **2025-07-29** – Start of holiday leave until **2025-08-10**.
+
+- **2025-07-29 (10:22)** – Agency employee: refusal – “not at the moment when you have already resigned” and the claim that I “did not receive approval anywhere” (denial of the planner’s earlier approval).
+
+- **2025-08-03 (14:47)** – Correction/supplement: I inform Intrixo that in the planning app not all entries were saved correctly; I request urgent completion/correction.
+
+- **2025-08-10** – Return to Poland (end of stay in NL after the end of work/contract).
+
+- **2025-08-14** – **Payment demands / formal notice to pay** sent to Intrixo regarding the **missing final settlement**. In the system, a **loonspecificatie (week 8, 2025)** appears again after **loonspecificatie (week 32, 2025)** – this time with a **negative balance/debt** charged to me (minus amount).
+
+### September–December 2025 – FairWork → Juridisch Loket → SNCU
+
+- **2025-09-01** – Report submitted to FairWork (description of violations and request for help).  
+  *(file: `Rozpoczęcie sprawy fairwork.pdf`)*
+
+- **2025-10-13** – Juridisch Loket takes over the case; requests data and documents; describes the main issues.  
+  *(file: `Rozpoczecie sprawy przes juridisch  loket.pdf`)*
+
+- **2025-12-03** – SNCU case number: **37856**.  
+  *(file: `Rozpoczecie sncu i nadanie numeru sprawy.pdf`)*
+
+- **2025-12-15** – Consent for SNCU to act on behalf of **Employee 2** (contact with **Agency [A]**).  
+  *(file: `zgoda działania w moim imieniu.pdf`)*
+
+### January 2026 – evidence submitted + case closure
+
+- **2026-01-04** – Submitted to SNCU: key evidence + description: “minus/debt”, **61.11 hours** holiday leave and pressure, no settlement after resignation, suspicion of manipulation through corrections.  
+  *(files: `Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf` + screenshots incl. `Screenshot_20240719-123743.png`, `Screenshot_20250729-114524.P4F.png`)*
+
+- **2026-01-20** – SNCU / Juridisch Loket (signal **37856 / V-657**): Juridisch Loket reports that SNCU started a **preliminary procedure**, obtained consent to contact the employer, and after contacting the employer concluded it **cannot take further action**; the preliminary procedure was closed the previous week. Attachments include SNCU–employer correspondence and translations. Inspector: reporter has a **Phase C contract (32h)** and claims pressure to take leave instead of wages; difficulty establishing facts (possible leave initiated by the employee in weeks 31–32); request to the employer to verify and, if needed, pay missing hours. Employer: employee worked week 29 >41h, week 30 = 2.5h, week 31 = 1 day; **2025-07-28** was allegedly the last working day (employee allegedly reported a new job and did not return); according to the 4-week average he was paid correctly, so “no further action”.
+
+- **2026-01-20** – Objection sent against **closing the case**, indicating what “evidence” they relied on – **no response**.
+
 
 
 
