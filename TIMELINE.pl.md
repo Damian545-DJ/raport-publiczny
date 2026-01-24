@@ -239,7 +239,7 @@ Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie d
   (pliki: `Screenshot_20240805-144355.png`, `Screenshot_20240805-144335.png`)
 
 ### Lipiec–sierpień 2025 – urlop, presja i wypowiedzenie
-- **09.07.2025** – złożenie wypowiedzenia (okres 1 miesiąc; koniec ok. 10.08.2025) z możliwością wykorzystania godzin urlopowych.  
+**09.07.2025 (20:55)** - wypowiedzenie umowy o pracę z miesięcznym okresem wypowiedzenia; wskazuję, że ostatni dzień zatrudnienia to **10.08.2025** oraz że tego samego dnia opuszczenie zakwaterowanie agencyjne. Prośba o rozliczenie należności oraz  możliwe wykorzystanie urlopu w okresie wypowiedzenia lub o **ekwiwalent za niewykorzystany urlop** i też o przesłanie po zakończeniu zatrudnienia: potwierdzenia zakończenia umowy, końcowego rozliczenia, pasków płacowych (loonstroken) oraz jaaropgave (gdy będzie dostępne). :contentReference[oaicite:1]{index=1}  
   (plik: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
 - **24.07.2025** – Urlop: pytanie o możliwość wykorzystania posiadanych godzin urlopowych jak najszybciej, do ostatniego dnia umowy (prośba o odpowiedź).
 - **25.07.2025** – Planistka (Planner): informacja, że mogę wykorzystać godziny urlopowe **od przyszłego tygodnia**; posiadam **61,11 godzin urlopowych** i ma to zostać **podzielone na pół** na poczet **dwóch tygodni**.
@@ -249,12 +249,11 @@ Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie d
 - **28.07.2025 (16:52)** – Urlop: wysyłam formalne wezwanie po ponownej odmowie umożliwienia mi wykorzystania urlopu; powołuję się na wcześniejszą pisemną zgodę planistki z 25.07.2025. Żądam umożliwienia wykorzystania **61,11 godzin** urlopu od **29.07.2025** do końca trwania umowy oraz potwierdzenia tej decyzji na piśmie. Wskazuję naruszenie art. **7:638 BW (Burgerlijk Wetboek)** i zapowiadam skargę do holenderskiej inspekcji pracy (Arbeidsinspectie) oraz dochodzenie praw na drodze prawnej.
 - **29.07.2025** - Rozpoczęcie urlopu do 10.08.2025
 - **29.07.2025 (10:22)** – Pracownik agencji: odpowiedź odmowna – „nie w momencie, kiedy złożył Pan już rezygnację” oraz stwierdzenie, że „nigdzie nie dostał Pan zgody” (zaprzeczenie wcześniejszej zgody planistki).
-- **03.08.2025** – mailowe doprecyzowanie wypowiedzenia i warunków rozliczenia (urlop, dokumenty końcowe, potwierdzenie).  
-  (plik: `Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf`)
-- **14.08.2025** – formalne **wezwanie do zapłaty** (m.in. 32h gwarancji, potrącenia, urlop, vakantiegeld, terminy, dokumenty).  
-  (plik: `Wezwanie do zapłaty - Poczta w Onet.pl.pdf`)
+- **03.08.2025 (14:47)** – Korekta/uzupełnienie wypowiedzenia: informacja do Intrixo, że w aplikacji do planowania nie wszystkie zostały prawidłowo zapisane. Wnosząc je o pilne uzupełnienie.
+- **10.08.2025** – Powrót do Polski (zakończenie pobytu w NL po zakończeniu pracy/umowy).   
+- **14.08.2025** – **wezwania do zapłaty** do Agencji Intrixo w sprawie **braku końcowego rozliczenia**, które miało wynikać z zapisów w dokumencie rozwiązania umowy , w systemie pojawia się ponownie **loonspecificatie (week 8, 2025)** – po **loonspecificatie (week 32, 2025)** – tym razem z kwotą **zadłużenia naliczoną na mnie** (wartość ujemna / minus).
 
-### Wrzesień–grudzień 2025 – FairWork → Juridisch Loket → SNCU
+  ### Wrzesień–grudzień 2025 – FairWork → Juridisch Loket → SNCU
 - **01.09.2025** – zgłoszenie do FairWork (opis naruszeń i prośba o pomoc).  
   (plik: `Rozpoczęcie sprawy fairwork.pdf`)
 - **13.10.2025** – Juridisch Loket przejmuje sprawę; prosi o dane i dokumenty; opisuje wątki sprawy.  
@@ -267,8 +266,9 @@ Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie d
 ### Styczeń 2026 – dosłanie dowodów i zamknięcie sprawy
 - **04.01.2026** – dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h i presja, brak rozliczenia po wypowiedzeniu, podejrzenie manipulacji korektami.  
   (plik: `Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf` + screeny m.in. `Screenshot_20240719-123743.png`, `Screenshot_20250729-114524.P4F.png`)
-- **20.01.2026** – Juridisch Loket przekazuje wynik: SNCU kończy procedurę po odpowiedzi strony przeciwnej; korespondencja w załączniku.  
-  (plik: `Wynik od Sncu do Juridish loket.pdf`)
+- **20.01.2026** – SNCU / Juridisch Loket (signaal **37856 / V-657**): Juridisch Loket informuje, że SNCU rozpoczęło postępowanie wstępne, otrzymało zgodę na kontakt z pracodawcą i po kontakcie z pracodawcą stwierdziło, że **nie może podjąć dalszych działań**; postępowanie wstępne zakończono w poprzednim tygodniu. W załączniku przekazana jest korespondencja SNCU–pracodawca oraz tłumaczenia: inspektor SNCU wskazuje, że zgłaszający ma umowę faza C (32h) i twierdzi, iż był zmuszany do urlopu zamiast otrzymywać wynagrodzenie; inspektor zaznacza trudność ustalenia faktów (możliwy urlop z inicjatywy pracownika w tyg. 31–32) i prosi pracodawcę o weryfikację oraz ewentualną wypłatę brakujących godzin. Pracodawca odpowiada, że pracownik pracował: tydz. 29 >41h, tydz. 30 = 2,5h, tydz. 31 = 1 dzień; że 28.07.2025 był ostatnim dniem pracy (pracownik miał poinformować o nowej pracy i nie wrócić) oraz że wg średniej 4-tygodniowej został poprawnie opłacony, więc „nie podejmą dalszych działań”. 
+**20.01.2026** – Wysłanie Sprzeciw zamkniecia z prawy  informacją do SNCU na jakich dowodach sie opierali - Brak odpowiedzi.  
+
 
 
 
