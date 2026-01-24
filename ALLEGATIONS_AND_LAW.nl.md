@@ -38,4 +38,13 @@
 
 > Let op: in de openbare versie beschrijven we feiten en bewijzen. Juridische beoordeling/kwalificatie moet door een onafhankelijke jurist worden bevestigd.
 
+C) SNCU (Stichting Naleving CAO voor Uitzendkrachten) – verplichtingen van de controle-instantie en bezwaren m.b.t. de procedure
+
+> **STATUS (24.01.2026):** Deze sectie is **voorlopig** en kan worden bijgewerkt zodra wij een reactie van SNCU ontvangen (verwacht in de komende dagen/week). Tot die tijd beschrijven wij uitsluitend wat volgt uit de documenten en correspondentie die wij nu in bezit hebben.
+
+1. Rol en mandaat van SNCU (wat het is en wat het behoort te doen)
+- SNCU is een stichting die is ingesteld door de partijen bij de collectieve arbeidsovereenkomsten (CAO) in de uitzendsector, met als doel het controleren en handhaven van naleving van de CAO voor uitzendkrachten (o.a. ABU CAO / NBBU CAO).
+- Volgens de door SNCU beschreven werkwijze is na een melding een van de kernstappen het **opvragen van gegevens uit de loonadministratie (loonadministratie) bij het uitzendbureau** en het toetsen van CAO-naleving op basis van die brongegevens.
+- De input voor het onderzoek hoort **concreet, verifieerbaar en herleidbaar** te zijn (een minimale standaard; zonder dit verliest controle haar betekenis).
+
 
