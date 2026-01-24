@@ -38,4 +38,14 @@
 
 > Note: in the public version we describe facts and evidence. Legal assessment/classification should be confirmed by an independent lawyer.
 
+C) SNCU (Stichting Naleving CAO voor Uitzendkrachten) – duties of the oversight body and allegations regarding the procedure
+
+> **STATUS (24.01.2026):** This section is **preliminary** and may be updated once we receive SNCU’s response (expected in the coming days/week). Until then, we describe only what follows from the documents and correspondence currently in our possession.
+
+1. Role and mandate of SNCU (what it is and what it should do)
+- SNCU is a foundation established by the parties to collective labour agreements (CAO) in the temporary agency work sector, aimed at monitoring and enforcing compliance with the CAO for agency workers (incl. ABU CAO / NBBU CAO).
+- According to SNCU’s described procedure, after a report is submitted, one of the key steps is **obtaining payroll administration data (loonadministratie) from the agency** and verifying CAO compliance based on those source records.
+- The input for the procedure should be **concrete, verifiable and traceable** (a baseline standard without which oversight has no practical meaning).
+
+
 
