@@ -1,169 +1,183 @@
-# [Nederlandse versie]
+[Nederlandse versie]
+# OPENBAAR BEWIJSRAPPORT (VOLLEDIG GEANONIMISEERDE VERSIE)
+
+**Zaak:** Uitzendbureau in Nederland (Intrixo B.V., voorheen actief onder de naam Voorneputten)  
+**Reikwijdte:** vermeende arbeidsrechtelijke misstanden + vermeende privacyschendingen in uitzendhuisvesting + problemen met juridische dienstverlening  
+**Auteurs:** Werknemer A + Werkneemster B (persoonsgegevens volledig verwijderd)  
+**Bron:** bewerkte en geordende versie van het document “Complete Rapport 2026” voor publicatie (GitHub).
 
 ---
 
-# PUBLIEK BEWIJSRAPPORT (VOLLEDIG GEANONIMISEERDE VERSIE)
+## 0) Belangrijke voorbehouden (eerlijk en stevig)
 
-**Zaak:** Uitzendbureau in Nederland (**Intrixo B.V.**, eerder actief onder de naam **Voorneputten**)  
-**Reikwijdte:** arbeidsrechtelijke schendingen + privacyschendingen in agency-huisvesting + problemen met juridische bijstand  
-**Auteurs van het relaas:** **Werknemer A** + **Werkneemster B** (persoonsgegevens volledig verwijderd)  
-**Bron:** bewerking en herstructurering van de inhoud uit het document “Compleet Rapport 2026” voor publicatie (GitHub).
+Dit document beschrijft feiten en conclusies **op basis van bewijs dat wij bezitten** (documenten, correspondentie, audio- en videomateriaal).
 
----
+Termen zoals “fraude”, “manipulatie” of “misleiding” worden gebruikt als **vermoeden en beoordeling van de auteurs op basis van de feiten**, en **niet** als een strafrechtelijke of definitieve rechterlijke vaststelling.
 
-## 0) Belangrijke voorbehouden (om eerlijk en stevig te blijven)
-1. Dit document beschrijft feiten **op basis van het beschikbare bewijsmateriaal** (documenten, correspondentie, audio- en videoregistraties).  
-2. Formuleringen zoals “fraude”, “manipulatie”, “misleiding” betekenen **een vermoeden en beoordeling van de auteurs op basis van feiten**, en geen onherroepelijk strafrechtelijk vonnis.  
-3. Deze versie is **geanonimiseerd**: namen/achternamen van privépersonen, kamernummer, naam en adres van de huisvesting en andere identificerende gegevens zijn verwijderd.
+Deze versie is geanonimiseerd: namen van privépersonen, kamernummer, naam en adres van de huisvesting en andere identificerende gegevens zijn verwijderd. De publicatie heeft een informatief en maatschappelijk doel en is geen juridisch advies.
 
 ---
 
-## 1) Samenvatting van de zaak (de kern)
-De zaak betreft ernstige schendingen van arbeidsrechten, waaronder:
-- het bijna een half jaar lang **zonder middelen van bestaan** laten van **Werkneemster B**,
-- het in rekening brengen van een “schuld” voor huisvesting die **wekelijks opliep** en uitkwam op ca. **1000 EUR**,
-- schending van het contract in **fase C** (onbepaalde tijd) met garantie van **32 uur per week**,
-- systematische loon- en afrekenonregelmatigheden ten aanzien van **Werknemer A**,
-- druk en pogingen om een handtekening af te dwingen tijdens gesprekken met het uitzendbureau (bewijs: audio-opnames),
-- herhaaldelijke betreding door derden van een bewoonde, afgesloten kamer in de agency-huisvesting (bewijs: video-opnames).
+## 1) Samenvatting van de zaak (kern)
 
-Daarnaast worden ernstige problemen met juridische bijstand beschreven: het niet overhandigen van cruciale documenten, lange periodes van stilte, tegenstrijdige communicatie en facturen zonder duidelijke specificatie van verrichte werkzaamheden.
+De zaak betreft **verwijten/allegaties** van ernstige problemen op het gebied van arbeid en afrekeningen, waaronder:
+
+- Werkneemster B zonder bestaansmiddelen laten gedurende bijna een half jaar (volgens onze documentatie),
+- het opbouwen van een “schuld” voor huisvesting die wekelijks opliep tot ca. 1000 EUR (volgens afrekeningen/documenten),
+- mogelijk niet naleven van een fase-C contract (onbepaalde tijd) met 32 uur urengarantie per week,
+- structurele loon- en afrekeningsproblemen bij Werknemer A (volgens documentanalyse),
+- druk en pogingen tot het afdwingen van een handtekening tijdens gesprekken met het bureau (bewijs: audio-opnamen),
+- herhaald binnentreden door derden in een bewoonde, afgesloten kamer in de uitzendhuisvesting (bewijs: video-opnamen).
+
+Daarnaast worden problemen met juridische dienstverlening beschreven: ontbrekende overdracht van kernstukken, lange stiltes, tegenstrijdige berichten en facturen zonder duidelijke specificatie van verrichte werkzaamheden (volgens correspondentie en factuurstukken).
 
 ---
 
-## 2) Bewijsmateriaal (wat er is en waarop dit is gebaseerd)
-De auteurs geven aan dat zij o.a. beschikken over:
-- een **rechtbankdocument (“proces-verbaal”)** van de zitting van **12.03.2024**,
-- **audio-opnames** van gesprekken met het uitzendbureau (druk, pogingen tot dwang),
-- **video-opnames** van betredingen door derden van de kamer in de agency-huisvesting (datum en tijd zichtbaar in beeld),
-- correspondentie en sporen van contact (of het uitblijven daarvan) met juristen en instanties (o.a. **Orde van Advocaten**, deken, **Raad van Discipline**, **Juridisch Loket**),
-- loon-/afrekenstukken (in het brondocument beschreven als talrijke en systematische onregelmatigheden).
+## 2) Bewijs (wat bestaat er en waarop is dit gebaseerd)
 
-> Technische opmerking: in de repository (GitHub) moeten deze materialen op een veilige manier worden toegevoegd (gevoelige gegevens onherkenbaar maken, geen publieke publicatie van gezichten van derden, enz.).  
+De auteurs geven aan o.a. te beschikken over:
+
+- een gerechtelijk stuk (“proces-verbaal”) van de zitting van 12-03-2024,
+- audio-opnamen van gesprekken/bijeenkomsten met het bureau (druk/pogingen tot afdwingen – volgens inhoud en beschrijving),
+- video-opnamen van binnentredingen in de kamer (datum en tijd zichtbaar in beeld),
+- correspondentie en contactsporen (of het ontbreken daarvan) met juristen en instanties (o.a. Orde van Advocaten, deken, Raad van Discipline, Juridisch Loket),
+- loon- en afrekeningsdocumenten (in het brondocument beschreven als talrijke en structurele onregelmatigheden).
+
+**Technische opmerking:** in de GitHub-repository moeten bijlagen veilig worden geplaatst (gevoelige gegevens afschermen, geen gezichten van derden publiceren, enz.). Volledige documenten horen op verzoek aan instanties/vertegenwoordigers te worden verstrekt.
 
 ---
 
 ## 3) Tijdlijn (concrete data uit het rapport)
+
 ### 3.1. Juridische hulp en zitting
-- **Voor nieuwjaar 2024:** de auteurs vragen om boekhoudkundige hulp; de boekhouder beveelt **Jurist 1** aan (later: klacht bij de Orde van Advocaten).  
-- **12.03.2024:** rechtbankzitting.  
-  - Volgens het relaas hadden beide partijen tijdens de zitting fouten in berekeningen; de rechtbank zou tijd hebben gegeven voor exacte herberekeningen.  
-  - Het uitzendbureau zou **5000 EUR** binnen een bepaalde termijn moeten uitbetalen (beschreven als “binnen 2 weken”).  
+- Voor Nieuwjaar 2024: hulp gevraagd via een boekhouder; boekhouder verwijst naar Jurist/Advocaat 1 (later: klacht bij de Orde van Advocaten).
+- 12-03-2024: rechtszitting.
+- Volgens de relaas: beide partijen hadden fouten in berekeningen; de rechter zou tijd hebben gegeven voor correcte herberekening.
+- Het bureau zou 5.000 EUR moeten betalen binnen een bepaalde termijn (beschreven als “binnen 2 weken ontvangen”).
 
-### 3.2. Wat er na de zitting gebeurde en waarom de zaak niet is afgerond
-- **April 2024:** ontmoeting met **Jurist 1** – aankondiging van vervolgacties zodra het uitzendbureau volledige berekeningen zou sturen; daarna geen echte voortgang.  
-- **24.05.2024:** de boekhouder meldt dat er een beslissing is en dat Werkneemster B dit met Jurist 1 moet bespreken; volgens e-mailcorrespondentie werkt contact met Jurist 1 nog steeds praktisch niet.  
-- **Juni 2024:** de auteurs schakelen **Jurist 2** in (tweede kantoor). Er wordt aangegeven dat het ca. **3-4 maanden** kan duren en dat er contact zal zijn.
+### 3.2. Na de zitting en waarom het niet is afgerond
+- April 2024: gesprek met Jurist 1 – verdere stappen zouden volgen zodra het bureau volledige berekeningen levert; daarna geen zichtbare voortgang.
+- 24-05-2024: boekhouder meldt dat er een beslissing/uitkomst is en dat Werkneemster B dit met Jurist 1 moet bespreken; volgens e-mailcorrespondentie bleef contact met Jurist 1 vrijwel uit.
+- Juni 2024: Jurist 2 (tweede kantoor) wordt ingeschakeld; er wordt aangegeven dat het ~3–4 maanden kan duren en dat er contact zal zijn.
 
-### 3.3. Gebrek aan acties / tegenstrijdige informatie
-- **Na ca. 4 maanden:** geen informatie; Jurist 2 zegt telefonisch dat hij geen documenten kan krijgen van Jurist 1.  
-- **16.09.2024:** de auteurs vragen de boekhouder om interventie rond documentatie; Jurist 1 stuurt enkele documenten – volgens het relaas niet relevant.  
-- In dezelfde periode meldt Jurist 2 dat ze “documenten hebben ontvangen en analyseren”, waarna opnieuw stilte volgt.  
-- **Na ca. 2 maanden:** de auteurs krijgen de informatie dat “er een schikking is en dat er niets aan te doen is” (WhatsApp-correspondentie), en dat het document van Intrixo zou komen – maar **het is niet aan de auteurs getoond**.  
-- **Voor nieuwjaar 2025:** na aankondiging om “fraude” te melden belt Jurist 2 terug; de auteurs vragen om de beslissing rechtstreeks bij de rechtbank op te vragen – volgens het relaas zonder resultaat tot op heden en zonder terugbetaling van het betaalde bedrag; in plaats daarvan verschijnen onduidelijke “bijbetalingsfacturen”.
-
----
-
-## 4) Arbeidsrechtelijke schendingen – Werkneemster B (fase C, 32u)
-Uit het rapport volgt dat:
-1. Werkneemster B bijna een half jaar zonder middelen van bestaan is gelaten.  
-2. Daarna werd bij haar een “schuld” voor huisvesting in rekening gebracht, die wekelijks opliep tot ca. 1000 EUR.  
-3. Het uitzendbureau het fase-C-contract (onbepaalde tijd) met 32u-garantie per week zou hebben geschonden.  
-4. Werkneemster B werd naar kantoor geroepen waar – in plaats van een oplossing van de zaak/het contract – sprake zou zijn geweest van een poging tot opnieuw misbruik (de auteurs geven aan dat zij hier bewijs van hebben).
+### 3.3. Geen acties / tegenstrijdige informatie
+- Na ~4 maanden: geen status; Jurist 2 zegt telefonisch geen documenten van Jurist 1 te kunnen krijgen.
+- 16-09-2024: auteurs vragen de boekhouder om interventie; Jurist 1 stuurt documenten die volgens de relaas niet relevant zijn.
+- Tegelijk zegt Jurist 2: “we hebben documenten ontvangen en analyseren”; daarna opnieuw stilte.
+- Na ~2 maanden: auteurs krijgen bericht dat er “een schikking is en er niets te doen valt” (WhatsApp), en dat het stuk van Intrixo zou komen – maar het is niet aan de auteurs getoond.
+- Voor Nieuwjaar 2025: na aankondiging van melding van vermeende “fraude” belt Jurist 2 terug; auteurs vragen om de uitkomst rechtstreeks bij de rechtbank op te vragen – volgens relaas tot op heden zonder resultaat en zonder terugbetaling van betaalde bedragen; in plaats daarvan verschijnen onduidelijke “bijbetalingsfacturen” (door auteurs omschreven als een vermoeden van onjuiste facturering).
 
 ---
 
-## 5) Arbeidsrechtelijke schendingen – Werknemer A (systemisch beeld)
-Het brondocument beschrijft een reeks onregelmatigheden als **systemisch**, o.a.:
-- niet naleven van de garantie van minimale werkuren in fase C,
-- niet uitbetalen van volledig loon tijdens periodes zonder werk,
-- overschrijden van toelaatbare inhoudingen (waardoor de werknemer onder het bestaansminimum komt),
-- weigering van vakantietoeslagen (in natura en/of in geld),
-- verlagen van wettelijke toeslagen,
-- vertragingen in betalingen,
-- handelingen omschreven als “manipuleren van documentatie” om tekortkomingen te verhullen.
+## 4) Vermeende arbeidsrechtelijke misstanden – Werkneemster B (fase C, 32 uur)
+
+Volgens het brondocument en de documentatie:
+
+- Werkneemster B zou bijna een half jaar zonder bestaansmiddelen zijn gelaten.
+- Daarna werd een “huisvestingsschuld” opgebouwd tot ca. 1000 EUR.
+- Het bureau zou de voorwaarden van fase-C (onbepaalde tijd) met 32 uur urengarantie mogelijk niet hebben nageleefd.
+- Werkneemster B werd naar kantoor geroepen waar – in plaats van een oplossing – volgens de auteurs een poging tot een nieuw misbruik plaatsvond (auteurs stellen hierover bewijs te hebben).
 
 ---
 
-## 6) Druk en pogingen tot dwang – analyse van audio-opnames
-Uit de audio-opnames (volgens de beschrijving in het brondocument) zou blijken dat:
-- Werkneemster B **tweemaal werd opgeroepen** voor confronterende gesprekken,
-- tijdens gesprekken werd geprobeerd haar te laten tekenen voor het annuleren van de “schuld”,
-- aan de zijde van het uitzendbureau sprake zou zijn van ontoelaatbare druk en zelfs (verkapte) bedreigingen en intimidatietactieken,
-- de auteurs kwalificeren dit als een poging om garanties uit fase C te omzeilen en als schending van vrije wilsvorming, waardigheid en het veiligheidsgevoel van de werknemer.
+## 5) Vermeende arbeidsrechtelijke misstanden – Werknemer A (systemisch beeld)
+
+Het brondocument beschrijft structurele problemen, o.a.:
+
+- niet naleven van de minimale urengarantie in fase C,
+- niet uitbetalen van volledig loon in periodes zonder werk,
+- inhoudingen boven toegestane grenzen (waardoor de werknemer onder het bestaansminimum kan komen),
+- weigering van vakantierelatede aanspraken (in tijd en in geld),
+- te lage wettelijke toeslagen,
+- vertraagde betalingen,
+- handelingen die als “manipulatie van documentatie” worden beschreven en die volgens auteurs bedoeld waren om tekortkomingen te verhullen (geformuleerd als vermoeden op basis van documentanalyse).
 
 ---
 
-## 7) Agency-huisvesting – betreding door derden van een afgesloten kamer (video)
-Uit aanvullend bewijsmateriaal (video-opnames) blijkt dat derden herhaaldelijk:
-- deuren openden en een bewoonde kamer in de agency-huisvesting binnengingen,
-- terwijl de kamer afgesloten was,
-- zonder voorafgaande aankondiging van controle of andere handelingen,
-- en met datum en tijd zichtbaar op de opnames.
+## 6) Druk en pogingen tot afdwingen – analyse van audio-opnamen
 
-In het rapport worden ten minste vier momenten genoemd:
-- **23.12.2024**
-- **08.01.2025**
-- **31.03.2025**
-- **02.08.2025**  
-Totaal: **8 opnames**.
+Volgens het brondocument en de audio-opnamen:
 
-Bewijsconclusies uit het rapport:
-- het materiaal vormt een objectieve basis om van de beheerder van de huisvesting te eisen: procedures voor betreding van kamers, lijst van personen met sleutel/master key-toegang, toegangsregisters/logs en protocollen van eventuele controles voor de genoemde data en tijden.
+- Werkneemster B werd tweemaal uitgenodigd voor confronterende gesprekken,
+- er werd geprobeerd een handtekening af te dwingen onder een document over het “annuleren” van de “schuld”,
+- er zou sprake zijn geweest van ongeoorloofde druk en mogelijk verhulde dreiging/inti­midatie (beoordeling van auteurs op basis van de inhoud),
+- auteurs kwalificeren dit als een poging om fase-C garanties te omzeilen en als aantasting van vrije wilsvorming en veiligheid van de werknemer.
 
 ---
 
-## 8) Juridische bijstand – het feitelijke probleem (zonder emoties, alleen feiten)
-### 8.1. Jurist 1
-- de auteurs dienden een klacht in bij de **Orde van Advocaten**,
-- een van de verwijten betreft het niet correct informeren en het niet overhandigen van cruciale documenten aan de auteurs én aan Jurist 2,
-- volgens het relaas heeft Jurist 1 bij reactie op de klacht geen bewijs geleverd voor zijn stellingen,
-- de deken zou delen van het materiaal niet hebben meegenomen wegens gebrek aan vertalingen; de auteurs hebben vertalingen gemaakt en opnieuw verzonden,
-- de zaak is naar de Raad van Discipline gegaan; de auteurs kregen informatie dat de klacht niet is meegenomen wegens “gebrek aan vertalingen”, terwijl – volgens hen – de vertalingen wél zijn nagestuurd; de auteurs hebben bezwaar/beroep ingediend.
+## 7) Uitzendhuisvesting – binnentredingen in een afgesloten kamer (video)
+
+Volgens video-opnamen zouden derden herhaaldelijk:
+
+- een bewoonde kamer hebben geopend en betreden,
+- terwijl de kamer op slot was,
+- zonder voorafgaande aankondiging of toestemming,
+- met datum en tijd zichtbaar in beeld.
+
+In het rapport worden ten minste vier data genoemd:
+- 23-12-2024
+- 08-01-2025
+- 31-03-2025
+- 02-08-2025
+
+Totaal: 8 opnamen.
+
+**Bewijsconclusie uit het rapport:** dit materiaal kan een basis vormen om bij de beheerder van de huisvesting op te vragen: toegangsprocedures, wie master keys had, logs/registraties van binnentredingen en eventuele controleprotocollen voor de genoemde data/tijden.
+
+---
+
+## 8) Juridische dienstverlening – feitelijke problemen (zonder emoties, alleen feiten)
+
+### 8.1. Jurist/Advocaat 1
+- auteurs dienden een klacht in bij de Orde van Advocaten,
+- één van de punten: onvoldoende informatie en geen overdracht van kernstukken (niet aan auteurs en niet aan Jurist 2),
+- volgens relaas leverde Jurist 1 geen bewijs voor zijn stellingen in reactie op de klacht,
+- de deken zou materiaal deels niet hebben meegenomen vanwege ontbrekende vertalingen; auteurs maakten vertalingen en stuurden opnieuw,
+- de zaak ging naar de Raad van Discipline; auteurs kregen bericht dat de klacht niet is meegenomen vanwege “gebrek aan vertalingen”, terwijl auteurs stellen dat vertalingen wel zijn toegestuurd; auteurs hebben bezwaar/beroep ingesteld.
 
 ### 8.2. Jurist 2
-- aannemen van de zaak en betaling, verklaring dat er binnen ~3-4 maanden resultaat/actie zou zijn, daarna lange periodes van stilte,
-- mededeling dat documenten van Jurist 1 niet te verkrijgen zijn,
-- later mededeling dat “er een schikking is en dat er niets aan te doen is”, zonder het document aan de auteurs te tonen,
-- geen directe verkrijging van de beslissing bij de rechtbank (ondanks verzoek),
-- geen terugbetaling van het betaalde bedrag (volgens e-mailrelaties) en het sturen van onduidelijke facturen.
+- zaak aangenomen en betaald; beloofde afronding in ~3–4 maanden; daarna lange stiltes,
+- bericht dat documenten van Jurist 1 niet te verkrijgen zijn,
+- later: “schikking, niets te doen”, zonder het document te tonen,
+- geen uitkomst rechtstreeks bij de rechtbank verkregen ondanks verzoek,
+- geen terugbetaling van betaalde bedragen (volgens e-mailrelaties) en onduidelijke facturen.
 
 ---
 
-## 9) Juridische basis (aanknopingspunten – te verifiëren)
-Onderstaande verwijzingen **sluiten aan bij de beschreven feiten** (dit is geen juridisch advies, maar een kaart van relevante regels):
+## 9) Juridische ankerpunten (te verifiëren)
 
-- **Loon bij geen arbeid** (loon ondanks geen arbeid, wanneer de oorzaak bij de werkgever ligt): art. **7:628 BW**.  
-- **Wettelijke verhoging** (wettelijke verhoging/“boete” bij te late loonbetaling – tot 50%, met mogelijkheid tot matiging door de rechter): art. **7:625 BW**.  
-- **Loon tijdens vakantie**: art. **7:639 BW** (en volgende).  
-- **Rechtsvermoeden arbeidsomvang** (bij ≥ 3 maanden: arbeidsomvang wordt vermoed volgens gemiddelde van de laatste 3 maanden): art. **7:610b BW**.  
-- **Minimumvakantiebijslag** (minimaal 8%): art. **15 WML**.  
-- **Inhoudingen voor huisvesting bij minimumloon**: alleen toegestaan onder voorwaarden (o.a. machtiging/volmacht en andere vereisten) – regels beschreven door Rijksoverheid.  
-- **Juistheid/nauwkeurigheid** (als loon-/afrekenstukken onjuist of onbetrouwbaar worden gecorrigeerd): het “accuracy”-beginsel in art. **5 GDPR**.
+Onderstaande verwijzingen koppelen aan de beschreven feiten (geen juridisch advies; enkel een kaart):
 
----
-
-## 10) Conclusie (wat hieruit volgt)
-Uit het brondocument volgt dat de auteurs beschikken over gelaagd bewijsmateriaal dat wijst op:
-1. ernstige arbeidsrechtelijke schendingen (fase C / 32u, inhoudingen, niet-uitbetaling, vakanties, tijdigheid en afrekeningen),  
-2. druk en pogingen tot dwang (audio),  
-3. privacyschendingen en veiligheidsproblemen in agency-huisvesting (video),  
-4. ernstige problemen met juridische bijstand (gebrek aan documenten, gebrek aan contact, tegenstrijdige communicatie, facturen zonder duidelijke basis).
+- **Loon bij geen arbeid**: art. 7:628 BW.
+- **Wettelijke verhoging** bij te late loonbetaling (tot 50%, met matiging): art. 7:625 BW.
+- **Loon tijdens vakantie**: art. 7:639 BW e.v.
+- **Rechtsvermoeden arbeidsomvang** (≥ 3 maanden, gemiddelde over voorafgaande 3 maanden): art. 7:610b BW.
+- **Minimumvakantiebijslag** (min. 8%): art. 15 WML.
+- **Huisvestingsinhoudingen bij minimumloon**: alleen onder voorwaarden (o.a. volmacht/authorization en overige vereisten) – overheid (Rijksoverheid) beschrijft de regels.
+- **Juistheid van data** bij onjuiste personeels-/loonadministratie: AVG/GDPR art. 5 (accuracy/juistheid).
 
 ---
 
-## 11) Bewijsindex (sjabloon voor de repository)
-Onderstaand skelet – vervang “[BESTAND]” door echte bestandsnamen in de repo:
+## 10) Conclusie (wat hieruit kan volgen)
 
-- **D-01** – proces-verbaal van de zitting 12.03.2024: `[BESTAND]`  
-- **D-02** – correspondentie met het uitzendbureau over berekeningen/schikkingsverplichtingen: `[BESTAND]`  
-- **D-03** – correspondentie met Juridisch Loket: `[BESTAND]`  
-- **D-04** – klacht bij de Orde van Advocaten + bijlagen + vertalingen: `[BESTAND]`  
-- **D-05** – brief/bezwaar bij de Raad van Discipline: `[BESTAND]`  
-- **D-06** – audio-opnames (2 stuks) + transcripties/beschrijvingen: `[BESTAND]`  
-- **D-07** – video-opnames (8 stuks) + log met data/tijden: `[BESTAND]`  
-- **D-08** – loonstukken/analyses (geanonimiseerd): `[BESTAND]`  
+Het brondocument stelt dat de auteurs beschikken over meerlagig bewijs dat **kan wijzen** op:
+
+- ernstige arbeidsrechtelijke misstanden (fase C / 32 uur, inhoudingen, onderbetaling, vakantie, tijdigheid en afrekening),
+- druk en pogingen tot afdwingen (audio),
+- privacyschendingen en veiligheidsproblemen in huisvesting (video),
+- ernstige problemen met juridische dienstverlening (stukken ontbreken, geen contact, tegenstrijdige berichten, facturen zonder duidelijke basis).
 
 ---
 
-**Verklaring van de auteurs:** “Alles wat hier is beschreven, is – naar onze kennis en op basis van het beschikbare materiaal – ondubbelzinnig onderbouwd met bewijs dat wij in ons bezit hebben.”
+## 11) Bewijsindex (sjabloon)
+
+Vul bij “[BESTAND]” de echte bestandsnamen in:
+
+- D-01 – proces-verbaal zitting 12-03-2024: [BESTAND]
+- D-02 – correspondentie met het bureau over berekeningen/schikkingsverplichtingen: [BESTAND]
+- D-03 – correspondentie Juridisch Loket: [BESTAND]
+- D-04 – klacht Orde van Advocaten + bijlagen + vertalingen: [BESTAND]
+- D-05 – brief/bezwaar aan Raad van Discipline: [BESTAND]
+- D-06 – audio-opnamen (2) + transcripties/beschrijvingen: [BESTAND]
+- D-07 – video-opnamen (8) + log met data/tijden: [BESTAND]
+- D-08 – loon-/analyse-documenten (geanonimiseerd): [BESTAND]
