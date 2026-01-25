@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home -->
   <url><loc>https://damian545-dj.github.io/raport-publiczny/</loc></url>
 
+  <!-- README -->
   <url><loc>https://damian545-dj.github.io/raport-publiczny/README.pl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/README.en.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/README.nl.md</loc></url>
 
+  <!-- PL -->
   <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.pl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.pl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.pl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.pl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.pl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.pl.md</loc></url>
 
+  <!-- EN -->
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.en.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.en.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.en.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.en.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.en.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.en.md</loc></url>
 
+  <!-- NL -->
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.nl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.nl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.nl.md</loc></url>
   <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.nl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.nl.md</loc></url>
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.nl.md</loc></url>
+
+  <!-- Optional -->
+  <url><loc>https://damian545-dj.github.io/raport-publiczny/CODE_OF_CONDUCT.md</loc></url>
 
 </urlset>
