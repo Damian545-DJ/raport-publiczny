@@ -1,51 +1,68 @@
-# [English Version]
-
+[EN Version]
 # Allegations and legal basis (ALLEGATIONS_AND_LAW)
 
-> This is a map of “what we allege” + “which provisions we rely on”, in line with what is indicated in the report.
+This file is a map: **“what we allege (based on documents)”** + **“which rules we rely on as legal anchors”**, consistent with what is described in the public report.
 
-## A) Intrixo B.V. – labour-law violations and standards
+> Important: the public version describes facts and evidence (documents/communications/audio/video). Legal qualification should be confirmed by an independent lawyer where needed.
 
-### 1. Pay for periods without work / guaranteed hours
-- **BW art. 7:628** – obligation to pay wages in specific situations where no work is provided
-- **BW art. 7:610b** – presumption of working hours (with a consistent schedule)
-- **EU Charter of Fundamental Rights art. 31** – fair and just working conditions
+---
 
-### 2. Delays in payments
-- **BW art. 7:625** – statutory increase/“penalty” for late payment of wages
+## A) Intrixo B.V. – alleged labour-law and standards violations
 
-### 3. Leave and leave settlement
-- **BW art. 7:639–641** – rules for paid leave and settlement
-- **EU Charter art. 31(2)** – right to annual paid leave
+### 1. Pay during no-work periods / guaranteed hours
+- **Dutch Civil Code (BW), Book 7, art. 7:628** – entitlement to wages in certain “no work, still wages” situations where the cause lies with the employer (general rule).
+- **BW, Book 7, art. 7:610b** – statutory presumption of working hours (after at least 3 months: the agreed working time in a given month is presumed to match the average of the previous 3 months).
+- **EU Charter of Fundamental Rights, art. 31** – fair and just working conditions.
 
-### 4. Vakantiegeld (8%)
-- **WML art. 15** – 8% vakantiegeld (vakantiebijslag)
+### 2. Late wage payments
+- **BW, Book 7, art. 7:625** – statutory increase (“penalty”) for late wage payment (maximum **50%**, and the court may reduce it).
+
+### 3. Holidays (leave) and holiday pay
+- **BW, Book 7, art. 7:639–641** – paid leave and calculation rules for holiday pay.
+- **EU Charter, art. 31(2)** – right to an annual period of paid leave.
+
+### 4. Holiday allowance (8%)
+- **Minimum Wage and Minimum Holiday Allowance Act (WML), art. 15** – minimum holiday allowance (generally **at least 8%**).
 
 ### 5. Housing deductions
-- **WAADI/WAS** – cap on deductions for housing (in the report: 25%)
+- **WML/WAS rules + implementing regulations**: housing deductions from (the part of) the minimum wage are only permitted under strict conditions, with a **maximum of 25% of the gross minimum wage** (e.g., written authorisation/power of attorney from the worker, and quality/certification requirements for the accommodation).
 
-### 6. Data accuracy / documentation
-- **GDPR (RODO)** – principles of data accuracy (the report points to the accuracy principle)
+### 6. Data accuracy / payroll records integrity
+- **GDPR, art. 5(1)(d)** – the **accuracy** principle: personal data must be accurate and kept up to date where necessary.
 
-### 7. Privacy of accommodation / room entries
-- Privacy and safety standards (video recordings thread – entries into a locked room)
+### 7. Privacy in agency accommodation / entering a locked, occupied room
+- Reference to **privacy and safety standards** and the general principle that entering occupied living space without consent/prior notice requires strong justification and proper procedures (in the report supported by video evidence).
 
-## B) Legal representatives – duty of care and keeping the client informed
+---
 
-### 1. Failure to provide documents / lack of information
-- professional standards for lawyers: reliable information, handing over the case file, acting in the client’s interest
-- European standards: right to an effective remedy and real access to legal protection
+## B) Legal representatives – diligence, information duties, and file handover
 
-> Note: in the public version we describe facts and evidence. Legal assessment/classification should be confirmed by an independent lawyer.
+### 1. Missing documents / lack of information
+- Professional standards for legal services: **timely and clear information**, acting in the **client’s best interests**, and **handing over the file/case documents** so the client (or a new representative) can verify what happened and continue the matter.
+- European rule-of-law standard: the right to an **effective remedy** and **real access to legal protection**.
 
-C) SNCU (Stichting Naleving CAO voor Uitzendkrachten) – duties of the oversight body and allegations regarding the procedure
+> Note: in the public version we describe facts and evidence. Legal qualification (disciplinary liability/breach of contract) should be confirmed by an independent lawyer.
 
-> **STATUS (24.01.2026):** This section is **preliminary** and may be updated once we receive SNCU’s response (expected in the coming days/week). Until then, we describe only what follows from the documents and correspondence currently in our possession.
+---
 
-1. Role and mandate of SNCU (what it is and what it should do)
-- SNCU is a foundation established by the parties to collective labour agreements (CAO) in the temporary agency work sector, aimed at monitoring and enforcing compliance with the CAO for agency workers (incl. ABU CAO / NBBU CAO).
-- According to SNCU’s described procedure, after a report is submitted, one of the key steps is **obtaining payroll administration data (loonadministratie) from the agency** and verifying CAO compliance based on those source records.
-- The input for the procedure should be **concrete, verifiable and traceable** (a baseline standard without which oversight has no practical meaning).
+## C) SNCU – role of the monitoring body and our points regarding the handling
 
+### STATUS (24-01-2026)
+This section is **preliminary** and may be updated after receiving a (further) response from SNCU. Until then, we describe only what is supported by documents and correspondence.
 
+### SNCU role and mandate (what it is and what it is expected to do)
+- **SNCU** (Foundation for Compliance with the Collective Labour Agreement for Agency Workers) monitors compliance with CAO rules in the agency work sector (including **ABU CAO / NBBU CAO**) and can investigate based on reports/signals.
+- According to SNCU’s described process, a key step is obtaining **payroll administration data** and verifying CAO compliance against verifiable records.
+- Input material for a control process should be **concrete, verifiable, and traceable**; otherwise the control loses its meaning.
 
+---
+
+## Sources (primary/authoritative links)
+- Dutch Civil Code (BW) Book 7 – wetten.overheid.nl: https://wetten.overheid.nl/BWBR0005290/
+- BW art. 7:610b (presumption of working hours) – (text overview): https://lokaleregelgeving.overheid.nl/CVDR682512 (search for “Article 610b”)
+- Statutory increase max. 50% (Dutch judiciary explanation): https://www.rechtspraak.nl/Onderwerpen/Loonvordering
+- WML (Minimum Wage and Minimum Holiday Allowance Act): https://wetten.overheid.nl/BWBR0002638/
+- Housing deduction max. 25% + conditions (Dutch government): https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
+- EU Charter art. 31: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12012P/TXT
+- GDPR (EU 2016/679): https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng
+- SNCU info: https://www.sncu.nl/ and ABU on SNCU’s role: https://www.abu.nl/faq/wat-is-de-rol-van-de-sncu-bij-het-lid-worden/
