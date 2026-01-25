@@ -1,117 +1,122 @@
-# [Nederlandse versie]
+[NL Version]
+# Intrixo B.V. – openbaar (geanonimiseerd) rapport over vermeende schendingen en het uitblijven van effectieve systeemreactie
 
-# Intrixo B.V. – openbaar rapport (geanonimiseerd) over overtredingen en het uitblijven van echte systeemreactie
-
-**TL;DR:** We hebben sterk bewijs (loonstroken + audio-/video-opnames + correspondentie), en toch lopen we al maanden/jaren tegen een muur aan.  
-In de praktijk lijkt de institutionele bescherming die beschikbaar is voor uitzendbureaus effectiever te zijn dan de beschermingsmechanismen die werknemers ter beschikking staan. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
+**TL;DR:** We beschikken over sterk bewijs (loonstroken + audio/video-opnamen + correspondentie), maar toch lopen we al maanden/jaren tegen een muur aan. In de praktijk lijkt het alsof institutionele bescherming die voor een uitzendbureau beschikbaar is effectiever werkt dan de beschermingsmechanismen waar werknemers recht op hebben. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
 
 **Status:** openbare versie (geanonimiseerd)  
 **Laatste update:** 2026-01-10  
-**Repo:** bedoeld voor verificatie, bekendmaking en het verzamelen van steun (juridisch/media/sociaal)
+**Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
+
+> Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
 
 ---
 
-## Waarom we dit openbaar maken
+## Waarom we dit publiek maken
 
-Omdat we zien dat zonder aandacht:
-- de zaak kan vastlopen in procedures,
+Omdat we zien dat zonder publiciteit:
+
+- een zaak kan verdwijnen in procedures,
 - instanties weken/maanden kunnen zwijgen,
-- de werknemer alleen achterblijft met de bewijslast, kosten en stress.
+- een werknemer alleen blijft met bewijs, kosten en stress.
 
-Onze ervaring is keihard simpel: **het bewijs is er, maar de effectiviteit ontbreekt**.
+Onze ervaring is hard en simpel: het bewijs is er, maar effectiviteit ontbreekt.
 
 ---
 
-## Over wie gaat deze zaak (kort)
+## Over wie gaat het (kort)
 
-De zaak gaat over het uitzendbureau **Intrixo B.V.** (voorheen Voorneputten) en onderwerpen zoals:
-- arbeid (o.a. contract/Fase C en uren-garantie),
-- loon en inhoudingen,
-- verlof en toeslagen (incl. vakantiegeld),
+De zaak betreft het uitzendbureau **Intrixo B.V.** (voorheen **Voorneputten**) en de volgende thema’s:
+
+- arbeid (o.a. contract/Phase C en urengarantie),
+- loonbetalingen en inhoudingen,
+- vakantie en toeslagen (incl. vakantiebijslag),
 - betrouwbaarheid van administratie en gegevens,
-- huisvesting en privacy (binnenkomst in een afgesloten kamer),
-- handelen/nalatigheid van gemachtigden.
+- huisvesting en privacy (binnentreden van een afgesloten kamer),
+- handelen/ nalaten van gemachtigden/juridische vertegenwoordigers.
 
-> Deze openbare versie is geanonimiseerd. Volledige bewijsmaterialen worden op verzoek aan instanties/gemachtigden verstrekt.
+De openbare versie is geanonimiseerd. Volledig bewijsmateriaal wordt op verzoek gedeeld met instanties/gemachtigden (zonder publicatie van gevoelige gegevens).
 
 ---
 
-## Wat we concreet stellen (belangrijkste punten)
+## Wat we concreet stellen (kernpunten)
 
 ### 1) Loon / afrekeningen / inhoudingen
-Op basis van onze documentatie heeft het bureau:
-- zich niet gehouden aan de garantie van stabiele voorwaarden (Fase C / minimumuren),
-- niet het volledige loon betaald voor periodes zonder werk,
-- betalingen vertraagd,
-- meer ingehouden dan toegestaan (waardoor de werknemer onder het bestaansminimum uitkomt),
-- vakantierrechten geweigerd (in natura en in geld),
-- wettelijke toeslagen te laag berekend (incl. vakantiegeld),
-- administratie gevoerd die serieuze twijfels oproept (correcties, inconsistenties, “verdwijnende” informatie).
+Volgens onze documentatie kan het zijn dat het bureau:
 
-### 2) Druk en pogingen om een handtekening af te dwingen
-Uit audio-opnames blijkt druk om documenten te ondertekenen over een vermeende “schuld”, met elementen van intimidatie.
+- de urengarantie/stabiele voorwaarden (Phase C / minimumuren) niet nakwam,
+- niet het volledige loon betaalde in periodes zonder werk,
+- te laat betaalde,
+- inhoudingen toepaste die boven de toegestane grenzen kunnen liggen (waardoor de werknemer onder het bestaansminimum uitkomt),
+- vakantieaanspraken weigerde (in tijd en/of geld),
+- wettelijke toeslagen (incl. vakantiebijslag) te laag berekende,
+- administratie voerde die serieuze vragen oproept (correcties, inconsistenties, “verdwijnende” informatie).
 
-### 3) Privacy en veiligheid van huisvesting
-Uit video-opnames blijkt herhaaldelijk binnentreden door derden in een afgesloten, bewoonde kamer (datum/tijd zichtbaar in beeld), zonder onze toestemming en zonder voorafgaande aankondiging.
+### 2) Druk en pogingen tot afdwingen van een handtekening
+Uit audio-opnamen blijkt (volgens onze interpretatie) druk om documenten over een “schuld” te ondertekenen, met elementen van intimidatie.
 
----
-
-## Instanties en het gebrek aan echte reactie (onze ervaring)
-
-Instanties die zich momenteel met de zaak bezighouden:
-- **FairWork**
-- **Juridisch Loket**
-- **SNCU**
-- **Orde van Advocaten**
-
-Tegelijkertijd organisaties waar het bureau zich op beroept qua certificering / branche:
-- **NBBU**
-- **SNF**
-
-— volgens onze documentatie hebben zij **tot en met 2026-01-10 niet gereageerd op onze brieven** (of de reactie was onvoldoende).
+### 3) Privacy en veiligheid in de huisvesting
+Uit video-opnamen blijkt herhaald binnentreden van derden in een afgesloten, bewoonde kamer (datum/tijd zichtbaar), zonder onze toestemming en zonder voorafgaande aankondiging.
 
 ---
 
-## Wat we concreet verwachten
+## Instanties en het uitblijven van een effectieve reactie (onze ervaring)
 
-1) **Schriftelijke reacties** van partijen die standaarden moeten bewaken (incl. certificering en toezicht).  
-2) **Onafhankelijke verificatie van het bewijs** (advocaat/NGO/journalist).  
-3) **Volledige en transparante herberekening** van uren en loon.  
-4) **Uitleg over de huisvestingskwestie** (wie kwam binnen, op welke basis, waar zijn de logs, wie had sleuteltoegang).  
-5) **Bescherming van andere werknemers** – zodat zij weten hoe ze zich kunnen beschermen en bewijs kunnen verzamelen.
+Bij de zaak betrokken / geïnformeerd o.a.:
+
+- FairWork
+- Juridisch Loket
+- SNCU
+- Orde van Advocaten
+
+Daarnaast organisaties waarnaar het bureau verwijst m.b.t. certificering/branche:
+
+- NBBU
+- SNF
+
+— volgens onze documentatie en per **2026-01-10**: wij hebben van deze partijen **geen** inhoudelijke reactie ontvangen op onze brieven, of de reactie was onvoldoende (bijvoorbeeld zonder concrete verificatie van de aangeleverde bewijspunten).
 
 ---
 
-## Wat staat hier wel en wat niet
+## Wat we verwachten (concreet)
+
+- Een schriftelijke reactie van partijen die standaarden moeten bewaken (incl. certificering en controle).
+- Onafhankelijke verificatie van het bewijs (jurist/NGO/journalist).
+- Een volledige en transparante herberekening van uren en loon.
+- Opheldering over huisvesting (wie kwam binnen, op welke basis, waar zijn logs, wie had sleuteltoegang).
+- Bescherming van andere werknemers – zodat zij weten hoe ze zich kunnen beschermen en bewijs kunnen verzamelen.
+
+---
+
+## Wat staat erin en wat niet
 
 ✅ Wel:
-- een tijdlijn,
-- een bewijzenindex (zonder gevoelige data),
-- koppeling van beschuldigingen aan rechtsgronden (NL/EU),
-- anonymiseringsregels.
+- tijdlijn,
+- bewijsindex (zonder gevoelige data),
+- koppeling van verwijten aan juridische basis (NL/EU),
+- anonimisatieregels.
 
 ⛔ Niet:
 - volledige persoonsgegevens,
-- ruwe documenten met BSN, bankrekeningnummers, handtekeningen, enz.
+- ruwe documenten met BSN, banknummers, handtekeningen, enz.
 
 ---
 
-## Hoe lees je deze repository
+## Hoe je de repo leest
 
-- [`TIMELINE.md`](TIMELINE.md) – tijdlijn van belangrijke gebeurtenissen  
-- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – bewijzenindex en wat het aantoont  
-- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – overtredingen + rechtsgronden (NL/EU)  
-- [`ANONYMIZATION.md`](ANONYMIZATION.md) – anonymiseringsregels  
-- [`DISCLAIMER.md`](DISCLAIMER.md) – disclaimers  
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) – hoe je kunt helpen
+- **TIMELINE.md** – tijdlijn van de belangrijkste gebeurtenissen  
+- **EVIDENCE_INDEX.md** – bewijsindex en wat het ondersteunt  
+- **ALLEGATIONS_AND_LAW.md** – verwijten + juridische basis (NL/EU)  
+- **ANONYMIZATION.md** – anonimisatieregels  
+- **DISCLAIMER.md** – voorbehoud  
+- **CONTRIBUTING.md** – hoe je kunt helpen  
 
 ---
 
 ## Hoe je kunt helpen
 
-- Vertalingen van samenvattingen naar **EN/NL**  
-- Controle van consistentie: data, beschrijvingen, logica  
-- Contacten naar **media / NGO’s / advocaten**  
-- Analyse van inhoudingen en afrekeningen (met behoud van anonimiteit)
+- Vertalingen van samenvattingen naar EN/NL
+- Consistentiecheck: data, beschrijvingen, logica
+- Contacten met media / NGO / juristen
+- Analyse van inhoudingen en afrekeningen (met anonimisering)
 
-Wil je helpen – open een **Issue** en schrijf wat je precies kunt doen.
+Wil je helpen? Open een **Issue** en schrijf concreet waarbij.
