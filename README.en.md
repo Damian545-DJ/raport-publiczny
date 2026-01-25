@@ -1,116 +1,122 @@
-# [English Version]
+[EN Version]
+# Intrixo B.V. – public (anonymized) report on alleged violations and the lack of an effective system response
 
-# Intrixo B.V. – public report (anonymized) on violations and the lack of real system response
-
-**TL;DR:** We have strong evidence (payslips + audio/video recordings + correspondence), and despite that we’ve been hitting a wall for months/years.  
-In practice, the institutional protection available to agencies appears to be more effective than the protection mechanisms afforded to employees. We publish this so the case does not “die in paperwork”.
+**TL;DR:** We have strong evidence (payslips + audio/video recordings + correspondence), yet for months/years we have been hitting a wall. In practice, it seems that the institutional protection available to an agency can be more effective than the protection mechanisms available to workers. We publish this so the case does not “die in paperwork”.
 
 **Status:** public version (anonymized)  
 **Last update:** 2026-01-10  
-**Repo:** for verification, raising awareness, and gathering support (legal/media/community)
+**Purpose of the repo:** verification, visibility, and gathering support (legal/media/community)
+
+> Important: this is an informational, public-interest publication. We describe facts and conclusions based on documents and recordings in our possession. Any statements about wrongdoing must be read as **claims/allegations**, not as final court findings. This repository is not legal advice.
 
 ---
 
-## Why we are showing this to the world
+## Why we are making this public
 
-Because we see that without public attention:
-- the case can disappear in procedures,
-- institutions can stay silent for weeks/months,
-- the worker is left alone with the burden of evidence, costs, and stress.
+Because we see that without visibility:
 
-Our experience is brutally simple: **the evidence exists, but effectiveness is missing**.
+- a case can disappear inside procedures,
+- institutions can remain silent for weeks/months,
+- a worker is left alone with evidence, costs, and stress.
+
+Our experience is brutally simple: the evidence exists, but effectiveness is missing.
 
 ---
 
-## Who this case concerns (briefly)
+## Who this concerns (short)
 
-The case concerns the temporary work agency **Intrixo B.V.** (formerly Voorneputten) and topics such as:
-- employment (including contract/Phase C and guaranteed hours),
+This case concerns the temporary work agency **Intrixo B.V.** (previously **Voorneputten**) and the following areas:
+
+- employment (including Phase C / indefinite contract and guaranteed hours),
 - wages and deductions,
-- leave and allowances (including vakantiegeld),
+- leave and allowances (including holiday allowance / vakantiebijslag),
 - reliability of records and data,
-- housing and privacy (entries into a locked room),
-- actions/neglect of legal representatives.
+- accommodation and privacy (entry into a locked room),
+- actions/omissions of legal representatives.
 
-> This public version is anonymized. Full evidence materials are provided to institutions/representatives on request.
+The public version is anonymized. Full evidence is provided to institutions/legal representatives upon request (without publishing sensitive personal data).
 
 ---
 
-## What exactly we allege (key points)
+## What we specifically allege (key points)
 
 ### 1) Wages / settlements / deductions
-Based on our documentation, the agency:
-- did not comply with the guarantee of stable conditions (Phase C / minimum hours),
-- did not pay full wages for periods without work,
-- was late with payments,
-- exceeded permissible deductions (leaving the worker with less than the minimum to live on),
-- refused holiday entitlements (in kind and in money),
-- underpaid statutory allowances (including vakantiegeld),
-- kept records in a way that raises serious doubts (corrections, inconsistencies, “missing” information).
+According to our documentation, the agency may have:
 
-### 2) Pressure and attempts to force a signature
-Audio recordings show pressure to sign documents about an alleged “debt”, with elements of intimidation.
+- failed to honour stable employment conditions (Phase C / minimum guaranteed hours),
+- failed to pay full wages during periods without work,
+- paid wages late,
+- applied deductions beyond permitted limits (leaving the worker below subsistence level),
+- refused leave-related entitlements (in time and/or money),
+- underpaid statutory allowances (including holiday allowance),
+- maintained records in a way that raises serious concerns (corrections, inconsistencies, “disappearing” information).
 
-### 3) Privacy and housing security
-Video recordings show repeated entry by third parties into a locked, occupied room (date/time visible on the footage), without our consent and without prior notice.
+### 2) Pressure and attempts to force signatures
+Based on audio recordings (in our assessment), there was pressure to sign documents related to a “debt”, with elements of intimidation.
 
----
-## Institutions and lack of real response (our experience)
-
-The case is being handled by / the following have been informed, among others:
-- **FairWork**
-- **Juridisch Loket**
-- **SNCU**
-- **Orde van Advocaten**
-
-At the same time, bodies the agency cites for certification / industry status:
-- **NBBU**
-- **SNF**
-
-— according to our documentation, **as of 2026-01-10 they have not replied to our letters** (or the reply was insufficient).
+### 3) Privacy and safety in accommodation
+Based on video recordings, third parties repeatedly entered an occupied, locked room (date/time visible), without our consent and without prior notice.
 
 ---
 
-## What we expect (concretely)
+## Institutions and the lack of an effective response (our experience)
 
-1) **Written responses** from bodies that should enforce standards (including certification and oversight).  
-2) **Independent verification of the evidence** (lawyer/NGO/journalist).  
-3) **A full, transparent calculation** of hours and wages.  
-4) **Clarification of the housing issue** (who entered, on what basis, where the logs are, who had key access).  
-5) **Protection of other workers** – so they know how to protect themselves and how to collect evidence.
+The matter has involved / was communicated to, among others:
+
+- FairWork
+- Juridisch Loket
+- SNCU
+- Orde van Advocaten (Dutch Bar Association)
+
+At the same time, organisations the agency references in terms of certification/industry:
+
+- NBBU
+- SNF
+
+— according to our documentation, as of **2026-01-10**, we have **not** received a substantive response to our letters from these parties, or the response was insufficient (for example, without meaningful verification of the evidence points we submitted).
 
 ---
 
-## What is here, and what is not
+## What we expect (concrete)
+
+- Written responses from bodies that are meant to uphold standards (including certification and oversight).
+- Independent verification of evidence (lawyer/NGO/journalist).
+- Full and transparent recalculation of hours and wages.
+- Clarification regarding accommodation (who entered, on what basis, where logs are, who had key access).
+- Protection for other workers — so they know how to protect themselves and how to collect evidence.
+
+---
+
+## What is included and what is not
 
 ✅ Included:
-- a timeline,
-- an evidence index (without sensitive data),
-- mapping of allegations to legal bases (NL/EU),
+- timeline,
+- evidence index (without sensitive data),
+- mapping allegations to legal references (NL/EU),
 - anonymization rules.
 
 ⛔ Not included:
 - full personal data,
-- raw documents containing BSN, bank account numbers, signatures, etc.
+- raw documents containing BSN, bank numbers, signatures, etc.
 
 ---
 
 ## How to read the repository
 
-- [`TIMELINE.md`](TIMELINE.md) – timeline of key events  
-- [`EVIDENCE_INDEX.md`](EVIDENCE_INDEX.md) – evidence index and what it proves  
-- [`ALLEGATIONS_AND_LAW.md`](ALLEGATIONS_AND_LAW.md) – violations + legal bases (NL/EU)  
-- [`ANONYMIZATION.md`](ANONYMIZATION.md) – anonymization rules  
-- [`DISCLAIMER.md`](DISCLAIMER.md) – disclaimers  
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) – how to help
+- **TIMELINE.md** – timeline of key events  
+- **EVIDENCE_INDEX.md** – evidence index and what each item supports  
+- **ALLEGATIONS_AND_LAW.md** – allegations + legal anchors (NL/EU)  
+- **ANONYMIZATION.md** – anonymization rules  
+- **DISCLAIMER.md** – disclaimer  
+- **CONTRIBUTING.md** – how to help  
 
 ---
 
 ## How you can help
 
-- Translate summaries into **EN/NL**  
-- Check consistency: dates, descriptions, logic  
-- Share contacts to **media / NGOs / lawyers**  
-- Analyze deductions and settlements (while keeping anonymization)
+- Translating summaries into EN/NL
+- Consistency checks: dates, descriptions, logic
+- Contacts to media / NGOs / lawyers
+- Analysis of deductions and settlements (with anonymization)
 
-If you want to help – open an **Issue** and write what exactly you can do.
+If you want to help, open an **Issue** and write specifically what you can support.
