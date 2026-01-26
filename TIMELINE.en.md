@@ -182,8 +182,10 @@ Note: screenshot file dates = date of screenshot; inside screenshots the message
   (Screenshot_20240611-073616.png)
 - **20–21 Jun 2024:** no entry/no work  
   (Screenshot_20240620-223350.png)
-- **24 Jun 2024:** planning message: reduced staff at client; not on shift list; moved to another client + request to show up  
-  (Screenshot_20240627-060844.png)
+- **24 Jun 2024:** planning message: reduced staff at client; not on shift list; moved to another client + request to show up
+- 
+**18–19 Jul 2024 – “minus” / housing debt (Solaris) confirmed by Helpdesk**  
+The worker reported a “minus” shown in the system. Helpdesk explained that in week 26 only **7:45 hours** were worked, which was insufficient to cover **housing + insurance**, so the system recorded **€50.98** as housing debt. In week 27 **€33.45** was deducted, leaving a remaining balance of **€17.53**.  
 
 ### July–Aug 2024 – payslip dispute and corrections (week 29)
 - **31 Jul–01 Aug 2024:** questions “where did you work”; correction announced and later payment  
@@ -220,4 +222,4 @@ Note: screenshot file dates = date of screenshot; inside screenshots the message
 - **04 Jan 2026:** key evidence sent to SNCU: “minus/debt”, 61.11h holiday + pressure, missing final settlement, suspected manipulation via corrections.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
 - **20 Jan 2026:** SNCU / Juridisch Loket (signal 37856 / V-657): message that SNCU conducted a preliminary procedure, contacted the employer, and then concluded it cannot take further action; attachments include SNCU–employer correspondence and translations (inspector’s position and employer reply).
-- **20 Jan 2026:** objection to the case closure submitted (with reference to the evidence basis) – no reply (per documentation).
+- **20 Jan 2026:** objection to the case closure submitted (with reference to the evidence basis) – Waiting for a response.
