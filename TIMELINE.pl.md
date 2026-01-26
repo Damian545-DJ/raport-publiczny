@@ -197,6 +197,9 @@ Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów cz�
   (plik: Screenshot_20240620-223350.png)
 - **24.06.2024:** wiadomość od planowania: ograniczenie ludzi u klienta; brak na liście zmian; przerzucenie do innego klienta + pytanie o stawienie się w pracy.  
   (plik: Screenshot_20240627-060844.png)
+  ## 🇵🇱 PL
+**18–19.07.2024 – „minus” / zadłużenie mieszkaniowe (Solaris) potwierdzone przez Helpdesk**  
+Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w tygodniu 26 przepracowano tylko **7:45 h**, co było niewystarczające na pokrycie kosztów **zakwaterowania + ubezpieczenia**, dlatego system zaksięgował **€50,98** jako zadłużenie mieszkaniowe. W tygodniu 27 potrącono **€33,45**, a saldo zadłużenia wynosiło **€17,53**.    
 
 ### Lipiec–sierpień 2024 – spór o payslip i korekty (tydzień 29)
 - **31.07–01.08.2024:** dopytywanie „gdzie pracował”; zapowiedź korekty i późniejszej wypłaty za tydzień 29.  
@@ -233,4 +236,4 @@ Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów cz�
 - **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h i presja, brak rozliczenia po wypowiedzeniu, podejrzenie manipulacji korektami.  
   (plik: Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screeny)
 - **20.01.2026:** SNCU / Juridisch Loket (signaal **37856** / **V-657**): informacja o postępowaniu wstępnym i zakończeniu sprawy po kontakcie z pracodawcą; w załączniku korespondencja SNCU–pracodawca oraz tłumaczenia stanowisk.
-- **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – brak odpowiedzi (wg dokumentacji).
+- **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – oczekiwanie na odpowiedz
