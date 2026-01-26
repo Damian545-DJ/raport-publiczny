@@ -214,4 +214,4 @@ De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in w
 - **04-01-2026:** bewijs naar SNCU: “minus/schuld”, 61,11 uur verlof + druk, geen eindafrekening, vermoeden manipulatie correcties.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
 - **20-01-2026:** SNCU/Juridisch Loket (signaal 37856 / V-657): bericht dat na contact met werkgever geen verdere actie wordt ondernomen; bijlage bevat SNCU–werkgever correspondentie + vertalingen (standpunt inspecteur en reactie werkgever).
-- **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – geen reactie (volgens documentatie).
+- **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – In afwachting van een reactie
