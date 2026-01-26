@@ -181,6 +181,8 @@ Let op: data in screenshotnamen = datum van screenshot; in screenshots staan vaa
 - **11-06-2024:** P4F planning “Day Free” (Screenshot_20240611-073616.png)  
 - **20–21-06-2024:** geen planning/geen werk (Screenshot_20240620-223350.png)  
 - **24-06-2024:** planningbericht: beperking bij klant, niet op lijst, overplaatsing + vraag om te komen werken (Screenshot_20240627-060844.png)
+- **18–19-07-2024 – “min” / woon-schuld (Solaris) bevestigd door Helpdesk**  
+De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in week 26 slechts **7:45 uur** was gewerkt, wat onvoldoende was om **huisvesting + verzekering** te dekken. Daarom boekte het systeem **€50,98** als woon-schuld. In week 27 werd **€33,45** ingehouden en het resterende saldo was **€17,53**.   
 
 ### Juli–augustus 2024 – loonstrookcorrecties (week 29)
 - **31-07–01-08-2024:** vragen “waar gewerkt”, correctie aangekondigd en latere betaling (Screenshot_20240805-144355.png, Screenshot_20240805-144335.png)
