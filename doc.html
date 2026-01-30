@@ -2,19 +2,51 @@
 <html lang="pl">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Document</title>
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+  <!-- GitHub Markdown style -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css"
+  />
 
   <style>
-    body { margin: 0; background: #fff; }
-    .wrap { max-width: 980px; margin: 0 auto; padding: 24px; }
-    .top { display:flex; gap:12px; align-items:center; margin-bottom:16px; flex-wrap: wrap; }
-    .btn { text-decoration:none; border:1px solid #ddd; padding:8px 12px; border-radius:10px; color:#111; }
-    .small { color:#666; font-size: 13px; }
+    body {
+      margin: 0;
+      background: #fff;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    .top {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .btn {
+      text-decoration: none;
+      border: 1px solid #ddd;
+      padding: 8px 12px;
+      border-radius: 10px;
+      color: #111;
+    }
+    .small {
+      color: #666;
+      font-size: 13px;
+    }
+    .markdown-body {
+      background: #fff;
+    }
   </style>
 </head>
+
 <body>
   <div class="wrap">
     <div class="top">
@@ -22,24 +54,28 @@
       <span class="small" id="fileName"></span>
     </div>
 
-    <article class="markdown-body" id="content">Ładuję…</article>
+    <article id="content" class="markdown-body"></article>
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    const params = new URLSearchParams(location.search);
+    const params = new URLSearchParams(window.location.search);
     const file = params.get("file");
-    const fileName = document.getElementById("fileName");
-    const content = document.getElementById("content");
 
     if (!file) {
-      content.textContent = "Brak parametru ?file=... (np. doc.html?file=EVIDENCE_INDEX.pl.md)";
+      document.getElementById("content").innerHTML =
+        "<p>Brak pliku do wyświetlenia.</p>";
     } else {
-      fileName.textContent = file;
-      fetch(file, { cache: "no-store" })
-        .then(r => r.ok ? r.text() : Promise.reject("HTTP " + r.status))
-        .then(md => { content.innerHTML = marked.parse(md); })
-        .catch(err => { content.textContent = "Błąd wczytania pliku: " + err; });
+      document.getElementById("fileName").textContent = file;
+      fetch(file)
+        .then((r) => r.text())
+        .then((md) => {
+          document.getElementById("content").innerHTML = marked.parse(md);
+        })
+        .catch(() => {
+          document.getElementById("content").innerHTML =
+            "<p>Nie można załadować pliku.</p>";
+        });
     }
   </script>
 </body>
