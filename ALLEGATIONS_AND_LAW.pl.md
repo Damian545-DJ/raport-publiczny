@@ -47,13 +47,93 @@ Ten plik to mapa: **„co twierdzimy (na podstawie dokumentów)”** + **„na j
 
 ## C) SNCU – rola instytucji kontrolnej i nasze punkty dot. sposobu prowadzenia sprawy
 
-### STATUS (24.01.2026)
-Ta sekcja jest **wstępna** i może zostać zaktualizowana po otrzymaniu (dalszej) odpowiedzi SNCU. Do tego czasu opisujemy wyłącznie to, co wynika z dokumentów i korespondencji.
 
 ### Rola i mandat SNCU (co to jest i co powinno robić)
 - **SNCU** (Stichting Naleving CAO voor Uitzendkrachten) nadzoruje przestrzeganie zasad CAO w sektorze pracy tymczasowej (m.in. **ABU-CAO / NBBU-CAO**) i może prowadzić postępowania kontrolne na podstawie zgłoszeń.
 - Zgodnie z (opisywaną przez SNCU) procedurą kluczowym krokiem jest pozyskanie danych z **administracji płacowej (loonadministratie/loonstroken)** i weryfikacja przestrzegania CAO na podstawie danych możliwych do sprawdzenia.
 - Materiał wejściowy do kontroli powinien być **konkretny, weryfikowalny i możliwy do prześledzenia**; inaczej kontrola traci sens.
+
+## C) SNCU – rażące uchybienia proceduralne, brak realnej kontroli i faktyczne wygaszanie ochrony praw pracowniczych (standardy UE)
+
+**STATUS (02.02.2026):** Sekcja oparta na dokumentach i korespondencji. Nie oceniamy intencji SNCU. Opisujemy fakty i standardy. Brak odpowiedzi/transparentności jest sam w sobie zdarzeniem dowodowym.
+
+### 1) Rola SNCU – czym ma być kontrola, a czym nie może być
+SNCU ma sens tylko wtedy, gdy działa jak instytucja kontrolna oparta na danych, tj. weryfikuje przestrzeganie CAO w sektorze pracy tymczasowej poprzez analizę danych źródłowych (m.in. loonadministratie, rooster/planning, tijdregistratie, verlof).
+
+SNCU nie może działać jako:
+- „skrzynka pocztowa” pracodawcy,
+- filtr administracyjny, który zamyka sprawę po jednej odpowiedzi pracodawcy,
+- mechanizm, w którym zgłaszający nie otrzymuje odpowiedzi i nie wie, co sprawdzono.
+
+Jeżeli kontrola kończy się na „pracodawca twierdzi, że wszystko OK”, to **nie jest kontrola** – to jest **pozór kontroli**.
+
+### 2) Brak odpowiedzi do zgłaszającego = brak transparentności i brak minimalnego standardu procedury
+W sprawie **SNCU----** zgłaszający wysłał do SNCU co najmniej dwa formalne pisma:
+- **13.01.2026** – prośba o status + wskazanie kluczowych rozbieżności i żądanie weryfikacji na danych źródłowych,
+- **22.01.2026** – ponaglenie/wniosek o ponowne otwarcie + żądanie listy zweryfikowanych dokumentów oraz procedury skargowej.
+
+SNCU nie odpowiedziało – brak nawet potwierdzenia odbioru. W efekcie postępowanie staje się „czarną skrzynką”: zgłaszający nie zna zakresu kontroli, podstaw decyzji ani tego, czy i jakie dowody zostały realnie sprawdzone.
+
+To jest sprzeczne z minimalnym standardem skutecznej ochrony prawnej i rzetelnej procedury wynikającym z **Karty praw podstawowych UE (art. 47)**.
+
+### 3) Model działania: kontakt z pracodawcą i zamknięcie „wstępne” bez wykazania weryfikacji źródeł
+Z materiałów przekazanych zgłaszającemu przez Juridisch Loket wynika, że SNCU:
+- skontaktowało się z pracodawcą (Intrixo B.V.),
+- zakończyło sprawę na etapie „postępowania wstępnego”,
+- oparło się na narracji pracodawcy (m.in. teza o zakończeniu pracy w week 31 / „nie wrócił”).
+
+W sporze, w którym pracodawca jest stroną zainteresowaną, przyjęcie narracji bez wykazania kontroli danych źródłowych oznacza, że kontrola została zastąpiona korespondencją. To jest wadliwy standard i prowadzi do **administracyjnego wygaszania sprawy** zamiast jej rzetelnej weryfikacji.
+
+### 4) Dowody: dokumenty płacowe przeczą narracji pracodawcy i pokazują wsteczne korekty („minus”)
+W tej sprawie istnieją sprzeczności, których nie da się uczciwie zamknąć bez weryfikacji źródeł:
+
+**(a)** Narracja pracodawcy: „ostatni dzień pracy 28.07.2025 (week 31) / pracownik nie wrócił”.
+
+**(b)** Dokument płacowy temu przeczy: **loonspecificatie Week 32 (2025)** wskazuje okres rozliczeniowy **04-08-2025 t/m 10-08-2025** oraz **Contracturen: 32:00 uur per week**. To jest sprzeczne z tezą o zakończeniu pracy w week 31.
+
+**(c)** Wsteczna korekta i „minus”: **loonspecificatie Week 8 (2025)** pojawia się ponownie dużo później (daty z sierpnia 2025) z parametrem **Contracturen: 1:00 uur per week** oraz ujemnym **Netto te betalen** (np. -191,62). Taki dokument wygląda jak wsteczna korekta po fakcie, tworząca saldo ujemne/kompensatę – szczególnie w kontekście sporu i pism o rozliczenie.
+
+Jeżeli dokumenty płacowe same pokazują sprzeczności (Week 32 = 32:00) i wsteczne korekty z minusem (Week 8 = 1:00 + ujemne netto), to zamknięcie sprawy „wstępnie” na podstawie narracji pracodawcy jest **nierzetelne i niewiarygodne**.
+
+### 5) Dowody: urlop 61,11 h – pisemna zgoda → zaprzeczenie → presja
+W wątku urlopowym istnieje ciąg dowodowy:
+- najpierw pisemna informacja/zgoda dot. wykorzystania **61,11 h** urlopu,
+- następnie cofnięcie/zaprzeczenie i presja („proszę stawić się do pracy, inaczej konsekwencje”),
+- formalne wezwanie i żądanie potwierdzenia na piśmie.
+
+To wymaga weryfikacji na źródłach: historia salda urlopu, zatwierdzenia/cofnięcia, logi systemowe, planning/rooster, komunikacja służbowa. Zamykanie sprawy bez tej weryfikacji oznacza de facto zaakceptowanie mechanizmu, w którym prawo do urlopu może być „odkręcane” po fakcie.
+
+### 6) Standardy UE: prawa muszą być skuteczne w praktyce (nie „na papierze”)
+Istotne standardy UE:
+- **Art. 31 ust. 2 KPP UE**: prawo do odpoczynku i płatnego urlopu,
+- **Dyrektywa 2003/88/WE (art. 7)**: minimalny standard płatnego urlopu,
+- **Dyrektywa 2008/104/WE**: ochrona i równe traktowanie pracowników tymczasowych w podstawowych warunkach pracy,
+- **Dyrektywa (UE) 2019/1152**: przejrzystość i przewidywalność warunków zatrudnienia,
+- **Art. 47 KPP UE**: skuteczny środek ochrony prawnej i rzetelna procedura.
+
+Jeżeli instytucja kontrolna nie odpowiada zgłaszającemu, nie ujawnia, co sprawdziła, i zamyka sprawę w oparciu o stanowisko pracodawcy mimo sprzeczności w dokumentach – to w praktyce prawa pracownika stają się niewykonalne.
+
+### 7) Minimalny pakiet danych do uczciwej weryfikacji (bez tego nie ma wiarygodnych wniosków)
+Aby sprawę ocenić rzetelnie, SNCU (lub organ państwowy) musi pozyskać i zweryfikować:
+- pełną loonadministratie wraz z historią korekt (kto/kiedy/dlaczego/co zmieniał),
+- rooster/planning co najmniej dla week 31–32,
+- tijdregistratie (faktyczne godziny),
+- verlofgegevens + logi (saldo, zatwierdzenia/cofnięcia, historia zmian),
+- wyjaśnienie i audyt: dlaczego Week 32 ma 32:00 przy narracji „koniec week 31”,
+- wyjaśnienie i audyt: dlaczego Week 8 ma 1:00, ujemne netto i został rozliczony/korygowany później,
+- zasady i rozliczenia potrąceń/„minusów” (w tym housing/insurance) wraz z logiką wyliczeń.
+
+### Wniosek końcowy (maksymalnie stanowczy, na faktach)
+W tej sprawie SNCU nie wykonało realnej, weryfikowalnej kontroli: zgłaszający pozostał bez odpowiedzi, a sprawę zamknięto „wstępnie” na podstawie narracji pracodawcy mimo sprzeczności w dokumentach płacowych (**Week 32 = 32:00**) i mimo wstecznych korekt z minusem (**Week 8 = 1:00 + ujemne netto**) oraz mimo dowodów dot. urlopu (**61,11 h: zgoda → cofnięcie → presja**). Taki model działania nie chroni pracownika i w praktyce wygasza zgłoszenia, zanim ktokolwiek zweryfikuje dane źródłowe – co stoi w sprzeczności ze standardami UE.
+
+### Dowody do podpięcia (repo)
+- Pisma do SNCU: **13.01.2026** oraz **22.01.2026** — `[LINK_DO_PLIKU_1]`, `[LINK_DO_PLIKU_2]`
+- Informacja o zakończeniu sprawy + korespondencja SNCU–pracodawca — `[LINK]`
+- Loonspecificatie **Week 32 (2025)** — `[LINK]`
+- Loonspecificatie **Week 8 (2025)** — `[LINK]`
+- Materiały dot. urlopu **61,11 h (P4F)** + formalne wezwanie — `[LINK]`
+- (Opcjonalnie) notatka wewnętrzna pracodawcy “stop working 28-7-2025 / another job” — `[LINK]`
+
 
 ---
 
