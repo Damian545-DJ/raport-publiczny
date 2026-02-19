@@ -20,19 +20,19 @@ NL
 PL
 ## 2026-02-19
 - Zaktualizowano i ujednolicono indeksy dowodów **B. S.** oraz **D. N.**.
-- Dodano nowe pozycje do indeksów: m.in. **nagranie audio z biura Intrixo** (B.), **loonspecificaties + screeny P4F** (D.) oraz paczki dot. **SNCU / Juridisch Loket / NBBU-SNF** (wysyłki i brak reakcji).
+- Dodano nowe pozycje do indeksów: m.in. **nagranie audio z biura Intrixo** (B.), **loonspecificaties + screeny P4F** (D.) oraz paczki dot. **SNCU  / NBBU-SNF** (wysyłki i brak reakcji).
 - Dodano gotowe wersje indeksów do wklejenia w **PL / NL / EN**.
 
 EN
 ## 2026-02-19
 - Updated and standardized the evidence indexes for **B. S.** and **D. N.**.
-- Added new entries: incl. **audio recording from the Intrixo office** (B.), **additional loonspecificaties + P4F screenshots** (D.), and bundles related to **SNCU / Juridisch Loket / NBBU-SNF** (sent items and no response).
+- Added new entries: incl. **audio recording from the Intrixo office** (B.), **additional loonspecificaties + P4F screenshots** (D.), and bundles related to **SNCU  / NBBU-SNF** (sent items and no response).
 - Added ready-to-paste index versions in **PL / NL / EN**.
 
 NL
 ## 2026-02-19
 - De bewijsindexen van **B. S.** en **D. N.** zijn bijgewerkt en geharmoniseerd.
-- Nieuwe items toegevoegd: o.a. **audio-opname uit het Intrixo-kantoor** (B.), **extra loonspecificaties + P4F-screenshots** (D.) en bundels m.b.t. **SNCU / Juridisch Loket / NBBU-SNF** (verzonden stukken en geen reactie).
+- Nieuwe items toegevoegd: o.a. **audio-opname uit het Intrixo-kantoor** (B.), **extra loonspecificaties + P4F-screenshots** (D.) en bundels m.b.t. **SNCU  / NBBU-SNF** (verzonden stukken en geen reactie).
 - Kant-en-klare indexversies toegevoegd voor **PL / NL / EN**.
 
 
