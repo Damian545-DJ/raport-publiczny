@@ -17,4 +17,22 @@ NL
 - **2026-02-02** – In **ALLEGATIONS AND LAW** toegevoegd/aangepast: **C) SNCU – procedurele tekortkomingen, geen echte controle, EU-standaarden** (talen: PL/EN/NL). Strikt gebaseerd op documenten en correspondentie (geen speculatie over intenties).
   **Bewijs om te linken:** brieven aan SNCU van **13-01-2026** en **22-01-2026**; info over afsluiting in fase “vooronderzoek” via Juridisch Loket + correspondentie SNCU–werkgever; loonspecificatie **Week 32 (2025)** (32:00 contracturen, 04-08-2025 t/m 10-08-2025); loonspecificatie **Week 8 (2025)** (1:00 + negatief “Netto te betalen”, verwerkt aug 2025); verlofbewijs **61,11u (P4F)** + formele sommatie.
 
+PL
+## 2026-02-19
+- Zaktualizowano i ujednolicono indeksy dowodów **B. S.** oraz **D. N.**.
+- Dodano nowe pozycje do indeksów: m.in. **nagranie audio z biura Intrixo** (B.), **loonspecificaties + screeny P4F** (D.) oraz paczki dot. **SNCU / Juridisch Loket / NBBU-SNF** (wysyłki i brak reakcji).
+- Dodano gotowe wersje indeksów do wklejenia w **PL / NL / EN**.
+
+EN
+## 2026-02-19
+- Updated and standardized the evidence indexes for **B. S.** and **D. N.**.
+- Added new entries: incl. **audio recording from the Intrixo office** (B.), **additional loonspecificaties + P4F screenshots** (D.), and bundles related to **SNCU / Juridisch Loket / NBBU-SNF** (sent items and no response).
+- Added ready-to-paste index versions in **PL / NL / EN**.
+
+NL
+## 2026-02-19
+- De bewijsindexen van **B. S.** en **D. N.** zijn bijgewerkt en geharmoniseerd.
+- Nieuwe items toegevoegd: o.a. **audio-opname uit het Intrixo-kantoor** (B.), **extra loonspecificaties + P4F-screenshots** (D.) en bundels m.b.t. **SNCU / Juridisch Loket / NBBU-SNF** (verzonden stukken en geen reactie).
+- Kant-en-klare indexversies toegevoegd voor **PL / NL / EN**.
+
 
