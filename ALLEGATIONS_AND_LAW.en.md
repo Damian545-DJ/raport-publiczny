@@ -133,6 +133,7 @@ In this case, SNCU did not perform a genuine, verifiable audit: the complainant 
 - Materials on **61.11h leave (P4F)** + formal notice — `[LINK]`
 - (Optional) internal employer note “stop working 28-7-2025 / another job” — `[LINK]`
 
+---
 
 # Criminal law consequences (EN) — potential offences for individuals in the recording (manager / staff / interpreter)
 
