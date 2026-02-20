@@ -132,7 +132,8 @@ In deze zaak heeft SNCU geen echte, verifieerbare controle uitgevoerd: de melder
 - Loonspecificatie **Week 8 (2025)** — `[LINK]`
 - Screens/correspondentie over **61,11u verlof (P4F)** + formele sommatie — `[LINK]`
 - (Optioneel) interne notitie werkgever “stop working 28-7-2025 / another job” — `[LINK]`
-
+  
+---
 
 # Strafrechtelijke gevolgen (NL) — mogelijke kwalificaties voor personen in de opname (leidinggevende / medewerker / tolk)
 
