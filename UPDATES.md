@@ -49,7 +49,7 @@ Toegevoegd aan “Allegations & Law”: “Strafrechtelijke gevolgen (NL) — mo
 
 EN
 
-Added to “Allegations & Law”: “Criminal law risks (NL) — possible legal qualifications for people in the recording (manager / employee / interpreter)” (Art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + guidance on legally safe public wording (disclaimer).  
+Added to “Allegations & Law”: “Criminal law risks (NL) — possible legal qualifications for people in the recording (manager / employee / interpreter)” (Art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + guidance on legally safe public wording (disclaimer).
 
 
 
