@@ -135,6 +135,110 @@ W tej sprawie SNCU nie wykonało realnej, weryfikowalnej kontroli: zgłaszający
 - (Opcjonalnie) notatka wewnętrzna pracodawcy “stop working 28-7-2025 / another job” — `[LINK]`
 
 
+# Konsekwencje karne (NL) — możliwe kwalifikacje dla osób z nagrania (szefowa / pracownik / tłumacz)
+
+**Uwaga (ważne):** to jest opis _możliwych_ konsekwencji karnych w prawie holenderskim **w razie potwierdzenia przesłanek** przez policję/prokuraturę/sąd. Publicznie opisujemy to jako **podejrzenie** i **hipotezę prawną**, a nie “wyrok”.
+
+## 1) Kto może odpowiadać karnie — firma i ludzie
+W NL przestępstwo może być przypisane **spółce (rechtspersoon)**, ale równolegle mogą odpowiadać też **konkretne osoby**, które:
+- wydały polecenie, albo
+- “faktycznie kierowały” działaniem (feitelijk leidinggeven), albo
+- świadomie w tym uczestniczyły.
+
+Podstawa: **art. 51 Wetboek van Strafrecht (Sr)**. :contentReference[oaicite:0]{index=0}
+
+---
+
+## 2) Najważniejsze “karne” ryzyka przy takim schemacie zachowania
+
+### A) Zmuszanie / presja do podpisu („dwang”) — art. 284 Sr
+Jeżeli ktoś **zmusza** drugą osobę do działania / zaniechania (np. podpisu, wycofania roszczeń, zgody na rozliczenie “minusu”) poprzez:
+- groźbę,
+- zastraszanie,
+- nacisk, który realnie odbiera swobodę decyzji,
+
+to może podpadać pod **art. 284 Sr (dwang)**. Maksymalnie: **do 2 lat więzienia lub grzywna (4. kategoria)**. :contentReference[oaicite:1]{index=1}
+
+**Jak to wygląda w praktyce przy Waszym nagraniu (przykłady zachowań):**
+- presja “podpisz teraz”, brak czasu na czytanie,
+- stawianie pod ścianą: “nie ma pracy / koniec sezonu / nie rozmawiamy / tylko papier”,
+- budowanie “minusu/długu” jako dźwigni do szybkiego zakończenia sprawy.
+
+> To nie jest automatycznie “karne” zawsze — ale jeśli z materiału wynika, że celem była **wymuszona zgoda** (a nie normalne wyjaśnienie), wtedy robi się poważnie.
+
+---
+
+### B) Wymuszenie (afpersing) — art. 317 Sr (tylko gdy jest przemoc lub groźba przemocy)
+**Afpersing** to sytuacja, gdy ktoś **przemocą lub groźbą przemocy** zmusza do:
+- oddania pieniędzy/rzeczy,
+- **zaciągnięcia długu**,
+- podania danych,
+
+żeby uzyskać “korzyść” dla siebie/firmy.
+
+Maksymalnie: **do 9 lat więzienia lub grzywna (5. kategoria)**. :contentReference[oaicite:2]{index=2}
+
+**Uwaga kluczowa:** art. 317 Sr jest “ciężki”, ale zwykle wymaga **elementu przemocy albo groźby przemocy**. Sama presja ekonomiczna/psychiczna częściej idzie w **art. 284 (dwang)**, a nie 317.
+
+---
+
+### C) Fałszowanie dokumentów (valsheid in geschrift) — art. 225 Sr
+Jeśli w sprawie pojawiają się dokumenty typu:
+- sztucznie tworzone “minusy”/długi,
+- manipulowane zestawienia godzin,
+- przerabiane pisma, rozliczenia, formularze,
+- dokument przygotowany “pod podpis” i potem używany jako prawdziwy,
+
+to może wchodzić **art. 225 Sr (valsheid in geschrift)**.
+
+Maksymalnie: **do 6 lat więzienia lub grzywna (5. kategoria)**. :contentReference[oaicite:3]{index=3}
+
+---
+
+### D) Oszustwo (oplichting) — art. 326 Sr
+Jeżeli ktoś “kręci” (fałszywa wersja, podstęp, zmyślona narracja), żeby:
+- skłonić osobę do podpisu,
+- skłonić do przyjęcia długu,
+- wyłudzić usługę/dane,
+
+to może wchodzić **art. 326 Sr (oplichting)**.
+
+Maksymalnie: **do 4 lat więzienia lub grzywna (5. kategoria)**. :contentReference[oaicite:4]{index=4}
+
+---
+
+## 3) Co jest “najmocniejsze dowodowo” z nagrania (w skrócie)
+W materiale rozmowy widać elementy, które bardzo często są potem analizowane pod kątem 284/225/326:
+- presja czasu, próby przerwania rozmowy, “nie rozmawiamy”,
+- odmawianie natychmiastowego wydania dokumentu do przeczytania,
+- używanie “minusu” jako argumentu do szybkiego zamknięcia tematu,
+- próba doprowadzenia do podpisu bez spokojnego zapoznania się z treścią.
+
+To są typowe “czerwone flagi” w sprawach, gdzie pracownik ma zostać wypchnięty z systemu i ma zaakceptować niekorzystne rozliczenie.
+
+---
+
+## 4) Jak to pisać publicznie na GitHub (mocno, ale bezpiecznie)
+Polecane sformułowania:
+- „Zachowanie **może wypełniać znamiona** art. 284 Sr (dwang), jeśli organ uzna, że doszło do wymuszenia zgody/podpisu.”
+- „W przypadku potwierdzenia manipulacji dokumentami, **w grę może wchodzić** art. 225 Sr (valsheid in geschrift) oraz/lub art. 326 Sr (oplichting).”
+- „Materiał audio stanowi dowód na przebieg rozmowy i styl nacisku; kwalifikacja prawna należy do właściwych organów.”
+
+Nie polecane (ryzyko prawne/defamacyjne):
+- „Oni popełnili przestępstwo X.”
+- „To na pewno jest afpersing.”
+- wskazywanie pełnych danych osobowych osób, jeśli nie jest to konieczne.
+
+---
+
+## 5) Co realnie może się stać tym ludziom (jeśli pójdzie tryb karny)
+- mogą być przesłuchani jako świadkowie albo podejrzani,
+- mogą dostać zakaz kontaktu / warunki (zależy od sprawy),
+- w razie zarzutów: grzywny, prace społeczne, a w cięższych wariantach — kara więzienia (teoretyczne maksima podane wyżej),
+- bardzo często: konsekwencje zawodowe (zwolnienie, odsunięcie, problemy w branży), bo nagranie jest “twarde”.
+
+
+
 ---
 
 ## Źródła (pierwotne / autorytatywne linki)
