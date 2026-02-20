@@ -35,4 +35,23 @@ NL
 - Nieuwe items toegevoegd: o.a. **audio-opname uit het Intrixo-kantoor** (B.), **extra loonspecificaties + P4F-screenshots** (D.) en bundels m.b.t. **SNCU  / NBBU-SNF** (verzonden stukken en geen reactie).
 - Kant-en-klare indexversies toegevoegd voor **PL / NL / EN**.
 
+---
+
+## 2026-02-20
+
+PL
+
+Dodano do sekcji „Zarzuty i prawo”: „Konsekwencje karne (NL) — możliwe kwalifikacje dla osób z nagrania (kierownictwo / pracownik / tłumacz)” (art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + zasady bezpiecznego formułowania publicznego (disclaimer).
+
+NL
+
+Toegevoegd aan “Allegations & Law”: “Strafrechtelijke gevolgen (NL) — mogelijke kwalificaties voor personen in de opname (leidinggevende / medewerker / tolk)” (art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + richtlijnen voor juridisch veilige publieke formulering (disclaimer).
+
+EN
+
+Added to “Allegations & Law”: “Criminal law risks (NL) — possible legal qualifications for people in the recording (manager / employee / interpreter)” (Art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + guidance on legally safe public wording (disclaimer).  
+
+
+
+
 
