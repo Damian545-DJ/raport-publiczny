@@ -134,6 +134,7 @@ W tej sprawie SNCU nie wykonało realnej, weryfikowalnej kontroli: zgłaszający
 - Materiały dot. urlopu **61,11 h (P4F)** + formalne wezwanie — `[LINK]`
 - (Opcjonalnie) notatka wewnętrzna pracodawcy “stop working 28-7-2025 / another job” — `[LINK]`
 
+---
 
 # Konsekwencje karne (NL) — możliwe kwalifikacje dla osób z nagrania (szefowa / pracownik / tłumacz)
 
