@@ -134,6 +134,89 @@ In deze zaak heeft SNCU geen echte, verifieerbare controle uitgevoerd: de melder
 - (Optioneel) interne notitie werkgever “stop working 28-7-2025 / another job” — `[LINK]`
 
 
+# Strafrechtelijke gevolgen (NL) — mogelijke kwalificaties voor personen in de opname (leidinggevende / medewerker / tolk)
+
+**Belangrijke disclaimer:** Dit document beschrijft **mogelijke** strafrechtelijke risico’s onder Nederlands recht **als** de feiten en intenties door politie/OM/rechter worden vastgesteld. Publiekelijk wordt dit geformuleerd als **vermoeden** en **juridische duiding**, niet als “vaststaand misdrijf”.
+
+## 1) Wie kan strafrechtelijk aansprakelijk zijn — bedrijf én personen
+In Nederland kunnen strafbare feiten worden toegerekend aan een **rechtspersoon** (het bedrijf), maar daarnaast kan vervolging ook worden ingesteld tegen natuurlijke personen die:
+- **opdracht hebben gegeven**, of
+- **feitelijk leiding hebben gegeven** (feitelijk leidinggeven), of
+- bewust hebben meegewerkt.
+
+**Art. 51 Sr** (rechtspersoon + opdracht/feitelijk leidinggeven):  
+https://maxius.nl/wetboek-van-strafrecht/artikel51
+
+---
+
+## 2) Kern-risico’s (strafrecht) bij druk/chantage rond “handtekening”, “min-uren”, “schuld”
+
+### A) Dwang (pressie om te tekenen / te accepteren) — **art. 284 Sr**
+Als iemand een ander **wederrechtelijk dwingt** iets te doen/niet te doen/te dulden (bijv. tekenen, afzien van rechten, akkoord met “min-uren/schuld”) door geweld/bedreiging of een andere feitelijkheid, kan dit vallen onder **dwang**.
+
+**Maximaal:** gevangenisstraf **tot 2 jaar** of geldboete **4e categorie**.  
+Tekst art. 284 Sr:  
+https://www.inview.nl/openCitation/id0f20e2e056d18a65776eb4a56464f567/wetboek-van-strafrecht-artikel-284
+
+**Waarom dit relevant kan zijn in dit dossier (indicaties):**
+- druk om direct te tekenen (“weinig tijd”, “niet praten”, “nu regelen”),
+- weigeren om documenten ter plekke te geven voor rustig lezen,
+- “min-uren/negatief saldo” gebruiken als hefboom om het dossier snel te sluiten.
+
+> Let op: kwalificatie hangt af van details (toon, context, doel, reële keuzevrijheid).
+
+---
+
+### B) Afpersing — **art. 317 Sr** (alleen bij geweld/bedreiging met geweld)
+**Afpersing** gaat specifiek over dwang **door geweld of bedreiging met geweld** om afgifte, schuld/verbintenis of gegevens af te dwingen met oogmerk van wederrechtelijk voordeel.
+
+**Maximaal:** gevangenisstraf **tot 9 jaar** of geldboete **5e categorie**.  
+Tekst art. 317 Sr:  
+https://www.inview.nl/openCitation/idad3ee965cc4dab89e767700491a003d3/wetboek-van-strafrecht-artikel-317
+
+**Praktische noot:** zonder (bedreiging met) geweld is art. 317 Sr vaak moeilijker; in arbeidsconflicten wordt vaker gekeken naar **art. 284 Sr (dwang)**.
+
+---
+
+### C) Valsheid in geschrift — **art. 225 Sr**
+Als documenten bewust vals worden opgemaakt/vervalst of als van valse stukken bewust gebruik wordt gemaakt (bijv. “min-uren”, “schuld”, urenoverzichten, loonberekeningen, verklaringen), kan dit vallen onder **valsheid in geschrift**.
+
+**Maximaal:** gevangenisstraf **tot 6 jaar** of geldboete **5e categorie**.  
+Tekst art. 225 Sr:  
+https://www.inview.nl/openCitation/idbe7a24edb101c273013194ea8c25887b/wetboek-van-strafrecht-artikel-225
+
+---
+
+### D) Oplichting — **art. 326 Sr**
+Als iemand door een listige kunstgreep / samenweefsel van verdichtsels wordt bewogen tot afgifte, dienst, schuld/verbintenis of afstand van rechten (bijv. “schuld/min-uren” als onjuiste voorstelling om akkoord/handtekening te krijgen), kan dit vallen onder **oplichting**.
+
+**Maximaal:** gevangenisstraf **tot 4 jaar** of geldboete **5e categorie**.  
+Tekst art. 326 Sr:  
+https://www.inview.nl/openCitation/id8fa9a143265d922b148752df4c785a8b/wetboek-van-strafrecht-artikel-326
+
+---
+
+## 3) Wat kan er concreet gebeuren met de betrokken personen (als het strafrechtelijk wordt)
+Afhankelijk van de ernst en het bewijs:
+- verhoor als **getuige** of als **verdachte**,
+- inbeslagname/onderzoek van administratie/telefoons (bij bredere fraude-onderzoeken),
+- straf: geldboete / taakstraf / (in ernstige gevallen) gevangenisstraf,
+- praktische gevolgen: reputatieschade, ontslag, problemen bij functies waar betrouwbaarheid/VOG belangrijk is.
+
+---
+
+## 4) Hoe dit publiek veilig formuleren (sterk, maar juridisch netjes)
+Aanbevolen formuleringen:
+- “Dit gedrag **kan mogelijk** vallen onder art. 284 Sr (dwang), **indien** wordt vastgesteld dat er wederrechtelijke druk is uitgeoefend.”
+- “Bij eventuele manipulatie van documenten **kan** art. 225 Sr (valsheid in geschrift) en/of art. 326 Sr (oplichting) relevant zijn.”
+- “De uiteindelijke strafrechtelijke kwalificatie is aan politie/OM/rechter.”
+
+Niet aanbevolen (defamatierisico):
+- “Zij hebben zeker misdrijf X gepleegd.”
+- “Dit is sowieso afpersing.”
+- namen/volledige persoonsgegevens publiek noemen zonder noodzaak.
+
+
 ---
 
 ## Bronnen (primaire/autoritatieve links)
