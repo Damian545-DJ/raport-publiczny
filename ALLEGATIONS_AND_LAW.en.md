@@ -134,6 +134,88 @@ In this case, SNCU did not perform a genuine, verifiable audit: the complainant 
 - (Optional) internal employer note “stop working 28-7-2025 / another job” — `[LINK]`
 
 
+# Criminal law consequences (EN) — potential offences for individuals in the recording (manager / staff / interpreter)
+
+**Important disclaimer:** This document describes **possible** criminal-law risks under Dutch law **if** the facts and intent are established by the police/prosecutor/court. Publicly, this must be presented as a **legal assessment / suspicion**, not as a final verdict.
+
+## 1) Who can be prosecuted — the company and individuals
+In the Netherlands, a **legal entity (company)** can be prosecuted, and in addition **individuals** can be prosecuted if they:
+- gave an **order**, or
+- **directed** the unlawful conduct in practice (“feitelijk leidinggeven”), or
+- knowingly participated.
+
+**Article 51 Dutch Penal Code (Sr)** — legal entity + “ordering / factual leadership”:  
+https://maxius.nl/wetboek-van-strafrecht/artikel51
+
+---
+
+## 2) Key criminal-law risk areas (pressure, “negative hours”, “debt”, forced signature)
+
+### A) Coercion (“dwang”) — **Article 284 Sr**
+If someone unlawfully **forces** another person to do/not do/tolerate something (e.g., signing, waiving rights, accepting a “debt/negative hours”) through (threat of) force or another coercive act, this may fall under **coercion**.
+
+**Maximum penalty:** imprisonment **up to 2 years** or a **4th category** fine.  
+Text of Art. 284 Sr:  
+https://www.inview.nl/openCitation/id0f20e2e056d18a65776eb4a56464f567/wetboek-van-strafrecht-artikel-284
+
+**Why it may be relevant in this case (indicators):**
+- strong time pressure to sign (“little time”, “no discussion”, “solve it now”),
+- refusing to provide documents on the spot for calm review,
+- using “negative hours / minus balance” as leverage to close the matter quickly.
+
+> Note: the legal qualification depends on details (context, wording, objective, real freedom to refuse).
+
+---
+
+### B) Extortion (“afpersing”) — **Article 317 Sr** (requires violence or threat of violence)
+Extortion concerns forcing someone **by violence or threat of violence** to hand over property, accept a debt/obligation, or provide data, with the intent to obtain unlawful benefit.
+
+**Maximum penalty:** imprisonment **up to 9 years** or a **5th category** fine.  
+Text of Art. 317 Sr:  
+https://www.inview.nl/openCitation/idad3ee965cc4dab89e767700491a003d3/wetboek-van-strafrecht-artikel-317
+
+**Practical note:** without violence or threat of violence, Art. 317 is typically harder to apply; labour-related cases more often focus on **Art. 284 (coercion)**.
+
+---
+
+### C) Forgery / false documents — **Article 225 Sr**
+If documents are deliberately falsified or fabricated (e.g., “negative hours”, “debts”, hour statements, wage calculations, settlement papers) or knowingly used as genuine, this may fall under **forgery / false documents**.
+
+**Maximum penalty:** imprisonment **up to 6 years** or a **5th category** fine.  
+Text of Art. 225 Sr:  
+https://www.inview.nl/openCitation/idbe7a24edb101c273013194ea8c25887b/wetboek-van-strafrecht-artikel-225
+
+---
+
+### D) Fraud (“oplichting”) — **Article 326 Sr**
+If a person is induced by deception (false narrative, trick, “web of lies”) to sign, accept a debt/obligation, or waive rights, this may fall under **fraud (oplichting)**.
+
+**Maximum penalty:** imprisonment **up to 4 years** or a **5th category** fine.  
+Text of Art. 326 Sr:  
+https://www.inview.nl/openCitation/id8fa9a143265d922b148752df4c785a8b/wetboek-van-strafrecht-artikel-326
+
+---
+
+## 3) What may happen to the involved individuals (if criminal proceedings start)
+Depending on the evidence and seriousness:
+- questioning as **witness** or **suspect**,
+- collection of records / investigation into payroll administration in broader cases,
+- sanctions: fine / community service / (in severe cases) imprisonment,
+- real-life impact: reputational damage, dismissal, difficulty in roles requiring high trust / VOG.
+
+---
+
+## 4) How to phrase this publicly (strong, but legally safe)
+Recommended wording:
+- “This conduct **may potentially** fall under Art. 284 Sr (coercion) **if** unlawful pressure is established.”
+- “If document manipulation is proven, Art. 225 Sr (forgery) and/or Art. 326 Sr (fraud) **may** be relevant.”
+- “Final criminal qualification is for the police/prosecutor/court.”
+
+Not recommended (defamation risk):
+- “They definitely committed offence X.”
+- “This is certainly extortion.”
+- publishing full personal identities without necessity.
+
 ---
 
 ## Sources (primary/authoritative links)
