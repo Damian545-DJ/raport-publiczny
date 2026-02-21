@@ -219,6 +219,41 @@ Not recommended (defamation risk):
 
 ---
 
+## [EN] Unannounced entry into hotel room (Mixx Inn, room 267) — potential criminal consequences (NL)
+
+**Evidence statement (based on video recordings):** on multiple dates and times, third parties opened the door and entered a room that was in the residents’ factual use (D. N., B. S.), **without prior notice and without the residents’ consent**. The incidents show a recurring pattern (multiple entries, different individuals, actions at/near the door and in the entrance area).
+
+### 1) Unlawful entry / house trespass — “huisvredebreuk” (Art. 138 Dutch Criminal Code)
+Unlawfully entering a dwelling / enclosed space that is in another person’s use, or unlawfully remaining there and refusing to leave when ordered, may constitute **huisvredebreuk**.
+A hotel/agency room used as a person’s actual place of stay is generally treated as protected “home/private space” (house-right protection).
+
+**Maximum penalty:** up to 1 year imprisonment or a fine.
+
+### 2) Coercion — “dwang” (Art. 284 DCC) if used as pressure
+If the entry is used to force someone to do, not do, or tolerate something (e.g., to sign documents, accept a disputed “minus/debt”, comply with demands), it may qualify as **criminal coercion**.
+
+**Maximum penalty:** up to 2 years imprisonment or a fine.
+
+### 3) Stalking/harassment — “belaging” (Art. 285b DCC) if systematic
+A **systematic** invasion of privacy aimed at forcing compliance or instilling fear may constitute **belaging**.
+
+**Maximum penalty:** up to 3 years imprisonment or a fine.
+(Procedural note: often requires a formal complaint by the victim.)
+
+### 4) Corporate liability + “de facto directing” (Art. 51 DCC)
+Not only the individuals who entered, but also the **company** (legal entity) and persons who **directed or systematically tolerated** the conduct (de facto leadership) can be held criminally accountable.
+
+### 5) Practical consequences
+- police report/investigation → interviews, suspect status, possible prosecution,
+- potential protective measures if the situation escalates,
+- fines/community service/(suspended) imprisonment depending on severity and repetition,
+- in parallel: civil damages for breach of privacy and peaceful enjoyment of the residence.
+
+### 6) Publishing evidence
+When publishing: anonymise faces/names, preserve originals and hashes, describe as “according to the recordings/evidence” (avoid stating guilt as a fact).
+
+---
+
 ## Sources (primary/authoritative links)
 - Dutch Civil Code (BW) Book 7 – wetten.overheid.nl: https://wetten.overheid.nl/BWBR0005290/
 - BW art. 7:610b (presumption of working hours) – (text overview): https://lokaleregelgeving.overheid.nl/CVDR682512 (search for “Article 610b”)
