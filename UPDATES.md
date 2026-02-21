@@ -51,6 +51,14 @@ EN
 
 Added to “Allegations & Law”: “Criminal law risks (NL) — possible legal qualifications for people in the recording (manager / employee / interpreter)” (Art. 51 Sr, 284 Sr, 317 Sr, 225 Sr, 326 Sr) + guidance on legally safe public wording (disclaimer).
 
+---
+
+### 2026-02-21
+
+PL: Dodano sekcję w `ALLEGATIONS_AND_LAW.pl.md` o konsekwencjach prawnych (w tym karnych) w NL za niezapowiedziane wejścia osób trzecich do pokoju 267 (Mixx Inn, Den Haag) – wraz z raportem dowodowym i materiałem wideo.
+NL: Sectie toegevoegd aan `ALLEGATIONS_AND_LAW.pl.md` over juridische (incl. strafrechtelijke) gevolgen in NL van onaangekondigde betredingen door derden van kamer 267 (Mixx Inn, Den Haag), met bewijsrapport en videomateriaal.
+EN: Added a section to `ALLEGATIONS_AND_LAW.pl.md` on legal (including criminal) consequences in NL for unannounced third-party entries into room 267 (Mixx Inn, The Hague), including an evidence report and video material.
+
 
 
 
