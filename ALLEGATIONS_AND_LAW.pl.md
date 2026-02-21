@@ -238,6 +238,45 @@ Nie polecane (ryzyko prawne/defamacyjne):
 - w razie zarzutów: grzywny, prace społeczne, a w cięższych wariantach — kara więzienia (teoretyczne maksima podane wyżej),
 - bardzo często: konsekwencje zawodowe (zwolnienie, odsunięcie, problemy w branży), bo nagranie jest “twarde”.
 
+---
+
+## [PL] Nieuzgodnione wejścia do pokoju hotelowego (Mixx Inn, pokój 267) — możliwe konsekwencje karne (NL)
+
+**Teza dowodowa (na podstawie nagrań wideo):** w wielu datach i godzinach doszło do otwarcia drzwi i wejścia osób trzecich do pokoju, który był w faktycznym użyciu mieszkańców (Damian Nowak, Bożena Sufin), **bez wcześniejszego powiadomienia i bez uzyskania zgody lokatorów**. Zdarzenia mają charakter powtarzalny (wielość wejść, różne osoby, sekwencje „wejście–czynności przy drzwiach/na wejściu–wyjście”).
+
+### 1) Huisvredebreuk (art. 138 Wetboek van Strafrecht) — naruszenie „miru domowego”
+W NL przestępstwem jest **bezprawne wtargnięcie** do „woning / besloten lokaal” będącego w użyciu innej osoby albo **pozostawanie** tam mimo żądania opuszczenia. Pokój hotelowy/agencyjny zajmowany przez pracownika jest w praktyce traktowany jako przestrzeń objęta ochroną „huisrecht” (ochrona faktycznego, realnego zamieszkiwania/używania).
+**Skutek:** realne ryzyko odpowiedzialności karnej osób wchodzących (oraz osób, które polecały/tolerowały takie wejścia).
+
+**Sankcja (maksymalnie):** do 1 roku pozbawienia wolności albo grzywna.
+
+### 2) Strafbare dwang (art. 284 Sr) — jeśli wejścia były elementem nacisku/przymusu
+Jeżeli wejścia do pokoju były użyte jako narzędzie presji (np. „masz podpisać / masz zaakceptować rozliczenie / masz coś zrobić lub znieść”), wchodzi kwalifikacja **dwang**: zmuszanie kogoś do działania, zaniechania lub znoszenia określonej sytuacji poprzez „faktyczność”/presję.
+**Sankcja (maksymalnie):** do 2 lat pozbawienia wolności albo grzywna.
+
+### 3) Belaging / stalking (art. 285b Sr) — jeśli to jest schemat powtarzalnego nękania
+Gdy mamy **stelselmatige (powtarzalne) naruszanie prywatności** z celem wywołania strachu lub wymuszenia zachowania, może to podpadać pod **belaging**.
+**Sankcja (maksymalnie):** do 3 lat pozbawienia wolności albo grzywna.
+(Uwaga proceduralna: często wymagany jest formalny wniosek/„klacht” pokrzywdzonego.)
+
+### 4) Odpowiedzialność Intrixo jako firmy + „faktyczne kierowanie” (art. 51 Sr)
+W NL przestępstwa mogą być popełnione przez:
+- osoby fizyczne (konkretni pracownicy/agenci),
+- oraz **osoby prawne** (firma), jeśli zachowanie nastąpiło „w sferze” działalności firmy,
+a dodatkowo odpowiedzialność może ponosić osoba, która **faktycznie kierowała** czynem (polecenia, organizacja, akceptacja praktyki, brak reakcji mimo wiedzy).
+
+### 5) Co to znaczy praktycznie (konsekwencje)
+- zawiadomienie/aangifte → przesłuchania, status podejrzanego, postępowanie karne,
+- możliwe środki ochronne (np. zakaz kontaktu/zbliżania w razie eskalacji),
+- grzywny, prace społeczne, wyrok (również warunkowy) — w zależności od skali, powtarzalności i kontekstu nacisku,
+- możliwość dochodzenia odszkodowania/krzywdy równolegle (cywilnie), bo naruszenie prywatności i spokoju zamieszkania jest mierzalną szkodą.
+
+### 6) Minimalne standardy publikacji dowodów (ważne)
+Przy publikowaniu nagrań/klatek w repozytorium:
+- anonimizuj twarze, nazwiska, elementy identyfikujące,
+- zachowaj integralność dowodów (oryginały + sumy kontrolne),
+- opisuj zdarzenia jako „według nagrań / według materiału dowodowego”, bez przesądzania winy.
+
 
 
 ---
