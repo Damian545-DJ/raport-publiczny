@@ -242,7 +242,7 @@ Nie polecane (ryzyko prawne/defamacyjne):
 
 ## [PL] Nieuzgodnione wejścia do pokoju hotelowego (Mixx Inn, pokój 267) — możliwe konsekwencje karne (NL)
 
-**Teza dowodowa (na podstawie nagrań wideo):** w wielu datach i godzinach doszło do otwarcia drzwi i wejścia osób trzecich do pokoju, który był w faktycznym użyciu mieszkańców (Damian Nowak, Bożena Sufin), **bez wcześniejszego powiadomienia i bez uzyskania zgody lokatorów**. Zdarzenia mają charakter powtarzalny (wielość wejść, różne osoby, sekwencje „wejście–czynności przy drzwiach/na wejściu–wyjście”).
+**Teza dowodowa (na podstawie nagrań wideo):** w wielu datach i godzinach doszło do otwarcia drzwi i wejścia osób trzecich do pokoju, który był w faktycznym użyciu mieszkańców (D. N., B. S.), **bez wcześniejszego powiadomienia i bez uzyskania zgody lokatorów**. Zdarzenia mają charakter powtarzalny (wielość wejść, różne osoby, sekwencje „wejście–czynności przy drzwiach/na wejściu–wyjście”).
 
 ### 1) Huisvredebreuk (art. 138 Wetboek van Strafrecht) — naruszenie „miru domowego”
 W NL przestępstwem jest **bezprawne wtargnięcie** do „woning / besloten lokaal” będącego w użyciu innej osoby albo **pozostawanie** tam mimo żądania opuszczenia. Pokój hotelowy/agencyjny zajmowany przez pracownika jest w praktyce traktowany jako przestrzeń objęta ochroną „huisrecht” (ochrona faktycznego, realnego zamieszkiwania/używania).
