@@ -217,6 +217,41 @@ Niet aanbevolen (defamatierisico):
 - “Dit is sowieso afpersing.”
 - namen/volledige persoonsgegevens publiek noemen zonder noodzaak.
 
+---
+
+## [NL] Ongeautoriseerde betreding van hotelkamer (Mixx Inn, kamer 267) — mogelijke strafrechtelijke gevolgen (NL)
+
+**Bewijsstelling (op basis van videobeelden):** op meerdere data en tijdstippen is de deur geopend en zijn derden de kamer binnengegaan die feitelijk door de bewoners werd gebruikt (D. N, B. S.), **zonder voorafgaande aankondiging en zonder toestemming**. Het betreft een terugkerend patroon (meerdere incidenten, verschillende personen, handelingen bij de deur/in de entreezone).
+
+### 1) Huisvredebreuk (art. 138 Sr)
+Het wederrechtelijk binnendringen in een woning/besloten lokaal dat bij een ander in gebruik is, of het wederrechtelijk aldaar vertoeven en niet direct vertrekken na vordering, kan vallen onder **huisvredebreuk**.
+Een hotel-/uitzendkamer die feitelijk als verblijfplaats wordt gebruikt valt in de praktijk onder bescherming van het **huisrecht**.
+
+**Maximale sanctie:** tot 1 jaar gevangenisstraf of geldboete.
+
+### 2) Strafbare dwang (art. 284 Sr) — indien onderdeel van druk/afpersing in de praktijk
+Als het betreden van de kamer werd gebruikt als middel om iemand iets te laten doen/niet te doen/te dulden (bijv. “tekenen”, “akkoord gaan”, “schuld/minus accepteren”), kan dit kwalificeren als **dwang**.
+
+**Maximale sanctie:** tot 2 jaar gevangenisstraf of geldboete.
+
+### 3) Belaging (art. 285b Sr) — bij stelselmatig patroon van intimidatie
+Bij **stelselmatige** inbreuk op de persoonlijke levenssfeer met het oogmerk te dwingen of vrees aan te jagen, kan sprake zijn van **belaging**.
+
+**Maximale sanctie:** tot 3 jaar gevangenisstraf of geldboete.
+(Procesrechtelijk: vaak klachtvereiste.)
+
+### 4) Aansprakelijkheid rechtspersoon + feitelijk leidinggeven (art. 51 Sr)
+Niet alleen de personen die binnenkomen, maar ook de **rechtspersoon** en personen die **feitelijk leiding gaven** (organiseren, opdracht geven, structureel gedogen) kunnen strafrechtelijk in beeld komen.
+
+### 5) Praktische gevolgen
+- aangifte/onderzoek → verhoren, verdachte-status, vervolging,
+- mogelijke beschermingsmaatregelen bij escalatie (contact-/gebiedsverbod),
+- boete/taakstraf/(voorwaardelijke) gevangenisstraf afhankelijk van ernst, herhaling en context,
+- parallel: civiele claim wegens inbreuk op privacy en woongenot.
+
+### 6) Publicatie van bewijs
+Bij publicatie: gezichten/namen anonimiseren, originele bestanden + hashes bewaren, formuleren als “volgens de beelden/bewijsstukken”.
+
 
 ---
 
