@@ -1,39 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/index.html</loc>
+  </url>
 
-  <!-- Home -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=README.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=README.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=README.nl.md</loc>
+  </url>
 
-  <!-- README -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/README.nl.md</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=TIMELINE.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=TIMELINE.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=TIMELINE.nl.md</loc>
+  </url>
 
-  <!-- PL -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.pl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.pl.md</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=EVIDENCE_INDEX.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=EVIDENCE_INDEX.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=EVIDENCE_INDEX.nl.md</loc>
+  </url>
 
-  <!-- EN -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.en.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.en.md</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ALLEGATIONS_AND_LAW.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ALLEGATIONS_AND_LAW.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ALLEGATIONS_AND_LAW.nl.md</loc>
+  </url>
 
-  <!-- NL -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/TIMELINE.nl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/EVIDENCE_INDEX.nl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ALLEGATIONS_AND_LAW.nl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/ANONYMIZATION.nl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/DISCLAIMER.nl.md</loc></url>
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/CONTRIBUTING.nl.md</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ANONYMIZATION.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ANONYMIZATION.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=ANONYMIZATION.nl.md</loc>
+  </url>
 
-  <!-- Optional -->
-  <url><loc>https://damian545-dj.github.io/raport-publiczny/CODE_OF_CONDUCT.md</loc></url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=DISCLAIMER.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=DISCLAIMER.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=DISCLAIMER.nl.md</loc>
+  </url>
 
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=CONTRIBUTING.pl.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=CONTRIBUTING.en.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=CONTRIBUTING.nl.md</loc>
+  </url>
+
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=UPDATES.md</loc>
+  </url>
+  <url>
+    <loc>https://damian545-dj.github.io/raport-publiczny/doc.html?file=CODE_OF_CONDUCT.md</loc>
+  </url>
 </urlset>
