@@ -17,7 +17,5 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Check internal links and GitHub Pages paths
-        run: |
-          python scripts/check_links.py \
-            --base-url https://damian545-dj.github.io/raport-publiczny/
+      - name: Check internal links and file references
+        run: python scripts/check_links.py
