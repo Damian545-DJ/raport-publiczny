@@ -1,13 +1,21 @@
 [EN Version]
 # Intrixo B.V. – public (anonymized) report on alleged violations and the lack of an effective system response
 
-**TL;DR:** We have strong evidence (payslips + audio/video recordings + correspondence), yet for months/years we have been hitting a wall. In practice, it seems that the institutional protection available to an agency can be more effective than the protection mechanisms available to workers. We publish this so the case does not “die in paperwork”.
+**TL;DR:** The repository provides anonymized documentation of an employment-related dispute, including payroll records, correspondence, and references to audio/video evidence. The case has been reported to relevant institutions and remains at the stage of awaiting substantive written responses and independent verification.
 
 **Status:** public version (anonymized)  
 **Last update:** 2026-01-10  
 **Purpose of the repo:** verification, visibility, and gathering support (legal/media/community)
 
 > Important: this is an informational, public-interest publication. We describe facts and conclusions based on documents and recordings in our possession. Any statements about wrongdoing must be read as **claims/allegations**, not as final court findings. This repository is not legal advice.
+
+---
+
+## Executive summary
+
+- **Facts documented:** the repository contains a timeline, payroll/accounting references, correspondence logs, and anonymized descriptions of accommodation/privacy-related incidents.
+- **Evidence available:** payslips, communication records, and audio/video materials (shared only with authorized institutions or representatives on justified request).
+- **Current stage:** public anonymized publication is maintained while the case is pending institutional/legal follow-up and formal responses.
 
 ---
 

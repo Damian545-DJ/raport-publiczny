@@ -1,13 +1,21 @@
 [NL Version]
 # Intrixo B.V. – openbaar (geanonimiseerd) rapport over vermeende schendingen en het uitblijven van effectieve systeemreactie
 
-**TL;DR:** We beschikken over sterk bewijs (loonstroken + audio/video-opnamen + correspondentie), maar toch lopen we al maanden/jaren tegen een muur aan. In de praktijk lijkt het alsof institutionele bescherming die voor een uitzendbureau beschikbaar is effectiever werkt dan de beschermingsmechanismen waar werknemers recht op hebben. We publiceren dit zodat de zaak niet “verdwijnt in papierwerk”.
+**TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij relevante instanties en bevindt zich momenteel in de fase van wachten op inhoudelijke schriftelijke reacties en onafhankelijke verificatie.
 
 **Status:** openbare versie (geanonimiseerd)  
 **Laatste update:** 2026-01-10  
 **Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
 
 > Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
+
+---
+
+## Executive summary
+
+- **Vastgelegde feiten:** de repository bevat een tijdlijn, loon-/afrekeningsgegevens, correspondentielogs en geanonimiseerde beschrijvingen van incidenten rond huisvesting en privacy.
+- **Beschikbaar bewijs:** loonstroken, communicatieregisters en audio/video-materiaal (alleen gedeeld met bevoegde instanties of vertegenwoordigers op gemotiveerd verzoek).
+- **Huidige fase:** de geanonimiseerde publieke versie blijft beschikbaar terwijl de zaak in afwachting is van institutionele/juridische opvolging en formele reacties.
 
 ---
 
