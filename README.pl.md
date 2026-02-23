@@ -1,13 +1,21 @@
 [Polski Version]
 # Intrixo B.V. – publiczny raport (anonimizowany) o rzekomych naruszeniach i braku realnej reakcji systemu
 
-**TL;DR:** Posiadamy mocne dowody (paski płacowe + nagrania audio/wideo + korespondencję), a mimo tego od miesięcy/lat „odbijamy się od ściany”. W naszej ocenie wygląda to tak, jakby ochrona instytucjonalna dostępna dla agencji była skuteczniejsza niż mechanizmy ochrony przysługujące pracownikom. Publikujemy to, żeby sprawa nie „umarła w papierach”.
+**TL;DR:** Repozytorium zawiera anonimizowaną dokumentację sporu pracowniczego, w tym dane płacowe, korespondencję oraz odniesienia do materiałów audio/wideo. Sprawa została zgłoszona właściwym instytucjom i pozostaje na etapie oczekiwania na merytoryczne odpowiedzi pisemne oraz niezależną weryfikację.
 
 **Status:** wersja publiczna (anonimizowana)  
 **Ostatnia aktualizacja:** 2026-01-10  
 **Cel repo:** weryfikacja faktów, nagłośnienie sprawy i zebranie wsparcia (prawnego/medialnego/społecznego)
 
 > Ważne: Ten materiał ma charakter informacyjny i społeczny. Opisujemy fakty i wnioski na podstawie posiadanych dokumentów i nagrań. Wszelkie stwierdzenia o naruszeniach traktuj jako **zarzuty/allegacje**, a nie jako prawomocne ustalenia sądu. Repozytorium nie stanowi porady prawnej.
+
+---
+
+## Executive summary
+
+- **Udokumentowane fakty:** repozytorium zawiera oś czasu, dane dotyczące rozliczeń płacowych, rejestr korespondencji oraz zanonimizowane opisy zdarzeń dotyczących zakwaterowania i prywatności.
+- **Dostępne dowody:** paski płacowe, zapisy komunikacji oraz materiały audio/wideo (udostępniane wyłącznie uprawnionym instytucjom lub pełnomocnikom na uzasadniony wniosek).
+- **Aktualny etap:** utrzymywana jest publiczna wersja anonimizowana, a sprawa pozostaje w toku oczekiwania na czynności instytucjonalne/prawne i formalne odpowiedzi.
 
 ---
 
