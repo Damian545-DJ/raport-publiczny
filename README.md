@@ -1,6 +1,12 @@
 # Raport publiczny (anonimizowany) – PL / NL / EN
 
-Start strony (dla GitHub Pages): **[index.md](index.md)**
+## Oficjalny link do strony
+
+https://damian545-dj.github.io/raport-publiczny/index.html
+
+Start strony (dla GitHub Pages): **[index.html](index.html)**
+
+Repozytorium GitHub: **[Damian545-DJ/raport-publiczny](https://github.com/Damian545-DJ/raport-publiczny)**
 
 - 🇵🇱 Polski: [README.pl.md](README.pl.md)  
 - 🇳🇱 Nederlands: [README.nl.md](README.nl.md)  
