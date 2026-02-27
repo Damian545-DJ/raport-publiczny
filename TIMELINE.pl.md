@@ -60,7 +60,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 
 ---
 
-# Pracownica 1 – dowody (skrót + timeline)
+# Pracownica 1 (B. S.) – dowody (skrót + timeline)
 
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
 - Od **21.11.2022** (umowa na czas nieokreślony, faza C, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
@@ -171,13 +171,13 @@ E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dow
 
 ### Po zakończeniu pracy / ugoda – dalsze działania (2025–2026)
 
-- **09.07.2025 (Den Haag):** Bożena Sufin składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem. (dowód: wypowiedzenie – 09.07.2025)
+- **09.07.2025 (Den Haag):** B. S. składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem. (dowód: wypowiedzenie – 09.07.2025)
 
 - **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki. (dowód: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
 
 - **24.02.2026:** Intrixo wystawia loonstrook/loonspecificatie nr **35** (tydzień **32/2025**, okres **04.08.2025–10.08.2025**) — wykazane „netto te betalen” **2,50 €**. (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
-- **25.02.2026:** wpływ SEPA na konto Bożeny: Intrixo B.V. **2,50 €** (opis: „Betreft loonslipnummer 35”). (dowód: Potwierdzenie_transakcji_...pdf)
+- **25.02.2026:** wpływ SEPA na konto B. S.: Intrixo B.V. **2,50 €** (opis: „Betreft loonslipnummer 35”). (dowód: Potwierdzenie_transakcji_...pdf)
 
 - **27.02.2026:** Bożena otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**). (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
