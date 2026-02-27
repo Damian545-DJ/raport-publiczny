@@ -61,6 +61,16 @@ NL: Sectie toegevoegd aan `ALLEGATIONS_AND_LAW.pl.md` over juridische (incl. str
 
 EN: Added a section to `ALLEGATIONS_AND_LAW.pl.md` on legal (including criminal) consequences in NL for unannounced third-party entries into room 267 (Mixx Inn, The Hague), including an evidence report and video material.
 
+---
+
+### 2026-02-27
+
+PL: Dodano wpis do Timeline z 14.02.2026 dotyczący Juridisch Loket (brak możliwości uzyskania odpowiedzi od SNCU ws. zamknięcia sprawy) + załączono plik „Juridisch Loket.pdf”.
+
+NL: Tijdlijn aangevuld met het item van 14.02.2026 over Juridisch Loket (geen mogelijkheid om een antwoord van SNCU te krijgen over het sluiten van de zaak) + bijlage “Juridisch Loket.pdf” toegevoegd.
+
+EN: Added a 14.02.2026 Timeline entry regarding Juridisch Loket (still unable to obtain SNCU’s explanation for closing the case) + attached “Juridisch Loket.pdf”.
+
 
 
 
