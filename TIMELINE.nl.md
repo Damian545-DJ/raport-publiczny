@@ -60,7 +60,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ---
 
-# Werknemer 1 – bewijs (korte samenvatting + tijdlijn)
+# Werknemer 1 (B. S.) – bewijs (korte samenvatting + tijdlijn)
 
 ## 1) Schuldmechanisme door geen werkplanning
 - Vanaf **21-11-2022** (onbepaalde tijd, fase C, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
@@ -158,13 +158,13 @@ E) Risico dat besluitvorming op onvolledig materiaal gebeurde (vertalingen/bewij
 
 ### Na einde werk / schikking – vervolgacties (2025–2026)
 
-- **09.07.2025 (Den Haag):** Bożena Sufin zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave. (bewijs: opzegbrief – 09.07.2025)
+- **09.07.2025 (Den Haag):** B. S. zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave. (bewijs: opzegbrief – 09.07.2025)
 
 - **11.12.2025:** aan Intrixo (helpdesk@intrixo.nl) is de brief/e-mail “Verzoek om berekening achterstallig brutoloon” verzonden — verzoek om alle documenten en berekeningen van het achterstallig brutoloon vanaf **06.05.2022** conform het proces-verbaal (**12.03.2024**) + verzoek om reactie binnen **14 dagen**, anders verdere stappen. (bewijs: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
 
 - **24.02.2026:** Intrixo verstrekt loonstrook/loonspecificatie nr. **35** (week **32/2025**, periode **04.08.2025–10.08.2025**) — “netto te betalen” **€ 2,50**. (bewijs: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
-- **25.02.2026:** SEPA-bijschrijving op rekening van Bożena: Intrixo B.V. **€ 2,50** (omschrijving: “Betreft loonslipnummer 35”). (bewijs: Potwierdzenie_transakcji_...pdf)
+- **25.02.2026:** SEPA-bijschrijving op rekening van B. S.: Intrixo B.V. **€ 2,50** (omschrijving: “Betreft loonslipnummer 35”). (bewijs: Potwierdzenie_transakcji_...pdf)
 
 - **27.02.2026:** Bożena heeft de loonstrook/loonspecificatie van Intrixo ontvangen (loonstrook nr. **35**). (bewijs: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
