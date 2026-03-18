@@ -251,6 +251,7 @@ Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w 
 ### Styczeń 2026 – dowody i zamknięcie
 - **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h i presja, brak rozliczenia po wypowiedzeniu, podejrzenie manipulacji korektami.  
   (plik: Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screeny)
+* 20.01.2026: Po kontakcie z Sezerem Duygulu SNCU zamyka sprawę; brak wyjaśnienia podstaw decyzji.
 - **20.01.2026:** SNCU / Juridisch Loket (signaal **37856** / **V-657**): informacja o postępowaniu wstępnym i zakończeniu sprawy po kontakcie z pracodawcą; w załączniku korespondencja SNCU–pracodawca oraz tłumaczenia stanowisk.
 - **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – oczekiwanie na odpowiedz
 - **14.02.2026:** Juridisch Loket – informacja, że nadal nie mogą uzyskać od SNCU odpowiedzi, dlaczego zamknęli sprawę, i że Juridisch Loket nie będzie podejmować dalszych działań wobec SNCU, ponieważ nie mają możliwości zobowiązania SNCU do wydania decyzji ani udzielenia odpowiedzi. Rekomendacja: kontakt z adwokatem (możliwe roszczenie o zaległe wynagrodzenie / dalsza droga prawna) oraz możliwość skierowania do adwokata. (załącznik: Juridisch Loket.pdf)
