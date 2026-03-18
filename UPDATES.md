@@ -77,6 +77,9 @@ NL: De tijdlijn van B. S. (werkneemster) is aangevuld met gebeurtenissen na het 
 
 EN: B. S.’s Timeline (employee) has been updated with post-employment events: resignation (09.07.2025), request to Intrixo for calculations after the settlement (11.12.2025), payslip no. 35 (issued 24.02.2026, €2.50 transfer on 25.02.2026, received 27.02.2026), and case takeover by the third representative (25.02.2026). Relevant evidence files (PDF) have been added/linked.
 
+### 2026-18-03
+
+ D. N. Added - Timeline, Allegations
 
 
 
