@@ -252,6 +252,50 @@ Niet alleen de personen die binnenkomen, maar ook de **rechtspersoon** en person
 ### 6) Publicatie van bewijs
 Bij publicatie: gezichten/namen anonimiseren, originele bestanden + hashes bewaren, formuleren als “volgens de beelden/bewijsstukken”.
 
+---
+
+## Sezer Duygulu
+
+Sezer Duygulu wordt publiekelijk gepresenteerd als Founder van de Home of People-groep. Diezelfde groep toont publiekelijk een netwerk van verbonden merken, waaronder Uitzendbureau Solutions, T&S Flexwerk, TENS Holanda, NWH Jobs, Efficient at Work, Intrixo en Masterteam. Dit ziet er niet uit als een klein, lokaal bedrijf, maar als een uitgebreide structuur die actief is in een sector die al jaren onder een vergrootglas ligt vanwege risico’s rond arbeidsmigranten, huisvesting en de afhankelijkheid van werknemers van tussenpersonen.
+
+De sterkste rode vlag betreft arbeidsrechten. Uitzendbureau Solutions B.V. was partij in een zaak die helemaal tot aan de Nederlandse Hoge Raad kwam. De kern van de zaak was zeer ernstig: of een uitzendkracht in de praktijk zijn baan kan verliezen alleen omdat hij ziek wordt. Alleen al het feit dat deze zaak zo hoog is gekomen, laat zien dat het niet ging om een klein misverstand, maar om een wezenlijk probleem met betrekking tot de bescherming van werknemers in geval van ziekte of arbeidsongeschiktheid.
+
+Een tweede sterke rode vlag betreft de huisvesting van arbeidsmigranten. In een publiek toegankelijke zaak van de Raad van State wordt het gebruik van een pand als logies voor arbeidsmigranten beschreven, evenals bestuurlijke maatregelen in verband met overtredingen van brandveiligheidsvoorschriften en strijdig gebruik van het pand. In de beschrijving van de zaak verschijnt een verband met Solutions B.V. als huurder die de huisvesting financierde. Dit is geen klein administratief detail, maar een signaal van risico in een van de meest gevoelige onderdelen van het hele bedrijfsmodel.
+
+De derde rode vlag is het bedrijfsmodel zelf. Wanneer één groep werk, huisvesting en vaak ook vervoer controleert, wordt de werknemer in bijna alles afhankelijk van één structuur. Juist zo’n constructie wijst de Nederlandse overheid aan als bijzonder gevoelig voor misstanden: onderbetaling, slechte arbeids- en leefomstandigheden en het omzeilen van regels. Daarom heeft de overheid de Wtta ingevoerd, die bedoeld is om uitzendbureaus en inleners aan te pakken als zij de wet omzeilen of handelen ten koste van werknemers.
+
+Wat daarnaast opvalt, is dat deze activiteiten tegelijk sterk verankerd zijn in officiële branche- en certificeringsstructuren. Uitzendbureau Solutions B.V. staat op de website van de NBBU als lid vermeld, en de vermelding verwijst ook naar SNA-certificering. In het SNA-register staat de onderneming als gecertificeerd vermeld, en het registratiedocument bevestigt opname in het Register Normering Arbeid. In het SNF-register staat op zijn beurt Solutions B.V., Uitzendbureau vermeld, wat betekent dat het voorkomt in het normeringssysteem voor de huisvesting van arbeidsmigranten. Met andere woorden: het bedrijf opereert niet in de marge van de markt, maar bevindt zich binnen de officiële branche- en certificeringscircuits.
+
+Dat maakt het beeld echter niet schoon. Lidmaatschap van de NBBU en aanwezigheid in SNA/SNF betekenen niet automatisch dat er geen problemen zijn. Ze tonen alleen aan dat het bedrijf binnen het branchesysteem functioneert en bepaalde formele controles heeft doorlopen. Toch blijven er in het publieke domein ernstige vragen bestaan over de behandeling van werknemers en de veiligheid van de huisvesting.
+
+De eerlijkste samenvatting is dan ook deze: rond de activiteiten die met Sezer Duygulu in verband worden gebracht, zijn reële rode vlaggen zichtbaar — een arbeidsrechtelijk geschil op het niveau van de Hoge Raad, kwesties rond de huisvesting van arbeidsmigranten en activiteiten in een sector die door de overheid als bijzonder kwetsbaar voor misstanden wordt beschouwd. Er is echter in deze bronnen geen basis om als feit te stellen dat Sezer Duygulu persoonlijk is veroordeeld voor fraude of formeel is aangemerkt als dader van uitbuiting. Dat onderscheid is belangrijk: men kan spreken van ernstig risico en een zorgwekkend patroon, maar niet van bewezen persoonlijke schuld zonder harde documenten.
+
+
+
+Sezer Duygulu wordt publiekelijk gepresenteerd als oprichter van Home of People — een groep die actief is in de sector van uitzendarbeid en arbeidsmigranten. Rond de aan deze groep verbonden ondernemingen duiken ernstige rode vlaggen op: een arbeidsrechtelijk geschil met betrokkenheid van Uitzendbureau Solutions bereikte de Nederlandse Hoge Raad, en in openbare bestuurlijke stukken verschijnt ook een dossier over de huisvesting van arbeidsmigranten en overtredingen op het gebied van brandveiligheid. Tegelijk functioneert de onderneming binnen officiële branchestructuren — zij staat vermeld als lid van de NBBU en komt voor in de registers van SNA en SNF. Dat neemt de risico’s niet weg. Het laat eerder zien dat er, ondanks de formele inbedding in het branchesysteem, rond deze activiteiten wezenlijke vragen blijven bestaan over arbeidsrechten, housing compliance en het model van afhankelijkheid van werknemers van de intermediair.
+
+Bronlinks
+
+https://www.homeofpeople.nl/over-ons/
+
+https://www.homeofpeople.nl/team/sezer-duygulu/
+
+https://www.nbbu.nl/nl/onze-leden/uitzendbureau-solutions-bv
+
+https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+
+https://www.raadvanstate.nl/@138720/202103252-1-r3/
+
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen
+
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen/4c2e95bf-f454-4b15-b279-eaf2a1860f48/verklaring/nl
+
+https://www.normeringflexwonen.nl/register
+
+https://www.normeringflexwonen.nl/snfkeurmerk/gecertificeerde-ondernemingen/export
+
+https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-miss
+
 
 ---
 
