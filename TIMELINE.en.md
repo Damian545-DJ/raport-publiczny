@@ -237,6 +237,7 @@ The worker reported a “minus” shown in the system. Helpdesk explained that i
 ### January 2026 – evidence submitted and case closed
 - **04 Jan 2026:** key evidence sent to SNCU: “minus/debt”, 61.11h holiday + pressure, missing final settlement, suspected manipulation via corrections.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
+*2026-01-20: After contact with Sezer Duygulu, SNCU closes the case; no explanation is provided for the grounds of the decision.
 - **20 Jan 2026:** SNCU / Juridisch Loket (signal 37856 / V-657): message that SNCU conducted a preliminary procedure, contacted the employer, and then concluded it cannot take further action; attachments include SNCU–employer correspondence and translations (inspector’s position and employer reply).
 - **20 Jan 2026:** objection to the case closure submitted (with reference to the evidence basis) – Waiting for a response.
 - **14.02.2026:** Juridisch Loket – information that they still cannot obtain an answer from SNCU as to why the case was closed, and that Juridisch Loket will not take any further steps towards SNCU because they have no power to compel SNCU to issue a decision or provide a response. Recommendation: contact a lawyer (possible claim for unpaid wages / further legal action) and the possibility of referral to a lawyer. (attachment: Juridisch Loket.pdf)
