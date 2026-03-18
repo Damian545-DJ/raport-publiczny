@@ -229,6 +229,7 @@ De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in w
 ### Januari 2026 – bewijs aangeleverd en zaak gesloten
 - **04-01-2026:** bewijs naar SNCU: “minus/schuld”, 61,11 uur verlof + druk, geen eindafrekening, vermoeden manipulatie correcties.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
+* 20-01-2026: Na contact met Sezer Duygulu sluit SNCU de zaak; er wordt geen toelichting gegeven op de gronden van de beslissing.
 - **20-01-2026:** SNCU/Juridisch Loket (signaal 37856 / V-657): bericht dat na contact met werkgever geen verdere actie wordt ondernomen; bijlage bevat SNCU–werkgever correspondentie + vertalingen (standpunt inspecteur en reactie werkgever).
 - **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – In afwachting van een reactie
 - **14.02.2026:** Juridisch Loket – bericht dat zij nog steeds geen antwoord van SNCU kunnen krijgen waarom de zaak is gesloten, en dat Juridisch Loket geen verdere stappen richting SNCU zal ondernemen, omdat zij SNCU niet kunnen verplichten een besluit te nemen of te reageren. Advies: contact opnemen met een advocaat (mogelijke vordering van achterstallig loon / verdere juridische stappen) en mogelijkheid tot doorverwijzing naar een advocaat. (bijlage: Juridisch Loket.pdf)
