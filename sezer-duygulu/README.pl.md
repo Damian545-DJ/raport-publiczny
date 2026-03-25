@@ -48,3 +48,41 @@ Na obecnym etapie publicznie dostępne informacje oraz zgromadzone przeze mnie d
 
 ## Powiązanie z głównym raportem
 Ta sekcja stanowi uzupełnienie głównego raportu publicznego i powinna być czytana łącznie z pozostałymi częściami dokumentacji, w tym z osią czasu, opisem zarzutów, materiałem dowodowym oraz zasadami anonimizacji.
+
+---
+
+## Podmioty i lokalizacje powiązane z tym ekosystemem
+
+Z dostępnych informacji publicznych wynika, że z ekosystemem podmiotów publicznie wiązanych z Sezerem Duygulu oraz strukturą Home of People związane są lub były między innymi następujące podmioty działające w Holandii:
+
+- Solutions / Uitzendbureau Solutions,
+- T&S Flexwerk,
+- NWH Jobs,
+- Efficient at Work,
+- Intrixo,
+- Masterteam.
+
+W kontekście rekrutacji pracowników do Holandii istotne znaczenie mają również podmioty działające w Polsce, które są lub mogą być powiązane organizacyjnie, operacyjnie, marketingowo albo rekrutacyjnie z wyżej wskazanym ekosystemem. Do takich podmiotów należą w szczególności:
+
+- VP Flex sp. z o.o. – Elbląg,
+- Efficient People Agency Polska sp. z o.o. – Końskie,
+- NWH Jobs Poland – Kalisz,
+- Efficient at Work – struktura lub oddział operacyjny wskazywany w Końskich.
+
+Po stronie holenderskiej jako istotne lokalizacje działalności wskazywane są między innymi:
+
+- Uitzendbureau Solutions – De Lier (biuro główne) oraz Heerhugowaard,
+- T&S Flexwerk – Waalwijk,
+- NWH Jobs – Noordwijkerhout,
+- Efficient at Work – De Lier,
+- Intrixo – Maasland.
+
+Na obecnym etapie nie można wykluczyć, że katalog tych podmiotów jest szerszy i obejmuje również inne spółki, marki, oddziały lub podmioty rekrutacyjne działające w Polsce albo w Holandii. Część powiązań wymaga dalszej weryfikacji na podstawie dokumentów rejestrowych, danych korporacyjnych, materiałów rekrutacyjnych, stron internetowych i ofert pracy.
+
+## Znaczenie dla głównego raportu
+
+Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
+
+## Dalsze ustalenia i aktualizacje
+
+Ta sekcja będzie uzupełniana o kolejne publicznie dostępne informacje, materiały źródłowe oraz udokumentowane okoliczności istotne dla oceny wiarygodności, powiązań i kontekstu całej sprawy.
