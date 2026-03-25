@@ -48,3 +48,41 @@ Op dit moment vormen de publiek beschikbare informatie en de door mij verzamelde
 
 ## Relatie tot het hoofdrapport
 Deze sectie vormt een aanvulling op het hoofdrapport en moet worden gelezen samen met de overige documentatie, waaronder de tijdlijn, de omschrijving van de aantijgingen, het bewijsmateriaal en de anonimisatieregels.
+
+---
+
+## Entiteiten en locaties die met dit ecosysteem verbonden zijn
+
+Op basis van publiek beschikbare informatie blijkt dat tot het ecosysteem van entiteiten die publiekelijk met Sezer Duygulu en de structuur Home of People in verband worden gebracht, onder meer de volgende in Nederland opererende entiteiten behoren of hebben behoord:
+
+- Solutions / Uitzendbureau Solutions,
+- T&S Flexwerk,
+- NWH Jobs,
+- Efficient at Work,
+- Intrixo,
+- Masterteam.
+
+In het kader van de werving van werknemers voor Nederland is het daarnaast van belang om ook aandacht te besteden aan entiteiten die in Polen actief zijn en die organisatorisch, operationeel, commercieel of via rekruteringsactiviteiten verbonden zijn of kunnen zijn met het hierboven genoemde ecosysteem. Daaronder vallen in het bijzonder:
+
+- VP Flex sp. z o.o. – Elbląg,
+- Efficient People Agency Polska sp. z o.o. – Końskie,
+- NWH Jobs Poland – Kalisz,
+- Efficient at Work – een operationele structuur of vestiging die in Końskie wordt vermeld.
+
+Aan Nederlandse zijde worden onder meer de volgende locaties genoemd als relevante vestigingen of plaatsen van activiteit:
+
+- Uitzendbureau Solutions – De Lier (hoofdkantoor) en Heerhugowaard,
+- T&S Flexwerk – Waalwijk,
+- NWH Jobs – Noordwijkerhout,
+- Efficient at Work – De Lier,
+- Intrixo – Maasland.
+
+Op dit moment kan niet worden uitgesloten dat de volledige lijst van entiteiten breder is en ook andere vennootschappen, merken, vestigingen of rekruteringsintermediairs omvat die in Polen of in Nederland actief zijn. Een deel van deze verbanden vereist nadere verificatie aan de hand van registerdocumenten, ondernemingsgegevens, wervingsmateriaal, websites en vacaturepublicaties.
+
+## Betekenis voor het hoofdrapport
+
+Het belang van deze sectie ligt niet in het automatisch toeschrijven van verantwoordelijkheid aan één persoon voor iedere handeling van iedere entiteit binnen dit ecosysteem. Deze sectie heeft een contextueel en documentair karakter. Zij laat zien dat de individuele zaak met betrekking tot Intrixo niet op zichzelf staat, maar moet worden bezien binnen een bredere structuur van entiteiten, rekruteringsmerken en operationele verbanden die betrokken zijn bij het werven van arbeidsmigranten en het doorgeleiden van hen naar werk en huisvesting in Nederland.
+
+## Verdere bevindingen en updates
+
+Deze sectie zal worden aangevuld met verdere publiek beschikbare informatie, bronmaterialen en gedocumenteerde omstandigheden die relevant zijn voor de beoordeling van de geloofwaardigheid, verbanden en de bredere context van de zaak.
