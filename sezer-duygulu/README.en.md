@@ -1,6 +1,8 @@
 # Sezer Duygulu – public context and documented inconsistencies
 
 ## Important note
+The use of the full name Sezer Duygulu in this section is made solely to the extent necessary to identify the person in the context of publicly available materials, business links and documented circumstances relevant to the case. The processing and publication of these data are intended to pursue a legitimate interest consisting in documenting a matter of public relevance and in exercising freedom of expression and information, with due regard to the principles of proportionality and accuracy referred to in Article 6(1)(f) and Article 85 of Regulation (EU) 2016/679 (GDPR), as well as Article 11 of the Charter of Fundamental Rights of the European Union. This reference is purely informational, documentary and contextual in nature and does not constitute an attribution of criminal, civil or administrative liability unless this follows expressly from official, publicly available documents or final decisions.
+
 This material is documentary and informational in nature. It is based on publicly available sources and on documented materials related to an individual employment case. The purpose of this text is not to assign criminal or civil liability to any person without a final legal ruling, but to present the public context and documented inconsistencies that warrant attention, caution, and further review.
 
 ## Purpose of this section
