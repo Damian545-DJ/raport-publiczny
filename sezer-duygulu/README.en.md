@@ -10,7 +10,7 @@ This section was prepared as a supplement to the main public evidence report. It
 - recent documented materials indicating inconsistencies in an individual case connected to Intrixo(Voorneputten).
 
 ## Public context
-In publicly available materials, Sezer Duygulu is presented as a person linked to the Home of People group and to brands and entities operating in the temporary work and migrant labour sector, including, among others, Uitzendbureau Solutions, Intrixo, Efficient at Work, T&S Flexwerk, NWH Jobs, and Masterteam.
+In publicly available materials, Sezer Duygulu is presented as a person linked to the Home of People group and to brands and entities operating in the temporary work and migrant labour sector, including, among others, Uitzendbureau Solutions, Intrixo(Voorneputten), Efficient at Work, T&S Flexwerk, NWH Jobs, and Masterteam.
 
 The mere fact of being publicly linked to an extensive business ecosystem does not in itself prove responsibility for any specific violation. However, it is relevant context, especially where some of these entities have for years been associated with warning signs concerning labour rights, housing conditions, worker dependency on agencies, deductions, and lack of transparency in dealings with migrant workers.
 
