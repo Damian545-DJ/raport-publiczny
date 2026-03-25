@@ -1,6 +1,7 @@
 # Sezer Duygulu – kontekst publiczny i udokumentowane sprzeczności
 
 ## Ważna uwaga
+Użycie w niniejszej sekcji pełnego imienia i nazwiska Sezera Duygulu następuje wyłącznie w zakresie niezbędnym do identyfikacji osoby w kontekście publicznie dostępnych materiałów, powiązań biznesowych oraz udokumentowanych okoliczności istotnych dla sprawy. Przetwarzanie i publikacja tych danych mają na celu realizację prawnie uzasadnionego interesu polegającego na dokumentowaniu sprawy mającej znaczenie publiczne oraz na korzystaniu z wolności wypowiedzi i informacji, z poszanowaniem zasad proporcjonalności i rzetelności, o których mowa w art. 6 ust. 1 lit. f oraz art. 85 Rozporządzenia (UE) 2016/679 (RODO), a także art. 11 Karty praw podstawowych Unii Europejskiej. Wzmianka ta ma charakter wyłącznie informacyjny, dokumentacyjny i kontekstowy i nie stanowi przypisania odpowiedzialności karnej, cywilnej ani administracyjnej, o ile nie wynika to wprost z oficjalnych, publicznie dostępnych dokumentów lub prawomocnych rozstrzygnięć.
 Niniejszy materiał ma charakter dokumentacyjny i informacyjny. Opiera się na publicznie dostępnych źródłach oraz na udokumentowanych materiałach związanych z indywidualną sprawą pracowniczą. Celem tego opracowania nie jest przypisywanie komukolwiek odpowiedzialności karnej bez prawomocnego rozstrzygnięcia, lecz przedstawienie publicznego kontekstu oraz udokumentowanych niespójności, które wymagają uwagi, ostrożności i dalszej analizy.
 
 ## Cel tej sekcji
@@ -10,7 +11,7 @@ Ta sekcja została przygotowana jako uzupełnienie głównego raportu dowodowego
 - świeżych, udokumentowanych materiałów wskazujących na niespójności w indywidualnej sprawie związanej z Intrixo.
 
 ## Kontekst publiczny
-W publicznie dostępnych materiałach Sezer Duygulu jest przedstawiany jako osoba powiązana z grupą Home of People oraz z markami i podmiotami działającymi w sektorze pracy tymczasowej i zatrudnienia pracowników migrujących, w tym między innymi z takimi nazwami jak Uitzendbureau Solutions, Intrixo(Voorneputten), Efficient at Work, T&S Flexwerk, NWH Jobs i Masterteam.
+W publicznie dostępnych materiałach Sezer Duygulu jest przedstawiany jako osoba powiązana z grupą Home of People oraz z markami i podmiotami działającymi w sektorze pracy tymczasowej i zatrudnienia pracowników migrujących, w tym między innymi z takimi nazwami jak Uitzendbureau Solutions, Intrixo (Voorneputten), Efficient at Work, T&S Flexwerk, NWH Jobs i Masterteam.
 
 Sam fakt publicznego powiązania z tak rozbudowanym ekosystemem nie przesądza jeszcze o odpowiedzialności za konkretne naruszenia. Ma on jednak znaczenie kontekstowe, zwłaszcza wtedy, gdy wokół części tych podmiotów od lat pojawiają się sygnały ostrzegawcze dotyczące praw pracowniczych, warunków zakwaterowania, zależności pracownika od agencji, potrąceń oraz przejrzystości działań wobec pracowników migrujących.
 
@@ -59,7 +60,7 @@ Z dostępnych informacji publicznych wynika, że z ekosystemem podmiotów public
 - T&S Flexwerk,
 - NWH Jobs,
 - Efficient at Work,
-- Intrixo(Voorneputten),
+- Intrixo (Voorneputten),
 - Masterteam.
 
 W kontekście rekrutacji pracowników do Holandii istotne znaczenie mają również podmioty działające w Polsce, które są lub mogą być powiązane organizacyjnie, operacyjnie, marketingowo albo rekrutacyjnie z wyżej wskazanym ekosystemem. Do takich podmiotów należą w szczególności:
@@ -75,13 +76,13 @@ Po stronie holenderskiej jako istotne lokalizacje działalności wskazywane są 
 - T&S Flexwerk – Waalwijk,
 - NWH Jobs – Noordwijkerhout,
 - Efficient at Work – De Lier,
-- Intrixo(Voorneputten) – Maasland.
+- Intrixo (Voorneputten) – Maasland.
 
 Na obecnym etapie nie można wykluczyć, że katalog tych podmiotów jest szerszy i obejmuje również inne spółki, marki, oddziały lub podmioty rekrutacyjne działające w Polsce albo w Holandii. Część powiązań wymaga dalszej weryfikacji na podstawie dokumentów rejestrowych, danych korporacyjnych, materiałów rekrutacyjnych, stron internetowych i ofert pracy.
 
 ## Znaczenie dla głównego raportu
 
-Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo(Voorneputten) nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
+Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo (Voorneputten) nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
 
 ## Dalsze ustalenia i aktualizacje
 
