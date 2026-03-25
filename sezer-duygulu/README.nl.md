@@ -7,7 +7,7 @@ Dit materiaal heeft een documentair en informatief karakter. Het is gebaseerd op
 Deze sectie is opgesteld als aanvulling op het hoofdrapport met openbaar bewijsmateriaal. Het doel is om het volgende met elkaar te verbinden:
 - publiek beschikbare informatie over Sezer Duygulu en aan hem gelieerde entiteiten,
 - publieke rode vlaggen met betrekking tot bedrijven binnen dit ecosysteem,
-- recente gedocumenteerde stukken die wijzen op tegenstrijdigheden in een individuele zaak in verband met Intrixo.
+- recente gedocumenteerde stukken die wijzen op tegenstrijdigheden in een individuele zaak in verband met Intrixo(Voorneputten).
 
 ## Publieke context
 In publiek beschikbare materialen wordt Sezer Duygulu gepresenteerd als een persoon die verbonden is met de Home of People-groep en met merken en entiteiten die actief zijn in de sector van uitzendarbeid en arbeidsmigratie, waaronder onder meer Uitzendbureau Solutions, Intrixo, Efficient at Work, T&S Flexwerk, NWH Jobs en Masterteam.
@@ -59,7 +59,7 @@ Op basis van publiek beschikbare informatie blijkt dat tot het ecosysteem van en
 - T&S Flexwerk,
 - NWH Jobs,
 - Efficient at Work,
-- Intrixo,
+- Intrixo(Voorneputten),
 - Masterteam.
 
 In het kader van de werving van werknemers voor Nederland is het daarnaast van belang om ook aandacht te besteden aan entiteiten die in Polen actief zijn en die organisatorisch, operationeel, commercieel of via rekruteringsactiviteiten verbonden zijn of kunnen zijn met het hierboven genoemde ecosysteem. Daaronder vallen in het bijzonder:
@@ -75,13 +75,13 @@ Aan Nederlandse zijde worden onder meer de volgende locaties genoemd als relevan
 - T&S Flexwerk – Waalwijk,
 - NWH Jobs – Noordwijkerhout,
 - Efficient at Work – De Lier,
-- Intrixo – Maasland.
+- Intrixo(Voorneputten) – Maasland.
 
 Op dit moment kan niet worden uitgesloten dat de volledige lijst van entiteiten breder is en ook andere vennootschappen, merken, vestigingen of rekruteringsintermediairs omvat die in Polen of in Nederland actief zijn. Een deel van deze verbanden vereist nadere verificatie aan de hand van registerdocumenten, ondernemingsgegevens, wervingsmateriaal, websites en vacaturepublicaties.
 
 ## Betekenis voor het hoofdrapport
 
-Het belang van deze sectie ligt niet in het automatisch toeschrijven van verantwoordelijkheid aan één persoon voor iedere handeling van iedere entiteit binnen dit ecosysteem. Deze sectie heeft een contextueel en documentair karakter. Zij laat zien dat de individuele zaak met betrekking tot Intrixo niet op zichzelf staat, maar moet worden bezien binnen een bredere structuur van entiteiten, rekruteringsmerken en operationele verbanden die betrokken zijn bij het werven van arbeidsmigranten en het doorgeleiden van hen naar werk en huisvesting in Nederland.
+Het belang van deze sectie ligt niet in het automatisch toeschrijven van verantwoordelijkheid aan één persoon voor iedere handeling van iedere entiteit binnen dit ecosysteem. Deze sectie heeft een contextueel en documentair karakter. Zij laat zien dat de individuele zaak met betrekking tot Intrixo(Voorneputten) niet op zichzelf staat, maar moet worden bezien binnen een bredere structuur van entiteiten, rekruteringsmerken en operationele verbanden die betrokken zijn bij het werven van arbeidsmigranten en het doorgeleiden van hen naar werk en huisvesting in Nederland.
 
 ## Verdere bevindingen en updates
 
