@@ -1,16 +1,18 @@
 # Sezer Duygulu – publieke context en gedocumenteerde tegenstrijdigheden
 
 ## Belangrijke opmerking
+Het gebruik van de volledige naam Sezer Duygulu in deze sectie vindt uitsluitend plaats voor zover dit noodzakelijk is voor de identificatie van de persoon in de context van publiek beschikbare materialen, zakelijke verbanden en gedocumenteerde omstandigheden die relevant zijn voor de zaak. De verwerking en publicatie van deze gegevens dienen ter verwezenlijking van een gerechtvaardigd belang, namelijk het documenteren van een zaak van publiek belang en het uitoefenen van de vrijheid van meningsuiting en informatie, met inachtneming van de beginselen van proportionaliteit en zorgvuldigheid als bedoeld in artikel 6, lid 1, onder f, en artikel 85 van Verordening (EU) 2016/679 (AVG), alsmede artikel 11 van het Handvest van de grondrechten van de Europese Unie. Deze vermelding heeft uitsluitend een informatief, documentair en contextueel karakter en houdt geen toerekening van strafrechtelijke, civielrechtelijke of bestuursrechtelijke aansprakelijkheid in, tenzij dit uitdrukkelijk volgt uit officiële, publiek toegankelijke documenten of onherroepelijke beslissingen.
+
 Dit materiaal heeft een documentair en informatief karakter. Het is gebaseerd op publiek beschikbare bronnen en op gedocumenteerde stukken die verband houden met een individuele arbeidszaak. Het doel van deze tekst is niet om zonder een definitieve rechterlijke uitspraak strafrechtelijke of civielrechtelijke aansprakelijkheid aan iemand toe te schrijven, maar om de publieke context en de gedocumenteerde tegenstrijdigheden weer te geven die aandacht, voorzichtigheid en verdere beoordeling rechtvaardigen.
 
 ## Doel van deze sectie
 Deze sectie is opgesteld als aanvulling op het hoofdrapport met openbaar bewijsmateriaal. Het doel is om het volgende met elkaar te verbinden:
 - publiek beschikbare informatie over Sezer Duygulu en aan hem gelieerde entiteiten,
 - publieke rode vlaggen met betrekking tot bedrijven binnen dit ecosysteem,
-- recente gedocumenteerde stukken die wijzen op tegenstrijdigheden in een individuele zaak in verband met Intrixo(Voorneputten).
+- recente gedocumenteerde stukken die wijzen op tegenstrijdigheden in een individuele zaak in verband met Intrixo (Voorneputten).
 
 ## Publieke context
-In publiek beschikbare materialen wordt Sezer Duygulu gepresenteerd als een persoon die verbonden is met de Home of People-groep en met merken en entiteiten die actief zijn in de sector van uitzendarbeid en arbeidsmigratie, waaronder onder meer Uitzendbureau Solutions, Intrixo, Efficient at Work, T&S Flexwerk, NWH Jobs en Masterteam.
+In publiek beschikbare materialen wordt Sezer Duygulu gepresenteerd als een persoon die verbonden is met de Home of People-groep en met merken en entiteiten die actief zijn in de sector van uitzendarbeid en arbeidsmigratie, waaronder onder meer Uitzendbureau Solutions, Intrixo (Voorneputten), Efficient at Work, T&S Flexwerk, NWH Jobs en Masterteam.
 
 Het enkele feit dat iemand publiekelijk met een uitgebreid zakelijk ecosysteem in verband wordt gebracht, bewijst op zichzelf nog geen verantwoordelijkheid voor een specifieke overtreding. Het vormt echter wel relevante context, vooral wanneer rondom sommige van deze entiteiten al jarenlang signalen bestaan met betrekking tot arbeidsrechten, huisvestingsomstandigheden, afhankelijkheid van werknemers van uitzendbureaus, inhoudingen en gebrek aan transparantie in de omgang met arbeidsmigranten.
 
@@ -59,7 +61,7 @@ Op basis van publiek beschikbare informatie blijkt dat tot het ecosysteem van en
 - T&S Flexwerk,
 - NWH Jobs,
 - Efficient at Work,
-- Intrixo(Voorneputten),
+- Intrixo (Voorneputten),
 - Masterteam.
 
 In het kader van de werving van werknemers voor Nederland is het daarnaast van belang om ook aandacht te besteden aan entiteiten die in Polen actief zijn en die organisatorisch, operationeel, commercieel of via rekruteringsactiviteiten verbonden zijn of kunnen zijn met het hierboven genoemde ecosysteem. Daaronder vallen in het bijzonder:
@@ -75,13 +77,13 @@ Aan Nederlandse zijde worden onder meer de volgende locaties genoemd als relevan
 - T&S Flexwerk – Waalwijk,
 - NWH Jobs – Noordwijkerhout,
 - Efficient at Work – De Lier,
-- Intrixo(Voorneputten) – Maasland.
+- Intrixo (Voorneputten) – Maasland.
 
 Op dit moment kan niet worden uitgesloten dat de volledige lijst van entiteiten breder is en ook andere vennootschappen, merken, vestigingen of rekruteringsintermediairs omvat die in Polen of in Nederland actief zijn. Een deel van deze verbanden vereist nadere verificatie aan de hand van registerdocumenten, ondernemingsgegevens, wervingsmateriaal, websites en vacaturepublicaties.
 
 ## Betekenis voor het hoofdrapport
 
-Het belang van deze sectie ligt niet in het automatisch toeschrijven van verantwoordelijkheid aan één persoon voor iedere handeling van iedere entiteit binnen dit ecosysteem. Deze sectie heeft een contextueel en documentair karakter. Zij laat zien dat de individuele zaak met betrekking tot Intrixo(Voorneputten) niet op zichzelf staat, maar moet worden bezien binnen een bredere structuur van entiteiten, rekruteringsmerken en operationele verbanden die betrokken zijn bij het werven van arbeidsmigranten en het doorgeleiden van hen naar werk en huisvesting in Nederland.
+Het belang van deze sectie ligt niet in het automatisch toeschrijven van verantwoordelijkheid aan één persoon voor iedere handeling van iedere entiteit binnen dit ecosysteem. Deze sectie heeft een contextueel en documentair karakter. Zij laat zien dat de individuele zaak met betrekking tot Intrixo (Voorneputten) niet op zichzelf staat, maar moet worden bezien binnen een bredere structuur van entiteiten, rekruteringsmerken en operationele verbanden die betrokken zijn bij het werven van arbeidsmigranten en het doorgeleiden van hen naar werk en huisvesting in Nederland.
 
 ## Verdere bevindingen en updates
 
