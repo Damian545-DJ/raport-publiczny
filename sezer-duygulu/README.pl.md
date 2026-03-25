@@ -10,7 +10,7 @@ Ta sekcja została przygotowana jako uzupełnienie głównego raportu dowodowego
 - świeżych, udokumentowanych materiałów wskazujących na niespójności w indywidualnej sprawie związanej z Intrixo.
 
 ## Kontekst publiczny
-W publicznie dostępnych materiałach Sezer Duygulu jest przedstawiany jako osoba powiązana z grupą Home of People oraz z markami i podmiotami działającymi w sektorze pracy tymczasowej i zatrudnienia pracowników migrujących, w tym między innymi z takimi nazwami jak Uitzendbureau Solutions, Intrixo, Efficient at Work, T&S Flexwerk, NWH Jobs i Masterteam.
+W publicznie dostępnych materiałach Sezer Duygulu jest przedstawiany jako osoba powiązana z grupą Home of People oraz z markami i podmiotami działającymi w sektorze pracy tymczasowej i zatrudnienia pracowników migrujących, w tym między innymi z takimi nazwami jak Uitzendbureau Solutions, Intrixo(Voorneputten), Efficient at Work, T&S Flexwerk, NWH Jobs i Masterteam.
 
 Sam fakt publicznego powiązania z tak rozbudowanym ekosystemem nie przesądza jeszcze o odpowiedzialności za konkretne naruszenia. Ma on jednak znaczenie kontekstowe, zwłaszcza wtedy, gdy wokół części tych podmiotów od lat pojawiają się sygnały ostrzegawcze dotyczące praw pracowniczych, warunków zakwaterowania, zależności pracownika od agencji, potrąceń oraz przejrzystości działań wobec pracowników migrujących.
 
@@ -24,7 +24,7 @@ W przestrzeni publicznej pojawiały się istotne sygnały ostrzegawcze dotycząc
 Opis tych sygnałów ma znaczenie nie dlatego, że automatycznie przesądza o winie konkretnej osoby, lecz dlatego, że stanowi ważne tło dla oceny wiarygodności i ryzyka w indywidualnych sprawach pracowniczych.
 
 ## Świeże dowody i udokumentowane sprzeczności
-W mojej indywidualnej sprawie związanej z Intrixo zgromadziłem świeże materiały, które wskazują na istotne sprzeczności pomiędzy:
+W mojej indywidualnej sprawie związanej z Intrixo(Voorneputten) zgromadziłem świeże materiały, które wskazują na istotne sprzeczności pomiędzy:
 - treścią korespondencji,
 - ustaleniami dotyczącymi urlopu,
 - zapisami w planowaniu,
@@ -59,7 +59,7 @@ Z dostępnych informacji publicznych wynika, że z ekosystemem podmiotów public
 - T&S Flexwerk,
 - NWH Jobs,
 - Efficient at Work,
-- Intrixo,
+- Intrixo(Voorneputten),
 - Masterteam.
 
 W kontekście rekrutacji pracowników do Holandii istotne znaczenie mają również podmioty działające w Polsce, które są lub mogą być powiązane organizacyjnie, operacyjnie, marketingowo albo rekrutacyjnie z wyżej wskazanym ekosystemem. Do takich podmiotów należą w szczególności:
@@ -75,13 +75,13 @@ Po stronie holenderskiej jako istotne lokalizacje działalności wskazywane są 
 - T&S Flexwerk – Waalwijk,
 - NWH Jobs – Noordwijkerhout,
 - Efficient at Work – De Lier,
-- Intrixo – Maasland.
+- Intrixo(Voorneputten) – Maasland.
 
 Na obecnym etapie nie można wykluczyć, że katalog tych podmiotów jest szerszy i obejmuje również inne spółki, marki, oddziały lub podmioty rekrutacyjne działające w Polsce albo w Holandii. Część powiązań wymaga dalszej weryfikacji na podstawie dokumentów rejestrowych, danych korporacyjnych, materiałów rekrutacyjnych, stron internetowych i ofert pracy.
 
 ## Znaczenie dla głównego raportu
 
-Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
+Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo(Voorneputten) nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
 
 ## Dalsze ustalenia i aktualizacje
 
