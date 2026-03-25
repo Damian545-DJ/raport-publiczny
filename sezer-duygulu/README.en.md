@@ -48,3 +48,41 @@ At this stage, publicly available information and the evidence I have gathered d
 
 ## Relation to the main report
 This section is a supplement to the main public report and should be read together with the rest of the documentation, including the timeline, the statement of allegations, the evidence materials, and the anonymization rules.
+
+---
+
+## Entities and locations linked to this ecosystem
+
+Based on publicly available information, the ecosystem of entities publicly associated with Sezer Duygulu and the Home of People structure includes or has included, among others, the following entities operating in the Netherlands:
+
+- Solutions / Uitzendbureau Solutions,
+- T&S Flexwerk,
+- NWH Jobs,
+- Efficient at Work,
+- Intrixo,
+- Masterteam.
+
+In the context of recruiting workers for the Netherlands, attention should also be paid to entities operating in Poland which are or may be linked, whether organisationally, operationally, commercially or through recruitment activity, to the above-mentioned ecosystem. These entities include in particular:
+
+- VP Flex sp. z o.o. – Elbląg,
+- Efficient People Agency Polska sp. z o.o. – Końskie,
+- NWH Jobs Poland – Kalisz,
+- Efficient at Work – an operational structure or branch indicated in Końskie.
+
+On the Dutch side, the following locations are indicated among the relevant places of business:
+
+- Uitzendbureau Solutions – De Lier (main office) and Heerhugowaard,
+- T&S Flexwerk – Waalwijk,
+- NWH Jobs – Noordwijkerhout,
+- Efficient at Work – De Lier,
+- Intrixo – Maasland.
+
+At this stage, it cannot be ruled out that the full list of entities is broader and also includes other companies, brands, branches or recruitment intermediaries operating in Poland or in the Netherlands. Some of these links require further verification on the basis of company registry documents, corporate records, recruitment materials, websites and job advertisements.
+
+## Relevance to the main report
+
+The relevance of this section does not lie in automatically attributing responsibility to one individual for every action of every entity within this ecosystem. Its function is contextual and documentary. It shows that the individual case concerning Intrixo does not exist in isolation, but rather appears within a broader network of entities, recruitment brands and operational structures involved in recruiting migrant workers and directing them to work and accommodation in the Netherlands.
+
+## Further findings and updates
+
+This section will be supplemented with additional publicly available information, source materials and documented circumstances relevant to the assessment of credibility, links and the broader context of the case.
