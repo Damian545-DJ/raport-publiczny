@@ -7,7 +7,7 @@ This material is documentary and informational in nature. It is based on publicl
 This section was prepared as a supplement to the main public evidence report. Its purpose is to connect:
 - publicly available information concerning Sezer Duygulu and entities linked to him,
 - public red flags related to companies operating within this ecosystem,
-- recent documented materials indicating inconsistencies in an individual case connected to Intrixo.
+- recent documented materials indicating inconsistencies in an individual case connected to Intrixo(Voorneputten).
 
 ## Public context
 In publicly available materials, Sezer Duygulu is presented as a person linked to the Home of People group and to brands and entities operating in the temporary work and migrant labour sector, including, among others, Uitzendbureau Solutions, Intrixo, Efficient at Work, T&S Flexwerk, NWH Jobs, and Masterteam.
@@ -24,7 +24,7 @@ In the public domain, important warning signals have appeared concerning compani
 These warning signals matter not because they automatically establish the liability of any individual, but because they form important context for assessing credibility, risk, and patterns in individual labour-related cases.
 
 ## Recent evidence and documented inconsistencies
-In my individual case connected to Intrixo, I have gathered recent materials indicating significant inconsistencies between:
+In my individual case connected to Intrixo(Voorneputten), I have gathered recent materials indicating significant inconsistencies between:
 - the content of correspondence,
 - arrangements concerning leave,
 - planning records,
@@ -59,7 +59,7 @@ Based on publicly available information, the ecosystem of entities publicly asso
 - T&S Flexwerk,
 - NWH Jobs,
 - Efficient at Work,
-- Intrixo,
+- Intrixo(Voorneputten),
 - Masterteam.
 
 In the context of recruiting workers for the Netherlands, attention should also be paid to entities operating in Poland which are or may be linked, whether organisationally, operationally, commercially or through recruitment activity, to the above-mentioned ecosystem. These entities include in particular:
@@ -75,13 +75,13 @@ On the Dutch side, the following locations are indicated among the relevant plac
 - T&S Flexwerk – Waalwijk,
 - NWH Jobs – Noordwijkerhout,
 - Efficient at Work – De Lier,
-- Intrixo – Maasland.
+- Intrixo(Voorneputten) – Maasland.
 
 At this stage, it cannot be ruled out that the full list of entities is broader and also includes other companies, brands, branches or recruitment intermediaries operating in Poland or in the Netherlands. Some of these links require further verification on the basis of company registry documents, corporate records, recruitment materials, websites and job advertisements.
 
 ## Relevance to the main report
 
-The relevance of this section does not lie in automatically attributing responsibility to one individual for every action of every entity within this ecosystem. Its function is contextual and documentary. It shows that the individual case concerning Intrixo does not exist in isolation, but rather appears within a broader network of entities, recruitment brands and operational structures involved in recruiting migrant workers and directing them to work and accommodation in the Netherlands.
+The relevance of this section does not lie in automatically attributing responsibility to one individual for every action of every entity within this ecosystem. Its function is contextual and documentary. It shows that the individual case concerning Intrixo(Voorneputten) does not exist in isolation, but rather appears within a broader network of entities, recruitment brands and operational structures involved in recruiting migrant workers and directing them to work and accommodation in the Netherlands.
 
 ## Further findings and updates
 
