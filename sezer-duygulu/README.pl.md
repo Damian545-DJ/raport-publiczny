@@ -84,6 +84,100 @@ Na obecnym etapie nie można wykluczyć, że katalog tych podmiotów jest szersz
 
 Znaczenie tej sekcji nie polega na automatycznym przypisywaniu odpowiedzialności konkretnej osobie za każde działanie każdego podmiotu z tego ekosystemu. Ma ono charakter kontekstowy i dokumentacyjny. Pokazuje bowiem, że indywidualna sprawa dotycząca Intrixo (Voorneputten) nie funkcjonuje w próżni, lecz wpisuje się w szerszy układ podmiotów, marek rekrutacyjnych i struktur operacyjnych związanych z zatrudnianiem pracowników migrujących oraz ich kierowaniem do pracy i zakwaterowania w Holandii.
 
+## Najważniejsze spory pracownicze
+
+### 1) Uitzendbureau Solutions — najważniejszy pakiet sporów
+
+To nie jest pojedynczy incydent, lecz jeden duży spór pracowniczy rozciągnięty na kilka publicznie opublikowanych orzeczeń. Oficjalne źródła pokazują następujący ciąg:
+
+#### a) Rechtbank Den Haag — 22 sierpnia 2017  
+**ECLI:NL:RBDHA:2017:10292**
+
+To był punkt wyjścia całego sporu. Z późniejszych omówień i relacji między orzeczeniami wynika, że kantonrechter oddalił wtedy żądanie pracownika, uznając, że umowa agencyjna zakończyła się wskutek ziekmelding na podstawie art. 13 ust. 3 NBBU-cao. W późniejszych oficjalnych materiałach Hoge Raad oraz w komentarzu naukowym UvA ten etap został wskazany wprost jako pierwsza instancja tego sporu.
+
+#### b) Gerechtshof Den Haag — 17 marca 2020  
+**ECLI:NL:GHDHA:2020:460**
+
+To był kluczowy zwrot w sprawie. Oficjalny komunikat Rechtspraak podsumował ją następująco: od 1 lipca 2015 r. uitzendbeding przy chorobie lub niezdolności do pracy jest sprzeczne z ustawą. Sam wpis do orzeczenia wskazuje, że sprawa dotyczyła „uitzendbeding in artikel 13 NBBU-CAO bij ziekte of arbeidsongeschiktheid”. Oznacza to, że sąd odwoławczy odrzucił model, w którym sama choroba automatycznie kończy zatrudnienie agencyjne.
+
+#### c) Gerechtshof Den Haag — 20 lipca 2021  
+**ECLI:NL:GHDHA:2021:1511**
+
+Był to kolejny etap już po rozstrzygnięciu głównej kwestii prawnej. Oficjalna inhoudsindicatie wskazuje wprost, że chodziło o „berekening achterstallig loon, vakantiegeld en feestdagenreservering”. Innymi słowy: po sporze o to, czy umowa w ogóle legalnie się zakończyła, sąd przeszedł do obliczenia zaległego wynagrodzenia oraz dodatków.
+
+#### d) Hoge Raad — 17 marca 2023  
+**ECLI:NL:HR:2023:426**
+
+To finał i najmocniejsze orzeczenie w całej serii. Hoge Raad uznał, że fikcyjne żądanie inlenera wpisane do CAO jest nieważne. Aby umowa agencyjna mogła zakończyć się na podstawie uitzendbeding, potrzebne jest rzeczywiste żądanie klienta lub użytkownika pracy, a nie automatyczna fikcja powiązana z chorobą. Z materiałów dotyczących tej sprawy wynika również stan faktyczny: pracownik był zatrudniony przez Uitzendbureau Solutions, doznał wypadku przy pracy, następnie zachorował lub zgłosił niezdolność do pracy, po czym powstał spór o dalsze wynagrodzenie.
+
+### Co to praktycznie oznacza dla Uitzendbureau Solutions
+
+Nie jest to drobny incydent, lecz pełny, publiczny łańcuch sporów pracowniczych: najpierw o legalność zakończenia zatrudnienia przy chorobie lub wypadku, a następnie o rozliczenie zaległego wynagrodzenia i dodatków.
+
+---
+
+### 2) Intrixo B.V. — bezpośrednia sprawa pracownicza
+
+#### Rechtbank Den Haag — 28 kwietnia 2025  
+**ECLI:NL:RBDHA:2025:14934**
+
+Jest to bezpośrednia sprawa pracownicza przeciwko Intrixo B.V. Oficjalna zapowiedź orzeczenia wskazuje, że dotyczyła tureckiego pracownika posiadającego status kennismigranta, wobec którego obowiązywał minimalny próg wynagrodzenia w wysokości €3.909. Publiczny opis sprawy w AR Updates identyfikuje ją wprost jako „werknemer/Intrixo B.V.”.
+
+Z publicznego omówienia kancelarii Taylor Wessing wynika, że Intrixo wypłacało pracownikowi zbyt niskie wynagrodzenie, w wyniku czego IND cofnął mu pozwolenie pobytowe. Następnie pracodawca próbował oprzeć na tym zakończenie zatrudnienia, lecz sąd uznał to za nieprawidłowe i zasądził na rzecz pracownika gefixeerde schadevergoeding odpowiadające pozostałemu okresowi kontraktu. Dodatkowo publiczne wyniki wyszukiwania wskazują przy tej sprawie także wzmiankę o „schending waarheidsplicht”.
+
+### Co to praktycznie oznacza dla Intrixo
+
+Nie jest to zwykły spór o wynagrodzenie czy nadgodziny. To sprawa łącząca prawo pracy, wynagrodzenie kennismigranta, skutki imigracyjne oraz publiczny sygnał o możliwym naruszeniu obowiązku mówienia prawdy procesowej.
+
+---
+
+### 3) T&S Flexwerk / T&S Flex Logistiek B.V. — ślad pośredni, nie bezpośredni
+
+#### Rechtbank Rotterdam — 28 kwietnia 2023  
+**ECLI:NL:RBROT:2023:5934**
+
+#### Gerechtshof Den Haag — 1 kwietnia 2025  
+**ECLI:NL:GHDHA:2025:577**
+
+Tutaj trzeba zachować pełną precyzję. W publicznie opublikowanej sprawie pracowniczo-wypadkowej pracownica była zatrudniona przez T&S Flex Logistiek B.V. i pracowała jako uitzendkracht przy linii produkcyjnej w Sanders. Następnie potknęła się o paletę, doznała złamania łokcia, pobierała Ziektewetuitkering i dochodziła odpowiedzialności za szkodę.
+
+Formalnie pozwanymi byli jednak Koninklijke Sanders B.V. oraz jego ubezpieczyciel Allianz, a nie samo T&S. Hof utrzymał wyrok oddalający roszczenia, uznając, że użytkownik pracy wykazał dochowanie zorgplicht. Z oficjalnego orzeczenia oraz publicznych opracowań wynika jasno, że T&S pojawia się tu jako formalny pracodawca lub agencja, lecz nie jako strona przegrywająca ten proces.
+
+### Co to praktycznie oznacza dla T&S
+
+Istnieje publiczny ślad sprawy pracowniczej powiązanej z T&S, ale brak podstaw, aby uczciwie twierdzić, że był to bezpośredni pozew przeciwko samej spółce T&S Flex Logistiek B.V. Ta różnica ma znaczenie.
+
+---
+
+### 4) NWH Jobs B.V.
+
+W przejrzanych publicznych bazach orzeczeń nie potwierdzono opublikowanego wyroku pracowniczego bezpośrednio przeciwko NWH Jobs B.V. Znaleziono publiczne dokumenty administracyjne i mieszkaniowe dotyczące tej spółki, ale nie namierzono opublikowanego orzeczenia pracowniczego, które można bezpiecznie i jednoznacznie przypisać temu podmiotowi.
+
+---
+
+### 5) Efficient at Work / Efficiënt@work B.V.
+
+W przejrzanych publicznych bazach orzeczeń nie potwierdzono opublikowanego wyroku pracowniczego bezpośrednio przeciwko Efficiënt@work B.V. Znaleziono natomiast publiczne materiały prasowe i parlamentarne dotyczące zarzutów odnoszących się do traktowania pracowników i zakwaterowania, jednak nie są one tutaj klasyfikowane jako publicznie opublikowane spory pracownicze sądowe.
+
+---
+
+### 6) Masterteam B.V.
+
+W przejrzanych publicznych bazach orzeczeń nie potwierdzono opublikowanego wyroku pracowniczego bezpośrednio przeciwko Masterteam B.V.
+
+---
+
+## Krótki wniosek
+
+Najtwardszy materiał sądowy dotyczy obecnie:
+
+1. **Uitzendbureau Solutions** — zdecydowanie najmocniej; to wieloletni pakiet sporów pracowniczych zakończonych aż w Hoge Raad.  
+2. **Intrixo** — jedna, ale bardzo poważna sprawa pracownicza obejmująca element kennismigranta, zbyt niskiego wynagrodzenia, cofnięcia pozwolenia pobytowego, odszkodowania i wzmianki o waarheidsplicht.  
+3. **T&S Flexwerk / T&S Flex Logistiek** — jedynie pośredni ślad w sprawie o wypadek przy pracy; spółka pojawia się jako formalny pracodawca, ale nie jako bezpośrednio pozwany podmiot.  
+
+Dla **NWH Jobs**, **Efficiënt@work** i **Masterteam** nie potwierdzono w tej kwerendzie opublikowanych publicznie orzeczeń pracowniczych bezpośrednio przeciwko tym spółkom.
+
+
 ## Dalsze ustalenia i aktualizacje
 
 Ta sekcja będzie uzupełniana o kolejne publicznie dostępne informacje, materiały źródłowe oraz udokumentowane okoliczności istotne dla oceny wiarygodności, powiązań i kontekstu całej sprawy.
