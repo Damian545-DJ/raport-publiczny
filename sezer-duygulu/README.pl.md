@@ -272,7 +272,7 @@ To w praktyce nie przesądza o naruszeniach, ale pokazuje realne związanie dzia
 **Nazwa, adres, KVK**  
 Strona T\&S podaje: Industrieweg 30, 5145 PV Waalwijk, KVK-nummer 67521622 oraz wskazuje lokalizację rekrutacyjną TENS Holanda w Madrycie (Paseo de la Esperanza 13, 28005 Madrid). 
 
-Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: „T \& S Flex Logistiek B.V.”, KVK 67521622, „lid sinds 01-01-2022”, adres Industrieweg 30, 5145 PV Waalwijk. 
+Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: „T \& S Flex Logistiek B.V.”, KVK 67521622, „lid sinds 01-01-2022”, adres Industrieweg 30, 5145 PV Waalwijk. 
 
 **Historia i model operacyjny (istotne dla ryzyk)**  
 W opisie historii na stronie T\&S jest wprost, że firma od początku organizowała pracownikom (międzynarodowym) dojazd i zakwaterowanie („picked up, brought to work and provided with accommodation”) oraz że w 2007 otworzyła biuro rekrutacyjne w Madrycie pod nazwą TENS Holanda. 
@@ -288,7 +288,6 @@ To nie dowód „systemowych nadużyć”, ale jest to sygnał, że w ekosystemi
 **Sygnały ostrzegawcze: praca + transport + mieszkanie**  
 T\&S bardzo mocno komunikuje (dla pracownika) „housing and transport” jako element oferty. To rynkowo normalne, ale w dokumentach samorządowych (np. Den Haag) jest to dokładnie ten model, który zwiększa ryzyko zależności i utrudnia zgłaszanie nieprawidłowości. 
 
-image\_group{"layout":"carousel","aspect\_ratio":"16:9","query":\["Westland Netherlands greenhouse workers","migrant worker housing Netherlands temporary units","Waalwijk Netherlands logistics industrial area","Dutch employment agency housing and transport"],"num\_per\_query":1}
 
 ### NWH Jobs B.V.
 
@@ -310,7 +309,7 @@ Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: NWH Job
 Na stronie „Certificeringen” NWH komunikuje posiadanie „verklaring van goed betaalgedrag” (Belastingdienst) oraz korzystanie z G-rekening jako mechanizmu ograniczania ryzyka nieodprowadzania podatków i składek (to deklaracja firmy, ale publicznie udostępniona). 
 
 **Sygnały ostrzegawcze**  
-Kluczowa obserwacja OSINT: zmiana właściciela/zarządu i wejście do grupy w 2023 r. (co wynika z wyciągu KVK) + szybki ciąg kolejnych przejęć w grupie w 2024–2025 może oznaczać szybkie zmiany procesowe i integracyjne (łączenie systemów, polityk zakwaterowania, rekrutacji, potrąceń, itp.). To typowe źródło ryzyk „operacyjnych” w branży. 
+Kluczowa obserwacja : zmiana właściciela/zarządu i wejście do grupy w 2023 r. (co wynika z wyciągu KVK) + szybki ciąg kolejnych przejęć w grupie w 2024–2025 może oznaczać szybkie zmiany procesowe i integracyjne (łączenie systemów, polityk zakwaterowania, rekrutacji, potrąceń, itp.). To typowe źródło ryzyk „operacyjnych” w branży. 
 
 ### Efficient at Work / Efficiënt@work B.V.
 
@@ -336,8 +335,8 @@ Intrixo publikuje uittreksel KVK (PDF). Z dokumentu wynika m.in.:
 
 * Intrixo B.V., siedziba/oddział: Oud Camp 8, 3155 DL Maasland
 * forma: BV, podstawowa działalność: „Uitzendbureaus” (SBI 78201)
-* „enig aandeelhouder”: entity\["company","TAF Group C.V.","maasland nl holding"] (od 12-05-2020)
-* bestuurder: entity\["people","Rayif Ayyildiz","intrixo director"] (wskazany jako „algemeen directeur”, od 2001) 
+* „enig aandeelhouder”: ["company","TAF Group C.V.","maasland nl holding"] (od 12-05-2020)
+* bestuurder: ["people","Rayif Ayyildiz","intrixo director"] (wskazany jako „algemeen directeur”, od 2001) 
 
 **Powiązanie z Masterteam (uczestnictwo) i przejęcie przez Home of People**  
 W oficjalnej publikacji koncentracyjnej wskazano, że Intrixo ma uczestnictwo Masterteam B.V. citeturn10search1  
