@@ -203,10 +203,10 @@ Wątki konsolidacyjne widoczne  (w uproszczeniu, na podstawie zapowiedzi i komun
 * 2021: informacja o przejęciu T\&S (jako element budowania skali) pojawia się w branżowym wywiadzie o grupie. 
 * listopad 2023: komunikowane przejęcie NWH Jobs (wprost wskazywane jako „overname” w relacjach branżowych o kolejnych ruchach grupy). 
 * czerwiec 2024: komunikowane przejęcie Efficient at Work przez Home of People (z deklaracją dalszego działania pod własną marką). 
-* wrzesień 2025: koncentracja (przejęcie Intrixo) została opisana w oficjalnych publikacjach związanych z procedurą koncentracyjną w entity\["organization","Autoriteit Consument \& Markt","netherlands competition auth"] i w entity\["organization","Staatscourant","official gazette nl"] wprost pojawia się też informacja, że Intrixo ma uczestnictwo „Masterteam B.V.” w ramach grupy Intrixo. citeturn11search5turn10search1turn10search4
-* wrzesień 2025: media branżowe opisują przejęcie Intrixo i Masterteam przez Home of People. citeturn6search5
+* wrzesień 2025: koncentracja (przejęcie Intrixo) została opisana w oficjalnych publikacjach związanych z procedurą koncentracyjną w entity\["organization","Autoriteit Consument \& Markt","netherlands competition auth"] i w ["organization","Staatscourant","official gazette nl"] wprost pojawia się też informacja, że Intrixo ma uczestnictwo „Masterteam B.V.” w ramach grupy Intrixo. 
+* wrzesień 2025: media branżowe opisują przejęcie Intrixo i Masterteam przez Home of People. 
 
-W dokumentach koncentracyjnych pada też informacja, że podmiot przejmujący (Home of People Acquisitie 3 B.V.) jest częścią „Home of People Groep”, której „na czele stoi D.G. Solutions B.V.”. citeturn11search5turn11search2
+W dokumentach koncentracyjnych pada też informacja, że podmiot przejmujący (Home of People Acquisitie 3 B.V.) jest częścią „Home of People Groep”, której „na czele stoi D.G. Solutions B.V.”.
 
 Z perspektywy compliance to istotny kontekst: seria przejęć i szybkie powiększanie grupy **zwiększa złożoność** (więcej spółek, różne standardy operacyjne, różne modele rekrutacji/housing), a to typowo podnosi ryzyko błędów w prawie pracy, zakwaterowaniu, rozliczeniach i skargach pracowniczych – nawet jeśli intencją jest „profesjonalizacja”.
 
@@ -221,11 +221,11 @@ Na stronie grupy znajduje się lista lokalizacji (adresy marek/labeli) oraz adre
 
 * Home of People (hoofdkantoor): Jogchem van der Houtweg 8c, 2678 AG De Lier, ["city","De Lier","westland nl"]
 * Solutions: Jogchem van der Houtweg 8c, 2678 AG De Lier
-* T\&S Flexwerk: Industrieweg 30, 5145 PV entity\["city","Waalwijk","netherlands"]
+* T\&S Flexwerk: Industrieweg 30, 5145 PV ["city","Waalwijk","netherlands"]
 * TENS Holanda: Paseo de la Esperanza 13, 28005 entity\["city","Madrid","spain"]
 * NWH Jobs: Gieterij 35, 2211 WC entity\["city","Noordwijkerhout","south holland nl"]
 * Efficient at Work: Leehove 62, 2678 MC De Lier
-* Intrixo + Masterteam: Oud Camp 8, 3155 DL entity\["city","Maasland","south holland nl"] citeturn33search10
+* Intrixo + Masterteam: Oud Camp 8, 3155 DL ["city","Maasland","south holland nl"]
 
 **Powiązania kapitałowe (co da się potwierdzić publicznie)**  
 W oficjalnej publikacji koncentracyjnej w ["organization","Staatscourant","official gazette nl"] wskazano, że Home of People Acquisitie 3 B.V. jest częścią Home of People Groep, a na czele tej grupy stoi D.G. Solutions B.V. 
@@ -253,18 +253,18 @@ W publicznym informacji  nie znalazłem opublikowanego przez firmę uittreksel K
 Branżowo i sektorowo (AGF/logistyka/produkcja) Solutions jest opisywany jako trzon grupy, która przyjęła nazwę Home of People i działa z ambicją dalszej konsolidacji. 
 
 **Sprawy sądowe / spory (silna czerwona flaga prawna)**  
-Najbardziej „twardy” wątek prawny to sprawa, która dotarła do ["organization","Hoge Raad der Nederlanden","supreme court nl"] i dotyczyła tzw. **uitzendbeding** (klauzuli w umowach tymczasowych powiązanej z końcem zlecenia) w kontekście CAO dla pracy tymczasowej – i tego, czy takie postanowienie (w określonym układzie) może prowadzić do natychmiastowego zakończenia stosunku pracy. citeturn0search2turn26search10  
+Najbardziej „twardy” wątek prawny to sprawa, która dotarła do ["organization","Hoge Raad der Nederlanden","supreme court nl"] i dotyczyła tzw. **uitzendbeding** (klauzuli w umowach tymczasowych powiązanej z końcem zlecenia) w kontekście CAO dla pracy tymczasowej – i tego, czy takie postanowienie (w określonym układzie) może prowadzić do natychmiastowego zakończenia stosunku pracy.   
 Sprawa ma też wcześniejszy etap w ["organization","Gerechtshof Den Haag","appeal court netherlands"].
 
 To nie jest automatycznie dowód „wyzysku”, ale jest to **czerwona flaga** w tym sensie, że:
 
 * dotyczy narzędzia umownego, które w praktyce może zwiększać niepewność zatrudnienia (szczególnie u pracowników migrujących),
-* i było na tyle sporne, że zakończyło się rozstrzygnięciem na szczeblu Sądu Najwyższego. citeturn0search2turn26search10
+* i było na tyle sporne, że zakończyło się rozstrzygnięciem na szczeblu Sądu Najwyższego. 
 
 **Zakwaterowanie i zależność praca–mieszkanie (ryzyka strukturalne)**  
-Wątek „housing” powraca w dokumentach urzędowych i samorządowych dotyczących migracji zarobkowej i regulowania rynku. W programie miasta entity\["city","Den Haag","netherlands"] wskazuje się, że zależność pracownika od pracodawcy/pośrednika bywa wielowymiarowa (np. praca + mieszkanie + ubezpieczenie), co podnosi próg zgłaszania nadużyć. 
+Wątek „housing” powraca w dokumentach urzędowych i samorządowych dotyczących migracji zarobkowej i regulowania rynku. W programie miasta ["city","Den Haag","netherlands"] wskazuje się, że zależność pracownika od pracodawcy/pośrednika bywa wielowymiarowa (np. praca + mieszkanie + ubezpieczenie), co podnosi próg zgłaszania nadużyć. 
 
-Dodatkowo, w sprawie administracyjnej dostępnej publicznie w ["organization","Raad van State","netherlands council of state"] (dot. decyzji gminy o pozwoleniu na budowę związanej z zakwaterowaniem pracowników) pojawia się wątek Solutions jako strony/uczestnika w kontekście lokalizacji zakwaterowania na terenie gminy. citeturn1search0  
+Dodatkowo, w sprawie administracyjnej dostępnej publicznie w ["organization","Raad van State","netherlands council of state"] (dot. decyzji gminy o pozwoleniu na budowę związanej z zakwaterowaniem pracowników) pojawia się wątek Solutions jako strony/uczestnika w kontekście lokalizacji zakwaterowania na terenie gminy.  
 To w praktyce nie przesądza o naruszeniach, ale pokazuje realne związanie działalności rekrutacyjno-zatrudnieniowej z infrastrukturą mieszkaniową – czyli dokładnie to pole ryzyka, o które pytasz.
 
 ### T\&S Flexwerk / T\&S Flex Logistiek B.V. oraz TENS Holanda
@@ -272,10 +272,10 @@ To w praktyce nie przesądza o naruszeniach, ale pokazuje realne związanie dzia
 **Nazwa, adres, KVK**  
 Strona T\&S podaje: Industrieweg 30, 5145 PV Waalwijk, KVK-nummer 67521622 oraz wskazuje lokalizację rekrutacyjną TENS Holanda w Madrycie (Paseo de la Esperanza 13, 28005 Madrid). 
 
-Publiczna karta członka entity\["organization","NBBU","dutch staffing assoc"]: „T \& S Flex Logistiek B.V.”, KVK 67521622, „lid sinds 01-01-2022”, adres Industrieweg 30, 5145 PV Waalwijk. 
+Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: „T \& S Flex Logistiek B.V.”, KVK 67521622, „lid sinds 01-01-2022”, adres Industrieweg 30, 5145 PV Waalwijk. 
 
 **Historia i model operacyjny (istotne dla ryzyk)**  
-W opisie historii na stronie T\&S jest wprost, że firma od początku organizowała pracownikom (międzynarodowym) dojazd i zakwaterowanie („picked up, brought to work and provided with accommodation”) oraz że w 2007 otworzyła biuro rekrutacyjne w Madrycie pod nazwą TENS Holanda. citeturn19view0turn21search0
+W opisie historii na stronie T\&S jest wprost, że firma od początku organizowała pracownikom (międzynarodowym) dojazd i zakwaterowanie („picked up, brought to work and provided with accommodation”) oraz że w 2007 otworzyła biuro rekrutacyjne w Madrycie pod nazwą TENS Holanda. 
 
 **Powiązania z Home of People**  
 T\&S komunikuje, że od 2021 jest częścią Home of People.
@@ -286,7 +286,7 @@ Występuje publicznie dostępny ślad sporu dotyczącego wypadku przy pracy (pra
 To nie dowód „systemowych nadużyć”, ale jest to sygnał, że w ekosystemie firmy pojawiają się spory z obszaru BHP/odpowiedzialności cywilnej – co w branży logistyki i pracy tymczasowej bywa częste, ale nadal jest obszarem ryzyka.
 
 **Sygnały ostrzegawcze: praca + transport + mieszkanie**  
-T\&S bardzo mocno komunikuje (dla pracownika) „housing and transport” jako element oferty. To rynkowo normalne, ale w dokumentach samorządowych (np. Den Haag) jest to dokładnie ten model, który zwiększa ryzyko zależności i utrudnia zgłaszanie nieprawidłowości. citeturn20search3turn36view7
+T\&S bardzo mocno komunikuje (dla pracownika) „housing and transport” jako element oferty. To rynkowo normalne, ale w dokumentach samorządowych (np. Den Haag) jest to dokładnie ten model, który zwiększa ryzyko zależności i utrudnia zgłaszanie nieprawidłowości. 
 
 image\_group{"layout":"carousel","aspect\_ratio":"16:9","query":\["Westland Netherlands greenhouse workers","migrant worker housing Netherlands temporary units","Waalwijk Netherlands logistics industrial area","Dutch employment agency housing and transport"],"num\_per\_query":1}
 
@@ -296,7 +296,7 @@ T\&S bardzo mocno komunikuje (dla pracownika) „housing and transport” jako e
 Firma publikuje „gewaarmerkt” uittreksel KVK (PDF). Wynika z niego m.in.:
 
 * nazwa: NWH Jobs B.V., adres: Gieterij 35, 2211 WC Noordwijkerhout
-* profil działalności: udostępnianie personelu, w szczególności dla sektora agrarnego (oraz delegowanie) citeturn36view3
+* profil działalności: udostępnianie personelu, w szczególności dla sektora agrarnego (oraz delegowanie) 
 
 **Właściciel i zarząd – zmiana w 2023 (bardzo istotny sygnał powiązania z osobą i grupą)**  
 W KVK wyciągu opublikowanym na stronie NWH wskazano, że jedynym udziałowcem jest NWH Holding B.V., a osoba, o którą pytasz wprost, widnieje jako bestuurder (z datą wejścia w funkcję 01-11-2023). 
@@ -304,7 +304,7 @@ W KVK wyciągu opublikowanym na stronie NWH wskazano, że jedynym udziałowcem j
 To jest jeden z najbardziej jednoznacznych, publicznie weryfikowalnych „łączników” personalno-kapitałowych.
 
 **Członkostwo branżowe**  
-Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: NWH Jobs B.V., KVK 28116166, „lid sinds 01-01-2025”, adres Gieterij 35, 2211 WC Noordwijkerhout. citeturn13search2
+Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: NWH Jobs B.V., KVK 28116166, „lid sinds 01-01-2025”, adres Gieterij 35, 2211 WC Noordwijkerhout.
 
 **Deklaracje dot. compliance (podatki/GRachunek)**  
 Na stronie „Certificeringen” NWH komunikuje posiadanie „verklaring van goed betaalgedrag” (Belastingdienst) oraz korzystanie z G-rekening jako mechanizmu ograniczania ryzyka nieodprowadzania podatków i składek (to deklaracja firmy, ale publicznie udostępniona). 
@@ -341,7 +341,7 @@ Intrixo publikuje uittreksel KVK (PDF). Z dokumentu wynika m.in.:
 
 **Powiązanie z Masterteam (uczestnictwo) i przejęcie przez Home of People**  
 W oficjalnej publikacji koncentracyjnej wskazano, że Intrixo ma uczestnictwo Masterteam B.V. citeturn10search1  
-W komunikatach branżowych opisano przejęcie Intrixo i Masterteam przez Home of People. citeturn6search5
+W komunikatach branżowych opisano przejęcie Intrixo i Masterteam przez Home of People. 
 
 **SNF – publiczny dowód rejestracji**  
 Intrixo publikuje „Verklaring van registratie” ["organization","Stichting Normering Flexwonen","snf housing cert nl"], z której wynika, że podmiot jest ujęty w rejestrze normowania zakwaterowania migrantów (wraz z datą rejestracji w SNF).  
@@ -363,7 +363,7 @@ Strona Home of People wskazuje Masterteam pod tym samym adresem co Intrixo (Oud 
 Publiczna karta członka ["organization","NBBU","dutch staffing assoc"]: Masterteam B.V., KVK 30110824, „lid sinds 01-04-2023”. 
 
 **Powiązanie z Intrixo w dokumentach koncentracyjnych**  
-W dokumencie koncentracyjnym (publikacja urzędowa) wskazano Masterteam jako uczestnictwo (deelneming) w grupie Intrixo. citeturn10search1
+W dokumencie koncentracyjnym (publikacja urzędowa) wskazano Masterteam jako uczestnictwo (deelneming) w grupie Intrixo. 
 
 **Zarząd/właściciele**  
 Nie znalazłem publicznego uittreksel KVK (PDF) opublikowanego przez Masterteam, który potwierdzałby zarząd i udziałowców. **NIE WIEM** – na twardo – kto jest formalnym udziałowcem/zarządem, ponad to, co wynika z dokumentów koncentracyjnych i stron grupy. 
@@ -375,7 +375,7 @@ W materiałach koncentracyjnych występuje jako strona koncentracji (podmiot nab
 Adresu i pełnego składu zarządu w tych publikacjach nie miałem wprost w treści (bez płatnego KVK). **NIE WIEM** – jeśli chodzi o pełny, aktualny zarząd i strukturę udziałową – poza tym, że należy do Home of People Groep. 
 
 **D.G. Solutions B.V.**  
-W publikacji koncentracyjnej wskazano, że stoi na czele Home of People Groep. citeturn11search5turn11search2
+W publikacji koncentracyjnej wskazano, że stoi na czele Home of People Groep. 
 
 ## Czerwone flagi i ryzyka z perspektywy prawa pracy, zakwaterowania i reputacji
 
