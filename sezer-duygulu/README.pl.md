@@ -177,9 +177,12 @@ Najtwardszy materiał sądowy dotyczy obecnie:
 
 Dla **NWH Jobs**, **Efficiënt@work** i **Masterteam** nie potwierdzono w tej kwerendzie opublikowanych publicznie orzeczeń pracowniczych bezpośrednio przeciwko tym spółkom.
 
+---
+
 > **Uwaga:** poniższa część opisu jest jeszcze **niedokończona** i znajduje się w trakcie sprawdzania oraz poprawek.  
 > Proszę **nie traktować jej jako wersji finalnej**, **nie brać jej obecnie pod uwagę** i **nie powoływać się na nią** do czasu zakończenia aktualizacji.
 
+---
 
 Sieć powiązań i potencjalne czerwone flagi wokół Sezera Duygulu oraz powiązanych podmiotów
 
