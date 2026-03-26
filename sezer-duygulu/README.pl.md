@@ -221,8 +221,8 @@ Na stronie grupy znajduje się lista lokalizacji (adresy marek/labeli) oraz adre
 
 * Home of People (hoofdkantoor): Jogchem van der Houtweg 8c, 2678 AG De Lier, ["city","De Lier","westland nl"]
 * Solutions: Jogchem van der Houtweg 8c, 2678 AG De Lier
-* T\&S Flexwerk: Industrieweg 30, 5145 PV ["city","Waalwijk","netherlands"]
-* TENS Holanda: Paseo de la Esperanza 13, 28005 entity\["city","Madrid","spain"]
+* T\&S Flexwerk: Industrieweg 30, 5145 PV ["city","Waalwijk","netherlands"]
+* TENS Holanda: Paseo de la Esperanza 13, 28005 ["city","Madrid","spain"]
 * NWH Jobs: Gieterij 35, 2211 WC entity\["city","Noordwijkerhout","south holland nl"]
 * Efficient at Work: Leehove 62, 2678 MC De Lier
 * Intrixo + Masterteam: Oud Camp 8, 3155 DL ["city","Maasland","south holland nl"]
