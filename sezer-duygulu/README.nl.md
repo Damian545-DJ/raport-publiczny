@@ -175,11 +175,7 @@ Het sterkste gerechtelijke materiaal betreft op dit moment:
 
 Voor NWH Jobs, Efficiënt@work en Masterteam zijn in dit onderzoek geen openbaar gepubliceerde arbeidsrechtelijke uitspraken bevestigd die direct tegen deze vennootschappen zijn gericht.
 
-## Opmerking over het verdere deel
-
-Het onderstaande deel van de beschrijving is nog niet afgerond en bevindt zich in een fase van controle en correcties.
-
-Gelieve dit voorlopig niet te beschouwen als een definitieve versie, het niet als zelfstandige basis voor categorische conclusies te gebruiken en er niet naar te verwijzen zonder voorafgaande controle van de bronnen totdat de actualisering is voltooid.
+---
 
 # Netwerk van verbanden en potentiële rode vlaggen rond Sezer Duygulu en verbonden entiteiten
 
