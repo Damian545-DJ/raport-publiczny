@@ -177,9 +177,7 @@ For NWH Jobs, Efficiënt@work, and Masterteam, this review did not confirm publi
 
 ## Note regarding the further part
 
-The part of the description below is still unfinished and remains under review and correction.
-
-Please do not treat it as a final version, do not currently rely on it as an independent basis for categorical conclusions, and do not cite it without first checking the sources until the update has been completed.
+---
 
 # Network of links and potential red flags around Sezer Duygulu and related entities
 
