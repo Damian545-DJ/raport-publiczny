@@ -201,13 +201,6 @@ Dla **NWH Jobs**, **Efficiënt@work** i **Masterteam** nie potwierdzono w tej kw
 
 ---
 
-## Uwaga dotycząca dalszej części
-
-**Poniższa część opisu jest jeszcze niedokończona i znajduje się w trakcie sprawdzania oraz poprawek.**
-Proszę **nie traktować jej jako wersji finalnej**, **nie brać jej obecnie pod uwagę jako samodzielnej podstawy do kategorycznych wniosków** i **nie powoływać się na nią bez wcześniejszego sprawdzenia źródeł** do czasu zakończenia aktualizacji.
-
----
-
 # Sieć powiązań i potencjalne czerwone flagi wokół Sezera Duygulu oraz powiązanych podmiotów
 
 ## Zakres, metodologia i ograniczenia
