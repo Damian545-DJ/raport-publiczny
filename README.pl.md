@@ -4,7 +4,7 @@
 **TL;DR:** Repozytorium zawiera anonimizowaną dokumentację sporu pracowniczego, w tym dane płacowe, korespondencję oraz odniesienia do materiałów audio/wideo. Sprawa została zgłoszona właściwym instytucjom i pozostaje na etapie oczekiwania na merytoryczne odpowiedzi pisemne oraz niezależną weryfikację.
 
 **Status:** wersja publiczna (anonimizowana)  
-**Ostatnia aktualizacja:** 2026-01-10  
+**Ostatnia aktualizacja:** 2026-03-25  
 **Cel repo:** weryfikacja faktów, nagłośnienie sprawy i zebranie wsparcia (prawnego/medialnego/społecznego)
 
 > Ważne: Ten materiał ma charakter informacyjny i społeczny. Opisujemy fakty i wnioski na podstawie posiadanych dokumentów i nagrań. Wszelkie stwierdzenia o naruszeniach traktuj jako **zarzuty/allegacje**, a nie jako prawomocne ustalenia sądu. Repozytorium nie stanowi porady prawnej.
