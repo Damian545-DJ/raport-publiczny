@@ -4,7 +4,7 @@
 **TL;DR:** The repository provides anonymized documentation of an employment-related dispute, including payroll records, correspondence, and references to audio/video evidence. The case has been reported to relevant institutions and remains at the stage of awaiting substantive written responses and independent verification.
 
 **Status:** public version (anonymized)  
-**Last update:** 2026-01-10  
+**Last update:** 2026-03-25
 **Purpose of the repo:** verification, visibility, and gathering support (legal/media/community)
 
 > Important: this is an informational, public-interest publication. We describe facts and conclusions based on documents and recordings in our possession. Any statements about wrongdoing must be read as **claims/allegations**, not as final court findings. This repository is not legal advice.
