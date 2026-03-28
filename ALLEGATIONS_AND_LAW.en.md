@@ -254,6 +254,49 @@ When publishing: anonymise faces/names, preserve originals and hashes, describe 
 
 ---
 
+## Sezer Duygulu
+
+Sezer Duygulu is publicly presented as the Founder of the Home of People group. The same group publicly displays a network of affiliated brands, including Uitzendbureau Solutions, T&S Flexwerk, TENS Holanda, NWH Jobs, Efficient at Work, Intrixo, and Masterteam. This does not look like a small local business, but rather a broad structure operating in a sector that has been under scrutiny for years because of risks related to migrant labor, housing, and workers’ dependence on intermediaries.
+
+The strongest red flag concerns labor rights. Uitzendbureau Solutions B.V. was a party to a case that reached the Dutch Supreme Court. The core issue was very serious: whether an agency worker can, in practice, lose employment simply because they become ill. The mere fact that the case reached that level shows that this was not a minor misunderstanding, but an important issue concerning the protection of workers during illness or incapacity for work.
+
+A second strong red flag concerns housing for migrant workers. In a publicly available case before the Raad van State, the use of a property as lodging for migrant workers was described, along with administrative enforcement measures related to fire safety violations and unlawful use of the building. The case description also refers to a connection with Solutions B.V. as the tenant financing the accommodation. This is not a minor administrative detail, but a signal of risk in one of the most sensitive areas of the entire business model.
+
+The third red flag is the operating model itself. When one group controls work, housing, and often transport as well, the worker becomes dependent on a single structure for almost everything. This is precisely the type of arrangement that the Dutch government identifies as especially vulnerable to abuse: underpayment, poor working and living conditions, and circumvention of regulations. That is why the government introduced the Wtta, aimed at agencies and labor suppliers that circumvent the law or operate at the expense of workers.
+
+What is additionally striking is that these activities are also firmly embedded in official industry and certification structures. Uitzendbureau Solutions B.V. appears on the NBBU website as a member, and the listing also points to SNA certification. In the SNA register, the company is listed as certified, and the registration document confirms its entry in the Register Normering Arbeid. In the SNF register, Solutions B.V., Uitzendbureau is also listed, which means it is present within the standards system relating to housing for migrant workers. In other words: the company is not operating on the margins of the market, but within the official industry and certification framework.
+
+That does not, however, clean up the picture. Membership in the NBBU and presence in SNA/SNF do not automatically mean there are no problems. They only show that the company operates within the industry system and has passed certain formal checks. Even so, serious questions remain in the public sphere regarding the treatment of workers and the safety of the housing arrangements.
+
+The fairest way to summarize it is this: around the activities associated with Sezer Duygulu, real red flags are visible — a labor dispute at the level of the Supreme Court, issues involving migrant worker housing, and operations in a sector that the state itself considers especially vulnerable to abuse. However, these sources do not provide a basis to state as fact that Sezer Duygulu personally was convicted of fraud or formally found to be responsible for exploitation. That distinction matters: one may speak of serious risk and a troubling pattern, but not of proven personal guilt without hard evidence.
+
+
+Sezer Duygulu is publicly presented as the founder of Home of People — a group operating in the temporary labor and migrant worker sector. Serious red flags appear around companies linked to that group: a labor dispute involving Uitzendbureau Solutions reached the Dutch Supreme Court, and public administrative materials also contain a housing-related case involving migrant workers and fire safety violations. At the same time, the company operates within official industry structures — it is listed as an NBBU member and appears in the SNA and SNF registers. That does not remove the risks. Rather, it shows that despite its formal place within the industry system, significant questions remain about labor rights, housing compliance, and the model of worker dependence on the intermediary.
+
+Source links
+
+https://www.homeofpeople.nl/over-ons/
+
+https://www.homeofpeople.nl/team/sezer-duygulu/
+
+https://www.nbbu.nl/nl/onze-leden/uitzendbureau-solutions-bv
+
+https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+
+https://www.raadvanstate.nl/@138720/202103252-1-r3/
+
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen
+
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen/4c2e95bf-f454-4b15-b279-eaf2a1860f48/verklaring/nl
+
+https://www.normeringflexwonen.nl/register
+
+https://www.normeringflexwonen.nl/snfkeurmerk/gecertificeerde-ondernemingen/export
+
+https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-miss
+
+---
+
 ## Sources (primary/authoritative links)
 - Dutch Civil Code (BW) Book 7 – wetten.overheid.nl: https://wetten.overheid.nl/BWBR0005290/
 - BW art. 7:610b (presumption of working hours) – (text overview): https://lokaleregelgeving.overheid.nl/CVDR682512 (search for “Article 610b”)
