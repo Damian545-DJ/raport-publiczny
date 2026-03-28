@@ -1,205 +1,312 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Public Evidence Report – Intrixo B.V. (PL / EN / NL)</title>
-  <meta name="description" content="Anonymized public evidence report with timeline and evidence index. Languages: Polish, English and Dutch.">
-  <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/index.html">
+  <title>Publiczny raport dowodowy — strona główna</title>
+  <meta name="description" content="Publiczny, zanonimizowany briefing sprawy pracowniczej w Holandii: dowody, oś czasu i ścieżka dla mediów oraz instytucji.">
+  <link rel="canonical" href="/raport-publiczny/index.html">
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
-
-  <!-- Open Graph -->
-  <meta property="og:title" content="Public Evidence Report – Intrixo B.V. (PL / EN / NL)">
-  <meta property="og:description" content="Anonymized public evidence report with timeline and evidence index. Languages: Polish, English and Dutch.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://damian545-dj.github.io/raport-publiczny/index.html">
-  <meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-en.png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Public Evidence Report – Intrixo B.V. (PL/EN/NL)">
-
-  <!-- Twitter -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Public Evidence Report – Intrixo B.V. (PL / EN / NL)">
-  <meta name="twitter:description" content="Anonymized public evidence report with timeline and evidence index. Languages: Polish, English and Dutch.">
-  <meta name="twitter:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-en.png">
-  <meta name="twitter:image:alt" content="Public Evidence Report – Intrixo B.V. (PL/EN/NL)">
+  <meta property="og:title" content="Publiczny raport dowodowy dotyczący sporu pracowniczego w Holandii">
+  <meta property="og:description" content="Anonimizowany briefing oparty na dokumentach, danych rozliczeniowych, korespondencji i osi czasu.">
+  <meta property="og:url" content="/raport-publiczny/index.html">
+  <meta property="og:image" content="/raport-publiczny/assets/og-image-en.png">
 
   <style>
+    :root {
+      --bg: #f3f5f8;
+      --surface: #ffffff;
+      --surface-soft: #f8fafc;
+      --text: #1f2933;
+      --muted: #5b6773;
+      --line: #d9e0e8;
+      --accent: #0f4f8a;
+      --accent-strong: #0b3f6d;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+      --radius: 14px;
+    }
+
+    * { box-sizing: border-box; }
+
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f6f8fa;
-      color: #24292e;
-      margin: 40px;
-      line-height: 1.6;
-      max-width: 980px;
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(180deg, #eef2f7 0%, var(--bg) 40%, var(--bg) 100%);
+      color: var(--text);
+      line-height: 1.62;
     }
-    h1 { color: #0059b3; margin-bottom: 10px; }
-    h2 { margin-top: 28px; }
-    .muted { color: #57606a; }
-    .box {
-      background: #ffffff;
-      border: 1px solid #d0d7de;
-      border-radius: 10px;
-      padding: 18px 18px;
-      margin: 24px 0;
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 18px 56px;
     }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover { text-decoration: underline; }
-    ul { list-style-type: none; padding-left: 0; margin: 0; }
-    li { margin-bottom: 10px; }
-    .grid {
+
+    .hero {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: calc(var(--radius) + 2px);
+      box-shadow: var(--shadow);
+      padding: 28px;
       display: grid;
-      grid-template-columns: 1fr;
-      gap: 12px;
+      grid-template-columns: 1.4fr 0.9fr;
+      gap: 22px;
+      align-items: stretch;
     }
-    @media (min-width: 720px) {
-      .grid { grid-template-columns: 1fr 1fr; }
+
+    .hero h1 {
+      margin: 0 0 14px;
+      font-size: clamp(1.7rem, 2.5vw, 2.35rem);
+      line-height: 1.24;
+      color: var(--accent-strong);
+      letter-spacing: 0.1px;
     }
-    .hr {
-      border: none;
-      border-top: 1px solid #d0d7de;
-      margin: 24px 0;
+
+    .lead {
+      margin: 0;
+      color: #24313d;
+      font-size: 1.06rem;
+      max-width: 72ch;
     }
-    footer {
-      margin-top: 28px;
-      font-size: 0.9em;
-      color: #57606a;
+
+    .hero-aside {
+      background: var(--surface-soft);
+      border: 1px dashed #c8d4e2;
+      border-radius: 12px;
+      padding: 16px;
     }
-    .badge {
-      display: inline-block;
-      padding: 3px 8px;
-      border: 1px solid #d0d7de;
+
+    .hero-aside h2 {
+      margin: 0 0 8px;
+      font-size: 1rem;
+      color: var(--accent-strong);
+    }
+
+    .hero-aside ul {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .cta-row {
+      margin-top: 18px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 10px 16px;
       border-radius: 999px;
-      font-size: 12px;
-      color: #57606a;
-      margin-right: 6px;
-      background: #fff;
+      border: 1px solid var(--accent);
+      background: var(--accent);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.95rem;
+      box-shadow: 0 3px 10px rgba(15, 79, 138, 0.22);
     }
-    .lang-nav {
+
+    .cta:hover { background: var(--accent-strong); border-color: var(--accent-strong); }
+
+    .lang-row {
+      margin-top: 14px;
       display: flex;
       gap: 8px;
       flex-wrap: wrap;
-      margin-top: 10px;
     }
+
     .lang-link {
       display: inline-block;
-      border: 1px solid #d0d7de;
+      padding: 7px 12px;
       border-radius: 999px;
-      padding: 8px 12px;
+      border: 1px solid var(--line);
       background: #fff;
+      text-decoration: none;
+      color: #345;
+      font-size: 0.88rem;
+      font-weight: 600;
+    }
+
+    .section {
+      margin-top: 22px;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+    }
+
+    .section h2 {
+      margin: 0 0 10px;
+      font-size: 1.2rem;
+      color: #24384c;
+    }
+
+    .brief-grid {
+      margin-top: 22px;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .brief-card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 16px;
+      box-shadow: 0 1px 4px rgba(16, 24, 40, 0.05);
+    }
+
+    .brief-card h3 {
+      margin: 0 0 8px;
+      font-size: 1.02rem;
+      color: #25445f;
+    }
+
+    .brief-card p { margin: 0; color: #364453; }
+
+    .expect-list {
+      margin: 8px 0 0 0;
+      padding-left: 18px;
+    }
+
+    .expect-list li { margin: 6px 0; }
+
+    .key-nav {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .key-nav a {
+      text-decoration: none;
+      color: var(--accent-strong);
+      font-weight: 700;
+      border-bottom: 1px solid #9ab4ce;
+      padding-bottom: 1px;
+    }
+
+    .source-block {
+      margin-top: 24px;
+      background: #fff;
+      border: 1px solid #d5dde8;
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    .source-block h2 {
+      margin: 0 0 8px;
+      font-size: 1.05rem;
+      color: #41566b;
+    }
+
+    .source-block p {
+      margin: 0 0 10px;
+      color: var(--muted);
+      font-size: 0.93rem;
+    }
+
+    .source-block ul {
+      margin: 0;
+      padding-left: 18px;
+      font-size: 0.94rem;
+    }
+
+    .source-block a { color: #355b82; }
+
+    @media (max-width: 900px) {
+      .hero { grid-template-columns: 1fr; }
+      .brief-grid { grid-template-columns: 1fr; }
+      .container { padding: 18px 12px 40px; }
+      .hero { padding: 20px; }
     }
   </style>
 </head>
-
 <body>
-  <h1>🌍 Public Evidence Report (PL / EN / NL)</h1>
-  <p class="muted">
-    This is an anonymized public evidence record concerning employment-related disputes involving Intrixo B.V.
-    The report documents verified facts, structured timeline, institutional correspondence and relevant legal references.
-  </p>
-  <p class="muted">
-    This report is regularly updated. Last structural update: 2026-02-22.
-  </p>
+  <main class="container">
+    <section class="hero">
+      <div>
+        <h1>Publiczny raport dowodowy dotyczący sporu pracowniczego w Holandii</h1>
+        <p class="lead">Ta strona stanowi publiczny, zanonimizowany punkt wejścia do materiału dotyczącego wieloletniego sporu pracowniczego i reakcji instytucjonalnej. Raport opiera się na dokumentach, danych płacowo-rozliczeniowych, korespondencji i osi czasu. Celem publikacji jest umożliwienie szybkiego zrozumienia sprawy przez czytelników, media i instytucje oraz przejścia do najważniejszych materiałów.</p>
 
-  <div class="box">
-    <h2 style="margin-top:0;">🚀 Start here</h2>
-    <p>Open the report in your preferred language and begin with the summary page.</p>
-    <nav class="lang-nav" aria-label="Language navigation">
-      <a class="lang-link" href="doc.html?file=README.pl.md">🇵🇱 Start in Polish (PL)</a>
-      <a class="lang-link" href="doc.html?file=README.en.md">🇬🇧 Start in English (EN)</a>
-      <a class="lang-link" href="doc.html?file=README.nl.md">🇳🇱 Start in Dutch (NL)</a>
-    </nav>
-  </div>
+        <div class="cta-row" aria-label="Najważniejsze ścieżki">
+          <a class="cta" href="pl/dowody.html">5 najmocniejszych dowodów</a>
+          <a class="cta" href="pl/timeline.html">Oś czasu</a>
+          <a class="cta" href="pl/media.html">Dla mediów</a>
+        </div>
 
-  <div class="box">
-    <span class="badge">Privacy</span>
-    <span class="badge">Anonymized</span>
-    <span class="badge">Public</span>
-    <p style="margin-top:10px;">
-      Sensitive materials (audio/video and full documents with personal data) are <b>not</b> published publicly.
-      They can be provided to institutions, legal representatives or media upon a justified request.
-    </p>
-  </div>
+        <div class="lang-row" aria-label="Wersje językowe">
+          <a class="lang-link" href="pl/index.html">🇵🇱 Polski</a>
+          <a class="lang-link" href="en/index.html">🇬🇧 English</a>
+          <a class="lang-link" href="nl/index.html">🇳🇱 Nederlands</a>
+        </div>
+      </div>
 
-  <div class="box">
-    <span class="badge">Updates</span>
-    <p style="margin-top:10px;">
-      <b>Updates:</b> this page will be regularly updated with case progress (responses from institutions, letters, decisions, and key changes).
-      <br>
-      <b>Last updated:</b> 2026-02-21
-      <br>
-      <b>Updates log:</b> <a href="doc.html?file=UPDATES.md">UPDATES.md</a>
-    </p>
-  </div>
+      <aside class="hero-aside" aria-label="Zakres briefingu">
+        <h2>Zakres publicznej warstwy</h2>
+        <ul>
+          <li>anonimizowany opis sprawy i jej etapów,</li>
+          <li>skrót dowodów i osi czasu,</li>
+          <li>ścieżka dla redakcji i instytucji,</li>
+          <li>odwołanie do pełnych źródeł Markdown.</li>
+        </ul>
+      </aside>
+    </section>
 
-  <div class="box">
-    <h2>📘 Choose language / Wybierz język / Kies taal</h2>
-    <ul>
-      <li>PL <a href="doc.html?file=README.pl.md">Polski (PL)</a></li>
-      <li>GB <a href="doc.html?file=README.en.md">English (EN)</a></li>
-      <li>NL <a href="doc.html?file=README.nl.md">Nederlands (NL)</a></li>
-    </ul>
-  </div>
+    <section class="brief-grid" aria-label="Briefing sprawy">
+      <article class="brief-card">
+        <h3>O co chodzi</h3>
+        <p>Spór dotyczy rozliczeń, potrąceń, planowania pracy oraz dalszych działań podejmowanych wobec instytucji i pełnomocników.</p>
+      </article>
+      <article class="brief-card">
+        <h3>Co jest udokumentowane</h3>
+        <p>Publicznie dostępne są skróty kluczowych materiałów: oś czasu, 5 najmocniejszych dowodów oraz odwołania do dokumentacji źródłowej.</p>
+      </article>
+      <article class="brief-card">
+        <h3>Dlaczego to ważne</h3>
+        <p>Materiał pozwala ocenić sprawę na podstawie dokumentów, a nie samych deklaracji, i pokazuje przebieg prób wyjaśnienia sprawy.</p>
+      </article>
+      <article class="brief-card">
+        <h3>Dla mediów i instytucji</h3>
+        <p>Dostępna jest publiczna, zanonimizowana warstwa materiału. Szersze materiały mogą być przekazywane po uzasadnionym kontakcie i w bezpiecznym trybie.</p>
+      </article>
+    </section>
 
-  <hr class="hr">
-
-  <h2>📄 Documentation / Dokumentacja / Documentatie</h2>
-  <div class="grid">
-    <div class="box">
-      <h3 style="margin-top:0;">🇵🇱 Polski</h3>
-      <ul>
-        <li><a href="doc.html?file=TIMELINE.pl.md">Oś czasu (Timeline)</a></li>
-        <li><a href="doc.html?file=EVIDENCE_INDEX.pl.md">Spis dowodów (Evidence Index)</a></li>
-        <li><a href="doc.html?file=ALLEGATIONS_AND_LAW.pl.md">Zarzuty i prawo (Allegations &amp; Law)</a></li>
-        <li><a href="doc.html?file=ANONYMIZATION.pl.md">Anonimizacja (Anonymization)</a></li>
-        <li><a href="doc.html?file=DISCLAIMER.pl.md">Zastrzeżenia (Disclaimer)</a></li>
-        <li><a href="doc.html?file=CONTRIBUTING.pl.md">Jak pomóc (Contributing)</a></li>
+    <section class="section">
+      <h2>Czego oczekujemy</h2>
+      <ul class="expect-list">
+        <li>rzetelnej weryfikacji dokumentów,</li>
+        <li>transparentnej oceny materiału,</li>
+        <li>odpowiedzi instytucjonalnej tam, gdzie jest wymagana,</li>
+        <li>odpowiedzialnego zainteresowania mediów,</li>
+        <li>oceny sprawy na podstawie dokumentacji, a nie samych deklaracji.</li>
       </ul>
-    </div>
 
-    <div class="box">
-      <h3 style="margin-top:0;">🇬🇧 English</h3>
+      <nav class="key-nav" aria-label="Kluczowe przejścia">
+        <a href="pl/dowody.html">Przejdź do: 5 kluczowych dowodów</a>
+        <a href="pl/timeline.html">Przejdź do: osi czasu</a>
+        <a href="pl/media.html">Przejdź do: ścieżki dla mediów i instytucji</a>
+      </nav>
+    </section>
+
+    <section class="source-block">
+      <h2>Źródła i dokumentacja</h2>
+      <p>Sekcja techniczna (drugorzędna): pełne źródła Markdown, odczyt przez `doc.html?file=...` oraz odnośniki repozytoryjne.</p>
       <ul>
-        <li><a href="doc.html?file=TIMELINE.en.md">Timeline</a></li>
-        <li><a href="doc.html?file=EVIDENCE_INDEX.en.md">Evidence Index</a></li>
-        <li><a href="doc.html?file=ALLEGATIONS_AND_LAW.en.md">Allegations &amp; Law</a></li>
-        <li><a href="doc.html?file=ANONYMIZATION.en.md">Anonymization</a></li>
-        <li><a href="doc.html?file=DISCLAIMER.en.md">Disclaimer</a></li>
-        <li><a href="doc.html?file=CONTRIBUTING.en.md">Contributing</a></li>
+        <li><a href="doc.html?file=README.pl.md">Pełna wersja źródłowa (doc.html)</a></li>
+        <li><a href="README.pl.md">README.pl.md</a> · <a href="README.en.md">README.en.md</a> · <a href="README.nl.md">README.nl.md</a></li>
+        <li><a href="doc.html?file=TIMELINE.pl.md">Oś czasu (doc.html)</a> · <a href="TIMELINE.pl.md">TIMELINE.pl.md</a> · <a href="TIMELINE.en.md">TIMELINE.en.md</a> · <a href="TIMELINE.nl.md">TIMELINE.nl.md</a></li>
+        <li><a href="doc.html?file=EVIDENCE_INDEX.pl.md">Indeks dowodów (doc.html)</a> · <a href="EVIDENCE_INDEX.pl.md">EVIDENCE_INDEX.pl.md</a> · <a href="EVIDENCE_INDEX.en.md">EVIDENCE_INDEX.en.md</a> · <a href="EVIDENCE_INDEX.nl.md">EVIDENCE_INDEX.nl.md</a></li>
+        <li><a href="press.html">Press & institutions entry</a></li>
       </ul>
-    </div>
-
-    <div class="box">
-      <h3 style="margin-top:0;">🇳🇱 Nederlands</h3>
-      <ul>
-        <li><a href="doc.html?file=TIMELINE.nl.md">Tijdlijn</a></li>
-        <li><a href="doc.html?file=EVIDENCE_INDEX.nl.md">Bewijzenindex</a></li>
-        <li><a href="doc.html?file=ALLEGATIONS_AND_LAW.nl.md">Beschuldigingen &amp; Recht</a></li>
-        <li><a href="doc.html?file=ANONYMIZATION.nl.md">Anonimisering</a></li>
-        <li><a href="doc.html?file=DISCLAIMER.nl.md">Disclaimer</a></li>
-        <li><a href="doc.html?file=CONTRIBUTING.nl.md">Bijdragen</a></li>
-      </ul>
-    </div>
-
-    <div class="box">
-      <h3 style="margin-top:0;">📌 Repository</h3>
-      <ul>
-        <li><a href="https://github.com/Damian545-DJ/raport-publiczny">GitHub repository</a></li>
-      </ul>
-      <p class="muted" style="margin-top:10px;">
-        If any link above shows 404, the filename in the repository differs (case-sensitive). Match file names exactly.
-      </p>
-    </div>
-  </div>
-
-  <footer>
-    &copy; 2026 – Public Evidence Report (Intrixo B.V.) |
-    <a href="https://github.com/Damian545-DJ/raport-publiczny">GitHub</a>
-  </footer>
+    </section>
+  </main>
 </body>
 </html>
