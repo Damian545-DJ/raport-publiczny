@@ -2,7 +2,7 @@
 
 ## Oficjalny link do strony
 
-https://damian545-dj.github.io/raport-publiczny/index.html
+https://damian545-dj.github.io/raport-publiczny/
 
 Start strony (dla GitHub Pages): **[index.html](index.html)**
 
