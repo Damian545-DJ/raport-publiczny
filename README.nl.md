@@ -4,7 +4,7 @@
 **TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij relevante instanties en bevindt zich momenteel in de fase van wachten op inhoudelijke schriftelijke reacties en onafhankelijke verificatie.
 
 **Status:** openbare versie (geanonimiseerd)  
-**Laatste update:** 2026-01-10  
+**Laatste update:** 2026-03-25  
 **Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
 
 > Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
