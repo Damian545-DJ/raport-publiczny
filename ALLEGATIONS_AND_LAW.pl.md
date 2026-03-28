@@ -277,6 +277,39 @@ Przy publikowaniu nagrań/klatek w repozytorium:
 - zachowaj integralność dowodów (oryginały + sumy kontrolne),
 - opisuj zdarzenia jako „według nagrań / według materiału dowodowego”, bez przesądzania winy.
 
+---
+
+## Sezer Duygulu
+Sezer Duygulu jest publicznie przedstawiany jako Founder grupy Home of People. Ta sama grupa pokazuje publicznie sieć powiązanych marek, m.in. Uitzendbureau Solutions, T&S Flexwerk, TENS Holanda, NWH Jobs, Efficient at Work, Intrixo i Masterteam. To nie wygląda jak mały, lokalny biznes, tylko jak rozbudowana struktura działająca w branży, która od lat jest pod lupą z powodu ryzyk związanych z pracą migrantów, zakwaterowaniem i zależnością pracownika od pośrednika.
+
+Najmocniejsza czerwona flaga dotyczy praw pracowniczych. Uitzendbureau Solutions B.V. była stroną sprawy, która dotarła aż do holenderskiego Sądu Najwyższego. Sedno było bardzo poważne: czy pracownik agencyjny może w praktyce stracić zatrudnienie tylko dlatego, że zachorował. Sam fakt, że sprawa doszła tak wysoko, pokazuje, że nie chodziło o drobne nieporozumienie, tylko o istotny problem dotyczący ochrony pracownika w momencie choroby lub niezdolności do pracy.
+
+Druga mocna czerwona flaga dotyczy zakwaterowania pracowników migrujących. W publicznie dostępnej sprawie Raad van State opisano używanie obiektu jako logies dla pracowników migrujących oraz działania administracyjne związane z naruszeniami wymogów przeciwpożarowych i niezgodnym użytkowaniem obiektu. W opisie sprawy pojawia się związek z Solutions B.V. jako najemcą finansującym zakwaterowanie. To nie jest drobny szczegół administracyjny, tylko sygnał ryzyka w jednym z najbardziej wrażliwych obszarów całego modelu biznesowego.
+
+Trzecia czerwona flaga to sam model działania. Gdy jedna grupa kontroluje pracę, mieszkanie i często także transport, pracownik staje się zależny od jednej struktury niemal we wszystkim. Właśnie taki układ rząd Holandii wskazuje jako szczególnie podatny na nadużycia: zaniżanie płac, złe warunki pracy i życia oraz obchodzenie przepisów. Dlatego państwo wdrożyło ustawę Wtta, która ma uderzać w agencje i podmioty wypożyczające pracowników, jeśli obchodzą prawo lub działają kosztem pracowników.
+
+To, co dodatkowo zwraca uwagę, to fakt, że działalność ta jest jednocześnie mocno osadzona w oficjalnych strukturach branżowych. Uitzendbureau Solutions B.V. figuruje na stronie NBBU jako członek, a wpis wskazuje też na SNA-certificering. W rejestrze SNA spółka widnieje jako certyfikowana, a dokument rejestracyjny potwierdza wpis do Register Normering Arbeid. W rejestrze SNF widnieje z kolei Solutions B.V., Uitzendbureau, co oznacza obecność w systemie norm dotyczącym zakwaterowania pracowników migrujących. Innymi słowy: firma nie działa na marginesie rynku, tylko wchodzi w oficjalny obieg branżowy i certyfikacyjny.
+
+To jednak nie czyści obrazu. Członkostwo w NBBU i obecność w SNA/SNF nie oznaczają automatycznie, że nie ma problemów. Pokazują tylko, że firma funkcjonuje w systemie branżowym i przeszła określone formalne kontrole. A mimo to w publicznym obiegu pozostają poważne pytania dotyczące traktowania pracowników i bezpieczeństwa zakwaterowania.
+
+Najuczciwiej można to podsumować tak: wokół działalności powiązanej z Sezerem Duygulu widać realne czerwone flagi — spór pracowniczy na poziomie Sądu Najwyższego, wątki zakwaterowania pracowników migrujących i działanie w sektorze, który państwo uznaje za szczególnie podatny na nadużycia. Nie ma jednak w tych źródłach podstaw, by pisać jako fakt, że Sezer Duygulu osobiście został skazany za oszustwo albo formalnie uznany za sprawcę wyzysku. To ważne rozróżnienie: można mówić o poważnym ryzyku i niepokojącym wzorcu, ale nie o udowodnionej osobistej winie bez twardych dokumentów.
+
+
+Sezer Duygulu jest publicznie przedstawiany jako założyciel Home of People — grupy działającej w sektorze pracy tymczasowej i pracowników migrujących. Wokół powiązanych z tą grupą podmiotów pojawiają się poważne czerwone flagi: spór pracowniczy z udziałem Uitzendbureau Solutions dotarł aż do holenderskiego Sądu Najwyższego, a w publicznych materiałach administracyjnych pojawia się też wątek zakwaterowania pracowników migrujących i naruszeń związanych z bezpieczeństwem pożarowym. Jednocześnie spółka funkcjonuje w oficjalnych strukturach branżowych — figuruje jako członek NBBU i pojawia się w rejestrach SNA oraz SNF. To nie usuwa ryzyk. Pokazuje raczej, że mimo formalnego osadzenia w systemie branżowym wokół tej działalności pozostają istotne pytania o prawa pracownicze, housing compliance i model zależności pracownika od pośrednika.
+
+Linki źródłowe
+https://www.homeofpeople.nl/over-ons/
+https://www.homeofpeople.nl/team/sezer-duygulu/
+https://www.nbbu.nl/nl/onze-leden/uitzendbureau-solutions-bv
+https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+https://www.raadvanstate.nl/@138720/202103252-1-r3/
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen
+https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen/4c2e95bf-f454-4b15-b279-eaf2a1860f48/verklaring/nl
+https://www.normeringflexwonen.nl/register
+https://www.normeringflexwonen.nl/snfkeurmerk/gecertificeerde-ondernemingen/export
+https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-miss
+
+
 
 
 ---

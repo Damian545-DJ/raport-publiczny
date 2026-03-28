@@ -60,7 +60,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
 ---
 
-# Worker 1 – evidence (short summary + timeline)
+# Worker 1 (B. S.) – evidence (short summary + timeline)
 
 ## 1) Debt mechanism caused by lack of work scheduling
 - From **21 Nov 2022** (open-ended contract, Phase C, 32h guarantee), the agency’s failure to schedule work resulted in debt being built up on the worker (e.g., ongoing housing costs).
@@ -156,7 +156,23 @@ E) Risk that assessment was made on incomplete material (translations/evidence w
 
 ---
 
-# Worker 2 – evidence (short summary + timeline)
+### After employment / settlement – follow-up actions (2025–2026)
+
+- **09.07.2025 (The Hague):** B. S. submits her resignation from Intrixo with a **one-month notice period**. She states: **last day of employment 10.08.2025** and **leaving agency housing on 10.08.2025**. She requests full settlement of all amounts due and — if leave cannot be taken during the notice period — **payment in lieu for unused leave**; she also requests by email: confirmation of termination, final settlement, payslips (loonstroken) and the annual income statement (jaaropgave). (evidence: resignation letter – 09.07.2025)
+
+- **11.12.2025:** an email/letter titled “Request for calculation of overdue gross wages” was sent to Intrixo (helpdesk@intrixo.nl) — request for all documents and calculations of overdue gross wages from **06.05.2022** in line with the court minutes (proces-verbaal, **12.03.2024**) + request to respond within **14 days**, otherwise further steps. (evidence: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
+
+- **24.02.2026:** Intrixo issues payslip/loonspecificatie no. **35** (week **32/2025**, period **04.08.2025–10.08.2025**) — “netto to be paid” **€2.50**. (evidence: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+
+- **25.02.2026:** SEPA incoming transfer to B. S.’s account: Intrixo B.V. **€2.50** (reference: “Betreft loonslipnummer 35”). (evidence: Potwierdzenie_transakcji_...pdf)
+
+- **27.02.2026:** B. S. received the payslip/loonspecificatie from Intrixo (payslip no. **35**). (evidence: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+
+- **25.02.2026:** **case taken over by the third representative** – confirms receipt of the **first payment (first instalment)** related to invoice **26.032 (eigen bijdrage, reference 3NB7949)** and states he is **starting work on the case** and will provide further updates. (evidence: Przejecie zprawy trzeciego pełnomocnika.pdf)
+
+---
+
+# Worker 2 (D. N.) – evidence (short summary + timeline)
 
 Public version: no names. Labels used: **Worker 2**, **Agency [A]**, **Client/company [B]**. Institutions (FairWork, Juridisch Loket, SNCU) remain named.
 
@@ -221,5 +237,7 @@ The worker reported a “minus” shown in the system. Helpdesk explained that i
 ### January 2026 – evidence submitted and case closed
 - **04 Jan 2026:** key evidence sent to SNCU: “minus/debt”, 61.11h holiday + pressure, missing final settlement, suspected manipulation via corrections.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
+*2026-01-20: After contact with Sezer Duygulu, SNCU closes the case; no explanation is provided for the grounds of the decision.
 - **20 Jan 2026:** SNCU / Juridisch Loket (signal 37856 / V-657): message that SNCU conducted a preliminary procedure, contacted the employer, and then concluded it cannot take further action; attachments include SNCU–employer correspondence and translations (inspector’s position and employer reply).
 - **20 Jan 2026:** objection to the case closure submitted (with reference to the evidence basis) – Waiting for a response.
+- **14.02.2026:** Juridisch Loket – information that they still cannot obtain an answer from SNCU as to why the case was closed, and that Juridisch Loket will not take any further steps towards SNCU because they have no power to compel SNCU to issue a decision or provide a response. Recommendation: contact a lawyer (possible claim for unpaid wages / further legal action) and the possibility of referral to a lawyer. (attachment: Juridisch Loket.pdf)
