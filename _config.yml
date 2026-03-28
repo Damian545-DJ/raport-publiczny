@@ -1,0 +1,8 @@
+title: "Public Evidence Report"
+description: "Public anonymized evidence report (PL / EN / NL)"
+url: "https://damian545-dj.github.io"
+baseurl: "/raport-publiczny"
+markdown: kramdown
+plugins: []
+exclude:
+  - scripts
