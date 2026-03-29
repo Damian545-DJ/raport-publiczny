@@ -12,6 +12,7 @@
 1. Begin met de HTML-briefinglaag (`index.html`, `nl/index.html`, `nl/belangrijkste-bevindingen.html`, `nl/dowody.html`, `nl/timeline.html`).
 2. Ga daarna naar de Markdown-bronbestanden (`README`, `TIMELINE`, `EVIDENCE_INDEX`) voor volledige context.
 3. Lees alle uitspraken over mogelijke misstanden als verwijten/allegaties die verdere verificatie vereisen.
+4. GitHub Issues/Discussions zijn uitsluitend voor technische repozaken; mediacontact hoort via het dedicated adres te lopen.
 
 > Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
 
