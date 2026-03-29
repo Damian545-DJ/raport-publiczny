@@ -1,5 +1,11 @@
 # Updates
 
+## 2026-03-29
+- Unified public-layer update date across HTML entry pages, README language versions, sitemap and metadata.
+- Added dedicated key findings pages in PL/EN/NL (`najwazniejsze-ustalenia`, `key-findings`, `belangrijkste-bevindingen`) and linked them from main navigation paths.
+- Refined the 5-evidence pages (PL/EN/NL) to emphasize the core briefing points with legally cautious wording.
+- Improved SEO metadata (title/description/OG) on key briefing pages and enhanced `doc.html` default/dynamic document titles.
+
 ## 2026-01-25
 - Updated index.html (Open Graph / Twitter preview tags).
 - Minor layout/links adjustments.
@@ -60,7 +66,6 @@ PL: Dodano sekcję w `ALLEGATIONS_AND_LAW.pl.md` o konsekwencjach prawnych (w ty
 NL: Sectie toegevoegd aan `ALLEGATIONS_AND_LAW.pl.md` over juridische (incl. strafrechtelijke) gevolgen in NL van onaangekondigde betredingen door derden van kamer 267 (Mixx Inn, Den Haag), met bewijsrapport en videomateriaal.
 
 EN: Added a section to `ALLEGATIONS_AND_LAW.pl.md` on legal (including criminal) consequences in NL for unannounced third-party entries into room 267 (Mixx Inn, The Hague), including an evidence report and video material.
-
 
 
 
