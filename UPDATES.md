@@ -1,5 +1,11 @@
 # Updates
 
+## 2026-03-29
+- Unified public-layer update date across HTML entry pages, README language versions, sitemap and metadata.
+- Added dedicated key findings pages in PL/EN/NL (`najwazniejsze-ustalenia`, `key-findings`, `belangrijkste-bevindingen`) and linked them from main navigation paths.
+- Refined the 5-evidence pages (PL/EN/NL) to emphasize the core briefing points with legally cautious wording.
+- Improved SEO metadata (title/description/OG) on key briefing pages and enhanced `doc.html` default/dynamic document titles.
+
 ## 2026-01-25
 - Updated index.html (Open Graph / Twitter preview tags).
 - Minor layout/links adjustments.
@@ -80,7 +86,6 @@ EN: B. S.’s Timeline (employee) has been updated with post-employment events: 
 ### 2026-18-03
 
  D. N. Added - Timeline, Allegations
-
 
 
 

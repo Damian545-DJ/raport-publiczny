@@ -3,9 +3,15 @@
 
 **TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij relevante instanties en bevindt zich momenteel in de fase van wachten op inhoudelijke schriftelijke reacties en onafhankelijke verificatie.
 
-**Status:** openbare versie (geanonimiseerd)  
-**Laatste update:** 2026-03-25  
+**Status:** openbare versie (geanonimiseerd)
+**Laatste update:** 2026-03-29
 **Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
+
+## Hoe gebruik je deze repository (kort)
+
+1. Begin met de HTML-briefinglaag (`index.html`, `nl/index.html`, `nl/belangrijkste-bevindingen.html`, `nl/dowody.html`, `nl/timeline.html`).
+2. Ga daarna naar de Markdown-bronbestanden (`README`, `TIMELINE`, `EVIDENCE_INDEX`) voor volledige context.
+3. Lees alle uitspraken over mogelijke misstanden als verwijten/allegaties die verdere verificatie vereisen.
 
 > Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
 
@@ -81,7 +87,7 @@ Daarnaast organisaties waarnaar het bureau verwijst m.b.t. certificering/branche
 - NBBU
 - SNF
 
-— volgens onze documentatie en per **2026-01-10**: wij hebben van deze partijen **geen** inhoudelijke reactie ontvangen op onze brieven, of de reactie was onvoldoende (bijvoorbeeld zonder concrete verificatie van de aangeleverde bewijspunten).
+— volgens onze documentatie en per **2026-03-29**: wij hebben van deze partijen **geen** inhoudelijke reactie ontvangen op onze brieven, of de reactie was onvoldoende (bijvoorbeeld zonder concrete verificatie van de aangeleverde bewijspunten).
 
 ---
 
@@ -111,12 +117,12 @@ Daarnaast organisaties waarnaar het bureau verwijst m.b.t. certificering/branche
 
 ## Hoe je de repo leest
 
-- **TIMELINE.md** – tijdlijn van de belangrijkste gebeurtenissen  
-- **EVIDENCE_INDEX.md** – bewijsindex en wat het ondersteunt  
-- **ALLEGATIONS_AND_LAW.md** – verwijten + juridische basis (NL/EU)  
-- **ANONYMIZATION.md** – anonimisatieregels  
-- **DISCLAIMER.md** – voorbehoud  
-- **CONTRIBUTING.md** – hoe je kunt helpen  
+- **TIMELINE.md** – tijdlijn van de belangrijkste gebeurtenissen
+- **EVIDENCE_INDEX.md** – bewijsindex en wat het ondersteunt
+- **ALLEGATIONS_AND_LAW.md** – verwijten + juridische basis (NL/EU)
+- **ANONYMIZATION.md** – anonimisatieregels
+- **DISCLAIMER.md** – voorbehoud
+- **CONTRIBUTING.md** – hoe je kunt helpen
 
 ---
 
