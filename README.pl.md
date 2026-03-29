@@ -12,6 +12,7 @@
 1. Zacznij od warstwy briefingowej HTML (`index.html`, `pl/index.html`, `pl/najwazniejsze-ustalenia.html`, `pl/dowody.html`, `pl/timeline.html`).
 2. Następnie przejdź do źródeł Markdown (`README`, `TIMELINE`, `EVIDENCE_INDEX`) jako warstwy szczegółowej.
 3. Traktuj wszystkie stwierdzenia o naruszeniach jako zarzuty/allegacje do niezależnej weryfikacji.
+4. GitHub Issues/Discussions służą wyłącznie do spraw technicznych repo; kontakt medialny powinien odbywać się dedykowanym adresem.
 
 > Ważne: Ten materiał ma charakter informacyjny i społeczny. Opisujemy fakty i wnioski na podstawie posiadanych dokumentów i nagrań. Wszelkie stwierdzenia o naruszeniach traktuj jako **zarzuty/allegacje**, a nie jako prawomocne ustalenia sądu. Repozytorium nie stanowi porady prawnej.
 
