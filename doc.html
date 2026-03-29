@@ -4,7 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="color-scheme" content="light dark" />
-  <title>Document</title>
+  <title>Intrixo — źródła Markdown (doc viewer)</title>
+  <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">
+  <meta property="og:title" content="Intrixo — źródła Markdown (doc viewer)">
+  <meta property="og:description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, anonimizowanej warstwy repozytorium.">
 
   <!-- GitHub-like markdown styles -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
@@ -89,6 +92,21 @@
       return href;
     }
 
+    function formatDocTitle(file) {
+      const map = {
+        "README.pl.md": "Intrixo – README (PL)",
+        "README.en.md": "Intrixo – README (EN)",
+        "README.nl.md": "Intrixo – README (NL)",
+        "TIMELINE.pl.md": "Intrixo – Oś czasu (PL)",
+        "TIMELINE.en.md": "Intrixo – Timeline (EN)",
+        "TIMELINE.nl.md": "Intrixo – Tijdlijn (NL)",
+        "EVIDENCE_INDEX.pl.md": "Intrixo – Indeks dowodów (PL)",
+        "EVIDENCE_INDEX.en.md": "Intrixo – Evidence index (EN)",
+        "EVIDENCE_INDEX.nl.md": "Intrixo – Bewijsindex (NL)"
+      };
+      return map[file] || `Intrixo – ${file}`;
+    }
+
     async function load() {
       const params = new URLSearchParams(location.search);
       const raw = params.get("file") || "README.pl.md";
@@ -104,7 +122,7 @@
       }
 
       fileNameEl.textContent = file;
-      document.title = file;
+      document.title = formatDocTitle(file);
 
       try {
         const res = await fetch(file, { cache: "no-store" });
