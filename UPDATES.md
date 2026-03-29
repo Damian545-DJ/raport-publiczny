@@ -67,6 +67,24 @@ NL: Sectie toegevoegd aan `ALLEGATIONS_AND_LAW.pl.md` over juridische (incl. str
 
 EN: Added a section to `ALLEGATIONS_AND_LAW.pl.md` on legal (including criminal) consequences in NL for unannounced third-party entries into room 267 (Mixx Inn, The Hague), including an evidence report and video material.
 
+---
 
+### 2026-02-27
+
+PL: Dodano wpis do Timeline z 14.02.2026 dotyczący Juridisch Loket (brak możliwości uzyskania odpowiedzi od SNCU ws. zamknięcia sprawy) + załączono plik „Juridisch Loket.pdf”.
+
+NL: Tijdlijn aangevuld met het item van 14.02.2026 over Juridisch Loket (geen mogelijkheid om een antwoord van SNCU te krijgen over het sluiten van de zaak) + bijlage “Juridisch Loket.pdf” toegevoegd.
+
+EN: Added a 14.02.2026 Timeline entry regarding Juridisch Loket (still unable to obtain SNCU’s explanation for closing the case) + attached “Juridisch Loket.pdf”.
+
+PL: Uzupełniono Timeline B. S. (Pracownica) o zdarzenia po zakończeniu pracy: wypowiedzenie (09.07.2025), wezwanie Intrixo do wyliczeń po ugodzie (11.12.2025), loonstrook nr 35 (wystawienie 24.02.2026, przelew 2,50 € 25.02.2026, otrzymanie 27.02.2026) oraz przejęcie sprawy przez trzeciego pełnomocnika (25.02.2026). Dodano/załączono odpowiednie pliki dowodowe (PDF).
+
+NL: De tijdlijn van B. S. (werkneemster) is aangevuld met gebeurtenissen na het einde van het werk: opzegging (09.07.2025), verzoek aan Intrixo om berekeningen na de schikking (11.12.2025), loonstrook nr. 35 (opgemaakt 24.02.2026, betaling € 2,50 op 25.02.2026, ontvangen 27.02.2026) en de zaakovername door de derde gemachtigde (25.02.2026). De bijbehorende bewijsbestanden (PDF) zijn toegevoegd/gekoppeld.
+
+EN: B. S.’s Timeline (employee) has been updated with post-employment events: resignation (09.07.2025), request to Intrixo for calculations after the settlement (11.12.2025), payslip no. 35 (issued 24.02.2026, €2.50 transfer on 25.02.2026, received 27.02.2026), and case takeover by the third representative (25.02.2026). Relevant evidence files (PDF) have been added/linked.
+
+### 2026-18-03
+
+ D. N. Added - Timeline, Allegations
 
 
