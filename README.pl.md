@@ -136,6 +136,12 @@ Jednocześnie podmioty, na które agencja powołuje się certyfikacyjnie / bran�
 
 ---
 
+## Dodatkowa dokumentacja
+
+- [Sezer Duygulu – kontekst publiczny i udokumentowane sprzeczności](./sezer-duygulu/README.pl.md)
+
+---
+
 ## Jak możesz pomóc
 
 - Tłumaczenie streszczeń na EN/NL
