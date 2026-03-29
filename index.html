@@ -57,8 +57,8 @@
 
     .hero h1 {
       margin: 0 0 16px;
-      font-size: clamp(1.7rem, 2.5vw, 2.35rem);
-      line-height: 1.22;
+      font-size: clamp(1.9rem, 2.9vw, 2.65rem);
+      line-height: 1.18;
       color: var(--accent-strong);
       letter-spacing: 0.1px;
     }
@@ -66,8 +66,8 @@
     .lead {
       margin: 0;
       color: #24313d;
-      font-size: 1.08rem;
-      max-width: 72ch;
+      font-size: 1.1rem;
+      max-width: 70ch;
     }
 
     .hero-aside {
@@ -105,12 +105,12 @@
       padding: 11px 18px;
       border-radius: 999px;
       border: 1px solid var(--accent);
-      background: var(--accent);
+      background: linear-gradient(180deg, var(--accent) 0%, var(--accent-strong) 100%);
       color: #fff;
       text-decoration: none;
       font-weight: 700;
       font-size: 0.96rem;
-      box-shadow: 0 4px 12px rgba(15, 79, 138, 0.24);
+      box-shadow: 0 6px 14px rgba(15, 79, 138, 0.26);
     }
 
     .cta:hover { background: var(--accent-strong); border-color: var(--accent-strong); }
@@ -124,13 +124,13 @@
 
     .lang-link {
       display: inline-block;
-      padding: 7px 12px;
+      padding: 7px 11px;
       border-radius: 999px;
       border: 1px solid var(--line);
       background: #fff;
       text-decoration: none;
       color: #345;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
       font-weight: 600;
     }
 
@@ -203,7 +203,7 @@
 
     .source-block h2 {
       margin: 0 0 8px;
-      font-size: 1.08rem;
+      font-size: 1.1rem;
       color: #41566b;
     }
 
@@ -302,13 +302,29 @@
     <section class="source-block">
       <h2>Źródła i dokumentacja</h2>
       <p>Sekcja techniczna (drugorzędna): pełne źródła Markdown, odczyt przez `doc.html?file=...` oraz odnośniki repozytoryjne.</p>
+
+      <h3>Dokumenty główne</h3>
       <ul>
-        <li><a href="doc.html?file=README.pl.md">Pełna wersja źródłowa (doc.html)</a></li>
-        <li><a href="README.pl.md">README.pl.md</a> · <a href="README.en.md">README.en.md</a> · <a href="README.nl.md">README.nl.md</a></li>
-        <li><a href="doc.html?file=TIMELINE.pl.md">Oś czasu (doc.html)</a> · <a href="TIMELINE.pl.md">TIMELINE.pl.md</a> · <a href="TIMELINE.en.md">TIMELINE.en.md</a> · <a href="TIMELINE.nl.md">TIMELINE.nl.md</a></li>
-        <li><a href="doc.html?file=EVIDENCE_INDEX.pl.md">Indeks dowodów (doc.html)</a> · <a href="EVIDENCE_INDEX.pl.md">EVIDENCE_INDEX.pl.md</a> · <a href="EVIDENCE_INDEX.en.md">EVIDENCE_INDEX.en.md</a> · <a href="EVIDENCE_INDEX.nl.md">EVIDENCE_INDEX.nl.md</a></li>
-        <li><a href="press.html">Press & institutions entry</a></li>
+        <li>README: <a href="doc.html?file=README.pl.md">doc PL</a> · <a href="README.pl.md">PL</a> | <a href="doc.html?file=README.en.md">doc EN</a> · <a href="README.en.md">EN</a> | <a href="doc.html?file=README.nl.md">doc NL</a> · <a href="README.nl.md">NL</a></li>
+        <li>TIMELINE: <a href="doc.html?file=TIMELINE.pl.md">doc PL</a> · <a href="TIMELINE.pl.md">PL</a> | <a href="doc.html?file=TIMELINE.en.md">doc EN</a> · <a href="TIMELINE.en.md">EN</a> | <a href="doc.html?file=TIMELINE.nl.md">doc NL</a> · <a href="TIMELINE.nl.md">NL</a></li>
+        <li>EVIDENCE_INDEX: <a href="doc.html?file=EVIDENCE_INDEX.pl.md">doc PL</a> · <a href="EVIDENCE_INDEX.pl.md">PL</a> | <a href="doc.html?file=EVIDENCE_INDEX.en.md">doc EN</a> · <a href="EVIDENCE_INDEX.en.md">EN</a> | <a href="doc.html?file=EVIDENCE_INDEX.nl.md">doc NL</a> · <a href="EVIDENCE_INDEX.nl.md">NL</a></li>
       </ul>
+
+      <h3>Dokumenty prawne i techniczne</h3>
+      <ul>
+        <li>ALLEGATIONS_AND_LAW: <a href="doc.html?file=ALLEGATIONS_AND_LAW.pl.md">doc PL</a> · <a href="ALLEGATIONS_AND_LAW.pl.md">PL</a> | <a href="doc.html?file=ALLEGATIONS_AND_LAW.en.md">doc EN</a> · <a href="ALLEGATIONS_AND_LAW.en.md">EN</a> | <a href="doc.html?file=ALLEGATIONS_AND_LAW.nl.md">doc NL</a> · <a href="ALLEGATIONS_AND_LAW.nl.md">NL</a></li>
+        <li>ANONYMIZATION: <a href="doc.html?file=ANONYMIZATION.pl.md">doc PL</a> · <a href="ANONYMIZATION.pl.md">PL</a> | <a href="doc.html?file=ANONYMIZATION.en.md">doc EN</a> · <a href="ANONYMIZATION.en.md">EN</a> | <a href="doc.html?file=ANONYMIZATION.nl.md">doc NL</a> · <a href="ANONYMIZATION.nl.md">NL</a></li>
+        <li>DISCLAIMER: <a href="doc.html?file=DISCLAIMER.pl.md">doc PL</a> · <a href="DISCLAIMER.pl.md">PL</a> | <a href="doc.html?file=DISCLAIMER.en.md">doc EN</a> · <a href="DISCLAIMER.en.md">EN</a> | <a href="doc.html?file=DISCLAIMER.nl.md">doc NL</a> · <a href="DISCLAIMER.nl.md">NL</a></li>
+      </ul>
+
+      <h3>Dokumenty współpracy i aktualizacji</h3>
+      <ul>
+        <li>CONTRIBUTING: <a href="doc.html?file=CONTRIBUTING.pl.md">doc PL</a> · <a href="CONTRIBUTING.pl.md">PL</a> | <a href="doc.html?file=CONTRIBUTING.en.md">doc EN</a> · <a href="CONTRIBUTING.en.md">EN</a> | <a href="doc.html?file=CONTRIBUTING.nl.md">doc NL</a> · <a href="CONTRIBUTING.nl.md">NL</a></li>
+        <li><a href="doc.html?file=UPDATES.md">UPDATES (doc)</a> · <a href="UPDATES.md">UPDATES.md</a></li>
+        <li><a href="doc.html?file=CODE_OF_CONDUCT.md">CODE_OF_CONDUCT (doc)</a> · <a href="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li>
+      </ul>
+
+      <p><a href="press.html">Press & institutions entry</a></p>
     </section>
   </main>
 </body>
