@@ -26,6 +26,15 @@
 
 ---
 
+## Additional documentation
+
+The repository also includes supplementary contextual material concerning publicly available information and documented inconsistencies related to the broader context of the case. This material is supplementary in nature and does not constitute a final legal determination on its own.
+
+- [Sezer Duygulu – public context and documented inconsistencies](doc.html?file=PUBLIC_REPORT_EVIDENCE_ANON_EN.md) · [raw](PUBLIC_REPORT_EVIDENCE_ANON_EN.md)
+- The primary core of this repository remains the Intrixo case and its source documentation.
+
+---
+
 ## Why we are making this public
 
 Because we see that without visibility:

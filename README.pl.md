@@ -26,6 +26,15 @@
 
 ---
 
+## Dodatkowa dokumentacja
+
+Repozytorium zawiera również dodatkowy materiał kontekstowy dotyczący publicznie dostępnych informacji oraz udokumentowanych sprzeczności powiązanych z szerszym otoczeniem sprawy. Materiał ten ma charakter uzupełniający i nie stanowi samodzielnego prawomocnego rozstrzygnięcia.
+
+- [Sezer Duygulu – kontekst publiczny i udokumentowane sprzeczności](doc.html?file=PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md) · [raw](PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md)
+- Główny rdzeń repo nadal dotyczy sprawy Intrixo i powiązanej dokumentacji źródłowej.
+
+---
+
 ## Dlaczego pokazujemy to światu
 
 Bo widzimy, że bez nagłośnienia:

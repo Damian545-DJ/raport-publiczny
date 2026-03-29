@@ -26,6 +26,15 @@
 
 ---
 
+## Aanvullende documentatie
+
+De repository bevat ook aanvullend contextmateriaal over publiek beschikbare informatie en gedocumenteerde inconsistenties die verband houden met de bredere context van de zaak. Dit materiaal is aanvullend van aard en vormt op zichzelf geen definitieve rechterlijke vaststelling.
+
+- [Sezer Duygulu – publieke context en gedocumenteerde inconsistenties](doc.html?file=PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md) · [raw](PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md)
+- De hoofdcore van deze repository blijft de Intrixo-zaak en de bijbehorende bron-documentatie.
+
+---
+
 ## Waarom we dit publiek maken
 
 Omdat we zien dat zonder publiciteit:
