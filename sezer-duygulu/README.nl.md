@@ -437,6 +437,10 @@ Vanuit het oogpunt van rode vlaggen in openbare bronnen zijn de sterkste element
 - het openbare KVK-uittreksel van NWH dat de formele toetreding van Sezer Duygulu tot het bestuur of een eigendomswijziging in 2023 laat zien,
 - de beschrijvingen van het risicomodel in gemeentelijke documenten over arbeidsmigratie.
 
+Ik wil benadrukken dat, als het gaat om arbeidsconflicten, niet alle rechtszaken over geschillen met uitzendbureaus openbaar beschikbaar zijn. Op Rechtspraak wordt slechts een deel van de uitspraken gepubliceerd, en informatie over de datum en plaats van een civiele zitting moet vaak rechtstreeks bij de rechtbank worden opgevraagd.
+
+Uit het bovenstaande materiaal blijkt dat Home of People zich planmatig ontwikkelt door opeenvolgend uitzendbureaus over te nemen en deze onder te brengen in één operationele structuur. Daardoor verkrijgt de groep een grotere schaal, centrale administratieve ondersteuning, ruimere mogelijkheden voor personeelsplanning, een uitgebreider huisvestings- en transportnetwerk en een sterkere marktpositie. Dit kan het tevens gemakkelijker maken om aan de vereisten van het WTTA-stelsel te voldoen dan voor kleinere bureaus. Tegelijkertijd kan de groeiende positie van Home of People steeds meer druk uitoefenen op traditionele, onafhankelijke Nederlandse uitzendbureaus die niet over vergelijkbare logistieke, huisvestings- en administratieve voorzieningen beschikken. Vanuit het perspectief van een gewone werknemer kan dit betekenen dat hij in een geschil over zijn rechten niet langer tegenover één afzonderlijk bureau staat, maar tegenover een beter georganiseerde groep met meer operationele slagkracht, grotere administratieve samenhang en een grotere mogelijkheid om invloed uit te oefenen op de organisatie van werk, huisvesting en transport. In de praktijk kan dit het voor werknemers moeilijker maken om hun arbeidsrechten doeltreffend af te dwingen.
+
 ## Bronlinks
 
 https://www.flexnieuws.nl/2022/12/solutions-group-lanceert-nieuwe-naam-home-of-people/
