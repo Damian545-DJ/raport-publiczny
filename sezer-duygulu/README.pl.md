@@ -470,7 +470,11 @@ Z punktu widzenia samych czerwonych flag w źródłach publicznych, najsilniejsz
 * publiczny wyciąg KVK NWH pokazujący formalne wejście Sezera Duygulu do zarządu lub zmianę właścicielską w 2023 r.,
 * opisy modelu ryzyk w dokumentach miejskich dotyczących arbeidsmigratie.
 
+---
+
  Chciałbym zaznaczyć że jak chodzi o spory pracownicze to nie wszystkie sprawy sądowe dotyczące sporów z agencjami są publicznie dostępne. Rechtspraak publikowana jest tylko część orzeczeń, a informacje o dacie i miejscu rozprawy w sprawie cywilnej często trzeba uzyskiwać bezpośrednio przez sąd. 
+
+---
 
 ## Linki do źródeł
 
