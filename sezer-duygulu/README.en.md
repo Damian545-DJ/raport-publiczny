@@ -439,6 +439,10 @@ From the perspective of red flags in public sources, the strongest elements are:
 - the public NWH KVK extract showing the formal entry of Sezer Duygulu into management or an ownership change in 2023,
 - the descriptions of the risk model in municipal documents concerning labour migration.
 
+I would like to point out that, in the context of labour disputes, not all court cases involving disputes with employment agencies are publicly available. Only part of the judgments are published on Rechtspraak, and information about the date and location of a civil hearing often has to be obtained directly from the court.
+
+The above material indicates that Home of People is expanding in a planned manner by acquiring additional agencies and integrating them into a single operational structure. As a result, the group gains greater scale, central administrative support, broader workforce planning capacity, a more extensive housing and transport infrastructure, and a stronger market position. This may also make it easier for the group to adapt to the requirements of the WTTA system than it would be for a smaller agency. At the same time, the growing position of Home of People may place increasing pressure on traditional, independent Dutch agencies that do not have comparable housing, logistical, and administrative capacity. From the perspective of an ordinary worker, this may mean that in a dispute over their rights they are no longer facing a single agency, but rather a better-organised group with greater operational resources, stronger administrative coordination, and a greater ability to influence the organisation of work, housing, and transport. In practice, this may make it more difficult for workers to effectively enforce their labour rights.
+
 ## Source links
 
 https://www.flexnieuws.nl/2022/12/solutions-group-lanceert-nieuwe-naam-home-of-people/
