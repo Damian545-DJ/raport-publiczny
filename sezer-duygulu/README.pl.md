@@ -470,9 +470,14 @@ Z punktu widzenia samych czerwonych flag w źródłach publicznych, najsilniejsz
 * publiczny wyciąg KVK NWH pokazujący formalne wejście Sezera Duygulu do zarządu lub zmianę właścicielską w 2023 r.,
 * opisy modelu ryzyk w dokumentach miejskich dotyczących arbeidsmigratie.
 
-Chciałbym zaznaczyć że jak chodzi o spory pracownicze to nie wszystkie sprawy sądowe dotyczące sporów z agencjami są publicznie dostępne. Rechtspraak publikowana jest tylko część orzeczeń, a informacje o dacie i miejscu rozprawy w sprawie cywilnej często trzeba uzyskiwać bezpośrednio przez sąd. 
+Chciałbym zaznaczyć że jak chodzi o spory pracownicze to nie wszystkie sprawy sądowe dotyczące sporów z agencjami są publicznie dostępne. Rechtspraak publikowana jest tylko część orzeczeń, a informacje o dacie i miejscu rozprawy w sprawie cywilnej często trzeba uzyskiwać bezpośrednio przez sąd. t 
 
-Z powyższego materiału wynika, że Home of People rozwija się w sposób planowy, przejmując kolejne agencje i włączając je do jednej struktury operacyjnej. Dzięki temu grupa zyskuje większą skalę działania, centralne wsparcie administracyjne, szersze możliwości planowania personelu, rozbudowane zaplecze mieszkaniowe i transportowe oraz silniejszą pozycję rynkową. Może to również ułatwiać dostosowanie się do wymogów systemu WTTA w większym stopniu niż w przypadku małych agencji. Jednocześnie wzrost pozycji Home of People może wywierać coraz większą presję na tradycyjne, niezależne agencje holenderskie, które nie dysponują porównywalnym zapleczem mieszkaniowym, logistycznym i administracyjnym. Z perspektywy zwykłego pracownika może to oznaczać, że w sporze o swoje prawa ma po drugiej stronie już nie pojedynczą agencję, lecz lepiej zorganizowaną grupę, dysponującą większym zapleczem operacyjnym, większą spójnością administracyjną oraz większą zdolnością oddziaływania na organizację pracy, zakwaterowania i transportu. W praktyce może to utrudniać skuteczne dochodzenie praw pracowniczych.
+Z przedstawionego materiału wynika, że Home of People rozwija się w sposób planowy, przejmując kolejne agencje i włączając je do jednej, wspólnej struktury operacyjnej. Taki model pozwala grupie zwiększać skalę działalności, wzmacniać zaplecze administracyjne, lepiej planować personel oraz rozbudowywać system zakwaterowania i transportu. W efekcie Home of People zyskuje silniejszą pozycję rynkową i większe możliwości organizacyjne również wywierać coraz większą presję na tradycyjne, niezależne agencje holenderskie, które nie dysponują porównywalnym zapleczem mieszkaniowym, logistycznym ani administracyjnym.
+
+Możliwe też jest że Jeżeli jedna agencja z grupy nie przejdzie przez Wtta, grupa może próbować utrzymać działalność poprzez inną spółkę posiadającą własną toelating, zawierając z pracownikami nowe umowy i pozostawiając ich u tych samych klientów.
+
+A z perspektywy zwykłego pracownika oznacza to, że w sporze o swoje prawa może mieć po drugiej stronie już nie pojedynczą agencję, lecz lepiej zorganizowaną grupę, dysponującą większym zapleczem operacyjnym, większą spójnością administracyjną i większą zdolnością wpływania na organizację pracy, zakwaterowania oraz transportu. W praktyce może to utrudniać skuteczne dochodzenie praw pracowniczych.
+
 
 ## Linki do źródeł
 
