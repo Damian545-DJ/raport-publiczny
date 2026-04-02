@@ -486,7 +486,7 @@ Z udostępnionych przeze mnie dowodów wynika, że wersja przedstawiona do SNCU 
 
 ### Dodatkowy materiał dowodowy znaleziony  z nagragrań z kamery 
 
-Nowy materiał dowodowy w postaci nagrań z kamery dodatkowo i w sposób jednoznaczny podważa wiarygodność wersji przedstawionej do SNCU przez Sezera Duygulu. W wiadomości przekazanej do SNCU napisał on: „Pan pracował w tygodniu 31, w poniedziałek 28.07.2025 r.; było to jednocześnie jego ostatni dzień pracy. Tego dnia pan poinformował, co zostało również odnotowane, że znalazł inną pracę, po czym już nie wrócił. Następnie nie mieliśmy od niego żadnych wiadomości.”
+Nowy materiał dowodowy w postaci nagrań z kamery dodatkowo i w sposób jednoznaczny podważa wiarygodność wersji przedstawionej do SNCU przez Sezera Duygulu, także w powiązaniu z treścią wpisu. W wiadomości przekazanej do SNCU wskazał on: „Pan pracował w tygodniu 31, w poniedziałek 28.07.2025 r.; było to jednocześnie jego ostatni dzień pracy. Tego dnia pan poinformował, co zostało również odnotowane, że znalazł inną pracę, po czym już nie wrócił. Następnie nie mieliśmy od niego żadnych wiadomości.”
 
 Twierdzenie to pozostaje jednak w sprzeczności z nowym materiałem dowodowym. Nagrania z kamery zainstalowanej przeze mnie w hotelu agencyjnym Mixx Inn, w pokoju, w którym byłem zakwaterowany przez Intrixo, pokazują moją obecność również po 28 lipca 2025 r., w szczególności w dniach 2 sierpnia 2025 r. oraz 8 sierpnia 2025 r.
 
