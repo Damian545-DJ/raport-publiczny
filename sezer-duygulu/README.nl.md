@@ -453,7 +453,7 @@ Uit het geheel van de door mij overgelegde bewijzen volgt dat de versie die door
 
 ### Aanvullend bewijsmateriaal afkomstig uit camerabeelden
 
-Nieuw bewijsmateriaal in de vorm van camerabeelden ondermijnt bovendien op duidelijke en ondubbelzinnige wijze de geloofwaardigheid van de versie die door Sezer Duygulu aan SNCU is gepresenteerd. In het bericht aan SNCU schreef hij: “De heer heeft gewerkt in week 31, op maandag 28-07-2025; dit was tevens zijn laatste werkdag. Op die dag heeft hij meegedeeld, hetgeen ook is vastgelegd, dat hij ander werk had gevonden, waarna hij niet meer is teruggekeerd. Daarna hebben wij geen verdere berichten meer van hem ontvangen.”
+Nieuw bewijsmateriaal in de vorm van camerabeelden ondermijnt bovendien en op ondubbelzinnige wijze de geloofwaardigheid van de versie die door Sezer Duygulu aan de SNCU is voorgelegd, ook in samenhang met de inhoud van de registratie. In het aan de SNCU verstrekte bericht heeft hij aangegeven: „U werkte in week 31, op maandag 28-07-2025; dat was tegelijkertijd uw laatste werkdag. Op die dag heeft u meegedeeld, hetgeen ook is geregistreerd, dat u ander werk had gevonden, waarna u niet meer bent teruggekeerd. Daarna hebben wij geen enkel bericht meer van u ontvangen.”
 
 Deze stelling is echter in strijd met het nieuwe bewijsmateriaal. De opnamen van de camera die door mij is geïnstalleerd in het uitzendhotel Mixx Inn, in de kamer waarin ik door Intrixo was ondergebracht, tonen mijn aanwezigheid ook na 28 juli 2025 aan, in het bijzonder op 2 augustus 2025 en 8 augustus 2025.
 
