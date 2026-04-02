@@ -455,7 +455,7 @@ Taken as a whole, the evidence I provided shows that the version presented to SN
 
 ### Additional evidence obtained from camera recordings
 
-The new evidence in the form of camera recordings further and unequivocally undermines the credibility of the version of events presented to SNCU by Sezer Duygulu. In the message submitted to SNCU, he wrote: “You worked in week 31, on Monday 28.07.2025; this was also your last working day. On that day, you informed us, which was also recorded, that you had found another job, after which you did not return. After that, we received no further messages from you.”
+The new evidence in the form of camera recordings additionally and unequivocally undermines the credibility of the version presented to SNCU by Sezer Duygulu, also in connection with the content of the entry. In the message submitted to SNCU, he stated: “You worked in week 31, on Monday 28 July 2025; this was also your last day of work. On that day, you informed us, which was also recorded, that you had found another job, after which you did not return. Afterwards, we received no further messages from you.”
 
 However, this statement is contradicted by the new evidence. The recordings from the camera installed by me in the agency hotel Mixx Inn, in the room where I was accommodated by Intrixo, show my presence there also after 28 July 2025, in particular on 2 August 2025 and 8 August 2025.
 
