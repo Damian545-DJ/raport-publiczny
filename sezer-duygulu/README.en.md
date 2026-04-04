@@ -459,6 +459,8 @@ The new evidence in the form of camera recordings additionally and unequivocally
 
 However, this statement is contradicted by the new evidence. The recordings from the camera installed by me in the agency hotel Mixx Inn, in the room where I was accommodated by Intrixo, show my presence there also after 28 July 2025, in particular on 2 August 2025 and 8 August 2025.
 
+When the disputed entry is compared with the source documents and the new camera evidence, what emerges is not only a lack of credibility of that narrative, but at least a justified suspicion that content inconsistent with the actual facts was used before SNCU, and that this content had evidentiary significance for the assessment of the course of employment and the reasons for closing the case. If the entry was drafted or subsequently used despite knowledge that it contradicted the notice of termination, the correspondence with planning, the payroll and leave documentation, as well as the recordings, then the core of the legal assessment becomes Article 225 of the Wetboek van Strafrecht, which covers both the falsification of a document intended to prove a specific fact and the knowing use of such a document as if it were authentic. If, moreover, the false content was used in order to mislead SNCU and thereby bring about the closure of the case to the employer’s benefit, there are also grounds to consider Article 326 of the Wetboek van Strafrecht concerning oplichting. At the same time, this material strengthens the allegation of violations of employee rights with regard to wages and leave, especially in light of Articles 7:628, 7:638 and 7:641 of the Burgerlijk Wetboek.
+
 ## Source links
 
 https://www.flexnieuws.nl/2022/12/solutions-group-lanceert-nieuwe-naam-home-of-people/
