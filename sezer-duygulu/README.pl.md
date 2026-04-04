@@ -490,6 +490,8 @@ Nowy materiał dowodowy w postaci nagrań z kamery dodatkowo i w sposób jednozn
 
 Twierdzenie to pozostaje jednak w sprzeczności z nowym materiałem dowodowym. Nagrania z kamery zainstalowanej przeze mnie w hotelu agencyjnym Mixx Inn, w pokoju, w którym byłem zakwaterowany przez Intrixo, pokazują moją obecność również po 28 lipca 2025 r., w szczególności w dniach 2 sierpnia 2025 r. oraz 8 sierpnia 2025 r.
 
+Po zestawieniu spornego wpisu z dokumentami źródłowymi i nowym materiałem z kamer widoczny jest nie tylko brak wiarygodności tej narracji, lecz co najmniej uzasadnione podejrzenie użycia wobec SNCU treści niezgodnej z rzeczywistym stanem faktycznym, mającej znaczenie dowodowe dla oceny przebiegu zatrudnienia i przyczyn zamknięcia sprawy. Jeżeli wpis został sporządzony albo następnie użyty mimo wiedzy, że przeczy wypowiedzeniu, korespondencji z planningiem, dokumentacji płacowo-urlopowej oraz nagraniom, wówczas rdzeniem oceny prawnej staje się art. 225 Wetboek van Strafrecht, obejmujący zarówno fałszywe sporządzenie pisma przeznaczonego do dowodu określonego faktu, jak i świadome użycie takiego pisma jako autentycznego. Jeżeli zaś nieprawdziwa treść została wykorzystana po to, aby przez wprowadzenie SNCU w błąd doprowadzić do zamknięcia sprawy na korzyść pracodawcy, powstają także podstawy do rozważenia art. 326 Wetboek van Strafrecht dotyczącego oplichting. Równocześnie materiał ten wzmacnia zarzut naruszenia praw pracowniczych w zakresie wynagrodzenia i urlopu, zwłaszcza w świetle art. 7:628, 7:638 i 7:641 Burgerlijk Wetboek.
+
 
 
 ## Linki do źródeł
