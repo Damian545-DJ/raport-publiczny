@@ -64,13 +64,13 @@ Professional legal assistance should include timely and understandable communica
 
 ---
 
-## C) SNCU – procedural concerns, source-data verification and EU standards
+## C) SNCU – possible procedural concerns, lack of control transparency and EU standards
 
 **Status:** this section is based on documents and correspondence. It does not assess SNCU’s intentions. It describes facts, lack of transparency and the minimum standard expected from a genuine verification process.
 
 ### 1. Role of SNCU
 
-SNCU can function as a control body only if it verifies source data: payroll administration, payslips, rosters/planning, time registration, leave records and correction history.
+The effectiveness of SNCU control depends on whether source data are verified: payroll administration, payslips, rosters/planning, time registration, leave records and correction history.
 
 Control should not end with simply accepting the employer’s position without showing which documents were actually checked.
 
@@ -82,7 +82,7 @@ This is relevant to **Article 47 of the EU Charter of Fundamental Rights** — e
 
 ### 3. Contact with employer and closure of the matter
 
-According to materials relayed through Juridisch Loket, SNCU contacted the employer and then closed the matter at the preliminary stage. In a case where the employer is an interested party, the employer’s position should not replace verification of source data.
+According to materials relayed through Juridisch Loket, SNCU contacted the employer and then closed the matter at the preliminary stage. In a case where the employer is an interested party, the employer’s position alone should not be a sufficient basis for closing the case without showing which source data were checked.
 
 ### 4. Contradictions requiring verification
 
