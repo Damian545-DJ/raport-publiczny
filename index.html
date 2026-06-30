@@ -27,6 +27,7 @@
       --line: #d4dde7;
       --accent: #0f4f8a;
       --accent-strong: #0b3f6d;
+      --accent-soft: #eaf2ff;
       --shadow: 0 10px 26px rgba(15, 23, 42, 0.09);
       --radius: 16px;
     }
@@ -44,8 +45,37 @@
     .container {
       max-width: 1080px;
       margin: 0 auto;
-      padding: 32px 20px 60px;
+      padding: 24px 20px 60px;
     }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      margin-bottom: 18px;
+      padding: 10px 12px;
+      border: 1px solid rgba(212, 221, 231, 0.95);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.92);
+      backdrop-filter: blur(8px);
+      box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .topbar a {
+      color: var(--accent-strong);
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.92rem;
+      padding: 6px 9px;
+      border-radius: 999px;
+    }
+
+    .topbar a:hover { background: var(--accent-soft); }
 
     .hero {
       background: var(--surface);
@@ -57,6 +87,26 @@
       grid-template-columns: 1.4fr 0.9fr;
       gap: 24px;
       align-items: stretch;
+    }
+
+    .badge-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border: 1px solid #cfe0f2;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 0.84rem;
+      font-weight: 700;
     }
 
     .hero h1 {
@@ -152,6 +202,29 @@
       color: #24384c;
     }
 
+    .quick-summary {
+      margin-top: 18px;
+      background: #ffffff;
+      border: 1px solid #cfe0f2;
+      border-left: 5px solid var(--accent);
+      border-radius: var(--radius);
+      padding: 18px 20px;
+      box-shadow: 0 3px 10px rgba(16, 24, 40, 0.05);
+    }
+
+    .quick-summary h2 {
+      margin: 0 0 10px;
+      color: var(--accent-strong);
+      font-size: 1.16rem;
+    }
+
+    .quick-summary ol {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .quick-summary li { margin: 7px 0; }
+
     .brief-grid {
       margin-top: 26px;
       display: grid;
@@ -228,15 +301,33 @@
     @media (max-width: 900px) {
       .hero { grid-template-columns: 1fr; }
       .brief-grid { grid-template-columns: 1fr; }
-      .container { padding: 22px 14px 44px; }
+      .container { padding: 16px 14px 44px; }
       .hero { padding: 22px; }
+      .topbar { border-radius: 16px; justify-content: flex-start; }
     }
   </style>
 </head>
 <body>
   <main class="container">
+    <nav class="topbar" aria-label="Główne menu">
+      <a href="pl/index.html">Start PL</a>
+      <a href="pl/najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
+      <a href="pl/dowody.html">Dowody</a>
+      <a href="pl/timeline.html">Oś czasu</a>
+      <a href="pl/dla-instytucji.html">Dla instytucji</a>
+      <a href="pl/media.html">Media</a>
+      <a href="en/index.html">EN</a>
+      <a href="nl/index.html">NL</a>
+    </nav>
+
     <section class="hero">
       <div>
+        <div class="badge-row" aria-label="Status raportu">
+          <span class="badge">Publiczny briefing</span>
+          <span class="badge">Wersja anonimizowana</span>
+          <span class="badge">Ostatnia aktualizacja: 2026-06-30</span>
+        </div>
+
         <h1>Publiczny raport dowodowy dotyczący sporu pracowniczego w Holandii</h1>
         <p class="lead">Ta strona stanowi publiczny, zanonimizowany punkt wejścia do materiału dotyczącego wieloletniego sporu pracowniczego i reakcji instytucjonalnej. Raport opiera się na dokumentach, danych płacowo-rozliczeniowych, korespondencji i osi czasu. Celem publikacji jest umożliwienie szybkiego zrozumienia sprawy przez czytelników, media i instytucje oraz przejścia do najważniejszych materiałów.</p>
 
@@ -264,6 +355,15 @@
           <li>dodatkowy kontekst publiczny podmiotów i grupy Home of People, oparty na źródłach publicznych i udokumentowanych materiałach.</li>
         </ul>
       </aside>
+    </section>
+
+    <section class="quick-summary" aria-label="Najważniejsze w 30 sekund">
+      <h2>Najważniejsze w 30 sekund</h2>
+      <ol>
+        <li>Raport porządkuje publicznie zanonimizowany materiał dotyczący sporu pracowniczego w Holandii.</li>
+        <li>Najważniejsze ścieżki to: ustalenia, dowody, oś czasu oraz wersja dla instytucji.</li>
+        <li>Materiał opisuje zarzuty i dokumentację do weryfikacji — nie zastępuje decyzji sądu ani organu.</li>
+      </ol>
     </section>
 
     <section class="section">
@@ -313,7 +413,7 @@
       <p>Repozytorium obejmuje nie tylko główną dokumentację sprawy Intrixo, ale również dodatkowy materiał kontekstowy oparty na źródłach publicznych i dokumentacji uzupełniającej. Ta warstwa ma znaczenie pomocnicze dla szerszego zrozumienia sprawy i jej otoczenia.</p>
       <p>Materiał kontekstowy nie stanowi samodzielnego prawomocnego rozstrzygnięcia i powinien być czytany łącznie z główną dokumentacją Intrixo.</p>
       <p><a href="sezer-duygulu/">Kontekst publiczny podmiotów i grupy Home of People</a></p>
-      <p class="muted">Additional contextual material based on publicly available sources and supporting documentation.</p>
+      <p class="muted">Dodatkowy materiał kontekstowy oparty na publicznie dostępnych źródłach i dokumentacji uzupełniającej.</p>
     </section>
 
     <section class="section">
@@ -322,6 +422,7 @@
         <a href="pl/najwazniejsze-ustalenia.html">Przejdź do: najważniejszych ustaleń</a>
         <a href="pl/dowody.html">Przejdź do: 5 kluczowych dowodów</a>
         <a href="pl/timeline.html">Przejdź do: osi czasu</a>
+        <a href="pl/dla-instytucji.html">Przejdź do: strony dla instytucji</a>
         <a href="pl/media.html">Przejdź do: ścieżki dla mediów i instytucji</a>
       </nav>
     </section>
