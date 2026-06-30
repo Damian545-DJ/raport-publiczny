@@ -64,13 +64,13 @@ Standard zawodowy pomocy prawnej obejmuje terminowe i zrozumiałe informowanie k
 
 ---
 
-## C) SNCU – uchybienia proceduralne, brak realnej kontroli i standardy UE
+## C) SNCU – możliwe uchybienia proceduralne, brak przejrzystości kontroli i standardy UE
 
 **Status:** sekcja oparta jest na dokumentach i korespondencji. Nie ocenia intencji SNCU. Opisuje fakty, brak odpowiedzi / brak transparentności oraz minimalny standard rzetelnej kontroli.
 
 ### 1. Rola SNCU
 
-SNCU ma sens jako instytucja kontrolna tylko wtedy, gdy weryfikuje dane źródłowe: loonadministratie, loonstroken, rooster / planning, tijdregistratie, verlofgegevens oraz historię korekt.
+Skuteczność kontroli SNCU zależy od tego, czy weryfikowane są dane źródłowe: loonadministratie, loonstroken, rooster / planning, tijdregistratie, verlofgegevens oraz historia korekt.
 
 Kontrola nie powinna kończyć się na prostym przyjęciu stanowiska pracodawcy bez wykazania, jakie dokumenty faktycznie sprawdzono.
 
@@ -82,7 +82,7 @@ To ma znaczenie z punktu widzenia **art. 47 Karty Praw Podstawowych UE** – pra
 
 ### 3. Model działania: kontakt z pracodawcą i zamknięcie sprawy
 
-Z materiałów przekazanych zgłaszającemu przez Juridisch Loket wynika, że SNCU skontaktowało się z pracodawcą, po czym sprawa została zamknięta na etapie wstępnym. W sprawie, w której pracodawca jest stroną zainteresowaną, samo stanowisko pracodawcy nie powinno zastępować kontroli danych źródłowych.
+Z materiałów przekazanych zgłaszającemu przez Juridisch Loket wynika, że SNCU skontaktowało się z pracodawcą, po czym sprawa została zamknięta na etapie wstępnym. W sprawie, w której pracodawca jest stroną zainteresowaną, samo stanowisko pracodawcy nie powinno być wystarczającą podstawą zakończenia sprawy bez wykazania, jakie dane źródłowe zostały sprawdzone.
 
 ### 4. Rozbieżności wymagające kontroli
 
