@@ -4,7 +4,7 @@
 **TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij relevante instanties en bevindt zich momenteel in de fase van wachten op inhoudelijke schriftelijke reacties en onafhankelijke verificatie.
 
 **Status:** openbare versie (geanonimiseerd)
-**Laatste update:** 2026-03-29
+**Laatste update:** 2026-06-30
 **Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
 
 ## Hoe gebruik je deze repository (kort)
@@ -97,7 +97,7 @@ Daarnaast organisaties waarnaar het bureau verwijst m.b.t. certificering/branche
 - NBBU
 - SNF
 
-— volgens onze documentatie en per **2026-03-29**: wij hebben van deze partijen **geen** inhoudelijke reactie ontvangen op onze brieven, of de reactie was onvoldoende (bijvoorbeeld zonder concrete verificatie van de aangeleverde bewijspunten).
+— volgens onze documentatie en per **2026-06-30**: wij hebben van deze partijen **geen** inhoudelijke reactie ontvangen op onze brieven, of de reactie was onvoldoende (bijvoorbeeld zonder concrete verificatie van de aangeleverde bewijspunten).
 
 ---
 
