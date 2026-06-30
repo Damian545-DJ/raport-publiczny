@@ -116,23 +116,23 @@ Pełne dowody nie są linkowane publicznie, jeżeli zawierają dane osobowe, num
 
 ---
 
-## D) Możliwe kwalifikacje karne w prawie holenderskim – ostrożna mapa ryzyk
+## D) Możliwe kwalifikacje prawne w prawie holenderskim – ostrożna mapa ryzyk
 
-**Uwaga:** ta część opisuje możliwe kierunki analizy prawnej w razie potwierdzenia przesłanek przez policję, prokuraturę albo sąd. Nie jest to oskarżenie ani wyrok.
+**Uwaga:** ta część opisuje możliwe kierunki analizy prawnej w razie potwierdzenia przesłanek przez właściwy organ. Nie jest to oskarżenie ani wyrok.
 
 ### 1. Odpowiedzialność spółki i osób fizycznych
 
 W prawie holenderskim czyn może być analizowany wobec osoby prawnej, a w określonych sytuacjach również wobec osób, które wydawały polecenia, faktycznie kierowały działaniem albo świadomie w nim uczestniczyły. Punktem odniesienia jest m.in. art. 51 Wetboek van Strafrecht.
 
-### 2. Dwang / presja do podpisu – art. 284 Sr
+### 2. Dwang / niedopuszczalny nacisk – art. 284 Sr
 
-Jeżeli ktoś zmusza drugą osobę do działania, zaniechania lub znoszenia określonej sytuacji poprzez groźbę, zastraszanie albo nacisk odbierający realną swobodę decyzji, w grę może wchodzić analiza pod kątem **art. 284 Sr (dwang)**.
+Jeżeli organ uznałby, że dana osoba została pozbawiona realnej swobody decyzji przy podpisywaniu dokumentów, możliwa byłaby analiza pod kątem **art. 284 Sr (dwang)**.
 
 W kontekście nagrania raport wskazuje jako czerwone flagi m.in.:
 
 - presję czasu,
 - brak spokojnej możliwości przeczytania dokumentu,
-- używanie „minusu” / długu jako nacisku,
+- używanie „minusu” / długu jako elementu nacisku,
 - próbę doprowadzenia do podpisu w sytuacji nierównowagi stron.
 
 ### 3. Afpersing – art. 317 Sr
@@ -190,11 +190,11 @@ Jeżeli naruszenia prywatności miały charakter powtarzalny i służyły wywoł
 
 ---
 
-## F) Kontekst publiczny: Sezer Duygulu / Home of People / podmioty powiązane
+## F) Kontekst publiczny: Home of People / podmioty powiązane
 
 Ta część ma charakter kontekstowy. Nie przypisuje osobistej odpowiedzialności karnej, cywilnej ani administracyjnej bez prawomocnego rozstrzygnięcia.
 
-W publicznych materiałach Sezer Duygulu jest przedstawiany jako osoba powiązana z Home of People oraz z markami działającymi w sektorze pracy tymczasowej i pracowników migrujących. W raporcie wskazano m.in. nazwy: Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten i Masterteam.
+W publicznych materiałach opisywany jest ekosystem podmiotów działających w sektorze pracy tymczasowej i pracowników migrujących, w tym m.in. Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten i Masterteam.
 
 Sam fakt powiązania z rozbudowanym ekosystemem firm nie przesądza odpowiedzialności za konkretne naruszenia. Ma jednak znaczenie kontekstowe, ponieważ sprawa dotyczy modelu, w którym jedna struktura może wpływać jednocześnie na pracę, zakwaterowanie, rozliczenia i zależność ekonomiczną pracownika.
 
