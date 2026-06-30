@@ -127,9 +127,9 @@ Według stanu sprawy opisanego w repo problemem jest nie tylko samo działanie a
 
 Repozytorium zawiera także materiał kontekstowy dotyczący publicznie dostępnych informacji oraz udokumentowanych niespójności powiązanych z szerszym otoczeniem sprawy.
 
-- [Sezer Duygulu – kontekst publiczny i udokumentowane sprzeczności](./sezer-duygulu/README.pl.md)
+- [Kontekst publiczny podmiotów i grupy Home of People](./sezer-duygulu/README.pl.md)
 
-Ta sekcja ma charakter kontekstowy. Nie przesądza osobistej odpowiedzialności konkretnej osoby bez prawomocnego rozstrzygnięcia.
+Ta sekcja ma charakter kontekstowy. Nie przesądza osobistej odpowiedzialności konkretnej osoby ani odpowiedzialności jakiegokolwiek podmiotu bez właściwego rozstrzygnięcia.
 
 ---
 
