@@ -64,13 +64,13 @@ Professionele juridische bijstand moet tijdige en begrijpelijke communicatie, ha
 
 ---
 
-## C) SNCU – procedurele zorgen, verificatie van brongegevens en EU-standaarden
+## C) SNCU – mogelijke procedurele aandachtspunten, gebrek aan transparantie van controle en EU-standaarden
 
 **Status:** deze sectie is gebaseerd op documenten en correspondentie. Zij beoordeelt niet de intenties van SNCU. Zij beschrijft feiten, gebrek aan transparantie en de minimumstandaard die van een echte verificatieprocedure mag worden verwacht.
 
 ### 1. Rol van SNCU
 
-SNCU kan alleen als controleorgaan functioneren wanneer brongegevens worden geverifieerd: loonadministratie, loonstroken, roosters/planning, urenregistratie, verlofgegevens en correctiegeschiedenis.
+De effectiviteit van SNCU-controle hangt af van de vraag of brongegevens worden geverifieerd: loonadministratie, loonstroken, roosters/planning, urenregistratie, verlofgegevens en correctiegeschiedenis.
 
 Controle mag niet eindigen met het eenvoudig overnemen van het standpunt van de werkgever zonder aan te geven welke documenten daadwerkelijk zijn gecontroleerd.
 
@@ -82,7 +82,7 @@ Dit is relevant voor **artikel 47 van het EU-Handvest** — effectieve rechtsbes
 
 ### 3. Contact met werkgever en afsluiting van de zaak
 
-Volgens materiaal dat via Juridisch Loket is doorgegeven, nam SNCU contact op met de werkgever en sloot daarna de zaak in de voorlopige fase. In een zaak waarin de werkgever belanghebbende partij is, mag het standpunt van de werkgever geen vervanging zijn voor verificatie van brongegevens.
+Volgens materiaal dat via Juridisch Loket is doorgegeven, nam SNCU contact op met de werkgever en sloot daarna de zaak in de voorlopige fase. In een zaak waarin de werkgever belanghebbende partij is, mag het standpunt van de werkgever alleen geen voldoende basis zijn voor afsluiting van de zaak zonder aan te geven welke brongegevens zijn gecontroleerd.
 
 ### 4. Tegenstrijdigheden die controle vereisen
 
