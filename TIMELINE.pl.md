@@ -8,7 +8,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 - Narastające problemy pracownicze i rozliczeniowe: spór o potrącenia oraz gwarancję godzin (faza C).
 - Pozostawienie pracownicy bez środków do życia poprzez nieprzydzielanie pracy przez kilka miesięcy (wg dokumentacji).
 - Naliczanie „długu” za zakwaterowanie agencyjne w okresie braku pracy (wg dokumentacji).
-- Spotkanie w siedzibie agencji Intrixo, podczas którego (wg nagrań audio) wywierano presję i stosowano zastraszanie w celu wymuszenia podpisania dokumentów działających na niekorzyść pracownika.
+- Spotkanie w siedzibie agencji Intrixo, podczas którego (wg nagrań audio) mogła występować presja komunikacyjna związana z podpisaniem dokumentów działających na niekorzyść pracownika.
 
 ---
 
@@ -27,7 +27,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 
 ## 24.05.2024 – sygnał o rozstrzygnięciu i spłata „długu”
 - Informacja o rozstrzygnięciu/wyroku przekazana przez księgową; w tym czasie brak realnego kontaktu z pełnomocnikiem.
-- Pracownica spłaciła „dług” naliczany przez agencję (w ocenie autorów: sprzeczny z prawem w NL).
+- Pracownica spłaciła „dług” naliczany przez agencję (w ocenie autorów: kwestia wymagająca niezależnej oceny prawnej).
 
 ---
 
@@ -47,7 +47,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 - Brak informacji/komunikacji przez dłuższy czas.
 - Informacja, że nie da się uzyskać dokumentów od poprzedniego prawnika.
 - Później: twierdzenie o ugodzie i „nic się nie da zrobić”, bez przedstawienia dokumentów.
-- Finalnie: brak zwrotu pieniędzy i pojawiające się niejasne faktury oraz żądania dopłat za czynności, których wykonanie nie zostało jasno wykazane (w ocenie autorów: podejrzenie wyłudzenia).
+- Finalnie: brak zwrotu pieniędzy i pojawiające się niejasne faktury oraz żądania dopłat za czynności, których wykonanie nie zostało jasno wykazane (w ocenie autorów: poważne wątpliwości co do zasadności kosztów i rozliczenia czynności).
 
 ---
 
@@ -65,7 +65,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
 - Od **21.11.2022** (umowa na czas nieokreślony, faza C, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
 - Gdy następnie praca zostaje ponownie przydzielona, „dług” jest potrącany z wynagrodzenia, przez co wypłata jest znacznie niższa.
-- W praktyce: systemowe tworzenie zadłużenia + odzyskiwanie pieniędzy przez potrącenia (dług utrzymywał się praktycznie do **27.05.2024**).
+- W praktyce: mechanizm powstawania zadłużenia + odzyskiwanie pieniędzy przez potrącenia (dług utrzymywał się praktycznie do **27.05.2024**).
 
 Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
@@ -171,15 +171,15 @@ E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dow
 
 ### Po zakończeniu pracy / ugoda – dalsze działania (2025–2026)
 
-- **09.07.2025 (Den Haag):** B. S. składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem. (dowód: wypowiedzenie – 09.07.2025)
+- **09.07.2025 (Den Haag):** Pracownica 1 składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem. (dowód: wypowiedzenie – 09.07.2025)
 
 - **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki. (dowód: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
 
 - **24.02.2026:** Intrixo wystawia loonstrook/loonspecificatie nr **35** (tydzień **32/2025**, okres **04.08.2025–10.08.2025**) — wykazane „netto te betalen” **2,50 €**. (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
-- **25.02.2026:** wpływ SEPA na konto B. S.: Intrixo B.V. **2,50 €** (opis: „Betreft loonslipnummer 35”). (dowód: Potwierdzenie_transakcji_...pdf)
+- **25.02.2026:** wpływ SEPA na konto Pracownicy 1: Intrixo B.V. **2,50 €** (opis: „Betreft loonslipnummer 35”). (dowód: Potwierdzenie_transakcji_...pdf)
 
-- **27.02.2026:** [Worker 1] otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**). (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+- **27.02.2026:** Pracownica 1 otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**). (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
 - **25.02.2026:** **przejęcie sprawy przez trzeciego pełnomocnika** – potwierdza otrzymanie **pierwszej wpłaty (I rata)** dotyczącej faktury **26.032 (eigen bijdrage, kenmerk 3NB7949)** i informuje, że **rozpoczyna działania** oraz wkrótce przekaże dalsze informacje. (dowód: Przejecie zprawy trzeciego pełnomocnika.pdf)
 
@@ -192,7 +192,7 @@ Wersja publiczna: bez imion i nazwisk. Oznaczenia: **Pracownik 2**, **Agencja [A
 ## 1) Kontekst
 - Umowa faza C / gwarancja 32h tygodniowo.
 - Problemy: planowanie pracy, rozliczenia godzin, korekty pasków płacowych, saldo/„minus”, potrącenia (w tym mieszkaniowe).
-- Spór o urlop: pisemna informacja o przysługujących godzinach urlopu vs późniejsza odmowa + presja/straszenie.
+- Spór o urlop: pisemna informacja o przysługujących godzinach urlopu vs późniejsza odmowa + presja komunikacyjna.
 - Po wypowiedzeniu: spór o rozliczenie końcowe i wypłatę należności.
 - Ścieżka pomocy: FairWork → Juridisch Loket → SNCU.
 
@@ -213,8 +213,8 @@ Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów cz�
   (plik: Screenshot_20240620-223350.png)
 - **24.06.2024:** wiadomość od planowania: ograniczenie ludzi u klienta; brak na liście zmian; przerzucenie do innego klienta + pytanie o stawienie się w pracy.  
   (plik: Screenshot_20240627-060844.png)
-  ## 🇵🇱 PL
-**18–19.07.2024 – „minus” / zadłużenie mieszkaniowe (Solaris) potwierdzone przez Helpdesk**  
+
+### Lipiec 2024 – „minus” / zadłużenie mieszkaniowe potwierdzone przez Helpdesk
 Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w tygodniu 26 przepracowano tylko **7:45 h**, co było niewystarczające na pokrycie kosztów **zakwaterowania + ubezpieczenia**, dlatego system zaksięgował **€50,98** jako zadłużenie mieszkaniowe. W tygodniu 27 potrącono **€33,45**, a saldo zadłużenia wynosiło **€17,53**.    
 
 ### Lipiec–sierpień 2024 – spór o payslip i korekty (tydzień 29)
@@ -249,10 +249,10 @@ Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w 
   (plik: zgoda działania w moim imieniu.pdf)
 
 ### Styczeń 2026 – dowody i zamknięcie
-- **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h i presja, brak rozliczenia po wypowiedzeniu, podejrzenie manipulacji korektami.  
+- **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h, presja komunikacyjna, brak rozliczenia po wypowiedzeniu oraz wątpliwości co do korekt.  
   (plik: Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screeny)
-* 20.01.2026: Po kontakcie z Sezerem Duygulu SNCU zamyka sprawę; brak wyjaśnienia podstaw decyzji.
+- **20.01.2026:** Po kontakcie z przedstawicielem pracodawcy SNCU zamyka sprawę; brak pełnego wyjaśnienia podstaw decyzji.
 - **20.01.2026:** SNCU / Juridisch Loket (signaal **37856** / **V-657**): informacja o postępowaniu wstępnym i zakończeniu sprawy po kontakcie z pracodawcą; w załączniku korespondencja SNCU–pracodawca oraz tłumaczenia stanowisk.
-- **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – oczekiwanie na odpowiedz
+- **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – oczekiwanie na odpowiedź.
 - **14.02.2026:** Juridisch Loket – informacja, że nadal nie mogą uzyskać od SNCU odpowiedzi, dlaczego zamknęli sprawę, i że Juridisch Loket nie będzie podejmować dalszych działań wobec SNCU, ponieważ nie mają możliwości zobowiązania SNCU do wydania decyzji ani udzielenia odpowiedzi. Rekomendacja: kontakt z adwokatem (możliwe roszczenie o zaległe wynagrodzenie / dalsza droga prawna) oraz możliwość skierowania do adwokata. (załącznik: Juridisch Loket.pdf)
-* 03.04.2026: odnalazłem nagrania wideo z kamery zainstalowanej w pokoju agencyjnym w hotelu Mixx Inn, zarejestrowane w dniach 02.08.2025 (13:02:58) oraz 08.08.2025 (21:56:54), na których jestem widoczny w pokoju po dacie 28.07.2025 r. Nowy materiał dowodowy pozostaje w sprzeczności z wersją przekazaną do SNCU, według której 28.07.2025 r. miał być moim ostatnim dniem pracy i po tej dacie nie miało już być ode mnie żadnych wiadomości.
+- **03.04.2026:** odnaleziono nagrania wideo z kamery zainstalowanej w pokoju w zakwaterowaniu agencyjnym, zarejestrowane w dniach 02.08.2025 oraz 08.08.2025. Nowy materiał dowodowy pozostaje w sprzeczności z wersją przekazaną do SNCU, według której 28.07.2025 r. miał być ostatnim dniem pracy i po tej dacie nie miało już być dalszych wiadomości.
