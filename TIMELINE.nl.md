@@ -6,9 +6,9 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ## 2023 – begin 2024 (escalatie van problemen)
 - Toenemende arbeids- en loonproblemen: geschil over inhoudingen en urengarantie (fase C).
-- Werknemer B werd gedurende meerdere maanden zonder inkomen gelaten doordat er geen werk werd ingepland (volgens documentatie).
+- Werknemer 1 werd gedurende meerdere maanden zonder inkomen gelaten doordat er geen werk werd ingepland (volgens documentatie).
 - Opbouw van een “schuld” voor uitzendhuisvesting tijdens periodes zonder ingepland werk (volgens documentatie).
-- Bijeenkomst op het kantoor van Intrixo waarbij (volgens audio-opnamen) druk en intimidatie werden gebruikt om ondertekening van documenten af te dwingen die nadelig waren voor de werknemer.
+- Bijeenkomst op het kantoor van Intrixo waarbij (volgens audio-opnamen) communicatieve druk kan zijn uitgeoefend in verband met het ondertekenen van documenten die nadelig waren voor de werknemer.
 
 ---
 
@@ -27,7 +27,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ## 24-05-2024 – signaal over beslissing en aflossing “schuld”
 - Een boekhouder gaf informatie door over een beslissing/vonnis; in die periode was er geen reëel contact met de gemachtigde.
-- Werknemer B loste de door het bureau opgebouwde “schuld” af (volgens de auteurs: in strijd met NL-recht).
+- Werknemer 1 loste de door het bureau opgebouwde “schuld” af (volgens de auteurs: punt dat onafhankelijke juridische beoordeling vereist).
 
 ---
 
@@ -47,7 +47,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 - Lange periodes zonder informatie/communicatie.
 - Bericht dat documenten niet van de vorige advocaat konden worden verkregen.
 - Later: stelling dat er een schikking was en “er niets meer te doen is”, zonder overlegging van documenten.
-- Uiteindelijk: geen terugbetaling van gelden en onduidelijke facturen/extra betalingsverzoeken zonder duidelijke onderbouwing van verrichte werkzaamheden (volgens de auteurs: vermoedelijke poging tot onrechtmatige incasso).
+- Uiteindelijk: geen terugbetaling van gelden en onduidelijke facturen/extra betalingsverzoeken zonder duidelijke onderbouwing van verrichte werkzaamheden (volgens de auteurs: ernstige vragen over de grondslag van kosten en afrekening).
 
 ---
 
@@ -60,12 +60,12 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ---
 
-# Werknemer 1 (B. S.) – bewijs (korte samenvatting + tijdlijn)
+# Werknemer 1 – bewijs (korte samenvatting + tijdlijn)
 
 ## 1) Schuldmechanisme door geen werkplanning
 - Vanaf **21-11-2022** (onbepaalde tijd, fase C, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
 - Zodra er weer werk werd toegewezen, werd de “schuld” verrekend via looninhoudingen, waardoor het nettoloon aanzienlijk lager werd.
-- In de praktijk: structurele schuldopbouw + terughalen via inhoudingen (schuld liep in wezen door tot **27-05-2024**).
+- In de praktijk: mechanisme van schuldopbouw en terughalen via inhoudingen (schuld liep in wezen door tot **27-05-2024**).
 
 Bewijs: screenshots/berichten – herhaalde verzoeken om werkplanning.
 
@@ -148,7 +148,7 @@ E) Risico dat besluitvorming op onvolledig materiaal gebeurde (vertalingen/bewij
 - **08-10-2025:** griffierecht €50 – bestand: tumaczenie i zaołata do orde van.pdf  
 - **20-10-2025:** doorzending naar Raad – bestand: Przesłanie do rady.pdf  
 - **17-12-2025:** voorzitterbeslissing – bestanden: 25-714 vzb.pdf, Postanowienie rady.pdf  
-- **18-12-2025:** verzet + verzoek bevestiging compleet dossier – bestand: sprzeciw skardze.pdf  
+- **18-12-2025:** verzet + verzoek bevestiging compleet dossier – bestand: sprzeciw skardze.pdf
 
 ## 5) Status
 - Per **18-12-2025** is verzet ingediend.
@@ -158,15 +158,15 @@ E) Risico dat besluitvorming op onvolledig materiaal gebeurde (vertalingen/bewij
 
 ### Na einde werk / schikking – vervolgacties (2025–2026)
 
-- **09.07.2025 (Den Haag):** B. S. zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave. (bewijs: opzegbrief – 09.07.2025)
+- **09.07.2025 (Den Haag):** Werknemer 1 zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave. (bewijs: opzegbrief – 09.07.2025)
 
 - **11.12.2025:** aan Intrixo (helpdesk@intrixo.nl) is de brief/e-mail “Verzoek om berekening achterstallig brutoloon” verzonden — verzoek om alle documenten en berekeningen van het achterstallig brutoloon vanaf **06.05.2022** conform het proces-verbaal (**12.03.2024**) + verzoek om reactie binnen **14 dagen**, anders verdere stappen. (bewijs: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
 
 - **24.02.2026:** Intrixo verstrekt loonstrook/loonspecificatie nr. **35** (week **32/2025**, periode **04.08.2025–10.08.2025**) — “netto te betalen” **€ 2,50**. (bewijs: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
-- **25.02.2026:** SEPA-bijschrijving op rekening van B. S.: Intrixo B.V. **€ 2,50** (omschrijving: “Betreft loonslipnummer 35”). (bewijs: Potwierdzenie_transakcji_...pdf)
+- **25.02.2026:** SEPA-bijschrijving op rekening van Werknemer 1: Intrixo B.V. **€ 2,50** (omschrijving: “Betreft loonslipnummer 35”). (bewijs: Potwierdzenie_transakcji_...pdf)
 
-- **27.02.2026:** Bożena heeft de loonstrook/loonspecificatie van Intrixo ontvangen (loonstrook nr. **35**). (bewijs: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+- **27.02.2026:** Werknemer 1 heeft de loonstrook/loonspecificatie van Intrixo ontvangen (loonstrook nr. **35**). (bewijs: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
 
 - **25.02.2026:** **zaak overgenomen door de derde gemachtigde** – bevestigt de ontvangst van de **eerste betaling (1e termijn)** m.b.t. factuur **26.032 (eigen bijdrage, kenmerk 3NB7949)** en meldt dat hij **met de werkzaamheden start** en later nadere informatie zal sturen. (bewijs: Przejecie zprawy trzeciego pełnomocnika.pdf)
 
@@ -179,7 +179,7 @@ Publieke versie: zonder namen. Labels: **Werknemer 2**, **Uitzendbureau [A]**, *
 ## 1) Context
 - Fase C / 32 uur garantie.
 - Problemen: planning, urenafrekening, correcties loonstroken, saldo/“minus”, inhoudingen (incl. huisvesting).
-- Verlofconflict: schriftelijke bevestiging van verlofuren vs latere weigering + druk/intimidatie.
+- Verlofconflict: schriftelijke bevestiging van verlofuren vs latere weigering + communicatieve druk.
 - Na opzegging: geschil over eindafrekening en betaling.
 - Hulptraject: FairWork → Juridisch Loket → SNCU.
 
@@ -197,8 +197,9 @@ Let op: data in screenshotnamen = datum van screenshot; in screenshots staan vaa
 - **11-06-2024:** P4F planning “Day Free” (Screenshot_20240611-073616.png)  
 - **20–21-06-2024:** geen planning/geen werk (Screenshot_20240620-223350.png)  
 - **24-06-2024:** planningbericht: beperking bij klant, niet op lijst, overplaatsing + vraag om te komen werken (Screenshot_20240627-060844.png)
-- **18–19-07-2024 – “min” / woon-schuld (Solaris) bevestigd door Helpdesk**  
-De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in week 26 slechts **7:45 uur** was gewerkt, wat onvoldoende was om **huisvesting + verzekering** te dekken. Daarom boekte het systeem **€50,98** als woon-schuld. In week 27 werd **€33,45** ingehouden en het resterende saldo was **€17,53**.   
+
+### Juli 2024 – “min” / woon-schuld bevestigd door Helpdesk
+De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in week 26 slechts **7:45 uur** was gewerkt, wat onvoldoende was om **huisvesting + verzekering** te dekken. Daarom boekte het systeem **€50,98** als woon-schuld. In week 27 werd **€33,45** ingehouden en het resterende saldo was **€17,53**.
 
 ### Juli–augustus 2024 – loonstrookcorrecties (week 29)
 - **31-07–01-08-2024:** vragen “waar gewerkt”, correctie aangekondigd en latere betaling (Screenshot_20240805-144355.png, Screenshot_20240805-144335.png)
@@ -227,10 +228,10 @@ De werknemer meldde een “min” in het systeem. De helpdesk legde uit dat in w
 - **15-12-2025:** toestemming voor SNCU om namens Werknemer 2 te handelen (zgoda działania w moim imieniu.pdf)
 
 ### Januari 2026 – bewijs aangeleverd en zaak gesloten
-- **04-01-2026:** bewijs naar SNCU: “minus/schuld”, 61,11 uur verlof + druk, geen eindafrekening, vermoeden manipulatie correcties.  
+- **04-01-2026:** bewijs naar SNCU: “minus/schuld”, 61,11 uur verlof, communicatieve druk, geen eindafrekening en vragen over correcties.  
   (Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screenshots)
-* 20-01-2026: Na contact met Sezer Duygulu sluit SNCU de zaak; er wordt geen toelichting gegeven op de gronden van de beslissing.
-- **20-01-2026:** SNCU/Juridisch Loket (signaal 37856 / V-657): bericht dat na contact met werkgever geen verdere actie wordt ondernomen; bijlage bevat SNCU–werkgever correspondentie + vertalingen (standpunt inspecteur en reactie werkgever).
-- **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – In afwachting van een reactie
-- **14.02.2026:** Juridisch Loket – bericht dat zij nog steeds geen antwoord van SNCU kunnen krijgen waarom de zaak is gesloten, en dat Juridisch Loket geen verdere stappen richting SNCU zal ondernemen, omdat zij SNCU niet kunnen verplichten een besluit te nemen of te reageren. Advies: contact opnemen met een advocaat (mogelijke vordering van achterstallig loon / verdere juridische stappen) en mogelijkheid tot doorverwijzing naar een advocaat. (bijlage: Juridisch Loket.pdf)
-* 03.04.2026: ik heb videobeelden teruggevonden van een camera die was geïnstalleerd in de uitzendkamer in hotel Mixx Inn, opgenomen op 02.08.2025 (13:02:58) en 08.08.2025 (21:56:54), waarop te zien is dat ik na 28.07.2025 nog in de kamer aanwezig was. Dit nieuwe bewijsmateriaal is in strijd met de versie die aan de SNCU is verstrekt, volgens welke 28.07.2025 mijn laatste werkdag zou zijn geweest en er na die datum geen verdere berichten meer van mij zouden zijn ontvangen.
+- **20-01-2026:** na contact met een vertegenwoordiger van de werkgever sluit SNCU de zaak; er wordt geen volledige toelichting gegeven op de gronden van de beslissing.
+- **20-01-2026:** SNCU/Juridisch Loket (signaal **37856** / **V-657**): bericht dat na contact met werkgever geen verdere actie wordt ondernomen; bijlage bevat SNCU–werkgever correspondentie + vertalingen.
+- **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – in afwachting van een reactie.
+- **14.02.2026:** Juridisch Loket – bericht dat zij nog steeds geen antwoord van SNCU kunnen krijgen waarom de zaak is gesloten, en dat Juridisch Loket geen verdere stappen richting SNCU zal ondernemen, omdat zij SNCU niet kunnen verplichten een besluit te nemen of te reageren. Advies: contact opnemen met een advocaat en mogelijkheid tot doorverwijzing naar een advocaat.
+- **03.04.2026:** videobeelden zijn teruggevonden van een camera die was geïnstalleerd in een kamer in uitzendhuisvesting, opgenomen op 02.08.2025 en 08.08.2025. Dit nieuwe bewijsmateriaal is in strijd met de versie die aan SNCU is verstrekt, volgens welke 28.07.2025 de laatste werkdag zou zijn geweest en er na die datum geen verdere berichten meer zouden zijn ontvangen.
