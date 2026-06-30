@@ -4,7 +4,7 @@
 **TL;DR:** The repository provides anonymized documentation of an employment-related dispute, including payroll records, correspondence, and references to audio/video evidence. The case has been reported to relevant institutions and remains at the stage of awaiting substantive written responses and independent verification.
 
 **Status:** public version (anonymized)
-**Last update:** 2026-03-29
+**Last update:** 2026-06-30
 **Purpose of the repo:** verification, visibility, and gathering support (legal/media/community)
 
 ## How to use this repository (short)
@@ -97,7 +97,7 @@ At the same time, organisations the agency references in terms of certification/
 - NBBU
 - SNF
 
-— according to our documentation, as of **2026-03-29**, we have **not** received a substantive response to our letters from these parties, or the response was insufficient (for example, without meaningful verification of the evidence points we submitted).
+— according to our documentation, as of **2026-06-30**, we have **not** received a substantive response to our letters from these parties, or the response was insufficient (for example, without meaningful verification of the evidence points we submitted).
 
 ---
 
