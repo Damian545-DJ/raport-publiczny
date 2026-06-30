@@ -1,308 +1,227 @@
 [EN Version]
+
 # Allegations and legal basis (ALLEGATIONS_AND_LAW)
 
-This file is a map: **“what we allege (based on documents)”** + **“which rules we rely on as legal anchors”**, consistent with what is described in the public report.
+This file is a map of **what is alleged based on documents** and **which legal standards may be relevant**. It is not a judgment and not a final legal qualification. Any legal qualification should be confirmed by an independent lawyer or competent authority.
 
-> Important: the public version describes facts and evidence (documents/communications/audio/video). Legal qualification should be confirmed by an independent lawyer where needed.
+> Important: the public version describes facts, documents, correspondence and recordings in cautious wording. All statements about violations should be read as **allegations requiring independent verification**, not as final court findings.
 
 ---
 
-## A) Intrixo B.V. – alleged labour-law and standards violations
+## A) Intrixo B.V. – alleged labour-law and standards issues
 
 ### 1. Pay during no-work periods / guaranteed hours
-- **Dutch Civil Code (BW), Book 7, art. 7:628** – entitlement to wages in certain “no work, still wages” situations where the cause lies with the employer (general rule).
-- **BW, Book 7, art. 7:610b** – statutory presumption of working hours (after at least 3 months: the agreed working time in a given month is presumed to match the average of the previous 3 months).
+
+- **Dutch Civil Code, Book 7, art. 7:628** – wages in certain no-work situations where the cause lies with the employer.
+- **Dutch Civil Code, Book 7, art. 7:610b** – statutory presumption of working hours.
 - **EU Charter of Fundamental Rights, art. 31** – fair and just working conditions.
 
-### 2. Late wage payments
-- **BW, Book 7, art. 7:625** – statutory increase (“penalty”) for late wage payment (maximum **50%**, and the court may reduce it).
+The case requires comparison of contracts, planning/rosters, payslips, bank payments and correspondence concerning lack of work and continuing cost deductions.
 
-### 3. Holidays (leave) and holiday pay
-- **BW, Book 7, art. 7:639–641** – paid leave and calculation rules for holiday pay.
-- **EU Charter, art. 31(2)** – right to an annual period of paid leave.
+### 2. Late wage payment
 
-### 4. Holiday allowance (8%)
-- **Minimum Wage and Minimum Holiday Allowance Act (WML), art. 15** – minimum holiday allowance (generally **at least 8%**).
+- **Dutch Civil Code, Book 7, art. 7:625** – statutory increase for late wage payment, subject to judicial moderation.
+
+### 3. Leave and holiday pay
+
+- **Dutch Civil Code, Book 7, art. 7:639–641** – paid leave and settlement of leave rights.
+- **EU Charter, art. 31(2)** – right to annual paid leave.
+- **Directive 2003/88/EC, art. 7** – minimum paid leave standard.
+
+### 4. Holiday allowance
+
+- **Minimum Wage and Minimum Holiday Allowance Act (WML), art. 15** – minimum holiday allowance, generally 8%.
 
 ### 5. Housing deductions
-- **WML/WAS rules + implementing regulations**: housing deductions from (the part of) the minimum wage are only permitted under strict conditions, with a **maximum of 25% of the gross minimum wage** (e.g., written authorisation/power of attorney from the worker, and quality/certification requirements for the accommodation).
 
-### 6. Data accuracy / payroll records integrity
-- **GDPR, art. 5(1)(d)** – the **accuracy** principle: personal data must be accurate and kept up to date where necessary.
+Housing deductions from the minimum wage framework are allowed only under strict conditions, including proper written authorization and relevant quality/formal requirements. It must be checked whether deductions left the worker without a real minimum subsistence level.
 
-### 7. Privacy in agency accommodation / entering a locked, occupied room
-- Reference to **privacy and safety standards** and the general principle that entering occupied living space without consent/prior notice requires strong justification and proper procedures (in the report supported by video evidence).
+### 6. Accuracy of payroll records
 
----
+- **GDPR, art. 5(1)(d)** – accuracy principle.
 
-## B) Legal representatives – diligence, information duties, and file handover
+If payslips are corrected later, different versions exist, or contract hours / balances / net amounts change, the correction history must be verified: who changed what, when, why and on what basis.
 
-### 1. Missing documents / lack of information
-- Professional standards for legal services: **timely and clear information**, acting in the **client’s best interests**, and **handing over the file/case documents** so the client (or a new representative) can verify what happened and continue the matter.
-- European rule-of-law standard: the right to an **effective remedy** and **real access to legal protection**.
+### 7. Privacy in agency accommodation
 
-> Note: in the public version we describe facts and evidence. Legal qualification (disciplinary liability/breach of contract) should be confirmed by an independent lawyer.
+The video material described in the report concerns alleged entries by third parties into an occupied room in agency accommodation. The public version does not publish the exact accommodation name, room number, private persons, faces, voices or sensitive identifiers. Full material should be shared only with institutions, authorities or legal representatives through a justified and secure channel.
 
 ---
 
-## C) SNCU – role of the monitoring body and our points regarding the handling
+## B) Legal representatives / legal assistance – diligence, information and file transfer
 
-### SNCU role and mandate (what it is and what it is expected to do)
-- **SNCU** (Foundation for Compliance with the Collective Labour Agreement for Agency Workers) monitors compliance with CAO rules in the agency work sector (including **ABU CAO / NBBU CAO**) and can investigate based on reports/signals.
-- According to SNCU’s described process, a key step is obtaining **payroll administration data** and verifying CAO compliance against verifiable records.
-- Input material for a control process should be **concrete, verifiable, and traceable**; otherwise the control loses its meaning.
+This part concerns mainly:
 
-## C) SNCU — serious procedural shortcomings, no genuine audit, and de facto erosion of workers’ rights protection (EU standards)
+- lack of clear information after the hearing,
+- lack of full file and court-document transfer,
+- conflicting statements about settlement / inability to act,
+- costs paid to subsequent representatives,
+- lack of a clear record of work actually performed.
 
-**STATUS (02.02.2026):** This section is based on documents and correspondence. We do not speculate about SNCU’s intentions. We describe facts and standards. Lack of response/transparency is itself an evidentiary event.
+Professional legal assistance should include timely and understandable communication, acting in the client’s interest and handing over the file so the client or a new representative can verify and continue the matter.
 
-### 1) The role of SNCU — what “control” must be (and what it must not become)
-SNCU only makes sense if it operates as a data-based control body, i.e., it verifies compliance with the sector CAO by reviewing source data (e.g., payroll administration, roster/planning, time registration, leave records).
-
-SNCU must not operate as:
-- an “employer mailbox”,
-- an administrative filter that closes a case after one employer reply,
-- a mechanism where the complainant receives no response and cannot know what was checked.
-
-If the “check” ends at “the employer says everything is fine”, then it is **not control** — it is **the appearance of control**.
-
-### 2) No reply to the complainant = no transparency and no minimum procedural standard
-In case **SNCU----**, the complainant sent at least two formal letters:
-- **13-01-2026** — request for status + identification of key contradictions and a demand for verification using source data,
-- **22-01-2026** — reminder/request to reopen + demand for a list of verified documents and the complaint procedure.
-
-No response was received — not even an acknowledgment of receipt. As a result, the process becomes a “black box”: the complainant does not know the scope of review, the basis of the decision, or whether any evidence was genuinely verified.
-
-This conflicts with the minimum standard of effective legal protection and fair procedure under the **EU Charter of Fundamental Rights (Article 47)**.
-
-### 3) Operational model: contact the employer and “preliminary” closure without demonstrating source-data verification
-From the materials relayed to the complainant via Juridisch Loket, it appears that SNCU:
-- contacted the employer (Intrixo B.V.),
-- closed the case at the “preliminary stage”,
-- relied on the employer’s narrative (including the claim that work ended in week 31 / “did not return”).
-
-In a dispute where the employer is an interested party, accepting a narrative without demonstrating verification of source data means that audit has been replaced by correspondence. That is a defective standard and results in **administrative shutdown** instead of genuine verification.
-
-### 4) Evidence: payroll documents contradict the employer narrative and show retroactive “minus” corrections
-This case contains contradictions that cannot be credibly closed without source verification:
-
-**(a)** Employer narrative: “last day of work 28-07-2025 (week 31) / worker did not return”.
-
-**(b)** A payroll document contradicts this: **loonspecificatie for Week 32 (2025)** shows pay period **04-08-2025 to 10-08-2025** and **Contracturen: 32:00 per week**. This is inconsistent with “employment ended in week 31”.
-
-**(c)** Retroactive correction and “minus”: **loonspecificatie for Week 8 (2025)** appears again much later (dated in August 2025), showing **Contracturen: 1:00 per week** and a negative **Netto te betalen** (e.g., -191.62). This strongly suggests a retroactive correction creating a negative balance/offset — particularly in the context of a dispute and formal settlement requests.
-
-If payroll documents themselves show contradictions (Week 32 = 32:00) and retroactive minus corrections (Week 8 = 1:00 + negative net), then a “preliminary” closure based on the employer’s narrative is **not reliable and not credible**.
-
-### 5) Evidence: 61.11 hours of leave — written approval → reversal → pressure
-In the leave track, the evidentiary chain is:
-- written information/approval for using **61.11 hours** of leave,
-- later reversal/denial and pressure (“report to work or consequences”),
-- formal notice and a demand for written confirmation.
-
-This requires source verification: leave balance history, approvals/reversals, system logs, roster/planning, and work communication. Closing without such verification effectively accepts a mechanism where paid leave can be “undone” after the fact.
-
-### 6) EU standards: rights must be effective in practice (not “on paper”)
-Relevant EU standards include:
-- **Article 31(2) CFR**: right to rest and paid annual leave,
-- **Directive 2003/88/EC (Article 7)**: minimum paid leave standard,
-- **Directive 2008/104/EC**: protection and equal treatment of temporary agency workers in basic working conditions,
-- **Directive (EU) 2019/1152**: transparent and predictable working conditions,
-- **Article 47 CFR**: effective remedy and fair procedure.
-
-If a control body does not reply, does not disclose what was checked, and closes a case relying on the employer’s position despite documentary contradictions, then workers’ rights become unenforceable in practice.
-
-### 7) Minimum data package for an honest verification (without this, conclusions are not credible)
-For a proper assessment, SNCU (or a state authority) must obtain and verify at minimum:
-- full payroll administration with correction history (who/when/why/what changed),
-- roster/planning at least for weeks 31–32,
-- time registration (actual hours),
-- leave records + logs (balance, approvals/reversals, change history),
-- explanation/audit: why Week 32 shows 32:00 against the “end in week 31” narrative,
-- explanation/audit: why Week 8 shows 1:00, negative net, and was processed later,
-- rules and calculations behind deductions/negative balances (including housing/insurance), including calculation logic.
-
-### Final conclusion (maximally firm, fact-based)
-In this case, SNCU did not perform a genuine, verifiable audit: the complainant received no response, and the case was closed “preliminarily” based on the employer narrative despite contradictions in payroll documents (**Week 32 = 32:00**) and despite retroactive minus corrections (**Week 8 = 1:00 + negative net**) and despite leave evidence (**61.11h: approval → reversal → pressure**). This operational model shuts down complaints before any meaningful source-data verification — contrary to EU standards.
-
-### Evidence to attach (repo)
-- Letters to SNCU: **13-01-2026** and **22-01-2026** — `[FILE_LINK_1]`, `[FILE_LINK_2]`
-- “Case closed” information + SNCU–employer correspondence — `[LINK]`
-- Loonspecificatie **Week 32 (2025)** — `[LINK]`
-- Loonspecificatie **Week 8 (2025)** — `[LINK]`
-- Materials on **61.11h leave (P4F)** + formal notice — `[LINK]`
-- (Optional) internal employer note “stop working 28-7-2025 / another job” — `[LINK]`
+> Note: assessment of disciplinary liability or contractual breach belongs to the competent bodies / court / independent lawyer.
 
 ---
 
-# Criminal law consequences (EN) — potential offences for individuals in the recording (manager / staff / interpreter)
+## C) SNCU – procedural concerns, source-data verification and EU standards
 
-**Important disclaimer:** This document describes **possible** criminal-law risks under Dutch law **if** the facts and intent are established by the police/prosecutor/court. Publicly, this must be presented as a **legal assessment / suspicion**, not as a final verdict.
+**Status:** this section is based on documents and correspondence. It does not assess SNCU’s intentions. It describes facts, lack of transparency and the minimum standard expected from a genuine verification process.
 
-## 1) Who can be prosecuted — the company and individuals
-In the Netherlands, a **legal entity (company)** can be prosecuted, and in addition **individuals** can be prosecuted if they:
-- gave an **order**, or
-- **directed** the unlawful conduct in practice (“feitelijk leidinggeven”), or
-- knowingly participated.
+### 1. Role of SNCU
 
-**Article 51 Dutch Penal Code (Sr)** — legal entity + “ordering / factual leadership”:  
-https://maxius.nl/wetboek-van-strafrecht/artikel51
+SNCU can function as a control body only if it verifies source data: payroll administration, payslips, rosters/planning, time registration, leave records and correction history.
 
----
+Control should not end with simply accepting the employer’s position without showing which documents were actually checked.
 
-## 2) Key criminal-law risk areas (pressure, “negative hours”, “debt”, forced signature)
+### 2. No clear response to the complainant
 
-### A) Coercion (“dwang”) — **Article 284 Sr**
-If someone unlawfully **forces** another person to do/not do/tolerate something (e.g., signing, waiving rights, accepting a “debt/negative hours”) through (threat of) force or another coercive act, this may fall under **coercion**.
+The complainant requested status, reopening and identification of the documents that had been verified. Lack of a clear answer makes the process a “black box”: the worker does not know what was checked, on what basis the matter was closed and whether contradictions were genuinely verified.
 
-**Maximum penalty:** imprisonment **up to 2 years** or a **4th category** fine.  
-Text of Art. 284 Sr:  
-https://www.inview.nl/openCitation/id0f20e2e056d18a65776eb4a56464f567/wetboek-van-strafrecht-artikel-284
+This is relevant to **Article 47 of the EU Charter of Fundamental Rights** — effective remedy and fair procedure.
 
-**Why it may be relevant in this case (indicators):**
-- strong time pressure to sign (“little time”, “no discussion”, “solve it now”),
-- refusing to provide documents on the spot for calm review,
-- using “negative hours / minus balance” as leverage to close the matter quickly.
+### 3. Contact with employer and closure of the matter
 
-> Note: the legal qualification depends on details (context, wording, objective, real freedom to refuse).
+According to materials relayed through Juridisch Loket, SNCU contacted the employer and then closed the matter at the preliminary stage. In a case where the employer is an interested party, the employer’s position should not replace verification of source data.
 
----
+### 4. Contradictions requiring verification
 
-### B) Extortion (“afpersing”) — **Article 317 Sr** (requires violence or threat of violence)
-Extortion concerns forcing someone **by violence or threat of violence** to hand over property, accept a debt/obligation, or provide data, with the intent to obtain unlawful benefit.
+The documentation identifies, among others, these points for review:
 
-**Maximum penalty:** imprisonment **up to 9 years** or a **5th category** fine.  
-Text of Art. 317 Sr:  
-https://www.inview.nl/openCitation/idad3ee965cc4dab89e767700491a003d3/wetboek-van-strafrecht-artikel-317
+- employer narrative concerning work ending in week 31 / after 28 July 2025,
+- payslip Week 32 (2025) showing period 04 August 2025–10 August 2025 and Contracturen 32:00 per week,
+- payslip Week 8 (2025), reportedly reappearing later with Contracturen 1:00 per week and negative net amount,
+- leave issue of 61.11 hours: written information/approval, later denial and pressure to report for work,
+- creation and compensation of “minus” / negative balances.
 
-**Practical note:** without violence or threat of violence, Art. 317 is typically harder to apply; labour-related cases more often focus on **Art. 284 (coercion)**.
+### 5. Minimum data package for proper verification
 
----
+A proper assessment should include:
 
-### C) Forgery / false documents — **Article 225 Sr**
-If documents are deliberately falsified or fabricated (e.g., “negative hours”, “debts”, hour statements, wage calculations, settlement papers) or knowingly used as genuine, this may fall under **forgery / false documents**.
+- full payroll administration with correction history,
+- roster/planning for disputed weeks,
+- time registration,
+- leave records and logs of approvals/reversals,
+- explanation of the difference between Week 31 and Week 32,
+- explanation of the later Week 8 correction and negative net amount,
+- rules and calculations behind housing / insurance / negative-balance deductions.
 
-**Maximum penalty:** imprisonment **up to 6 years** or a **5th category** fine.  
-Text of Art. 225 Sr:  
-https://www.inview.nl/openCitation/idbe7a24edb101c273013194ea8c25887b/wetboek-van-strafrecht-artikel-225
+### 6. Conclusion
 
----
+If a control body does not answer the complainant, does not disclose the scope of review and closes a case despite documentary contradictions, the protection of the worker becomes formal but ineffective in practice. This is the central issue described in the report.
 
-### D) Fraud (“oplichting”) — **Article 326 Sr**
-If a person is induced by deception (false narrative, trick, “web of lies”) to sign, accept a debt/obligation, or waive rights, this may fall under **fraud (oplichting)**.
+### Related evidence
 
-**Maximum penalty:** imprisonment **up to 4 years** or a **5th category** fine.  
-Text of Art. 326 Sr:  
-https://www.inview.nl/openCitation/id8fa9a143265d922b148752df4c785a8b/wetboek-van-strafrecht-artikel-326
+Full evidence is not publicly linked where it contains personal data, document numbers, signatures, bank details, faces, voices or system identifiers. Publicly, only categories of evidence and anonymized summaries should be used. Full materials remain available for institutions, authorities or legal representatives upon a justified request.
 
 ---
 
-## 3) What may happen to the involved individuals (if criminal proceedings start)
-Depending on the evidence and seriousness:
-- questioning as **witness** or **suspect**,
-- collection of records / investigation into payroll administration in broader cases,
-- sanctions: fine / community service / (in severe cases) imprisonment,
-- real-life impact: reputational damage, dismissal, difficulty in roles requiring high trust / VOG.
+## D) Possible legal qualifications under Dutch law – cautious risk map
+
+**Note:** this part describes possible legal-analysis routes if relevant conditions are established by a competent authority. It is not an accusation and not a judgment.
+
+### 1. Company and individual responsibility
+
+Under Dutch law, conduct may be assessed in relation to a legal entity and, in specific circumstances, also in relation to persons who ordered, directed or knowingly participated in the conduct. A reference point is Article 51 of the Dutch Criminal Code.
+
+### 2. Dwang / unlawful pressure – Article 284 Sr
+
+If a competent authority were to find that a person lacked real freedom of decision when asked to sign documents, Article 284 Sr may become relevant for analysis.
+
+Red flags in the recording context include:
+
+- time pressure,
+- lack of a calm opportunity to review documents,
+- use of a “minus” / debt as pressure,
+- attempting to obtain a signature in a situation of unequal bargaining power.
+
+### 3. Afpersing – Article 317 Sr
+
+Afpersing is a heavier qualification and generally requires violence or threat of violence. Economic or psychological pressure more often requires assessment under dwang and should not automatically be described publicly as afpersing.
+
+### 4. Valsheid in geschrift – Article 225 Sr
+
+If an authority confirmed document manipulation, artificial creation of debt, alteration of settlement records or use of unreliable documents as genuine, Article 225 Sr could become relevant for analysis.
+
+### 5. Oplichting – Article 326 Sr
+
+If deception or a misleading narrative induced a person to sign, accept debt or abandon claims, Article 326 Sr could become relevant. This requires assessment by competent authorities.
+
+### Public wording guidance
+
+Recommended:
+
+- “The conduct may require analysis under Article 284 Sr if a competent authority finds unlawful pressure.”
+- “If document manipulation is confirmed, Article 225 Sr may become relevant.”
+- “The audio material shows the course of the conversation; legal qualification belongs to competent authorities.”
+
+Not recommended:
+
+- “They committed a crime.”
+- “This is definitely afpersing.”
+- publishing full personal identities where not necessary.
 
 ---
 
-## 4) How to phrase this publicly (strong, but legally safe)
-Recommended wording:
-- “This conduct **may potentially** fall under Art. 284 Sr (coercion) **if** unlawful pressure is established.”
-- “If document manipulation is proven, Art. 225 Sr (forgery) and/or Art. 326 Sr (fraud) **may** be relevant.”
-- “Final criminal qualification is for the police/prosecutor/court.”
+## E) Entries into a room in agency accommodation – possible legal relevance in the Netherlands
 
-Not recommended (defamation risk):
-- “They definitely committed offence X.”
-- “This is certainly extortion.”
-- publishing full personal identities without necessity.
+**Evidence statement:** according to video material, third parties allegedly opened doors and entered a room in the factual use of residents without prior notice and without the residents’ consent.
 
----
+The exact accommodation name, room number and details identifying private persons have been removed from the public version in line with anonymization rules.
 
-## [EN] Unannounced entry into hotel room (Mixx Inn, room 267) — potential criminal consequences (NL)
+### 1. Huisvredebreuk – Article 138 Sr
 
-**Evidence statement (based on video recordings):** on multiple dates and times, third parties opened the door and entered a room that was in the residents’ factual use (D. N., B. S.), **without prior notice and without the residents’ consent**. The incidents show a recurring pattern (multiple entries, different individuals, actions at/near the door and in the entrance area).
+Unlawful entry into a space in another person’s factual use, or remaining there despite a request to leave, may be assessed under home-peace / house-right protection. A room in agency accommodation, if actually used as a residence, may be protected as a private living space.
 
-### 1) Unlawful entry / house trespass — “huisvredebreuk” (Art. 138 Dutch Criminal Code)
-Unlawfully entering a dwelling / enclosed space that is in another person’s use, or unlawfully remaining there and refusing to leave when ordered, may constitute **huisvredebreuk**.
-A hotel/agency room used as a person’s actual place of stay is generally treated as protected “home/private space” (house-right protection).
+### 2. Dwang – Article 284 Sr
 
-**Maximum penalty:** up to 1 year imprisonment or a fine.
+If entries into the room were part of pressure or coercion, they could also be assessed in the context of dwang. This requires establishing purpose, context and responsibility.
 
-### 2) Coercion — “dwang” (Art. 284 DCC) if used as pressure
-If the entry is used to force someone to do, not do, or tolerate something (e.g., to sign documents, accept a disputed “minus/debt”, comply with demands), it may qualify as **criminal coercion**.
+### 3. Belaging / stalking – Article 285b Sr
 
-**Maximum penalty:** up to 2 years imprisonment or a fine.
+If privacy intrusions were repeated and aimed at causing fear or forcing conduct, belaging may require analysis. A full assessment of the material and procedural requirements is necessary.
 
-### 3) Stalking/harassment — “belaging” (Art. 285b DCC) if systematic
-A **systematic** invasion of privacy aimed at forcing compliance or instilling fear may constitute **belaging**.
+### 4. Minimum publication standards for video material
 
-**Maximum penalty:** up to 3 years imprisonment or a fine.
-(Procedural note: often requires a formal complaint by the victim.)
-
-### 4) Corporate liability + “de facto directing” (Art. 51 DCC)
-Not only the individuals who entered, but also the **company** (legal entity) and persons who **directed or systematically tolerated** the conduct (de facto leadership) can be held criminally accountable.
-
-### 5) Practical consequences
-- police report/investigation → interviews, suspect status, possible prosecution,
-- potential protective measures if the situation escalates,
-- fines/community service/(suspended) imprisonment depending on severity and repetition,
-- in parallel: civil damages for breach of privacy and peaceful enjoyment of the residence.
-
-### 6) Publishing evidence
-When publishing: anonymise faces/names, preserve originals and hashes, describe as “according to the recordings/evidence” (avoid stating guilt as a fact).
+- do not publish faces, voices or identifying elements of private persons,
+- do not publish room numbers or exact location details unless strictly necessary,
+- preserve originals and hashes for authorities / legal representatives,
+- publicly describe events as “according to recordings” or “according to the evidence material.”
 
 ---
 
-## Sezer Duygulu
+## F) Public context: Home of People / related entities
 
-Sezer Duygulu is publicly presented as the Founder of the Home of People group. The same group publicly displays a network of affiliated brands, including Uitzendbureau Solutions, T&S Flexwerk, TENS Holanda, NWH Jobs, Efficient at Work, Intrixo, and Masterteam. This does not look like a small local business, but rather a broad structure operating in a sector that has been under scrutiny for years because of risks related to migrant labor, housing, and workers’ dependence on intermediaries.
+This section is contextual. It does not attribute personal criminal, civil or administrative responsibility without a final decision.
 
-The strongest red flag concerns labor rights. Uitzendbureau Solutions B.V. was a party to a case that reached the Dutch Supreme Court. The core issue was very serious: whether an agency worker can, in practice, lose employment simply because they become ill. The mere fact that the case reached that level shows that this was not a minor misunderstanding, but an important issue concerning the protection of workers during illness or incapacity for work.
+Public materials describe an ecosystem of entities operating in the temporary-work and migrant-worker sector, including Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten and Masterteam.
 
-A second strong red flag concerns housing for migrant workers. In a publicly available case before the Raad van State, the use of a property as lodging for migrant workers was described, along with administrative enforcement measures related to fire safety violations and unlawful use of the building. The case description also refers to a connection with Solutions B.V. as the tenant financing the accommodation. This is not a minor administrative detail, but a signal of risk in one of the most sensitive areas of the entire business model.
+The mere existence of links within a broader ecosystem does not establish liability for specific violations. It is relevant context because the case concerns a model in which one structure may influence work, housing, payroll settlement and the worker’s economic dependence.
 
-The third red flag is the operating model itself. When one group controls work, housing, and often transport as well, the worker becomes dependent on a single structure for almost everything. This is precisely the type of arrangement that the Dutch government identifies as especially vulnerable to abuse: underpayment, poor working and living conditions, and circumvention of regulations. That is why the government introduced the Wtta, aimed at agencies and labor suppliers that circumvent the law or operate at the expense of workers.
+Public red flags requiring cautious description include:
 
-What is additionally striking is that these activities are also firmly embedded in official industry and certification structures. Uitzendbureau Solutions B.V. appears on the NBBU website as a member, and the listing also points to SNA certification. In the SNA register, the company is listed as certified, and the registration document confirms its entry in the Register Normering Arbeid. In the SNF register, Solutions B.V., Uitzendbureau is also listed, which means it is present within the standards system relating to housing for migrant workers. In other words: the company is not operating on the margins of the market, but within the official industry and certification framework.
+- labour disputes involving entities from that ecosystem,
+- migrant-worker housing issues,
+- activity in a sector identified by the state as vulnerable to abuse,
+- presence in industry / certification structures, which does not automatically remove risk of irregularities.
 
-That does not, however, clean up the picture. Membership in the NBBU and presence in SNA/SNF do not automatically mean there are no problems. They only show that the company operates within the industry system and has passed certain formal checks. Even so, serious questions remain in the public sphere regarding the treatment of workers and the safety of the housing arrangements.
+Safe summary:
 
-The fairest way to summarize it is this: around the activities associated with Sezer Duygulu, real red flags are visible — a labor dispute at the level of the Supreme Court, issues involving migrant worker housing, and operations in a sector that the state itself considers especially vulnerable to abuse. However, these sources do not provide a basis to state as fact that Sezer Duygulu personally was convicted of fraud or formally found to be responsible for exploitation. That distinction matters: one may speak of serious risk and a troubling pattern, but not of proven personal guilt without hard evidence.
-
-
-Sezer Duygulu is publicly presented as the founder of Home of People — a group operating in the temporary labor and migrant worker sector. Serious red flags appear around companies linked to that group: a labor dispute involving Uitzendbureau Solutions reached the Dutch Supreme Court, and public administrative materials also contain a housing-related case involving migrant workers and fire safety violations. At the same time, the company operates within official industry structures — it is listed as an NBBU member and appears in the SNA and SNF registers. That does not remove the risks. Rather, it shows that despite its formal place within the industry system, significant questions remain about labor rights, housing compliance, and the model of worker dependence on the intermediary.
-
-Source links
-
-https://www.homeofpeople.nl/over-ons/
-
-https://www.homeofpeople.nl/team/sezer-duygulu/
-
-https://www.nbbu.nl/nl/onze-leden/uitzendbureau-solutions-bv
-
-https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
-
-https://www.raadvanstate.nl/@138720/202103252-1-r3/
-
-https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen
-
-https://www.normeringarbeid.nl/snakeurmerk/gecertificeerde-ondernemingen/4c2e95bf-f454-4b15-b279-eaf2a1860f48/verklaring/nl
-
-https://www.normeringflexwonen.nl/register
-
-https://www.normeringflexwonen.nl/snfkeurmerk/gecertificeerde-ondernemingen/export
-
-https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-miss
+> Public sources and the case documentation show warning signals that justify further review and caution. They do not by themselves establish personal guilt of any specific person.
 
 ---
 
-## Sources (primary/authoritative links)
-- Dutch Civil Code (BW) Book 7 – wetten.overheid.nl: https://wetten.overheid.nl/BWBR0005290/
-- BW art. 7:610b (presumption of working hours) – (text overview): https://lokaleregelgeving.overheid.nl/CVDR682512 (search for “Article 610b”)
-- Statutory increase max. 50% (Dutch judiciary explanation): https://www.rechtspraak.nl/Onderwerpen/Loonvordering
-- WML (Minimum Wage and Minimum Holiday Allowance Act): https://wetten.overheid.nl/BWBR0002638/
-- Housing deduction max. 25% + conditions (Dutch government): https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
-- EU Charter art. 31: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12012P/TXT
-- GDPR (EU 2016/679): https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng
-- SNCU info: https://www.sncu.nl/ and ABU on SNCU’s role: https://www.abu.nl/faq/wat-is-de-rol-van-de-sncu-bij-het-lid-worden/
+## General sources / reference points
+
+- Dutch Civil Code Book 7: https://wetten.overheid.nl/BWBR0005290/
+- Dutch judiciary – wage claim / statutory increase: https://www.rechtspraak.nl/Onderwerpen/Loonvordering
+- WML: https://wetten.overheid.nl/BWBR0002638/
+- Dutch government – housing and insurance deductions: https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
+- EU Charter of Fundamental Rights: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT
+- GDPR: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- SNCU: https://www.sncu.nl/
+- ABU – role of SNCU: https://www.abu.nl/faq/wat-is-de-rol-van-de-sncu-bij-het-lid-worden/
+- Home of People: https://www.homeofpeople.nl/
+- Rechtspraak / Supreme Court, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+- Raad van State, housing-related case: https://www.raadvanstate.nl/@138720/202103252-1-r3/
+- Dutch government – migrant labour abuses policy: https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-misstanden-arbeidsmigratie
