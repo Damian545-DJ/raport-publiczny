@@ -1,7 +1,7 @@
 [NL Version]
 # Intrixo B.V. – openbaar (geanonimiseerd) rapport over vermeende schendingen en het uitblijven van effectieve systeemreactie
 
-**TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij relevante instanties en bevindt zich momenteel in de fase van wachten op inhoudelijke schriftelijke reacties en onafhankelijke verificatie.
+**TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij nationale partijen en instanties die verband houden met werknemersbescherming, arbeidsmarkt en uitzendwerk, en blijft onderwerp van verdere verificatie.
 
 **Status:** openbare versie (geanonimiseerd)
 **Laatste update:** 2026-06-30
@@ -12,7 +12,7 @@
 1. Begin met de HTML-briefinglaag (`index.html`, `nl/index.html`, `nl/belangrijkste-bevindingen.html`, `nl/dowody.html`, `nl/timeline.html`).
 2. Ga daarna naar de Markdown-bronbestanden (`README`, `TIMELINE`, `EVIDENCE_INDEX`) voor volledige context.
 3. Lees alle uitspraken over mogelijke misstanden als verwijten/allegaties die verdere verificatie vereisen.
-4. GitHub Issues/Discussions zijn uitsluitend voor technische repozaken; mediacontact hoort via het dedicated adres te lopen.
+4. GitHub Issues/Discussions zijn uitsluitend voor technische repozaken; mediacontact hoort via het LinkedIn-contactpad of een ander geverifieerd kanaal van de auteur te lopen.
 
 > Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
 
@@ -21,8 +21,8 @@
 ## Executive summary
 
 - **Vastgelegde feiten:** de repository bevat een tijdlijn, loon-/afrekeningsgegevens, correspondentielogs en geanonimiseerde beschrijvingen van incidenten rond huisvesting en privacy.
-- **Beschikbaar bewijs:** loonstroken, communicatieregisters en audio/video-materiaal (alleen gedeeld met bevoegde instanties of vertegenwoordigers op gemotiveerd verzoek).
-- **Huidige fase:** de geanonimiseerde publieke versie blijft beschikbaar terwijl de zaak in afwachting is van institutionele/juridische opvolging en formele reacties.
+- **Beschikbaar bewijs:** loonstroken, communicatierecords en audio/video-materiaal (alleen gedeeld met bevoegde instanties of vertegenwoordigers op gemotiveerd verzoek).
+- **Huidige fase:** de geanonimiseerde publieke versie blijft beschikbaar terwijl de zaak in afwachting is van verdere institutionele/juridische opvolging en formele reacties.
 
 ---
 
@@ -48,3 +48,5 @@ Onze ervaring is hard en simpel: het bewijs is er, maar effectiviteit ontbreekt.
 ---
 
 ## Over wie gaat het (kort)
+
+Het openbare rapport gaat over een arbeidsgeschil rond **Intrixo B.V. / Voorneputten** en vragen over loonadministratie, inhoudingen, huisvesting, juridische hulp en institutionele reacties. Persoonsgegevens van privépersonen zijn uit de publieke laag verwijderd.
