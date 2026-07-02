@@ -2,7 +2,7 @@
 
 # Intrixo B.V. – publiczny raport anonimizowany o rzekomych naruszeniach i braku realnej reakcji systemu
 
-**TL;DR:** Repozytorium zawiera anonimizowaną dokumentację sporu pracowniczego, w tym dane płacowe, korespondencję, oś czasu oraz odniesienia do materiałów audio/wideo. Sprawa została zgłoszona właściwym instytucjom i pozostaje przedmiotem dalszej weryfikacji.
+**TL;DR:** Repozytorium zawiera anonimizowaną dokumentację sporu pracowniczego, w tym dane płacowe, korespondencję, oś czasu oraz odniesienia do materiałów audio/wideo. Sprawa została zgłoszona do krajowych podmiotów i instytucji związanych z ochroną pracowników, rynkiem pracy i pracą tymczasową oraz pozostaje przedmiotem dalszej weryfikacji.
 
 **Status:** wersja publiczna, zanonimizowana  
 **Ostatnia aktualizacja:** 2026-06-30  
@@ -57,7 +57,7 @@ Według dokumentacji agencja mogła:
 - nie rozliczać prawidłowo urlopu i dodatków,
 - prowadzić dokumentację płacową w sposób budzący poważne wątpliwości.
 
-### 2. Presja i próby wymuszenia podpisu
+### 2. Presja komunikacyjna i dokumenty
 
 Z opisu nagrań audio wynika, że podczas spotkań mogła pojawiać się presja związana z dokumentami, długiem lub zakończeniem sprawy. Publicznie opisujemy to jako **podejrzenie / ocenę autorów**, wymagającą niezależnej weryfikacji.
 
@@ -78,12 +78,10 @@ W dokumentacji pojawiają się m.in.:
 - FairWork,
 - Juridisch Loket,
 - SNCU,
-- Orde van Advocaten,
-- Raad van Discipline,
 - NBBU,
 - SNF,
 - Nederlandse Arbeidsinspectie,
-- instytucje UE.
+- krajowe podmioty związane z pomocą prawną i standardami zawodowymi.
 
 Według stanu sprawy opisanego w repo problemem jest nie tylko samo działanie agencji, ale również brak pełnej, jasnej i weryfikowalnej odpowiedzi ze strony podmiotów, które powinny pomagać albo kontrolować.
 
