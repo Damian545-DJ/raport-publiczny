@@ -95,23 +95,18 @@ h2 { color: #243f5f !important; }
 .card a:not(.btn):hover { color: var(--accent-strong) !important; }
 ol li,ul li { margin-bottom: 0.35rem; }
 
-/* Stable, named visual classes */
+/* Stable, named visual classes only. No automatic badges by card order. */
 .highlight-card,
 .process-card,
 .reading-card,
 .faq-card,
-.verify-card,
-.wrap > section.card:nth-of-type(2),
-.wrap > section.card:nth-of-type(3),
-.wrap > section.card:nth-of-type(5),
-.wrap > section.card:nth-of-type(6) {
+.verify-card {
   border-color: #b9d3f2 !important;
   background: linear-gradient(180deg, #ffffff 0%, #f3f8ff 100%) !important;
   box-shadow: 0 10px 26px rgba(5, 80, 174, 0.10);
 }
 
-.highlight-card::before,
-.wrap > section.card:nth-of-type(2)::before {
+.highlight-card::before {
   content: "START";
   display: inline-block;
   margin-bottom: 8px;
@@ -124,17 +119,12 @@ ol li,ul li { margin-bottom: 0.35rem; }
   letter-spacing: .06em;
 }
 
-/* Official-looking text badges instead of emoji */
+/* Official-looking text badges only for explicitly marked sections */
 .highlight-card h2::before,
 .verify-card h2::before,
 .faq-card h2::before,
 .process-card h2::before,
-.reading-card h2::before,
-.wrap > section.card:nth-of-type(2) h2::before,
-.wrap > section.card:nth-of-type(3) h2::before,
-.wrap > section.card:nth-of-type(4) h2::before,
-.wrap > section.card:nth-of-type(5) h2::before,
-.wrap > section.card:nth-of-type(6) h2::before {
+.reading-card h2::before {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -152,16 +142,11 @@ ol li,ul li { margin-bottom: 0.35rem; }
   vertical-align: middle;
 }
 
-.highlight-card h2::before,
-.wrap > section.card:nth-of-type(2) h2::before { content: "INFO"; }
-.verify-card h2::before,
-.wrap > section.card:nth-of-type(3) h2::before { content: "CHECK"; }
-.faq-card h2::before,
-.wrap > section.card:nth-of-type(4) h2::before { content: "FAQ"; }
-.process-card h2::before,
-.wrap > section.card:nth-of-type(5) h2::before { content: "FLOW"; }
-.reading-card h2::before,
-.wrap > section.card:nth-of-type(6) h2::before { content: "READ"; }
+.highlight-card h2::before { content: "INFO"; }
+.verify-card h2::before { content: "CHECK"; }
+.faq-card h2::before { content: "FAQ"; }
+.process-card h2::before { content: "FLOW"; }
+.reading-card h2::before { content: "READ"; }
 
 /* Quick start panel */
 .quick-start {
@@ -195,8 +180,7 @@ ol li,ul li { margin-bottom: 0.35rem; }
 .quick-start span { display: block; color: var(--muted); font-size: .92rem; line-height: 1.35; }
 
 /* Process-style case scheme */
-.process-card ol,
-.wrap > section.card:nth-of-type(5) ol {
+.process-card ol {
   list-style: none;
   margin: 16px 0 4px;
   padding: 0;
@@ -206,8 +190,7 @@ ol li,ul li { margin-bottom: 0.35rem; }
   counter-reset: step;
 }
 
-.process-card ol li,
-.wrap > section.card:nth-of-type(5) ol li {
+.process-card ol li {
   position: relative;
   min-height: 118px;
   padding: 44px 12px 12px;
@@ -217,8 +200,7 @@ ol li,ul li { margin-bottom: 0.35rem; }
   box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
 }
 
-.process-card ol li::before,
-.wrap > section.card:nth-of-type(5) ol li::before {
+.process-card ol li::before {
   counter-increment: step;
   content: counter(step);
   position: absolute;
@@ -235,8 +217,7 @@ ol li,ul li { margin-bottom: 0.35rem; }
   font-weight: 800;
 }
 
-.process-card ol li:not(:last-child)::after,
-.wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
+.process-card ol li:not(:last-child)::after {
   content: "→";
   position: absolute;
   right: -16px;
@@ -344,12 +325,9 @@ html[lang="nl"] body::after {
 
 @media (max-width: 900px) {
   .quick-start { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .process-card ol,
-  .wrap > section.card:nth-of-type(5) ol { grid-template-columns: 1fr; }
-  .process-card ol li,
-  .wrap > section.card:nth-of-type(5) ol li { min-height: auto; }
-  .process-card ol li:not(:last-child)::after,
-  .wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
+  .process-card ol { grid-template-columns: 1fr; }
+  .process-card ol li { min-height: auto; }
+  .process-card ol li:not(:last-child)::after {
     content: "↓";
     right: auto;
     left: 24px;
