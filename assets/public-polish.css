@@ -20,9 +20,7 @@ body {
   color: var(--text) !important;
 }
 
-.wrap {
-  max-width: 1080px !important;
-}
+.wrap { max-width: 1080px !important; }
 
 .topnav {
   position: sticky;
@@ -81,23 +79,10 @@ a.btn:hover {
   box-shadow: var(--shadow);
 }
 
-h1 {
-  color: var(--accent-strong) !important;
-  letter-spacing: -0.02em;
-}
-
-h2 {
-  color: #243f5f !important;
-}
-
-.meta,
-.muted {
-  color: var(--muted) !important;
-}
-
-.source {
-  border-top-color: #c9d8e8 !important;
-}
+h1 { color: var(--accent-strong) !important; letter-spacing: -0.02em; }
+h2 { color: #243f5f !important; }
+.meta,.muted { color: var(--muted) !important; }
+.source { border-top-color: #c9d8e8 !important; }
 
 .card a:not(.btn) {
   color: var(--accent) !important;
@@ -105,16 +90,14 @@ h2 {
   text-underline-offset: 3px;
 }
 
-.card a:not(.btn):hover {
-  color: var(--accent-strong) !important;
-}
+.card a:not(.btn):hover { color: var(--accent-strong) !important; }
+ol li,ul li { margin-bottom: 0.35rem; }
 
-ol li,
-ul li {
-  margin-bottom: 0.35rem;
-}
-
-/* Stronger quick-start area on the home pages */
+/* Stable, named visual classes */
+.highlight-card,
+.process-card,
+.reading-card,
+.faq-card,
 .wrap > section.card:nth-of-type(2),
 .wrap > section.card:nth-of-type(3),
 .wrap > section.card:nth-of-type(5),
@@ -124,6 +107,7 @@ ul li {
   box-shadow: 0 10px 26px rgba(5, 80, 174, 0.10);
 }
 
+.highlight-card::before,
 .wrap > section.card:nth-of-type(2)::before {
   content: "START";
   display: inline-block;
@@ -137,13 +121,60 @@ ul li {
   letter-spacing: .06em;
 }
 
+.highlight-card h2::before,
 .wrap > section.card:nth-of-type(2) h2::before { content: "⚡ "; }
+.verify-card h2::before,
 .wrap > section.card:nth-of-type(3) h2::before { content: "🔎 "; }
+.faq-card h2::before,
 .wrap > section.card:nth-of-type(4) h2::before { content: "❓ "; }
+.process-card h2::before,
 .wrap > section.card:nth-of-type(5) h2::before { content: "🧭 "; }
+.reading-card h2::before,
 .wrap > section.card:nth-of-type(6) h2::before { content: "📖 "; }
 
+/* Quick start panel */
+.quick-start {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 14px 0;
+}
+
+.quick-start a {
+  display: block;
+  min-height: 96px;
+  padding: 14px;
+  border: 1px solid #c8d8ea;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.92);
+  color: var(--accent-strong) !important;
+  text-decoration: none;
+  box-shadow: 0 5px 14px rgba(15, 23, 42, 0.06);
+  transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease, background .16s ease;
+}
+
+.quick-start a:hover {
+  transform: translateY(-2px);
+  border-color: #9cc2f0;
+  background: #f6faff;
+  box-shadow: 0 10px 22px rgba(5, 80, 174, 0.13);
+}
+
+.quick-start strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 1rem;
+}
+
+.quick-start span {
+  display: block;
+  color: var(--muted);
+  font-size: .92rem;
+  line-height: 1.35;
+}
+
 /* Process-style case scheme */
+.process-card ol,
 .wrap > section.card:nth-of-type(5) ol {
   list-style: none;
   margin: 16px 0 4px;
@@ -154,6 +185,7 @@ ul li {
   counter-reset: step;
 }
 
+.process-card ol li,
 .wrap > section.card:nth-of-type(5) ol li {
   position: relative;
   min-height: 118px;
@@ -164,6 +196,7 @@ ul li {
   box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
 }
 
+.process-card ol li::before,
 .wrap > section.card:nth-of-type(5) ol li::before {
   counter-increment: step;
   content: counter(step);
@@ -181,6 +214,7 @@ ul li {
   font-weight: 800;
 }
 
+.process-card ol li:not(:last-child)::after,
 .wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
   content: "→";
   position: absolute;
@@ -192,7 +226,6 @@ ul li {
   z-index: 3;
 }
 
-/* Better call-to-action links inside important cards */
 .card p > a:not(.btn),
 .card .source a:not(.btn) {
   display: inline-block;
@@ -213,14 +246,12 @@ ul li {
 }
 
 @media (max-width: 900px) {
-  .wrap > section.card:nth-of-type(5) ol {
-    grid-template-columns: 1fr;
-  }
-
-  .wrap > section.card:nth-of-type(5) ol li {
-    min-height: auto;
-  }
-
+  .quick-start { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .process-card ol,
+  .wrap > section.card:nth-of-type(5) ol { grid-template-columns: 1fr; }
+  .process-card ol li,
+  .wrap > section.card:nth-of-type(5) ol li { min-height: auto; }
+  .process-card ol li:not(:last-child)::after,
   .wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
     content: "↓";
     right: auto;
@@ -231,25 +262,10 @@ ul li {
 }
 
 @media (max-width: 720px) {
-  .topnav {
-    position: static;
-    border-radius: 18px;
-    justify-content: flex-start;
-  }
-
-  .btn,
-  a.btn {
-    width: 100%;
-    text-align: center;
-  }
-
-  .card {
-    border-radius: 14px !important;
-  }
-
-  .card p > a:not(.btn),
-  .card .source a:not(.btn) {
-    width: 100%;
-    text-align: center;
-  }
+  .topnav { position: static; border-radius: 18px; justify-content: flex-start; }
+  .btn,a.btn { width: 100%; text-align: center; }
+  .quick-start { grid-template-columns: 1fr; }
+  .quick-start a { min-height: auto; }
+  .card { border-radius: 14px !important; }
+  .card p > a:not(.btn), .card .source a:not(.btn) { width: 100%; text-align: center; }
 }
