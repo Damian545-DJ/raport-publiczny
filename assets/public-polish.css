@@ -114,6 +114,122 @@ ul li {
   margin-bottom: 0.35rem;
 }
 
+/* Stronger quick-start area on the home pages */
+.wrap > section.card:nth-of-type(2),
+.wrap > section.card:nth-of-type(3),
+.wrap > section.card:nth-of-type(5),
+.wrap > section.card:nth-of-type(6) {
+  border-color: #b9d3f2 !important;
+  background: linear-gradient(180deg, #ffffff 0%, #f3f8ff 100%) !important;
+  box-shadow: 0 10px 26px rgba(5, 80, 174, 0.10);
+}
+
+.wrap > section.card:nth-of-type(2)::before {
+  content: "START";
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+  font-size: .76rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+}
+
+.wrap > section.card:nth-of-type(2) h2::before { content: "⚡ "; }
+.wrap > section.card:nth-of-type(3) h2::before { content: "🔎 "; }
+.wrap > section.card:nth-of-type(4) h2::before { content: "❓ "; }
+.wrap > section.card:nth-of-type(5) h2::before { content: "🧭 "; }
+.wrap > section.card:nth-of-type(6) h2::before { content: "📖 "; }
+
+/* Process-style case scheme */
+.wrap > section.card:nth-of-type(5) ol {
+  list-style: none;
+  margin: 16px 0 4px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+  counter-reset: step;
+}
+
+.wrap > section.card:nth-of-type(5) ol li {
+  position: relative;
+  min-height: 118px;
+  padding: 44px 12px 12px;
+  border: 1px solid #c8d8ea;
+  border-radius: 14px;
+  background: rgba(255,255,255,.82);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
+}
+
+.wrap > section.card:nth-of-type(5) ol li::before {
+  counter-increment: step;
+  content: counter(step);
+  position: absolute;
+  left: 12px;
+  top: 10px;
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: var(--accent);
+  color: #fff;
+  font-size: .82rem;
+  font-weight: 800;
+}
+
+.wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
+  content: "→";
+  position: absolute;
+  right: -16px;
+  top: 42%;
+  color: var(--accent);
+  font-weight: 900;
+  font-size: 1.1rem;
+  z-index: 3;
+}
+
+/* Better call-to-action links inside important cards */
+.card p > a:not(.btn),
+.card .source a:not(.btn) {
+  display: inline-block;
+  margin: 4px 6px 4px 0;
+  padding: 8px 12px;
+  border: 1px solid #c8d8ea;
+  border-radius: 999px;
+  background: #fff;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.05);
+}
+
+.card p > a:not(.btn):hover,
+.card .source a:not(.btn):hover {
+  background: var(--accent-soft);
+  border-color: #9cc2f0;
+  box-shadow: 0 5px 14px rgba(5, 80, 174, 0.13);
+}
+
+@media (max-width: 900px) {
+  .wrap > section.card:nth-of-type(5) ol {
+    grid-template-columns: 1fr;
+  }
+
+  .wrap > section.card:nth-of-type(5) ol li {
+    min-height: auto;
+  }
+
+  .wrap > section.card:nth-of-type(5) ol li:not(:last-child)::after {
+    content: "↓";
+    right: auto;
+    left: 24px;
+    top: auto;
+    bottom: -18px;
+  }
+}
+
 @media (max-width: 720px) {
   .topnav {
     position: static;
@@ -129,5 +245,11 @@ ul li {
 
   .card {
     border-radius: 14px !important;
+  }
+
+  .card p > a:not(.btn),
+  .card .source a:not(.btn) {
+    width: 100%;
+    text-align: center;
   }
 }
