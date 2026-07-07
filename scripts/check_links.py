@@ -123,8 +123,25 @@ class LinkChecker:
             if pathlib.Path(rel_path).suffix in SKIP_LOCAL_EXTENSIONS:
                 continue
 
-            if rel_path not in self.existing_rel:
-                self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing file '{rel_path}'"))
+            if self._exists_as_file_or_directory_index(rel_path):
+                continue
+
+            self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing file '{rel_path}'"))
+
+    def _exists_as_file_or_directory_index(self, rel_path: str) -> bool:
+        """Return True for direct files and GitHub Pages directory links.
+
+        GitHub Pages serves `folder/` and `folder` through `folder/index.html`.
+        The audit should therefore accept both forms as valid internal links.
+        """
+        if rel_path in self.existing_rel:
+            return True
+
+        normalized = rel_path.rstrip("/")
+        if not normalized:
+            return True
+
+        return f"{normalized}/index.html" in self.existing_rel
 
     def _resolve_internal_path(self, source_file: pathlib.Path, raw_url: str) -> tuple[str | None, str]:
         parsed = urlparse(raw_url)
