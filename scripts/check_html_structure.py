@@ -44,7 +44,7 @@ REQUIRED_META = (
     r'<meta\s+property="og:title"\s+content="[^"]+"\s*/?>',
     r'<meta\s+property="og:description"\s+content="[^"]+"\s*/?>',
     r'<meta\s+property="og:url"\s+content="[^"]+"\s*/?>',
-    r'<meta\s+property="og:image"\s+content="https://[^"]+"\s*/?>',
+    r'<meta\s+property="og:image"\s+content="(?:https://|/raport-publiczny/)[^"]+"\s*/?>',
 )
 
 
