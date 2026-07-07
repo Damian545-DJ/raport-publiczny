@@ -19,3 +19,6 @@ jobs:
 
       - name: Check internal links and file references
         run: python scripts/check_links.py
+
+      - name: Check PL EN NL HTML structure and SEO
+        run: python scripts/check_html_structure.py
