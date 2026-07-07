@@ -10,8 +10,7 @@ import time
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
-from typing import Iterable
-from urllib.parse import parse_qs, urljoin, urlparse
+from urllib.parse import parse_qs, urlparse
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DEFAULT_BASE_URL = "https://damian545-dj.github.io/raport-publiczny/"
@@ -101,7 +100,6 @@ class LinkChecker:
                 self.external_refs.append(LinkRef(source, line_no, raw_url, "external"))
             return
 
-        # Relative and root-relative paths are internal
         self.internal_refs.append(LinkRef(source, line_no, raw_url, "internal"))
 
     def check_internal(self) -> None:
@@ -110,7 +108,8 @@ class LinkChecker:
             if rel_path is None:
                 continue
 
-            # doc route query check
+            rel_path = self._normalize_internal_path(rel_path)
+
             if rel_path == "doc.html":
                 target = parse_qs(query).get("file", [""])[0]
                 if not target:
@@ -123,31 +122,23 @@ class LinkChecker:
             if pathlib.Path(rel_path).suffix in SKIP_LOCAL_EXTENSIONS:
                 continue
 
-            if self._exists_as_file_or_directory_index(rel_path):
-                continue
+            if rel_path not in self.existing_rel:
+                self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing file '{rel_path}'"))
 
-            self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing file '{rel_path}'"))
-
-    def _exists_as_file_or_directory_index(self, rel_path: str) -> bool:
-        """Return True for direct files and GitHub Pages directory links.
-
-        GitHub Pages serves `folder/` and `folder` through `folder/index.html`.
-        The audit should therefore accept both forms as valid internal links.
-        """
-        if rel_path in self.existing_rel:
-            return True
-
-        normalized = rel_path.rstrip("/")
-        if not normalized:
-            return True
-
-        return f"{normalized}/index.html" in self.existing_rel
+    def _normalize_internal_path(self, rel_path: str) -> str:
+        rel_path = rel_path.lstrip("/")
+        if rel_path.endswith("/"):
+            return rel_path + "index.html"
+        if pathlib.Path(rel_path).suffix == "":
+            index_path = f"{rel_path}/index.html"
+            if index_path in self.existing_rel:
+                return index_path
+        return rel_path
 
     def _resolve_internal_path(self, source_file: pathlib.Path, raw_url: str) -> tuple[str | None, str]:
         parsed = urlparse(raw_url)
 
         if parsed.scheme in {"http", "https"}:
-            # Base URL hosted path: /raport-publiczny/<file>
             hosted_path = parsed.path
             if hosted_path.startswith(self.base_path):
                 hosted_path = hosted_path[len(self.base_path) :]
@@ -155,9 +146,12 @@ class LinkChecker:
                 hosted_path = hosted_path[1:]
             path = hosted_path
             query = parsed.query
-        else:
-            path = parsed.path
-            query = parsed.query
+            if path in {"", "/", ".", "./"}:
+                return None, query
+            return path, query
+
+        path = parsed.path
+        query = parsed.query
 
         if path in {"", "/", ".", "./"}:
             return None, query
@@ -198,8 +192,6 @@ class LinkChecker:
                         return True, f"HTTP {code}"
                     last_err = f"HTTP {code}"
             except urllib.error.HTTPError as err:
-                # 301/302 are not failures if they finally resolve to 200; urllib follows redirects,
-                # so if we receive this error it is a final non-success status.
                 last_err = f"HTTP {err.code}"
             except (urllib.error.URLError, socket.timeout, TimeoutError) as err:
                 last_err = f"network error: {err}"
