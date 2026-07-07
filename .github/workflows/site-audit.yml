@@ -22,3 +22,6 @@ jobs:
 
       - name: Check PL EN NL HTML structure and SEO
         run: python scripts/check_html_structure.py
+
+      - name: Complete site quality audit
+        run: python scripts/check_complete_site.py
