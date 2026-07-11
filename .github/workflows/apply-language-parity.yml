@@ -15,7 +15,45 @@ permissions:
 
 jobs:
   apply:
-    if: ${{ false }}
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Parity payload upload in progress"
+      - name: Checkout working branch
+        uses: actions/checkout@v4
+        with:
+          ref: codex/fix-process-verbaal-language-parity
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Patch timelines and public placeholders
+        run: python scripts/patch_process_verbaal.py
+
+      - name: Remove one-time migration artifacts
+        run: |
+          rm -f scripts/.parity_payload_*.txt
+          rm -f scripts/apply_parity_payload.py
+          rm -f scripts/parity_payload_error.txt
+          rm -f scripts/patch_process_verbaal.py
+          rm -f .github/workflows/apply-language-parity.yml
+          rm -f .github/PR_PARITY_MIGRATION_NOTE.md
+          rm -f .github/PULL_REQUEST_TEMPLATE.md
+          rm -f .github/.parity-pr-trigger
+
+      - name: Run all repository audits
+        run: |
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
+
+      - name: Commit final clean changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix proces-verbaal wording and language parity"
+          git push origin HEAD:codex/fix-process-verbaal-language-parity
