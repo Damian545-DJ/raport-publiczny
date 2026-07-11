@@ -51,10 +51,20 @@ for path in ("TIMELINE.pl.md", "TIMELINE.en.md", "TIMELINE.nl.md"):
         "empty anonymization bullet": r"(?m)^\s*-\s*\*\*\s*$",
         "broken closing filename fragment": r"\)\.(?:pdf|png|jpe?g|xlsx?|zip)\b",
         "broken quotation remnant": r"(?:—|-)\s*[„\"“]?\)\s*$",
+        "empty screenshot remnant": r"\(\s*\+\s*screenshots?\s*\)",
     }
     for description, pattern in broken_patterns.items():
         if re.search(pattern, value, re.I | re.M):
             issues.append(f"{path}: {description} remains")
+
+required_timeline_facts = {
+    "TIMELINE.pl.md": "**03.12.2025:** SNCU zarejestrowało zgłoszenie",
+    "TIMELINE.en.md": "**03 Dec 2025:** SNCU registered the report",
+    "TIMELINE.nl.md": "**03-12-2025:** SNCU registreerde de melding",
+}
+for path, required in required_timeline_facts.items():
+    if required not in text(path):
+        issues.append(f"{path}: missing correct December 2025 SNCU registration entry")
 
 forbidden_general = [
     "Sąd dał stronom czas na dostarczenie dokładnych obliczeń",
@@ -133,4 +143,4 @@ if issues:
         print(" -", issue)
     sys.exit(1)
 
-print("OK: PL/EN/NL parity, proces-verbaal wording, source cleanup and anonymization checks passed")
+print("OK: PL/EN/NL parity, proces-verbaal wording, source cleanup, chronology and anonymization checks passed")
