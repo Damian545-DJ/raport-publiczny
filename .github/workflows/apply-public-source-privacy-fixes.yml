@@ -1,0 +1,50 @@
+name: Apply public source and privacy fixes
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout working branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/fix-public-sources-and-privacy
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Apply source and privacy changes
+        run: python scripts/apply_public_source_privacy_fixes.py
+
+      - name: Remove one-time migration files
+        run: |
+          rm -f scripts/apply_public_source_privacy_fixes.py
+          rm -f .github/workflows/apply-public-source-privacy-fixes.yml
+
+      - name: Run repository audits
+        run: |
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
+
+      - name: Commit clean changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix public sources and reduce privacy risk"
+          git push origin HEAD:agent/fix-public-sources-and-privacy
