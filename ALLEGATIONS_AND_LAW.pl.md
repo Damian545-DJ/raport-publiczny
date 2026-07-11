@@ -116,77 +116,24 @@ Pełne dowody nie są linkowane publicznie, jeżeli zawierają dane osobowe, num
 
 ---
 
-## D) Możliwe kwalifikacje prawne w prawie holenderskim – ostrożna mapa ryzyk
+## D) Kwestie prawne wymagające oceny właściwych organów
 
-**Uwaga:** ta część opisuje możliwe kierunki analizy prawnej w razie potwierdzenia przesłanek przez właściwy organ. Nie jest to oskarżenie ani wyrok.
+Publiczna wersja raportu nie przypisuje osobom fizycznym odpowiedzialności karnej i nie formułuje kwalifikacji przestępstw. Materiał wskazuje wyłącznie kwestie, które mogą wymagać oceny sądu, organu nadzoru albo niezależnego prawnika:
 
-### 1. Odpowiedzialność spółki i osób fizycznych
+- zgodność rozliczeń płacowych i historii korekt,
+- dobrowolność podpisywania dokumentów i sposób prowadzenia rozmów,
+- prawidłowość potrąceń oraz tworzenia ujemnych sald,
+- kompletność informacji przekazywanych pracownikowi i instytucjom.
 
-W prawie holenderskim czyn może być analizowany wobec osoby prawnej, a w określonych sytuacjach również wobec osób, które wydawały polecenia, faktycznie kierowały działaniem albo świadomie w nim uczestniczyły. Punktem odniesienia jest m.in. art. 51 Wetboek van Strafrecht.
-
-### 2. Dwang / niedopuszczalny nacisk – art. 284 Sr
-
-Jeżeli organ uznałby, że dana osoba została pozbawiona realnej swobody decyzji przy podpisywaniu dokumentów, możliwa byłaby analiza pod kątem **art. 284 Sr (dwang)**.
-
-W kontekście nagrania raport wskazuje jako czerwone flagi m.in.:
-
-- presję czasu,
-- brak spokojnej możliwości przeczytania dokumentu,
-- używanie „minusu” / długu jako elementu nacisku,
-- próbę doprowadzenia do podpisu w sytuacji nierównowagi stron.
-
-### 3. Afpersing – art. 317 Sr
-
-Afpersing jest cięższą kwalifikacją i zwykle wymaga elementu przemocy albo groźby przemocy. Sama presja ekonomiczna lub psychiczna częściej wymaga analizy pod kątem dwang, a nie automatycznie afpersing. Dlatego w publicznym raporcie należy unikać zdania „to na pewno było afpersing”.
-
-### 4. Valsheid in geschrift – art. 225 Sr
-
-Jeżeli organy potwierdziłyby manipulowanie dokumentami, sztuczne tworzenie długu, przerabianie rozliczeń albo używanie dokumentu jako prawdziwego mimo nierzetelnych danych, możliwa byłaby analiza pod kątem **art. 225 Sr**.
-
-### 5. Oplichting – art. 326 Sr
-
-Jeżeli ktoś poprzez podstęp, fałszywą narrację lub wprowadzanie w błąd skłania osobę do podpisu, zaakceptowania długu albo rezygnacji z roszczeń, w grę może wejść analiza pod kątem **art. 326 Sr**. To wymaga jednak oceny organów.
-
-### Bezpieczne sformułowania publiczne
-
-Zalecane:
-
-- „Zachowanie może wymagać analizy pod kątem art. 284 Sr, jeśli organ uzna, że doszło do niedopuszczalnego nacisku.”
-- „W razie potwierdzenia manipulacji dokumentacją w grę może wchodzić art. 225 Sr.”
-- „Materiał audio pokazuje przebieg rozmowy; kwalifikacja prawna należy do właściwych organów.”
-
-Niezalecane:
-
-- „Oni popełnili przestępstwo.”
-- „To na pewno jest afpersing.”
-- publiczne wskazywanie pełnych danych osób prywatnych bez konieczności.
+W publikacji należy opisywać zdarzenia, dokumenty i rozbieżności, a ocenę prawną pozostawić właściwym organom.
 
 ---
 
-## E) Nieuzgodnione wejścia do pokoju w zakwaterowaniu agencyjnym – możliwe konsekwencje prawne w NL
+## E) Prywatność w zakwaterowaniu agencyjnym
 
-**Teza dowodowa:** według materiału wideo w wielu datach i godzinach miało dojść do otwierania drzwi i wejść osób trzecich do pokoju będącego w faktycznym użyciu mieszkańców, bez wcześniejszego powiadomienia i bez uzyskania zgody lokatorów.
+Według materiału wideo osoby trzecie miały wchodzić do zamieszkanego pomieszczenia bez wcześniejszego powiadomienia lub zgody mieszkańców. Publiczna wersja nie ujawnia lokalizacji, numeru pokoju, twarzy, głosów ani danych osób prywatnych.
 
-Dokładna nazwa zakwaterowania, numer pokoju oraz elementy pozwalające zidentyfikować osoby prywatne pozostają usunięte z wersji publicznej zgodnie z zasadami anonimizacji.
-
-### 1. Huisvredebreuk – art. 138 Sr
-
-W NL bezprawne wtargnięcie do przestrzeni będącej w faktycznym użyciu innej osoby albo pozostawanie tam mimo żądania opuszczenia może być analizowane pod kątem ochrony miru domowego / huisrecht. Pokój w zakwaterowaniu agencyjnym, jeżeli jest realnie używany jako miejsce zamieszkania, może podlegać ochronie prywatności i spokoju zamieszkania.
-
-### 2. Dwang – art. 284 Sr
-
-Jeżeli wejścia do pokoju byłyby elementem nacisku lub przymusu, mogłyby być analizowane również w kontekście dwang. To wymaga jednak ustalenia celu, kontekstu i osób odpowiedzialnych.
-
-### 3. Belaging / stalking – art. 285b Sr
-
-Jeżeli naruszenia prywatności miały charakter powtarzalny i służyły wywołaniu strachu lub wymuszeniu zachowania, możliwa byłaby analiza pod kątem belaging. W praktyce konieczna jest ocena całego materiału i wymogów proceduralnych.
-
-### 4. Minimalne standardy publikacji materiału wideo
-
-- nie publikować twarzy, głosów ani elementów identyfikujących osoby prywatne,
-- nie publikować numeru pokoju ani danych dokładnej lokalizacji, jeżeli nie jest to konieczne,
-- zachować oryginały i sumy kontrolne dla organów / pełnomocników,
-- publicznie opisywać zdarzenia jako „według nagrań” albo „według materiału dowodowego”.
+Materiał powinien być zachowany w oryginale i przekazywany wyłącznie właściwym instytucjom lub pełnomocnikom. Publicznie należy ograniczyć się do ostrożnego opisu faktów i ochrony prywatności, bez przypisywania konkretnej osobie czynu zabronionego.
 
 ---
 
@@ -224,4 +171,4 @@ Najbezpieczniejsze podsumowanie:
 - Home of People: https://www.homeofpeople.nl/
 - Rechtspraak / Hoge Raad, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
 - Raad van State, sprawa dotycząca zakwaterowania: https://www.raadvanstate.nl/@138720/202103252-1-r3/
-- Rijksoverheid – aanpak misstanden arbeidsmigranten: https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-misstanden-arbeidsmigratie
+- Rijksoverheid – aanpak misstanden arbeidsmigranten: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten

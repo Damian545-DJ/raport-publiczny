@@ -97,7 +97,7 @@ Een organisatorisch of historisch verband bewijst geen verantwoordelijkheid voor
 
 - `TIMELINE.nl.md` – chronologie,
 - `PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md` – volledig openbaar rapport,
-- `sezer-duygulu/README.nl.md` – Home of People-context,
+- `home-of-people/README.nl.md` – Home of People-context,
 - `EVIDENCE_INDEX.nl.md` – bewijsindex,
 - `ANONYMIZATION.nl.md` – anonimiseringsregels,
 - `DISCLAIMER.nl.md` – voorbehoud.
