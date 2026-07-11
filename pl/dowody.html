@@ -1,72 +1,110 @@
 <!DOCTYPE html>
-<html lang="pl">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>5 najmocniejszych dowodów — briefing sprawy Intrixo (PL)</title>
-  <meta name="description" content="5 kluczowych punktów dowodowych opisanych w repo jako najszybsze wprowadzenie do rdzenia sprawy Intrixo.">
-  <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/pl/dowody.html">
-  <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="5 najmocniejszych dowodów — briefing sprawy Intrixo (PL)">
-  <meta property="og:description" content="Publiczny skrót 5 dowodów: etap sądowy, 32h/faza C, rozliczenia długu, komunikacja i loonspecificaties.">
-  <meta property="og:url" content="https://damian545-dj.github.io/raport-publiczny/pl/dowody.html">
-  <meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-en.png">
-  <style>
-    :root { --bg:#f6f8fa; --text:#1f2328; --muted:#57606a; --line:#d0d7de; --card:#ffffff; --accent:#0550ae; }
-    *{box-sizing:border-box}
-    body { margin:0; font-family:Arial, Helvetica, sans-serif; background:var(--bg); color:var(--text); line-height:1.62; }
-    .wrap { max-width: 1040px; margin: 0 auto; padding: 24px 16px 48px; }
+    <html lang="pl">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>5 najmocniejszych dowodów — zanonimizowane fragmenty dokumentów</title>
+      <meta name="description" content="Zanonimizowane fragmenty proces-verbaal, umowy 32 godzin, loonstrooka, rejestru brakujących tygodni i decyzji Raad van Discipline.">
+      <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/pl/dowody.html">
+  <link rel="alternate" hreflang="pl" href="https://damian545-dj.github.io/raport-publiczny/pl/dowody.html">
+  <link rel="alternate" hreflang="en" href="https://damian545-dj.github.io/raport-publiczny/en/dowody.html">
+  <link rel="alternate" hreflang="nl" href="https://damian545-dj.github.io/raport-publiczny/nl/dowody.html">
+      <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="5 najmocniejszych dowodów — zanonimizowane fragmenty dokumentów">
+      <meta property="og:description" content="Dokumentowe fragmenty do niezależnej weryfikacji: proces-verbaal, umowa 32h, Contracturen 1:00, braki tygodni i decyzja dyscyplinarna.">
+      <meta property="og:url" content="https://damian545-dj.github.io/raport-publiczny/pl/dowody.html">
+      <meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-en.png">
+      <style>
+    :root { --bg:#f6f8fa; --text:#1f2328; --muted:#57606a; --line:#d0d7de; --card:#ffffff; --accent:#0550ae; --soft:#eef5ff; --warn:#fff8c5; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:Arial,Helvetica,sans-serif; background:var(--bg); color:var(--text); line-height:1.62; }
+    .wrap { max-width:1120px; margin:0 auto; padding:24px 16px 48px; }
     .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px; margin:14px 0; }
-    h1 { margin: 0 0 10px; color: var(--accent); font-size: 1.9rem; }
-    h2 { margin: 0 0 10px; font-size: 1.22rem; }
-    p { margin: 8px 0; }
-    .muted { color: var(--muted); }
-    .btn, a.btn { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:8px 12px; text-decoration:none; color:var(--accent); font-weight:700; background:#fff; margin:4px 6px 4px 0; }
+    .note { background:var(--soft); }
+    .warning { background:var(--warn); }
+    h1 { margin:0 0 10px; color:var(--accent); font-size:1.9rem; }
+    h2 { margin:0 0 10px; font-size:1.25rem; }
+    h3 { margin:18px 0 8px; font-size:1.08rem; }
+    p { margin:8px 0; }
+    .muted,.meta { color:var(--muted); font-size:.95rem; }
+    .btn,a.btn { display:inline-block; border:1px solid var(--line); border-radius:999px; padding:8px 12px; text-decoration:none; color:var(--accent); font-weight:700; background:#fff; margin:4px 6px 4px 0; }
     .topnav { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
-    ul, ol { margin: 8px 0 8px 20px; }
+    blockquote { margin:12px 0; padding:12px 16px; border-left:4px solid var(--accent); background:#f6f8fa; }
+    code { padding:.15em .35em; border-radius:5px; background:#eef1f4; }
+    .table-wrap { overflow-x:auto; }
+    table { width:100%; border-collapse:collapse; margin:12px 0; background:#fff; }
+    th,td { border:1px solid var(--line); padding:10px; text-align:left; vertical-align:top; }
+    th { background:#eef5ff; }
     .source { margin-top:12px; padding-top:10px; border-top:1px dashed var(--line); }
-    .meta { font-size: .95rem; color: var(--muted); }
-  </style>
-  <link rel="stylesheet" href="../assets/public-polish.css">
-</head>
-<body>
-  <div class="wrap">
-    <nav class="topnav">
-      <a class="btn" href="index.html">PL start</a>
-      <a class="btn" href="timeline.html">Timeline</a>
-      <a class="btn" href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
-      <a class="btn" href="media.html">Media</a>
-      <a class="btn" href="../en/dowody.html">EN</a>
-      <a class="btn" href="../nl/dowody.html">NL</a>
-    </nav>
+    ul { margin:8px 0 8px 20px; }
+    @media (max-width:720px) { th,td { min-width:170px; } }
+</style>
+      <link rel="stylesheet" href="../assets/public-polish.css">
+    </head>
+    <body>
+      <div class="wrap">
+        <nav class="topnav" aria-label="Language and section navigation"><a class="btn" href="index.html">PL start</a><a class="btn" href="timeline.html">Oś czasu</a><a class="btn" href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a><a class="btn" href="media.html">Media</a><a class="btn" href="../en/dowody.html">EN</a><a class="btn" href="../nl/dowody.html">NL</a></nav>
+        <main id="main-content">
 
-    <section class="card">
-      <h1>5 najmocniejszych dowodów</h1>
-      <p>To nie jest pełny indeks dowodów. To 5 punktów, które najszybciej wyjaśniają rdzeń sprawy.</p>
-      <p>Każdy punkt jest opisany ostrożnie prawnie: jako materiał wskazywany w repo do dalszej, niezależnej weryfikacji.</p>
-    </section>
+<section class="card">
+  <h1>5 najmocniejszych dowodów — fragmenty do samodzielnej weryfikacji</h1>
+  <p>Ta strona pokazuje zanonimizowane fragmenty treści dokumentów, a nie tylko ich opisy. Dane osobowe, podpisy, numery rachunków i wewnętrzne identyfikatory zostały pominięte.</p>
+  <p class="meta">Fragment oznacza wierne przytoczenie istotnego pola lub sentencji. Nie zastępuje on pełnego dokumentu, który może zostać udostępniony właściwej instytucji lub zweryfikowanemu dziennikarzowi w bezpiecznym trybie.</p>
+</section>
+<section class="card note">
+  <h2>1. Proces-verbaal z 12.03.2024</h2>
+  <p><strong>Rodzaj dokumentu:</strong> protokół sądowy / proces-verbaal.</p>
+  <blockquote lang="nl">een berekening van het sinds 6 mei 2022 verschuldigde bruto loon</blockquote>
+  <p><strong>Co dokładnie potwierdza:</strong> Intrixo miało w ciągu dwóch tygodni przekazać pełnomocnikowi pracownicy wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r. Nie był to ogólny obowiązek obu stron.</p>
+</section>
+<section class="card">
+  <h2>2. Umowa Fase 4 / Fase C — gwarancja 32 godzin</h2>
+  <p><strong>Data rozpoczęcia wskazana w dokumentacji:</strong> 21.11.2022.</p>
+  <blockquote lang="nl">arbeidsovereenkomst voor onbepaalde tijd · 32 uur per week · geen oproepovereenkomst</blockquote>
+  <p><strong>Co dokładnie potwierdza:</strong> umowę na czas nieokreślony, wymiar 32 godzin tygodniowo i brak charakteru umowy na wezwanie. Fragment jest publicznym odpisem istotnych pól; dane stron i podpisy pozostają niepubliczne.</p>
+</section>
+<section class="card warning">
+  <h2>3. Przykład pola z loonstrooka</h2>
+  <blockquote lang="nl">Contracturen: 1:00 uur per week</blockquote>
+  <p><strong>Co dokładnie potwierdza:</strong> na części pasków płacowych widnieje wymiar 1 godziny tygodniowo, mimo że dokumentacja umowy wskazuje 32 godziny. Sam zapis nie przesądza wysokości roszczenia, ale wymaga wyjaśnienia historii danych płacowych i korekt.</p>
+</section>
+<section class="card">
+  <h2>4. Rejestr brakujących albo spóźnionych pasków i tygodni</h2>
+  <p>Poniższa tabela przedstawia roboczy stan pakietu dokumentów. Określenie „brak” oznacza brak potwierdzonego kompletnego paska w analizowanym pakiecie, a nie twierdzenie, że dokument nigdy nie istniał.</p>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Rok</th><th>Tygodnie wymagające uzupełnienia lub potwierdzenia</th><th>Status publiczny</th></tr></thead>
+    <tbody>
+      <tr><td>2022</td><td>W37, W38, W39, W48, W49</td><td>brak kompletnego, potwierdzonego zestawu w roboczym rejestrze</td></tr>
+      <tr><td>2023</td><td>W13, W16, W31–W36, W38, W42–W46</td><td>brak albo niepełne ujęcie wymagające porównania z pełną loonadministratie</td></tr>
+      <tr><td>2024</td><td>W02, W23</td><td>wymagają uzupełnienia lub jednoznacznego przypisania dokumentu</td></tr>
+      <tr><td>2025</td><td>W32</td><td>dokument otrzymano później; nie jest już traktowany jako nieistniejący, lecz musi zostać włączony do pełnego rozrachunku</td></tr>
+    </tbody>
+  </table></div>
+</section>
+<section class="card note">
+  <h2>5. Oficjalna decyzja Raad van Discipline</h2>
+  <p><strong>Data i sygnatura:</strong> 29.06.2026, 25-714/DH/DH.</p>
+  <blockquote lang="nl">het verzet gegrond · klachtonderdelen a) en d) gegrond · maatregel van berisping</blockquote>
+  <p><strong>Co dokładnie potwierdza sentencja:</strong> sprzeciw został uwzględniony, wcześniejsza decyzja przewodniczącego została uchylona, zarzuty a) i d) uznano za zasadne, b) i c) za niezasadne, a wobec adwokata zastosowano karę nagany. Orzeczono również zwrot opłaty 50 EUR skarżącej oraz 1 250 EUR kosztów na rzecz Nederlandse Orde van Advocaten.</p>
+  <p>Oficjalna decyzja znajduje się w posiadaniu autorów. W chwili tej aktualizacji nie odnaleziono jej bezpośredniego publicznego adresu w oficjalnej bazie; wyszukiwanie można prowadzić po sygnaturze w serwisie <a href="https://tuchtrecht.overheid.nl/" target="_blank" rel="noopener noreferrer">Tuchtrecht</a>. Zanonimizowana kopia może zostać udostępniona do niezależnej weryfikacji.</p>
+</section>
+<section class="card">
+  <h2>Tabela kontrolna: twierdzenie — dokument — data — potwierdzenie</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>Twierdzenie</th><th>Dokument</th><th>Data</th><th>Co dokładnie potwierdza</th></tr></thead>
+    <tbody>
+      <tr><td>Intrixo miało sporządzić pełne wyliczenie brutto od 06.05.2022</td><td>proces-verbaal</td><td>12.03.2024</td><td>konkretny obowiązek i początkową datę okresu rozliczeniowego</td></tr>
+      <tr><td>Umowa przewidywała 32 godziny tygodniowo</td><td>umowa Fase 4 / Fase C</td><td>od 21.11.2022</td><td>czas nieokreślony, 32 h tygodniowo, brak umowy na wezwanie</td></tr>
+      <tr><td>Na części pasków widnieje 1 godzina</td><td>loonstrooki</td><td>okres obowiązywania umowy</td><td>rozbieżność pola Contracturen względem danych umowy</td></tr>
+      <tr><td>Pakiet dokumentów ma luki i dokumenty otrzymane po czasie</td><td>rejestr loonstrooków i korespondencja</td><td>2022–2025</td><td>tygodnie wymagające uzupełnienia, przypisania lub kontroli wersji</td></tr>
+      <tr><td>Część skargi dyscyplinarnej była zasadna</td><td>decyzja Raad van Discipline</td><td>29.06.2026</td><td>uwzględnienie sprzeciwu, zasadność punktów a) i d) oraz naganę</td></tr>
+    </tbody>
+  </table></div>
+  <p class="source"><a href="../EVIDENCE_INDEX.pl.md">Indeks dowodów w Markdown</a> · <a href="dla-instytucji.html">Bezpieczny dostęp dla instytucji</a></p>
+</section>
 
-    <section class="card">
-      <h2>5 punktów odniesienia</h2>
-      <ol>
-        <li><strong>Data:</strong> 12.03.2024 (punkt odniesienia wskazywany w repo)<br><strong>Dokument / typ materiału:</strong> proces-verbaal / materiał etapu sądowego<br><strong>Co potwierdza:</strong> publicznie opisany etap proceduralny i ramę dalszych wyliczeń.<br><strong>Dlaczego to ważne:</strong> porządkuje chronologię sprawy i stanowi bazę porównawczą dla późniejszych dokumentów.</li>
-        <li><strong>Data:</strong> 2025 (wątek tygodni rozliczeniowych opisanych w repo)<br><strong>Dokument / typ materiału:</strong> loonspecificatie i dane o 32h / faza C / gwarancji godzin<br><strong>Co potwierdza:</strong> materiał wskazywany w dokumentacji jako klucz do oceny, czy gwarancja godzin była realizowana.<br><strong>Dlaczego to ważne:</strong> to jeden z centralnych punktów sporu o wynagrodzenie i stabilność zatrudnienia.</li>
-        <li><strong>Data:</strong> 2024–2025 (korespondencja opisana w indeksach i pismach)<br><strong>Dokument / typ materiału:</strong> pisma i korespondencja o naliczaniu długu / spornych rozliczeń<br><strong>Co potwierdza:</strong> publicznie opisany sposób prezentowania sald oraz stanowisk stron.<br><strong>Dlaczego to ważne:</strong> wskazuje punkt wymagający niezależnej kontroli poprawności metod rozliczeniowych.</li>
-        <li><strong>Data:</strong> 13.11.2023 i 30.01.2024 (daty publicznie wskazywane przy nagraniach)<br><strong>Dokument / typ materiału:</strong> nagranie z biura / zapis komunikacji<br><strong>Co potwierdza:</strong> materiał wskazywany w repo jako kontekst przebiegu rozmów i presji komunikacyjnej.<br><strong>Dlaczego to ważne:</strong> pozwala zestawić zapis rozmów z treścią dokumentów i późniejszej korespondencji.</li>
-        <li><strong>Data:</strong> 2025 (przykłady tygodni wskazywane w dokumentacji)<br><strong>Dokument / typ materiału:</strong> loonspecificatie / rozbieżność dokumentacyjna<br><strong>Co potwierdza:</strong> punkt odniesienia dla dalszej weryfikacji godzin, potrąceń i salda netto.<br><strong>Dlaczego to ważne:</strong> pokazuje, gdzie dokumentacja może wymagać szczegółowego audytu porównawczego.</li>
-      </ol>
-
-      <h2>Pełnomocnicy, instytucje i skuteczność ochrony w praktyce</h2>
-      <p>Sprawa pokazuje dwa powiązane, ale odrębne problemy: z jednej strony brak pełnego wyjaśnienia sprawy pracownicy przez kolejnych pełnomocników, a z drugiej strony brak pełnej i kontrolowalnej odpowiedzi instytucji na zgłoszenia osoby zgłaszającej.</p>
-      <p>W sprawie pracownicy kluczowe znaczenie ma to, że po etapie sądowym i proces-verbaal z 12.03.2024 r. nadal nie zostały w pełni wyjaśnione podstawowe kwestie rozliczeniowe: obowiązek wyliczenia należnego wynagrodzenia brutto od 06.05.2022 r., przejście brutto–netto, potrącenia, koszty zakwaterowania, ubezpieczenie, brakujące loonstrooki oraz rozbieżność między gwarancją 32 godzin / Fase C a danymi widocznymi na loonstrookach.</p>
-      <p>Istotna jest również ścieżka zgłoszeń do podmiotów i instytucji działających w obszarze ochrony pracowników, rynku pracy i pracy tymczasowej, w tym m.in. Nederlandse Arbeidsinspectie, FairWork, Juridisch Loket, SNCU oraz NBBU/SNF. Znaczenie tego materiału polega na tym, że mimo przedstawiania dokumentów, loonstrooków, korespondencji i pytań dotyczących rozliczeń, godzin pracy, potrąceń i zakwaterowania, nie doszło do pełnej, jasnej i kontrolowalnej weryfikacji wszystkich kluczowych rozbieżności.</p>
-      <p class="meta">Publiczna wersja nie zawiera pełnych danych osobowych ani pełnych materiałów źródłowych. Pełne dowody mogą zostać przekazane właściwym instytucjom lub zweryfikowanym odbiorcom w bezpiecznym trybie.</p>
-
-      <p>Pełny indeks dowodów znajduje się w dokumentacji źródłowej i pozostaje nadrzędnym źródłem szczegółów.</p>
-      <p class="source"><a href="../doc.html?file=EVIDENCE_INDEX.pl.md">Pełna wersja źródłowa</a> · <a href="../EVIDENCE_INDEX.pl.md">EVIDENCE_INDEX.pl.md</a></p>
-      <p><a href="index.html">PL start</a> · <a href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a> · <a href="timeline.html">Timeline</a> · <a href="media.html">Media</a></p>
-    </section>
-  </div>
-</body>
-</html>
+        </main>
+      </div>
+    </body>
+    </html>

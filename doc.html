@@ -6,6 +6,8 @@
   <meta name="color-scheme" content="light dark" />
   <title>Intrixo — źródła Markdown (doc viewer)</title>
   <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/doc.html">
   <meta property="og:title" content="Intrixo — źródła Markdown (doc viewer)">
   <meta property="og:description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, anonimizowanej warstwy repozytorium.">
 
@@ -123,6 +125,7 @@
 
       fileNameEl.textContent = file;
       document.title = formatDocTitle(file);
+      document.documentElement.lang = file.endsWith(".en.md") ? "en" : (file.endsWith(".nl.md") ? "nl" : "pl");
 
       try {
         const res = await fetch(file, { cache: "no-store" });

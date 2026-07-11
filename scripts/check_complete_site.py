@@ -6,7 +6,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import urlparse
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 BASE_URL = "https://damian545-dj.github.io/raport-publiczny/"
@@ -39,36 +39,6 @@ STATIC_PUBLIC_URLS = {
     BASE_URL + "nl/home-of-people.html",
 }
 
-DOC_FILES = {
-    "README.pl.md",
-    "README.en.md",
-    "README.nl.md",
-    "TIMELINE.pl.md",
-    "TIMELINE.en.md",
-    "TIMELINE.nl.md",
-    "EVIDENCE_INDEX.pl.md",
-    "EVIDENCE_INDEX.en.md",
-    "EVIDENCE_INDEX.nl.md",
-    "ALLEGATIONS_AND_LAW.pl.md",
-    "ALLEGATIONS_AND_LAW.en.md",
-    "ALLEGATIONS_AND_LAW.nl.md",
-    "ANONYMIZATION.pl.md",
-    "ANONYMIZATION.en.md",
-    "ANONYMIZATION.nl.md",
-    "DISCLAIMER.pl.md",
-    "DISCLAIMER.en.md",
-    "DISCLAIMER.nl.md",
-    "CONTRIBUTING.pl.md",
-    "CONTRIBUTING.en.md",
-    "CONTRIBUTING.nl.md",
-    "UPDATES.md",
-    "CODE_OF_CONDUCT.md",
-    "home-of-people/README.pl.md",
-    "home-of-people/README.en.md",
-    "home-of-people/README.nl.md",
-}
-
-EXPECTED_DOC_URLS = {BASE_URL + "doc.html?file=" + file for file in DOC_FILES}
 
 
 @dataclass
@@ -124,7 +94,7 @@ def check_sitemap(issues: list[AuditIssue]) -> None:
     if len(locs) != len(loc_set):
         add(issues, "sitemap.xml", "duplicate <loc> entries found")
 
-    required = STATIC_PUBLIC_URLS | EXPECTED_DOC_URLS
+    required = STATIC_PUBLIC_URLS
     for url in sorted(required - loc_set):
         add(issues, "sitemap.xml", f"missing sitemap URL: {url}")
 
@@ -137,11 +107,7 @@ def check_sitemap(issues: list[AuditIssue]) -> None:
             add(issues, "sitemap.xml", f"URL outside base domain: {url}")
         parsed = urlparse(url)
         if parsed.query:
-            file_values = parse_qs(parsed.query).get("file", [])
-            if file_values:
-                file_path = file_values[0]
-                if not (ROOT / file_path).is_file():
-                    add(issues, "sitemap.xml", f"doc URL points to missing file: {file_path}")
+            add(issues, "sitemap.xml", f"query-string URL must not be indexed: {url}")
 
 
 def check_html_quality(issues: list[AuditIssue]) -> None:
@@ -174,8 +140,11 @@ def check_html_quality(issues: list[AuditIssue]) -> None:
                 add(issues, path_rel, f"canonical URL duplicates {canonical_values[canonical]}")
             else:
                 canonical_values[canonical] = path_rel
-        elif path_rel != "doc.html":
+        else:
             add(issues, path_rel, "missing canonical URL")
+
+        if path_rel == "doc.html" and not re.search(r'<meta\s+name="robots"\s+content="[^"]*noindex', text, flags=re.IGNORECASE):
+            add(issues, path_rel, "document viewer must be noindex")
 
         for tag in re.findall(r"<img\b[^>]*>", text, flags=re.IGNORECASE):
             alt = extract_attr(tag, "alt")
@@ -197,11 +166,34 @@ def check_html_quality(issues: list[AuditIssue]) -> None:
             add(issues, path_rel, "contains insecure http:// URL")
 
 
+
+HREFLANG_GROUPS = [
+    ("pl/index.html", "en/index.html", "nl/index.html"),
+    ("pl/najwazniejsze-ustalenia.html", "en/key-findings.html", "nl/belangrijkste-bevindingen.html"),
+    ("pl/timeline.html", "en/timeline.html", "nl/timeline.html"),
+    ("pl/dowody.html", "en/dowody.html", "nl/dowody.html"),
+    ("pl/media.html", "en/media.html", "nl/media.html"),
+    ("pl/dla-instytucji.html", "en/for-institutions.html", "nl/voor-instanties.html"),
+    ("pl/home-of-people.html", "en/home-of-people.html", "nl/home-of-people.html"),
+]
+
+def check_hreflang(issues: list[AuditIssue]) -> None:
+    for group in HREFLANG_GROUPS:
+        expected = {code: BASE_URL + path for code, path in zip(("pl", "en", "nl"), group)}
+        for path in group:
+            value = read_text(ROOT / path)
+            for code, href in expected.items():
+                pattern = rf'<link\s+rel="alternate"\s+hreflang="{code}"\s+href="{re.escape(href)}"\s*/?>'
+                if not re.search(pattern, value, flags=re.IGNORECASE):
+                    add(issues, path, f"missing hreflang {code} -> {href}")
+
+
 def main() -> int:
     issues: list[AuditIssue] = []
     check_robots(issues)
     check_sitemap(issues)
     check_html_quality(issues)
+    check_hreflang(issues)
 
     if issues:
         print("Complete site quality audit failed:")
