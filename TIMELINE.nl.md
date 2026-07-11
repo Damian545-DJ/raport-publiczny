@@ -216,12 +216,11 @@ De werknemer meldde een negatief saldo. De helpdesk verklaarde dat bij weinig ge
 ### Sept–dec 2025 – FairWork → Juridisch Loket → SNCU
 - **01-09-2025:** melding FairWork
 - **13-10-2025:** Juridisch Loket neemt over
-- **20.01.2026:** meegedeeld werd dat het vooronderzoek na contact met de werkgever was beëindigd; interne zaakreferenties zijn verwijderd.
+- **03-12-2025:** SNCU registreerde de melding; het interne kenmerk is uit de publieke versie verwijderd.
 - **15-12-2025:** toestemming voor SNCU om namens Werknemer 2 te handelen
 
 ### Januari 2026 – bewijs aangeleverd en zaak gesloten
 - **04-01-2026:** bewijs naar SNCU: “minus/schuld”, 61,11 uur verlof, communicatieve druk, geen eindafrekening en vragen over correcties.
-  ( + screenshots)
 - **20-01-2026:** na contact met een vertegenwoordiger van de werkgever sluit SNCU de zaak; er wordt geen volledige toelichting gegeven op de gronden van de beslissing.
 - **20.01.2026:** meegedeeld werd dat het vooronderzoek na contact met de werkgever was beëindigd; interne zaakreferenties zijn verwijderd.
 - **20-01-2026:** bezwaar tegen sluiting ingediend met verwijzing naar bewijsbasis – in afwachting van een reactie.
