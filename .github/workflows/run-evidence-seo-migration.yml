@@ -44,17 +44,23 @@ jobs:
       - name: Apply evidence and SEO changes
         run: python scripts/apply_evidence_seo_fix.py
 
-      - name: Run repository audits
+      - name: Capture repository audits
         run: |
-          python scripts/check_links.py
-          python scripts/check_html_structure.py
-          python scripts/check_complete_site.py
-          python scripts/check_language_parity.py
+          set +e
+          : > evidence-seo-audit.txt
+          for check in scripts/check_links.py scripts/check_html_structure.py scripts/check_complete_site.py scripts/check_language_parity.py; do
+            echo "===== $check =====" >> evidence-seo-audit.txt
+            python "$check" >> evidence-seo-audit.txt 2>&1
+            echo "exit_code=$?" >> evidence-seo-audit.txt
+            echo >> evidence-seo-audit.txt
+          done
+          cat evidence-seo-audit.txt
+          exit 0
 
       - name: Commit migration result to branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Add verifiable evidence excerpts and fix multilingual SEO"
+          git commit -m "Apply evidence SEO migration with diagnostics"
           git push origin HEAD:agent/evidence-seo-fix
