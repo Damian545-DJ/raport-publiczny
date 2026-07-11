@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import re
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,6 +43,18 @@ for path in timeline_paths:
         issues.append(f"{path}: missing exact proces-verbaal wording")
     if "6 maja 2022" not in value and "6 May 2022" not in value and "6 mei 2022" not in value:
         issues.append(f"{path}: missing starting date")
+
+for path in ("TIMELINE.pl.md", "TIMELINE.en.md", "TIMELINE.nl.md"):
+    value = text(path)
+    broken_patterns = {
+        "public evidence filename": r"\.(?:pdf|png|jpe?g|xlsx?|zip)\b",
+        "empty anonymization bullet": r"(?m)^\s*-\s*\*\*\s*$",
+        "broken closing filename fragment": r"\)\.(?:pdf|png|jpe?g|xlsx?|zip)\b",
+        "broken quotation remnant": r"(?:—|-)\s*[„\"“]?\)\s*$",
+    }
+    for description, pattern in broken_patterns.items():
+        if re.search(pattern, value, re.I | re.M):
+            issues.append(f"{path}: {description} remains")
 
 forbidden_general = [
     "Sąd dał stronom czas na dostarczenie dokładnych obliczeń",
@@ -89,18 +102,23 @@ for path in ("home-of-people/README.pl.md", "home-of-people/README.en.md", "home
         if fragment in value:
             issues.append(f"{path}: exact location remains: {fragment}")
 
-
 additional_forbidden = (
     "FR2024-1127", "26.032", "3NB7949", "2485387", "9486553",
     "Sezer Duygulu", "sezer-duygulu",
     "aanpak-misstanden-arbeidsmigratie",
     "home-of-people-neemt-ook-efficient-at-work-over",
 )
-for path_name in public_files:
-    current = text(path_name)
+public_suffixes = {".md", ".html", ".xml", ".txt"}
+for candidate in ROOT.rglob("*"):
+    if not candidate.is_file() or candidate.suffix.lower() not in public_suffixes:
+        continue
+    relative = candidate.relative_to(ROOT)
+    if relative.parts and relative.parts[0] in {"scripts", ".github"}:
+        continue
+    current = candidate.read_text(encoding="utf-8", errors="ignore")
     for token in additional_forbidden:
         if token in current:
-            issues.append(f"{path_name}: public identifier or obsolete source remains: {token}")
+            issues.append(f"{relative.as_posix()}: public identifier or obsolete source remains: {token}")
 
 for required_path in (
     "home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md",
@@ -115,4 +133,4 @@ if issues:
         print(" -", issue)
     sys.exit(1)
 
-print("OK: PL/EN/NL parity, proces-verbaal wording, placeholders and anonymization checks passed")
+print("OK: PL/EN/NL parity, proces-verbaal wording, source cleanup and anonymization checks passed")
