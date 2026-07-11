@@ -1,21 +1,20 @@
-name: Apply public source and privacy fixes
+name: Repair anonymized timelines
 
 on:
-  pull_request:
+  push:
     branches:
-      - main
-    types: [opened, synchronize, reopened]
+      - agent/fix-public-sources-and-privacy
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  apply:
+  repair:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout migration branch
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           ref: agent/fix-public-sources-and-privacy
@@ -26,51 +25,218 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Prepare clean branch from main
-        run: |
-          cp scripts/apply_public_source_privacy_fixes.py /tmp/apply_public_source_privacy_fixes.py
-          git checkout -B agent/public-source-privacy-clean origin/main
-          cp /tmp/apply_public_source_privacy_fixes.py scripts/apply_public_source_privacy_fixes.py
+      - name: Switch to clean result branch
+        run: git checkout -B agent/public-source-privacy-clean origin/agent/public-source-privacy-clean
 
-      - name: Apply source and privacy changes
-        run: python scripts/apply_public_source_privacy_fixes.py
-
-      - name: Final privacy cleanup
+      - name: Repair PL EN NL timeline text
         run: |
           python - <<'PY'
           from pathlib import Path
-          replacements = {
-              'home-of-people/README.pl.md': (
-                  'Błędny numer artykułu GroentenNieuws 9486553 został zastąpiony numerem 9487775.',
-                  'Błędny numer artykułu GroentenNieuws został zastąpiony poprawnym numerem 9487775.',
-              ),
-              'home-of-people/README.en.md': (
-                  'The incorrect GroentenNieuws article number 9486553 was replaced with 9487775.',
-                  'The incorrect GroentenNieuws article number was replaced with the correct number 9487775.',
-              ),
-              'home-of-people/README.nl.md': (
-                  'Het onjuiste GroentenNieuws-artikelnummer 9486553 is vervangen door 9487775.',
-                  'Het onjuiste GroentenNieuws-artikelnummer is vervangen door het correcte nummer 9487775.',
-              ),
-          }
-          for name, (old, new) in replacements.items():
-              path = Path(name)
-              path.write_text(path.read_text(encoding='utf-8').replace(old, new), encoding='utf-8')
-          PY
-          rm -f scripts/apply_public_source_privacy_fixes.py
-          git checkout HEAD -- .github/workflows/site-audit.yml
+          import re
+          from textwrap import dedent
 
-      - name: Run repository audits
+          sections = {
+              'pl': dedent('''
+                  # Skarga na adwokata – Raad van Discipline (NL) (skrót)
+
+                  Ten fragment jest publicznym streszczeniem wątku dyscyplinarnego. Dane osobowe, wewnętrzne numery kancelaryjne i nazwy plików dowodowych pozostają niepubliczne.
+
+                  ## 1) Identyfikacja publiczna
+                  - Raad van Discipline (Den Haag): **25-714/DH/DH**.
+                  - Tło skargi stanowi sposób prowadzenia sprawy pracowniczej po rozprawie z **12.03.2024**.
+
+                  ## 2) Sedno skargi
+                  A) brak rzetelnej informacji po rozprawie,
+                  B) brak przekazania dokumentacji sądowej i akt,
+                  C) zerwanie kontaktu lub niedostępność,
+                  D) twierdzenia o przekazaniu dossier bez pełnego potwierdzenia,
+                  E) ryzyko oceny sprawy na niepełnym materiale.
+
+                  ## 3) Chronologia postępowania
+                  - **12.03.2024:** rozprawa w sprawie przeciwko Intrixo – tło skargi.
+                  - **29–31.03.2025:** kontakt z Orde van Advocaten i informacja o procedurze złożenia skargi.
+                  - **09.04.2025:** potwierdzenie wpływu skargi i prośba o uzupełnienie korespondencji.
+                  - **27.05.2025:** odpowiedź adwokata na skargę.
+                  - **18.06.2025:** dalsza reakcja skarżącej.
+                  - **22.07.2025:** duplika.
+                  - **16.09.2025:** zakończenie etapu prowadzonego przez dziekana.
+                  - **24.09.2025:** wniosek do sądu o kopię proces-verbaal.
+                  - **05.10.2025:** przekazanie dodatkowej reakcji i listy załączników.
+                  - **08.10.2025:** problem z opłatą sądową i ponowienie płatności; dokładna kwota nie jest publikowana.
+                  - **20.10.2025:** przekazanie sprawy do Raad van Discipline i zakończenie badania przez dziekana.
+                  - **17.12.2025:** decyzja przewodniczącego.
+                  - **18.12.2025:** złożenie sprzeciwu oraz wniosku o potwierdzenie kompletności akt.
+
+                  ## 4) Status
+                  - Na dzień **18.12.2025** złożono sprzeciw od decyzji przewodniczącego.
+                  - Kluczowe znaczenie ma ustalenie, czy wszystkie dowody i tłumaczenia zostały włączone do dossier i rzeczywiście ocenione.
+              ''').strip(),
+              'en': dedent('''
+                  # Complaint against a lawyer – Raad van Discipline (NL) (summary)
+
+                  This section is a public summary of the disciplinary matter. Personal data, internal law-office references and evidence filenames remain non-public.
+
+                  ## 1) Public identification
+                  - Raad van Discipline (The Hague): **25-714/DH/DH**.
+                  - The complaint concerns the handling of the employment matter after the hearing of **12 March 2024**.
+
+                  ## 2) Core allegations
+                  A) lack of reliable information after the hearing,
+                  B) failure to transfer court documents and the file,
+                  C) loss of contact or unavailability,
+                  D) claims that the dossier was transferred without complete confirmation,
+                  E) risk that the matter was assessed on incomplete material.
+
+                  ## 3) Procedural chronology
+                  - **12 March 2024:** hearing in the Intrixo matter – background to the complaint.
+                  - **29–31 March 2025:** contact with the Hague Bar and information about the complaint procedure.
+                  - **9 April 2025:** confirmation that the complaint was received and request for additional correspondence.
+                  - **27 May 2025:** the lawyer's response to the complaint.
+                  - **18 June 2025:** further response from the complainant.
+                  - **22 July 2025:** reply in the disciplinary exchange.
+                  - **16 September 2025:** completion of the dean's stage.
+                  - **24 September 2025:** request to the court for a copy of the proces-verbaal.
+                  - **5 October 2025:** additional response and attachment list submitted.
+                  - **8 October 2025:** court-fee payment problem and repeat payment; the exact amount is not published.
+                  - **20 October 2025:** referral to the Raad van Discipline and closure of the dean's investigation.
+                  - **17 December 2025:** chair's decision.
+                  - **18 December 2025:** objection filed and confirmation of file completeness requested.
+
+                  ## 4) Status
+                  - As of **18 December 2025**, an objection to the chair's decision had been filed.
+                  - The key issue is whether all evidence and translations were included in the dossier and actually assessed.
+              ''').strip(),
+              'nl': dedent('''
+                  # Klacht tegen een advocaat – Raad van Discipline (NL) (samenvatting)
+
+                  Dit onderdeel is een publieke samenvatting van de tuchtzaak. Persoonsgegevens, interne kantoorkenmerken en namen van bewijsbestanden blijven niet-openbaar.
+
+                  ## 1) Publieke identificatie
+                  - Raad van Discipline (Den Haag): **25-714/DH/DH**.
+                  - De klacht betreft de behandeling van de arbeidszaak na de zitting van **12 maart 2024**.
+
+                  ## 2) Kern van de klacht
+                  A) onvoldoende betrouwbare informatie na de zitting,
+                  B) geen overdracht van rechtbankstukken en dossier,
+                  C) contactbreuk of onbereikbaarheid,
+                  D) mededelingen over dossieroverdracht zonder volledige bevestiging,
+                  E) risico dat de zaak op onvolledig materiaal is beoordeeld.
+
+                  ## 3) Procedurele chronologie
+                  - **12 maart 2024:** zitting in de Intrixo-zaak – achtergrond van de klacht.
+                  - **29–31 maart 2025:** contact met de Orde van Advocaten en informatie over de klachtprocedure.
+                  - **9 april 2025:** ontvangst van de klacht bevestigd en aanvullende correspondentie gevraagd.
+                  - **27 mei 2025:** reactie van de advocaat op de klacht.
+                  - **18 juni 2025:** nadere reactie van klaagster.
+                  - **22 juli 2025:** dupliek in de tuchtprocedure.
+                  - **16 september 2025:** afronding van de fase bij de deken.
+                  - **24 september 2025:** verzoek aan de rechtbank om een kopie van het proces-verbaal.
+                  - **5 oktober 2025:** aanvullende reactie en bijlagenlijst ingediend.
+                  - **8 oktober 2025:** probleem met de betaling van het griffierecht en herhaalde betaling; het exacte bedrag wordt niet gepubliceerd.
+                  - **20 oktober 2025:** doorzending aan de Raad van Discipline en afsluiting van het dekenonderzoek.
+                  - **17 december 2025:** voorzittersbeslissing.
+                  - **18 december 2025:** verzet ingesteld en bevestiging van dossiercompleetheid gevraagd.
+
+                  ## 4) Status
+                  - Per **18 december 2025** was verzet tegen de voorzittersbeslissing ingesteld.
+                  - De kernvraag is of alle bewijzen en vertalingen aan het dossier zijn toegevoegd en daadwerkelijk zijn beoordeeld.
+              ''').strip(),
+          }
+
+          follow_up = {
+              'pl': dedent('''
+                  - **24.02.2026:** Intrixo wystawiło końcowy dokument płacowy za tydzień **32/2025**, wskazujący symboliczną kwotę netto poniżej 5 EUR; numer dokumentu usunięto z wersji publicznej.
+                  - **25.02.2026:** po tym rozliczeniu odnotowano przelew symbolicznej kwoty poniżej 5 EUR; dane rachunku i opis transakcji usunięto.
+                  - **25.02.2026:** trzeci pełnomocnik potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań; numery faktury oraz pomocy prawnej usunięto z wersji publicznej.
+                  - **27.02.2026:** pracownica otrzymała dokument płacowy od Intrixo; numer dokumentu i nazwa pliku pozostają niepubliczne.
+              ''').strip(),
+              'en': dedent('''
+                  - **24 February 2026:** Intrixo issued a final payroll document for week **32/2025**, showing a nominal net amount below EUR 5; the document number was removed from the public version.
+                  - **25 February 2026:** a transfer of a nominal amount below EUR 5 was recorded following that settlement; account and transaction details were removed.
+                  - **25 February 2026:** the third representative confirmed receipt of the first required contribution and the start of work; invoice and legal-aid identifiers were removed from the public version.
+                  - **27 February 2026:** the worker received the payroll document from Intrixo; the document number and filename remain non-public.
+              ''').strip(),
+              'nl': dedent('''
+                  - **24 februari 2026:** Intrixo verstrekte een laatste loondocument voor week **32/2025**, met een symbolisch nettobedrag onder EUR 5; het documentnummer is uit de publieke versie verwijderd.
+                  - **25 februari 2026:** na die afrekening werd een overschrijving van een symbolisch bedrag onder EUR 5 geregistreerd; rekening- en transactiedetails zijn verwijderd.
+                  - **25 februari 2026:** de derde vertegenwoordiger bevestigde ontvangst van de eerste vereiste bijdrage en de start van de werkzaamheden; factuur- en rechtsbijstandskenmerken zijn uit de publieke versie verwijderd.
+                  - **27 februari 2026:** de werkneemster ontving het loondocument van Intrixo; documentnummer en bestandsnaam blijven niet-openbaar.
+              ''').strip(),
+          }
+
+          headings = {
+              'pl': ('# Skarga na adwokata', '### Po zakończeniu pracy / ugoda'),
+              'en': ('# Complaint against lawyer', '### After employment / settlement'),
+              'nl': ('# Klacht tegen advocaat', '### Na einde werk / schikking'),
+          }
+
+          for lang in ('pl', 'en', 'nl'):
+              path = Path(f'TIMELINE.{lang}.md')
+              value = path.read_text(encoding='utf-8')
+              start, after = headings[lang]
+              pattern = re.compile(re.escape(start) + r'.*?(?=\n---\n\n' + re.escape(after) + r')', re.S)
+              value, count = pattern.subn(sections[lang], value, count=1)
+              if count != 1:
+                  raise RuntimeError(f'Complaint section not found in {path}')
+
+              block_pattern = re.compile(r'- \*\*24[. -](?:02|February|februari).*?(?=\n\n---)', re.S | re.I)
+              value, count = block_pattern.subn(follow_up[lang], value, count=1)
+              if count != 1:
+                  raise RuntimeError(f'February 2026 block not found in {path}')
+
+              replacements = {
+                  'pl': (
+                      '## 3) Oś czasu (z podpięciem do plików)', '## 3) Oś czasu zdarzeń',
+                      'Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów często widać daty wiadomości.\n', '',
+                  ),
+                  'en': (
+                      '## 3) Timeline (with file references)', '## 3) Timeline of events',
+                      'Note: screenshot file dates = date of screenshot; inside screenshots the message dates are often visible.\n', '',
+                  ),
+                  'nl': (
+                      '## 3) Tijdlijn (met bestanden)', '## 3) Tijdlijn van gebeurtenissen',
+                      'Let op: data in screenshotnamen = datum van screenshot; in screenshots staan vaak de echte berichtdata.\n', '',
+                  ),
+              }[lang]
+              for i in range(0, len(replacements), 2):
+                  value = value.replace(replacements[i], replacements[i + 1])
+
+              cleaned = []
+              for line in value.splitlines():
+                  line = re.sub(r'\s*\([^()\n]*\.(?:pdf|png|jpe?g|xlsx?|zip)[^()\n]*\)\s*$', '', line, flags=re.I)
+                  line = re.sub(r'\s+(?:file|files|bestand|bestanden|plik|pliki|dowód|evidence)\s*:\s*.*\.(?:pdf|png|jpe?g|xlsx?|zip)\s*$', '', line, flags=re.I)
+                  line = re.sub(r'\s*\(\)\s*$', '', line)
+                  if re.fullmatch(r'\s*-\s*\*\*\s*', line):
+                      continue
+                  cleaned.append(line.rstrip())
+              value = '\n'.join(cleaned) + '\n'
+              path.write_text(value, encoding='utf-8')
+          PY
+
+      - name: Verify no broken remnants remain
         run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          bad = []
+          for lang in ('pl', 'en', 'nl'):
+              path = Path(f'TIMELINE.{lang}.md')
+              text = path.read_text(encoding='utf-8')
+              for pattern in (r'\.pdf', r'\.png', r'^- \*\*\s*$', r'\)\.pdf', r'— “\)', r'— \)'):
+                  if re.search(pattern, text, re.M | re.I):
+                      bad.append(f'{path}: {pattern}')
+          if bad:
+              raise SystemExit('\n'.join(bad))
+          PY
           python scripts/check_links.py
           python scripts/check_html_structure.py
           python scripts/check_complete_site.py
           python scripts/check_language_parity.py
 
-      - name: Commit and publish clean branch
+      - name: Commit repaired timelines
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Fix public sources and reduce privacy risk"
-          git push --force-with-lease origin HEAD:agent/public-source-privacy-clean
+          git add TIMELINE.pl.md TIMELINE.en.md TIMELINE.nl.md
+          git commit -m "Repair anonymized timeline wording"
+          git push origin HEAD:agent/public-source-privacy-clean
