@@ -31,25 +31,15 @@ jobs:
           from pathlib import Path
           path = Path('scripts/check_links.py')
           text = path.read_text(encoding='utf-8')
-          old = '''            if rel_path == "doc.html":
-                target = parse_qs(query).get("file", [""])[0]
-                if not target:
+          old = '''                if not target:
                     self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing ?file= parameter"))
-                    continue
-                if target not in self.existing_rel:
-                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing document '{target}'"))
-                continue'''
-          new = '''            if rel_path == "doc.html":
-                target = parse_qs(query).get("file", [""])[0]
-                if not target:
+                    continue'''
+          new = '''                if not target:
                     if rel_path not in self.existing_rel:
                         self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing doc.html"))
-                    continue
-                if target not in self.existing_rel:
-                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing document '{target}'"))
-                continue'''
+                    continue'''
           if old not in text:
-              raise SystemExit('Expected doc.html link-check block not found')
+              raise SystemExit('Expected missing-parameter block not found')
           path.write_text(text.replace(old, new, 1), encoding='utf-8')
           PY
 
