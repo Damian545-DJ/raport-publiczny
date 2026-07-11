@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/runner/work/raport-publiczny/raport-publiczny/scripts/apply_parity_payload.py", line 77, in <module>
+    apply_payload()
+    ~~~~~~~~~~~~~^^
+  File "/home/runner/work/raport-publiczny/raport-publiczny/scripts/apply_parity_payload.py", line 55, in apply_payload
+    text = payload.decode("utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbd in position 3: invalid start byte
