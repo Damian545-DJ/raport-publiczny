@@ -293,7 +293,8 @@ sitemap_path.write_text(sitemap, encoding="utf-8")
 
 # Mark the JS Markdown viewer noindex and give it one stable canonical URL.
 doc_path = ROOT / "doc.html"
-doc = doc_path.read_text(encoding="utf-8")ndoc_marker = '  <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">'
+doc = doc_path.read_text(encoding="utf-8")
+ndoc_marker = '  <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">'
 if ndoc_marker not in doc:
     raise RuntimeError("doc.html description marker not found")
 doc = doc.replace(ndoc_marker, ndoc_marker + f'\n  <meta name="robots" content="noindex, nofollow">\n  <link rel="canonical" href="{BASE}doc.html">', 1)
