@@ -97,7 +97,7 @@ An organizational or historical link does not prove responsibility for a particu
 
 - `TIMELINE.en.md` – chronology,
 - `PUBLIC_REPORT_EVIDENCE_ANON_EN.md` – full public report,
-- `sezer-duygulu/README.en.md` – Home of People context,
+- `home-of-people/README.en.md` – Home of People context,
 - `EVIDENCE_INDEX.en.md` – evidence index,
 - `ANONYMIZATION.en.md` – anonymization rules,
 - `DISCLAIMER.en.md` – disclaimer.

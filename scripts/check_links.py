@@ -182,6 +182,9 @@ class LinkChecker:
                 self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, reason))
 
     def _http_check(self, url: str) -> tuple[bool, str]:
+        host = (urlparse(url).hostname or '').lower()
+        if host == 'linkedin.com' or host.endswith('.linkedin.com'):
+            return True, 'LinkedIn automated verification skipped (anti-bot HTTP 999)'
         last_err = "unknown error"
         for attempt in range(1, self.retries + 1):
             try:

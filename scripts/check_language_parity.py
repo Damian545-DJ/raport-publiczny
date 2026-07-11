@@ -21,7 +21,7 @@ def lines(path: str) -> list[str]:
 triplets = [
     (("README.pl.md", "README.en.md", "README.nl.md"), 143),
     (("PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md", "PUBLIC_REPORT_EVIDENCE_ANON_EN.md", "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md"), 185),
-    (("sezer-duygulu/README.pl.md", "sezer-duygulu/README.en.md", "sezer-duygulu/README.nl.md"), 185),
+    (("home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md"), 185),
 ]
 
 for paths, expected in triplets:
@@ -62,9 +62,9 @@ public_files = [
     "PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md",
     "PUBLIC_REPORT_EVIDENCE_ANON_EN.md",
     "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md",
-    "sezer-duygulu/README.pl.md",
-    "sezer-duygulu/README.en.md",
-    "sezer-duygulu/README.nl.md",
+    "home-of-people/README.pl.md",
+    "home-of-people/README.en.md",
+    "home-of-people/README.nl.md",
 ]
 for path in public_files:
     value = text(path)
@@ -83,11 +83,31 @@ address_fragments = [
     "Leehove 62",
     "Gieterij 35",
 ]
-for path in ("sezer-duygulu/README.pl.md", "sezer-duygulu/README.en.md", "sezer-duygulu/README.nl.md"):
+for path in ("home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md"):
     value = text(path)
     for fragment in address_fragments:
         if fragment in value:
             issues.append(f"{path}: exact location remains: {fragment}")
+
+
+additional_forbidden = (
+    "FR2024-1127", "26.032", "3NB7949", "2485387", "9486553",
+    "Sezer Duygulu", "sezer-duygulu",
+    "aanpak-misstanden-arbeidsmigratie",
+    "home-of-people-neemt-ook-efficient-at-work-over",
+)
+for path_name in public_files:
+    current = text(path_name)
+    for token in additional_forbidden:
+        if token in current:
+            issues.append(f"{path_name}: public identifier or obsolete source remains: {token}")
+
+for required_path in (
+    "home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md",
+    "pl/home-of-people.html", "en/home-of-people.html", "nl/home-of-people.html",
+):
+    if not (ROOT / required_path).exists():
+        issues.append(f"missing privacy-safe Home of People path: {required_path}")
 
 if issues:
     print("Language parity and anonymization audit failed:")
