@@ -1,4 +1,0 @@
-  File "/home/runner/work/raport-publiczny/raport-publiczny/scripts/fix_html_accessibility.py", line 202
-    search_start = wrapper.end() if wrapper else body.end()
-IndentationError: unexpected indent
-exit_code=1
