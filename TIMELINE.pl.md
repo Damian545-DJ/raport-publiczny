@@ -38,8 +38,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 ---
 
 ## 07.2024 – Helpdesk/planistka (dowód mechanizmu zadłużenia)
-- Agencja Intrixo (posługująca się certyfikacją NBBU) potwierdziła, że przy umowie faza C (gwarancja 32h), w przypadku braku pracy z ich strony, naliczają pracownikowi zadłużenie.  
-  (Dowód: korespondencja)
+- Agencja Intrixo (posługująca się certyfikacją NBBU) potwierdziła, że przy umowie faza C (gwarancja 32h), w przypadku braku pracy z ich strony, naliczają pracownikowi zadłużenie.
 
 ---
 
@@ -72,19 +71,19 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 ---
 
 ## 2) Kluczowe daty (prośby o planowanie / brak odpowiedzi)
-- **10.04.2023 (Planning):** pytanie o plan na pracę — brak odpowiedzi  
-- **13.04.2023 (Planning):** pytanie o pracę w najbliższych dniach — brak odpowiedzi  
-- **18.09.2023 (Ogólne):** pytanie czy będzie praca w tym tygodniu  
-- **18.09.2023 (Helpdesk):** „Przekazałam informację do działu planowania.”  
-- **22.10.2023 (Ogólne):** kolejny tydzień bez pracy — pytanie kiedy praca  
-- **24.10.2023 (Planning):** „Planiści robią wszystko, co mogą, aby Panią zaplanować.”  
-- **27.10.2023 (Salary/Payslip):** prośba o dokument płacowy (Solaris tydzień 42)
+- **10.04.2023 (Planning):** pytanie o plan na pracę — brak odpowiedzi
+- **13.04.2023 (Planning):** pytanie o pracę w najbliższych dniach — brak odpowiedzi
+- **18.09.2023 (Ogólne):** pytanie czy będzie praca w tym tygodniu
+- **18.09.2023 (Helpdesk):** „Przekazałam informację do działu planowania.”
+- **22.10.2023 (Ogólne):** kolejny tydzień bez pracy — pytanie kiedy praca
+- **24.10.2023 (Planning):** „Planiści robią wszystko, co mogą, aby Panią zaplanować.”
+- **27.10.2023 (Salary/Payslip):** prośba o dokument płacowy (tydzień 42)
 
 ---
 
 ## 3) Zdarzenia dowodowe (spotkania/nagrania)
-- **13.11.2023:** wezwanie do biura agencji (nagranie)  
-- **30.01.2024:** ponowne wezwanie do biura (nagranie)  
+- **13.11.2023:** wezwanie do biura agencji (nagranie)
+- **30.01.2024:** ponowne wezwanie do biura (nagranie)
 - **27.05.2024:** spłacony dług
 
 ---
@@ -97,17 +96,17 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
 ## 5) Pomoc zewnętrzna i pełnomocnicy (skrót)
 ### Pełnomocnik 1
-- **12/2023:** kontakt z księgową; poleca pełnomocnika 1  
-- **12.03.2024:** rozprawa; Intrixo zobowiązuje się zapłacić 5 000 EUR zaliczki oraz w ciągu dwóch tygodni przekazać pełnomocnikowi pracownicy wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r.  
-- **04/2024:** spotkanie; brak przekazania dokumentów; umówione spotkanie na koniec maja  
-- **24–30.05.2024:** brak kontaktu / informacje o urlopie  
+- **12/2023:** kontakt z księgową; poleca pełnomocnika 1
+- **12.03.2024:** rozprawa; Intrixo zobowiązuje się zapłacić 5 000 EUR zaliczki oraz w ciągu dwóch tygodni przekazać pełnomocnikowi pracownicy wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r.
+- **04/2024:** spotkanie; brak przekazania dokumentów; umówione spotkanie na koniec maja
+- **24–30.05.2024:** brak kontaktu / informacje o urlopie
 - **23.06.2024:** rozważenie zmiany pełnomocnika z powodu braku kontaktu
 
 ### Pełnomocnik 2 (MV Juridisch)
-- **25.06.2024:** przelew **1 512,50 EUR** (FR2024-1127) na konto „M. Nieruchomości Investment B.V.”  
-- Zapowiedź zakończenia w **3–4 miesiące**  
-- **07–09/2024:** brak realnych działań i statusu; trudny kontakt  
-- Jesień 2024: dokument (**proces-verbaal**) uzyskany samodzielnie z sądu; MV Juridisch nie pozyskał dokumentów z sądu (wg relacji)  
+- **25.06.2024:** wpłata na rzecz drugiego pełnomocnika w wysokości około **1,5 tys. EUR**; numer faktury i dane rachunkowe usunięto z wersji publicznej.
+- Zapowiedź zakończenia w **3–4 miesiące**
+- **07–09/2024:** brak realnych działań i statusu; trudny kontakt
+- Jesień 2024: dokument (**proces-verbaal**) uzyskany samodzielnie z sądu; MV Juridisch nie pozyskał dokumentów z sądu (wg relacji)
 - **12/2024 – 01/2025:** wezwania do wyjaśnień/zwrotu; odmowa zwrotu, spór o rozliczenie
 
 ---
@@ -124,44 +123,44 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 Ten fragment jest streszczeniem wątku dyscyplinarnego i mapą dowodów do publikacji (bez danych osobowych; rozważ inicjały zamiast pełnych nazwisk).
 
 ## 1) Numery spraw / identyfikacja
-- Orde van Advocaten (Den Haag): **K077 2025** (Zaak: **2485387**)  
-- Raad van Discipline (Den Haag): **25-714/DH/DH**  
-- Tło (sprawa przeciw Intrixo): posiedzenie **12.03.2024** (Rechtbank Den Haag; numer sprawy wskazany w piśmie „Do sądu o dokumenty.pdf”)
+- Orde van Advocaten (Den Haag): wewnętrzne oznaczenie sprawy usunięto z wersji publicznej.
+- Raad van Discipline (Den Haag): **25-714/DH/DH**
+- Tło (sprawa przeciw Intrixo): posiedzenie **12.03.2024** (Rechtbank Den Haag; numer sprawy wskazany w piśmie zanonimizowany dokument)
 
 ## 2) Sedno skargi (zarzuty)
-A) Brak rzetelnej informacji po rozprawie 12.03.2024  
-B) Brak przekazania dokumentacji sądowej i akt (m.in. proces-verbaal/ugoda/ustalenia)  
-C) Zerwanie kontaktu / niedostępność  
-D) Twierdzenia o „przekazaniu dossier” bez twardego potwierdzenia (brak inventory, brak dowodu odbioru)  
+A) Brak rzetelnej informacji po rozprawie 12.03.2024
+B) Brak przekazania dokumentacji sądowej i akt (m.in. proces-verbaal/ugoda/ustalenia)
+C) Zerwanie kontaktu / niedostępność
+D) Twierdzenia o „przekazaniu dossier” bez twardego potwierdzenia (brak inventory, brak dowodu odbioru)
 E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dowodów)
 
 ## 3) Oś czasu (z podpięciem do plików)
-- **12.03.2024:** posiedzenie w sprawie przeciw Intrixo (tło skargi)  
-  Dowód: Do sądu o dokumenty.pdf, 1 orde van adwocate.pdf  
-- **29–31.03.2025:** kontakt z Orde; informacja o webformularzu  
-  Plik: 1 orde van adwocate.pdf  
-- **09.04.2025:** Orde potwierdza wpływ (Zaak 2485387) i prosi o dosłanie korespondencji  
-  Plik: 10 - Procedurele stukken K077 2025.pdf  
-- **27.05.2025:** verweer adwokata  
-  Plik: 2025-05-27 verweer (1).pdf  
-- **18.06.2025:** nadere reactie klaagster  
-  Plik: 2025-06-18 nadere reactie klaagster (1).pdf  
-- **22.07.2025:** dupliek  
-  Plik: 2025-07-22 dupliek (1).pdf  
-- **16.09.2025:** eindbrief (koniec etapu u dziekana)  
-  Pliki: K077 2025 eindbrief (4).pdf, K077 2025 eindbrief (3).pdf  
-- **24.09.2025:** wniosek do sądu o kopię proces-verbaal  
-  Plik: Do sądu o dokumenty.pdf  
-- **05.10.2025:** dosłanie do Orde: reakcja + lista załączników  
-  Plik: E-majl potwierdzenia tumaczenia do order van advocate.pdf  
-- **08.10.2025:** griffierecht €50 – problem z płatnością / ponowna wpłata  
-  Plik: tumaczenie i zaołata do orde van.pdf  
-- **20.10.2025:** Orde wysyła paczkę do Raad van Discipline i zamyka dekenonderzoek  
-  Plik: Przesłanie do rady.pdf  
-- **17.12.2025:** voorzitterbeslissing (częściowo niedopuszczalne, reszta „kennelijk ongegrond”)  
-  Pliki: 25-714 vzb.pdf, Postanowienie rady.pdf  
-- **18.12.2025:** verzet (art. 46h lid 1 Advocatenwet) + wnioski o potwierdzenie kompletności akt  
-  Plik: sprzeciw skardze.pdf  
+- **12.03.2024:** posiedzenie w sprawie przeciw Intrixo (tło skargi)
+
+- **29–31.03.2025:** kontakt z Orde; informacja o webformularzu
+
+- **09.04.2025:** samorząd adwokacki potwierdził wpływ skargi i poprosił o uzupełnienie korespondencji; wewnętrzny numer sprawy usunięto.
+
+- **27.05.2025:** verweer adwokata
+
+- **18.06.2025:** nadere reactie klaagster
+
+- **22.07.2025:** dupliek
+
+- **16.09.2025:** eindbrief (koniec etapu u dziekana)
+
+- **24.09.2025:** wniosek do sądu o kopię proces-verbaal
+
+- **05.10.2025:** dosłanie do Orde: reakcja + lista załączników
+
+- **08.10.2025:** griffierecht – problem z płatnością / ponowna wpłata
+
+- **20.10.2025:** Orde wysyła paczkę do Raad van Discipline i zamyka dekenonderzoek
+
+- **17.12.2025:** voorzitterbeslissing (częściowo niedopuszczalne, reszta „kennelijk ongegrond”)
+
+- **18.12.2025:** verzet (art. 46h lid 1 Advocatenwet) + wnioski o potwierdzenie kompletności akt
+
 
 ## 5) Status sprawy
 - Na dzień **18.12.2025** złożono verzet od decyzji przewodniczącego.
@@ -171,17 +170,17 @@ E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dow
 
 ### Po zakończeniu pracy / ugoda – dalsze działania (2025–2026)
 
-- **09.07.2025 (Den Haag):** Pracownica 1 składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem. (dowód: wypowiedzenie – 09.07.2025)
+- **09.07.2025 (Den Haag):** Pracownica 1 składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem.
 
-- **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki. (dowód: Gmail - Betreft_ Verzoek om berekening achterstallig brutoloon.pdf)
+- **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki.
 
-- **24.02.2026:** Intrixo wystawia loonstrook/loonspecificatie nr **35** (tydzień **32/2025**, okres **04.08.2025–10.08.2025**) — wykazane „netto te betalen” **2,50 €**. (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+- **24.02.2026:** Intrixo wystawia loonstrook/loonspecificatie nr **35** (tydzień **32/2025**, okres **04.08.2025–10.08.2025**) — )
 
-- **25.02.2026:** wpływ SEPA na konto Pracownicy 1: Intrixo B.V. **2,50 €** (opis: „Betreft loonslipnummer 35”). (dowód: Potwierdzenie_transakcji_...pdf)
+- **25.02.2026:** na tym rozliczeniu odnotowano przelew symbolicznej kwoty poniżej 5 EUR; szczegóły rachunku i opis transakcji usunięto.
 
-- **27.02.2026:** Pracownica 1 otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**). (dowód: Loonspecificatie_78608811_-_(week_32,_2025).pdf)
+- **27.02.2026:** Pracownica 1 otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**)..pdf)
 
-- **25.02.2026:** **przejęcie sprawy przez trzeciego pełnomocnika** – potwierdza otrzymanie **pierwszej wpłaty (I rata)** dotyczącej faktury **26.032 (eigen bijdrage, kenmerk 3NB7949)** i informuje, że **rozpoczyna działania** oraz wkrótce przekaże dalsze informacje. (dowód: Przejecie zprawy trzeciego pełnomocnika.pdf)
+- **25.02.2026:** trzeci pełnomocnik potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań; numery faktury oraz pomocy prawnej usunięto z wersji publicznej.
 
 ---
 
@@ -207,23 +206,18 @@ Wersja publiczna: bez imion i nazwisk. Oznaczenia: **Pracownik 2**, **Agencja [A
 Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów często widać daty wiadomości.
 
 ### Czerwiec 2024 – planowanie / brak pracy / przerzucenia
-- **11.06.2024:** widok planowania (P4F): „Day Free / dzień wolny”.  
-  (plik: Screenshot_20240611-073616.png)
-- **20–21.06.2024:** widok planowania: dzień bez wpisu / brak pracy.  
-  (plik: Screenshot_20240620-223350.png)
-- **24.06.2024:** wiadomość od planowania: ograniczenie ludzi u klienta; brak na liście zmian; przerzucenie do innego klienta + pytanie o stawienie się w pracy.  
-  (plik: Screenshot_20240627-060844.png)
+- **11.06.2024:** widok planowania (P4F): „Day Free / dzień wolny”.
+- **20–21.06.2024:** widok planowania: dzień bez wpisu / brak pracy.
+- **24.06.2024:** wiadomość od planowania: ograniczenie ludzi u klienta; brak na liście zmian; przerzucenie do innego klienta + pytanie o stawienie się w pracy.
 
 ### Lipiec 2024 – „minus” / zadłużenie mieszkaniowe potwierdzone przez Helpdesk
-Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w tygodniu 26 przepracowano tylko **7:45 h**, co było niewystarczające na pokrycie kosztów **zakwaterowania + ubezpieczenia**, dlatego system zaksięgował **€50,98** jako zadłużenie mieszkaniowe. W tygodniu 27 potrącono **€33,45**, a saldo zadłużenia wynosiło **€17,53**.    
+Pracownik zgłosił ujemne saldo. Helpdesk wyjaśnił, że przy niewielkiej liczbie godzin koszty zakwaterowania i ubezpieczenia spowodowały zadłużenie rzędu kilkudziesięciu euro, następnie częściowo potrącane z kolejnego wynagrodzenia.
 
 ### Lipiec–sierpień 2024 – spór o payslip i korekty (tydzień 29)
-- **31.07–01.08.2024:** dopytywanie „gdzie pracował”; zapowiedź korekty i późniejszej wypłaty za tydzień 29.  
-  (pliki: Screenshot_20240805-144355.png, Screenshot_20240805-144335.png)
+- **31.07–01.08.2024:** dopytywanie „gdzie pracował”; zapowiedź korekty i późniejszej wypłaty za tydzień 29.
 
 ### Lipiec–sierpień 2025 – urlop, presja i wypowiedzenie
-- **09.07.2025 (20:55):** wypowiedzenie umowy o pracę; ostatni dzień zatrudnienia **10.08.2025**; opuszczenie zakwaterowania tego samego dnia; prośba o rozliczenie należności, wykorzystanie urlopu lub ekwiwalent oraz o dokumenty po zakończeniu zatrudnienia (loonstroken, jaaropgave).  
-  (plik: Re_ Wypowiedzenie o prace - Poczta w Onet.pl.pdf)
+- **09.07.2025 (20:55):** wypowiedzenie umowy o pracę; ostatni dzień zatrudnienia **10.08.2025**; opuszczenie zakwaterowania tego samego dnia; prośba o rozliczenie należności, wykorzystanie urlopu lub ekwiwalent oraz o dokumenty po zakończeniu zatrudnienia (loonstroken, jaaropgave).
 - **24.07.2025:** prośba o możliwość wykorzystania godzin urlopowych do końca umowy.
 - **25.07.2025:** planistka: potwierdzenie możliwości wykorzystania urlopu; **61,11 h** do podziału na dwa tygodnie.
 - **27.07.2025:** informacja o możliwym błędzie systemu; potwierdzenie urlopu od **29.07.2025**.
@@ -239,20 +233,15 @@ Pracownik zgłosił „minus” widoczny w systemie. Helpdesk wyjaśnił, że w 
 - Wezwanie do zapłaty do Agencji Intrixo w sprawie braku końcowego rozliczenia; w systemie pojawia się ponownie loonspecificatie (week 8, 2025) po loonspecificatie (week 32, 2025) – z kwotą zadłużenia (wartość ujemna / „minus”).
 
 ### Wrzesień–grudzień 2025 – FairWork → Juridisch Loket → SNCU
-- **01.09.2025:** zgłoszenie do FairWork.  
-  (plik: Rozpoczęcie sprawy fairwork.pdf)
-- **13.10.2025:** Juridisch Loket przejmuje sprawę; opis wątków i prośba o dokumenty.  
-  (plik: Rozpoczecie sprawy przes juridisch  loket.pdf)
-- **03.12.2025:** numer sprawy w SNCU: **37856**.  
-  (plik: Rozpoczecie sncu i nadanie numeru sprawy.pdf)
-- **15.12.2025:** zgoda na działania SNCU w imieniu Pracownika 2.  
-  (plik: zgoda działania w moim imieniu.pdf)
+- **01.09.2025:** zgłoszenie do FairWork.
+- **13.10.2025:** Juridisch Loket przejmuje sprawę; opis wątków i prośba o dokumenty.
+- **03.12.2025:** SNCU zarejestrowało zgłoszenie; wewnętrzny numer usunięto z wersji publicznej.
+- **15.12.2025:** zgoda na działania SNCU w imieniu Pracownika 2.
 
 ### Styczeń 2026 – dowody i zamknięcie
-- **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h, presja komunikacyjna, brak rozliczenia po wypowiedzeniu oraz wątpliwości co do korekt.  
-  (plik: Wysłanie do sncu kluczowych dowodów brak odpowiedzi.pdf + screeny)
+- **04.01.2026:** dosłanie do SNCU kluczowych dowodów + opis: „minus/dług”, urlop 61,11 h, presja komunikacyjna, brak rozliczenia po wypowiedzeniu oraz wątpliwości co do korekt.
 - **20.01.2026:** Po kontakcie z przedstawicielem pracodawcy SNCU zamyka sprawę; brak pełnego wyjaśnienia podstaw decyzji.
-- **20.01.2026:** SNCU / Juridisch Loket (signaal **37856** / **V-657**): informacja o postępowaniu wstępnym i zakończeniu sprawy po kontakcie z pracodawcą; w załączniku korespondencja SNCU–pracodawca oraz tłumaczenia stanowisk.
+- **20.01.2026:** przekazano informację o zakończeniu postępowania wstępnego po kontakcie z pracodawcą; wewnętrzne oznaczenia spraw usunięto.
 - **20.01.2026:** wysłanie sprzeciwu wobec zamknięcia sprawy (z pytaniem o podstawę dowodową) – oczekiwanie na odpowiedź.
-- **14.02.2026:** Juridisch Loket – informacja, że nadal nie mogą uzyskać od SNCU odpowiedzi, dlaczego zamknęli sprawę, i że Juridisch Loket nie będzie podejmować dalszych działań wobec SNCU, ponieważ nie mają możliwości zobowiązania SNCU do wydania decyzji ani udzielenia odpowiedzi. Rekomendacja: kontakt z adwokatem (możliwe roszczenie o zaległe wynagrodzenie / dalsza droga prawna) oraz możliwość skierowania do adwokata. (załącznik: Juridisch Loket.pdf)
+- **14.02.2026:** Juridisch Loket – informacja, że nadal nie mogą uzyskać od SNCU odpowiedzi, dlaczego zamknęli sprawę, i że Juridisch Loket nie będzie podejmować dalszych działań wobec SNCU, ponieważ nie mają możliwości zobowiązania SNCU do wydania decyzji ani udzielenia odpowiedzi. Rekomendacja: kontakt z adwokatem (możliwe roszczenie o zaległe wynagrodzenie / dalsza droga prawna) oraz możliwość skierowania do adwokata.
 - **03.04.2026:** odnaleziono nagrania wideo z kamery zainstalowanej w pokoju w zakwaterowaniu agencyjnym, zarejestrowane w dniach 02.08.2025 oraz 08.08.2025. Nowy materiał dowodowy pozostaje w sprzeczności z wersją przekazaną do SNCU, według której 28.07.2025 r. miał być ostatnim dniem pracy i po tej dacie nie miało już być dalszych wiadomości.

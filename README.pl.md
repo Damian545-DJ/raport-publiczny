@@ -97,7 +97,7 @@ Samo powiązanie organizacyjne lub historyczne nie dowodzi odpowiedzialności za
 
 - `TIMELINE.pl.md` – chronologia,
 - `PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md` – pełny raport publiczny,
-- `sezer-duygulu/README.pl.md` – kontekst Home of People,
+- `home-of-people/README.pl.md` – kontekst Home of People,
 - `EVIDENCE_INDEX.pl.md` – indeks dowodów,
 - `ANONYMIZATION.pl.md` – zasady anonimizacji,
 - `DISCLAIMER.pl.md` – zastrzeżenia.

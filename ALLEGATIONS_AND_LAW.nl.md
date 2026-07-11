@@ -116,77 +116,24 @@ Volledig bewijs wordt niet publiek gelinkt wanneer het persoonsgegevens, documen
 
 ---
 
-## D) Mogelijke juridische kwalificaties naar Nederlands recht – voorzichtige risicokaart
+## D) Juridische kwesties die beoordeling door bevoegde instanties vereisen
 
-**Let op:** dit onderdeel beschrijft mogelijke analysekaders indien relevante voorwaarden door een bevoegde instantie worden vastgesteld. Het is geen beschuldiging en geen oordeel.
+Het publieke rapport schrijft geen strafrechtelijke verantwoordelijkheid toe aan natuurlijke personen en formuleert geen strafrechtelijke kwalificaties. Het benoemt alleen onderwerpen die beoordeling door een rechter, toezichthouder of onafhankelijke jurist kunnen vereisen:
 
-### 1. Verantwoordelijkheid van vennootschap en personen
+- juistheid van loonafrekeningen en correctiegeschiedenis,
+- vrije instemming bij het voorleggen van documenten en de wijze waarop gesprekken zijn gevoerd,
+- rechtmatigheid en transparantie van inhoudingen en negatieve saldi,
+- volledigheid van informatie aan de werknemer en instanties.
 
-Naar Nederlands recht kan gedrag worden beoordeeld ten aanzien van een rechtspersoon en, in bepaalde omstandigheden, ook ten aanzien van personen die opdracht gaven, feitelijk leidinggaven of bewust deelnamen. Een referentiepunt is artikel 51 Wetboek van Strafrecht.
-
-### 2. Dwang / ontoelaatbare druk – artikel 284 Sr
-
-Als een bevoegde instantie zou vaststellen dat een persoon geen reële beslissingsvrijheid had bij het ondertekenen van documenten, kan artikel 284 Sr relevant worden voor analyse.
-
-Rode vlaggen in de context van de opname zijn onder meer:
-
-- tijdsdruk,
-- gebrek aan rustige mogelijkheid om documenten te lezen,
-- gebruik van een “min” / schuld als drukmiddel,
-- poging om een handtekening te verkrijgen in een situatie van ongelijke machtsverhouding.
-
-### 3. Afpersing – artikel 317 Sr
-
-Afpersing is een zwaardere kwalificatie en vereist doorgaans geweld of bedreiging met geweld. Economische of psychologische druk vereist eerder analyse onder dwang en moet niet automatisch publiek als afpersing worden benoemd.
-
-### 4. Valsheid in geschrift – artikel 225 Sr
-
-Als een autoriteit documentmanipulatie, kunstmatige schuldvorming, wijziging van afrekeningen of gebruik van onbetrouwbare documenten als echt zou bevestigen, kan artikel 225 Sr relevant worden.
-
-### 5. Oplichting – artikel 326 Sr
-
-Als misleiding of een onjuiste voorstelling iemand ertoe bracht te tekenen, schuld te accepteren of vorderingen prijs te geven, kan artikel 326 Sr relevant worden. Dit vereist beoordeling door bevoegde autoriteiten.
-
-### Veilige publieke formulering
-
-Aanbevolen:
-
-- “Het gedrag kan analyse onder artikel 284 Sr vereisen indien een bevoegde instantie ontoelaatbare druk vaststelt.”
-- “Indien documentmanipulatie wordt bevestigd, kan artikel 225 Sr relevant worden.”
-- “Het audiomateriaal toont het verloop van het gesprek; juridische kwalificatie is aan bevoegde autoriteiten.”
-
-Niet aanbevolen:
-
-- “Zij hebben een strafbaar feit gepleegd.”
-- “Dit is zeker afpersing.”
-- het publiceren van volledige privé-identiteiten wanneer dat niet noodzakelijk is.
+Publieke verslaglegging dient gebeurtenissen, documenten en tegenstrijdigheden te beschrijven en de juridische kwalificatie aan bevoegde instanties over te laten.
 
 ---
 
-## E) Binnenkomsten in een kamer in uitzendhuisvesting – mogelijke juridische relevantie in Nederland
+## E) Privacy in uitzendhuisvesting
 
-**Bewijsstelling:** volgens videomateriaal zouden derden deuren hebben geopend en een kamer zijn binnengekomen die feitelijk door bewoners werd gebruikt, zonder voorafgaande kennisgeving en zonder toestemming van de bewoners.
+Volgens videomateriaal zouden derden een bewoonde kamer zijn binnengekomen zonder voorafgaande kennisgeving of toestemming van de bewoners. De publieke versie vermeldt geen locatie, kamernummer, gezichten, stemmen of gegevens van privépersonen.
 
-De exacte naam van de accommodatie, het kamernummer en gegevens die privépersonen identificeren, zijn uit de publieke versie verwijderd volgens de anonimisatieregels.
-
-### 1. Huisvredebreuk – artikel 138 Sr
-
-Onrechtmatig binnentreden in een ruimte die feitelijk door een ander wordt gebruikt, of daar blijven ondanks een verzoek om te vertrekken, kan worden beoordeeld in het kader van huisvrede/huisrecht. Een kamer in uitzendhuisvesting kan, indien feitelijk als verblijfplaats gebruikt, bescherming als privéleefruimte genieten.
-
-### 2. Dwang – artikel 284 Sr
-
-Als binnenkomsten in de kamer deel uitmaakten van druk of dwang, kunnen zij ook in de context van dwang worden beoordeeld. Dit vereist vaststelling van doel, context en verantwoordelijkheid.
-
-### 3. Belaging / stalking – artikel 285b Sr
-
-Als privacy-inbreuken herhaald waren en gericht op het veroorzaken van angst of het afdwingen van gedrag, kan belaging nader moeten worden onderzocht. Een volledige beoordeling van het materiaal en de procedurele vereisten is noodzakelijk.
-
-### 4. Minimumstandaarden voor publicatie van videomateriaal
-
-- publiceer geen gezichten, stemmen of identificerende elementen van privépersonen,
-- publiceer geen kamernummers of exacte locatiegegevens tenzij strikt noodzakelijk,
-- bewaar originelen en hashes voor autoriteiten / juridische vertegenwoordigers,
-- beschrijf gebeurtenissen publiek als “volgens opnamen” of “volgens het bewijsmateriaal”.
+Het oorspronkelijke materiaal moet worden bewaard en alleen aan bevoegde instanties of juridische vertegenwoordigers worden verstrekt. Publiek dient men zich te beperken tot een voorzichtige feitelijke beschrijving en bescherming van de privacy, zonder een strafbaar feit aan een specifieke persoon toe te schrijven.
 
 ---
 
@@ -224,4 +171,4 @@ Veilige samenvatting:
 - Home of People: https://www.homeofpeople.nl/
 - Rechtspraak / Hoge Raad, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
 - Raad van State, huisvestingsgerelateerde zaak: https://www.raadvanstate.nl/@138720/202103252-1-r3/
-- Rijksoverheid – aanpak misstanden arbeidsmigratie: https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-misstanden-arbeidsmigratie
+- Rijksoverheid – aanpak misstanden arbeidsmigratie: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten

@@ -17,7 +17,7 @@ EXPECTED_HTML = {
         "dowody.html",
         "media.html",
         "dla-instytucji.html",
-        "sezer-duygulu.html",
+        "home-of-people.html",
     },
     "en": {
         "index.html",
@@ -26,7 +26,7 @@ EXPECTED_HTML = {
         "dowody.html",
         "media.html",
         "for-institutions.html",
-        "sezer-duygulu.html",
+        "home-of-people.html",
     },
     "nl": {
         "index.html",
@@ -35,7 +35,7 @@ EXPECTED_HTML = {
         "dowody.html",
         "media.html",
         "voor-instanties.html",
-        "sezer-duygulu.html",
+        "home-of-people.html",
     },
 }
 

@@ -15,28 +15,28 @@ SITEMAP_NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 STATIC_PUBLIC_URLS = {
     BASE_URL,
     BASE_URL + "press.html",
-    BASE_URL + "sezer-duygulu/",
+    BASE_URL + "home-of-people/",
     BASE_URL + "pl/index.html",
     BASE_URL + "pl/najwazniejsze-ustalenia.html",
     BASE_URL + "pl/timeline.html",
     BASE_URL + "pl/dowody.html",
     BASE_URL + "pl/media.html",
     BASE_URL + "pl/dla-instytucji.html",
-    BASE_URL + "pl/sezer-duygulu.html",
+    BASE_URL + "pl/home-of-people.html",
     BASE_URL + "en/index.html",
     BASE_URL + "en/key-findings.html",
     BASE_URL + "en/timeline.html",
     BASE_URL + "en/dowody.html",
     BASE_URL + "en/media.html",
     BASE_URL + "en/for-institutions.html",
-    BASE_URL + "en/sezer-duygulu.html",
+    BASE_URL + "en/home-of-people.html",
     BASE_URL + "nl/index.html",
     BASE_URL + "nl/belangrijkste-bevindingen.html",
     BASE_URL + "nl/timeline.html",
     BASE_URL + "nl/dowody.html",
     BASE_URL + "nl/media.html",
     BASE_URL + "nl/voor-instanties.html",
-    BASE_URL + "nl/sezer-duygulu.html",
+    BASE_URL + "nl/home-of-people.html",
 }
 
 DOC_FILES = {
@@ -63,9 +63,9 @@ DOC_FILES = {
     "CONTRIBUTING.nl.md",
     "UPDATES.md",
     "CODE_OF_CONDUCT.md",
-    "sezer-duygulu/README.pl.md",
-    "sezer-duygulu/README.en.md",
-    "sezer-duygulu/README.nl.md",
+    "home-of-people/README.pl.md",
+    "home-of-people/README.en.md",
+    "home-of-people/README.nl.md",
 }
 
 EXPECTED_DOC_URLS = {BASE_URL + "doc.html?file=" + file for file in DOC_FILES}
