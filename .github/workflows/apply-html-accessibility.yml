@@ -61,23 +61,19 @@ jobs:
           path.write_text(text, encoding='utf-8')
           PY
 
-      - name: Apply semantic HTML and accessibility fixes
-        run: python scripts/fix_html_accessibility.py
-
-      - name: Run HTML accessibility audit
-        run: python scripts/check_html_accessibility.py
-
-      - name: Run existing repository audits
+      - name: Capture migration diagnostics
         run: |
-          python scripts/check_links.py
-          python scripts/check_html_structure.py
-          python scripts/check_complete_site.py
-          python scripts/check_language_parity.py
+          set +e
+          python scripts/fix_html_accessibility.py > html-accessibility-debug.txt 2>&1
+          code=$?
+          echo "exit_code=$code" >> html-accessibility-debug.txt
+          cat html-accessibility-debug.txt
+          exit 0
 
-      - name: Commit final changes to branch
+      - name: Commit diagnostic output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Fix HTML semantics and keyboard accessibility"
+          git add html-accessibility-debug.txt
+          git commit -m "Capture HTML accessibility migration diagnostics"
           git push origin HEAD:agent/fix-html-accessibility
