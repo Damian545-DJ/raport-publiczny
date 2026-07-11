@@ -32,10 +32,12 @@
     .meta { font-size: .95rem; color: var(--muted); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
-    <nav class="topnav">
+    <nav aria-label="Główna nawigacja" class="topnav">
       <a class="btn" href="index.html">PL start</a>
       <a class="btn" href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
       <a class="btn" href="dowody.html">5 najmocniejszych dowodów</a>
@@ -43,6 +45,8 @@
       <a class="btn" href="../en/timeline.html">EN</a>
       <a class="btn" href="../nl/timeline.html">NL</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card">
       <h1>Timeline — skrócona oś czasu</h1>
@@ -77,6 +81,11 @@
       <p class="source"><a href="../doc.html?file=TIMELINE.pl.md">Pełna wersja źródłowa</a> · <a href="../TIMELINE.pl.md">TIMELINE.pl.md</a></p>
       <p><a href="index.html">PL start</a> · <a href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a> · <a href="dowody.html">5 najmocniejszych dowodów</a> · <a href="media.html">Media</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Informacja prawna">
+    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  </footer>
 </body>
 </html>

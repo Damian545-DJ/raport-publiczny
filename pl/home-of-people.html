@@ -35,15 +35,19 @@
     @media (max-width: 860px){.grid{grid-template-columns:1fr}}
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
-    <nav class="nav">
+    <nav aria-label="Główna nawigacja" class="nav">
       <a class="btn" href="index.html">← PL start</a>
       <a class="btn" href="../home-of-people/">Strona wejściowa sekcji</a>
       <a class="btn" href="../en/home-of-people.html">EN</a>
       <a class="btn" href="../nl/home-of-people.html">NL</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card hero">
       <h1>Kontekst publiczny podmiotów i grupy Home of People</h1>
@@ -94,6 +98,11 @@
       <p><a href="../doc.html?file=home-of-people/README.pl.md">Czytaj pełny materiał (doc)</a> · <a href="../home-of-people/README.pl.md">README.pl.md</a></p>
       <p><a href="../README.pl.md">Główny raport PL</a> · <a href="timeline.html">Skrócona oś czasu</a> · <a href="dowody.html">5 kluczowych dowodów</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Informacja prawna">
+    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  </footer>
 </body>
 </html>

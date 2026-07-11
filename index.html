@@ -306,9 +306,11 @@
       .topbar { border-radius: 16px; justify-content: flex-start; }
     }
   </style>
+  <link rel="stylesheet" href="assets/accessibility.css">
 </head>
 <body>
-  <main class="container">
+  <a class="skip-link" href="#main-content">Przejdź do treści</a>
+  <div class="container">
     <nav class="topbar" aria-label="Główne menu">
       <a href="pl/index.html">Start PL</a>
       <a href="pl/najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
@@ -319,10 +321,12 @@
       <a href="en/index.html">EN</a>
       <a href="nl/index.html">NL</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="hero">
       <div>
-        <div class="badge-row" aria-label="Status raportu">
+        <div role="group" class="badge-row" aria-label="Status raportu">
           <span class="badge">Publiczny briefing</span>
           <span class="badge">Wersja anonimizowana</span>
           <span class="badge">Ostatnia aktualizacja: 2026-06-30</span>
@@ -331,14 +335,14 @@
         <h1>Publiczny raport dowodowy dotyczący sporu pracowniczego w Holandii</h1>
         <p class="lead">Ta strona stanowi publiczny, zanonimizowany punkt wejścia do materiału dotyczącego wieloletniego sporu pracowniczego i reakcji instytucjonalnej. Raport opiera się na dokumentach, danych płacowo-rozliczeniowych, korespondencji i osi czasu. Główna teza raportu jest prosta: prawa formalne nie wystarczą — ochrona musi być skuteczna.</p>
 
-        <div class="cta-row" aria-label="Najważniejsze ścieżki">
+        <div role="group" class="cta-row" aria-label="Najważniejsze ścieżki">
           <a class="cta" href="pl/najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
           <a class="cta" href="pl/dowody.html">5 najmocniejszych dowodów</a>
           <a class="cta" href="pl/timeline.html">Oś czasu</a>
           <a class="cta" href="pl/media.html">Dla mediów</a>
         </div>
 
-        <div class="lang-row" aria-label="Wersje językowe">
+        <div role="group" class="lang-row" aria-label="Wersje językowe">
           <a class="lang-link" href="pl/index.html">🇵🇱 Polski</a>
           <a class="lang-link" href="en/index.html">🇬🇧 English</a>
           <a class="lang-link" href="nl/index.html">🇳🇱 Nederlands</a>
@@ -452,8 +456,13 @@
         <li><a href="doc.html?file=CODE_OF_CONDUCT.md">CODE_OF_CONDUCT (doc)</a> · <a href="CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li>
       </ul>
 
-      <p><a href="press.html">Press & institutions entry</a></p>
+      <p><a href="press.html">Press &amp; institutions entry</a></p>
     </section>
-  </main>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Informacja prawna">
+    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  </footer>
 </body>
 </html>
