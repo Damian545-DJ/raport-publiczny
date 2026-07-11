@@ -15,7 +15,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 ## 12 March 2024 – court hearing (context)
 - A court hearing took place.
 - A €5,000 advance payment was reportedly obtained as part of the case (based on the document/account in the file).
-- The court gave both parties time to submit accurate calculations.
+- The proces-verbaal imposed a specific obligation on Intrixo: within two weeks it had to provide the worker's representative with a calculation of the gross wages due since 6 May 2022 ("een berekening van het sinds 6 mei 2022 verschuldigde bruto loon"). This was not a general task assigned to both parties.
 
 ---
 
@@ -75,9 +75,9 @@ Evidence: screenshots/messages – repeated requests for work scheduling.
 - **10 Apr 2023 (Planning):** request for a work plan — no reply  
 - **13 Apr 2023 (Planning):** request for work in the coming days — no reply  
 - **18 Sep 2023 (General):** question whether there will be work that week  
-- **18 Sep 2023 (Helpdesk – K.):** “I forwarded this to planning.”  
+- **18 Sep 2023 (Helpdesk):** “I forwarded this to planning.”  
 - **22 Oct 2023 (General):** another week without work — question when work will be scheduled  
-- **24 Oct 2023 (A.K.):** “Planners are doing everything they can to schedule you.”  
+- **24 Oct 2023 (Planning):** “Planners are doing everything they can to schedule you.”  
 - **27 Oct 2023 (Salary/Payslip):** request for a payslip document (Solaris week 42)
 
 ---
@@ -98,7 +98,7 @@ Evidence: screenshots/messages – repeated requests for work scheduling.
 ## 5) External support and representatives (short)
 ### Representative 1
 - **12/2023:** contact via accountant; recommendation of representative 1  
-- **12 Mar 2024:** hearing; calculations; Intrixo pays €5,000; court sets deadline for accurate calculations  
+- **12 Mar 2024:** hearing; Intrixo undertakes to pay a €5,000 advance and, within two weeks, provide the worker's representative with a calculation of the gross wages due since 6 May 2022.  
 - **04/2024:** meeting; no document transfer; meeting planned end of May  
 - **24–30 May 2024:** no contact / holiday explanation  
 - **23 Jun 2024:** considering changing representative due to no contact

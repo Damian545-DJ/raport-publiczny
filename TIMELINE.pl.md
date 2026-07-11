@@ -15,7 +15,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 ## 12.03.2024 – rozprawa sądowa (tło)
 - Odbyła się rozprawa.
 - W toku sprawy miała zostać uzyskana zaliczka 5 000 EUR (wg dokumentu/relacji w materiałach).
-- Sąd dał stronom czas na dostarczenie dokładnych obliczeń.
+- Z proces-verbaal wynikał konkretny obowiązek Intrixo: w ciągu dwóch tygodni przekazać pełnomocnikowi pracownicy wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r. ("een berekening van het sinds 6 mei 2022 verschuldigde bruto loon"). Nie był to ogólny obowiązek obu stron.
 
 ---
 
@@ -60,7 +60,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 
 ---
 
-# Pracownica 1 (B. S.) – dowody (skrót + timeline)
+# Pracownica 1 – dowody (skrót + timeline)
 
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
 - Od **21.11.2022** (umowa na czas nieokreślony, faza C, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
@@ -75,9 +75,9 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 - **10.04.2023 (Planning):** pytanie o plan na pracę — brak odpowiedzi  
 - **13.04.2023 (Planning):** pytanie o pracę w najbliższych dniach — brak odpowiedzi  
 - **18.09.2023 (Ogólne):** pytanie czy będzie praca w tym tygodniu  
-- **18.09.2023 (Helpdesk – K.):** „Przekazałam informację do działu planowania.”  
+- **18.09.2023 (Helpdesk):** „Przekazałam informację do działu planowania.”  
 - **22.10.2023 (Ogólne):** kolejny tydzień bez pracy — pytanie kiedy praca  
-- **24.10.2023 (A.K.):** „Planiści robią wszystko, co mogą, aby Panią zaplanować.”  
+- **24.10.2023 (Planning):** „Planiści robią wszystko, co mogą, aby Panią zaplanować.”  
 - **27.10.2023 (Salary/Payslip):** prośba o dokument płacowy (Solaris tydzień 42)
 
 ---
@@ -98,7 +98,7 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 ## 5) Pomoc zewnętrzna i pełnomocnicy (skrót)
 ### Pełnomocnik 1
 - **12/2023:** kontakt z księgową; poleca pełnomocnika 1  
-- **12.03.2024:** rozprawa; strony przedstawiają wyliczenia; Intrixo płaci 5 000 EUR; sąd wyznacza termin na dokładne obliczenia  
+- **12.03.2024:** rozprawa; Intrixo zobowiązuje się zapłacić 5 000 EUR zaliczki oraz w ciągu dwóch tygodni przekazać pełnomocnikowi pracownicy wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r.  
 - **04/2024:** spotkanie; brak przekazania dokumentów; umówione spotkanie na koniec maja  
 - **24–30.05.2024:** brak kontaktu / informacje o urlopie  
 - **23.06.2024:** rozważenie zmiany pełnomocnika z powodu braku kontaktu

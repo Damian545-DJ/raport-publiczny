@@ -15,7 +15,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 ## 12-03-2024 – rechtszitting (context)
 - Er vond een zitting plaats.
 - In het kader van de zaak zou een voorschot van **€ 5.000** zijn verkregen (volgens document/relatie in de stukken).
-- De rechtbank gaf partijen tijd om correcte berekeningen aan te leveren.
+- Uit het proces-verbaal volgde een concrete verplichting voor Intrixo: binnen twee weken aan de gemachtigde van de werkneemster een berekening verstrekken van het sinds 6 mei 2022 verschuldigde bruto loon ("een berekening van het sinds 6 mei 2022 verschuldigde bruto loon"). Dit was geen algemene opdracht aan beide partijen.
 
 ---
 
@@ -75,9 +75,9 @@ Bewijs: screenshots/berichten – herhaalde verzoeken om werkplanning.
 - **10-04-2023 (Planning):** vraag om werkplanning — geen antwoord  
 - **13-04-2023 (Planning):** vraag om werk in de komende dagen — geen antwoord  
 - **18-09-2023 (Algemeen):** vraag of er die week werk is  
-- **18-09-2023 (Helpdesk – K.):** “Ik heb het doorgegeven aan de planning.”  
+- **18-09-2023 (Helpdesk):** “Ik heb het doorgegeven aan de planning.”  
 - **22-10-2023 (Algemeen):** opnieuw een week zonder werk — vraag wanneer er werk komt  
-- **24-10-2023 (A.K.):** “Planners doen alles wat ze kunnen om u in te plannen.”  
+- **24-10-2023 (Planning):** “Planners doen alles wat ze kunnen om u in te plannen.”  
 - **27-10-2023 (Salary/Payslip):** verzoek om loonstrook (Solaris week 42)
 
 ---
@@ -98,7 +98,7 @@ Bewijs: screenshots/berichten – herhaalde verzoeken om werkplanning.
 ## 5) Externe hulp en gemachtigden (kort)
 ### Gemachtigde 1
 - **12/2023:** contact met boekhouder; aanbeveling gemachtigde 1  
-- **12-03-2024:** zitting; berekeningen; Intrixo betaalt € 5.000; rechtbank stelt termijn voor correcte berekeningen  
+- **12-03-2024:** zitting; Intrixo verbindt zich tot betaling van een voorschot van € 5.000 en tot het binnen twee weken verstrekken aan de gemachtigde van de werkneemster van een berekening van het sinds 6 mei 2022 verschuldigde bruto loon.  
 - **04/2024:** gesprek; geen stukkenoverdracht; afspraak eind mei  
 - **24–30-05-2024:** geen contact / melding van vakantie  
 - **23-06-2024:** overweging om te wisselen vanwege geen contact
