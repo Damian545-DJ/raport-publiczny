@@ -1,52 +1,143 @@
-[EN Version]
-# Intrixo B.V. – public (anonymized) report on alleged violations and the lack of an effective system response
+[English version]
 
-**TL;DR:** The repository provides anonymized documentation of an employment-related dispute, including payroll records, correspondence, and references to audio/video evidence. The case has been raised with national bodies and institutions connected with worker protection, labour-market issues and temporary agency work, and remains subject to further verification.
+# Intrixo B.V. – public anonymized report on employment-related allegations and effective protection
 
-**Status:** public version (anonymized)
-**Last update:** 2026-06-30
-**Purpose of the repo:** verification, visibility, and gathering support (legal/media/community)
+**TL;DR:** This repository organizes anonymized documentation of an employment dispute involving wages, guaranteed hours, deductions, accommodation, legal services and institutional responses.
 
-## How to use this repository (short)
+**Status:** public anonymized version  
+**Last update:** 2026-07-11  
+**Purpose:** enable factual verification and safe sharing with institutions, lawyers and media.
 
-1. Start with the HTML briefing layer (`index.html`, `en/index.html`, `en/key-findings.html`, `en/dowody.html`, `en/timeline.html`).
-2. Then move to Markdown source-of-truth files (`README`, `TIMELINE`, `EVIDENCE_INDEX`) for full context.
-3. Read all wrongdoing-related statements as claims/allegations pending independent or official verification.
-4. GitHub Issues/Discussions are for technical repository matters only; media contact should use the LinkedIn contact path or another verified channel provided by the report author.
-
-> Important: this is an informational, public-interest publication. We describe facts and conclusions based on documents and recordings in our possession. Any statements about wrongdoing must be read as **claims/allegations**, not as final court findings. This repository is not legal advice.
+> All statements about wrongdoing are allegations requiring independent verification. This repository is neither a judgment nor legal advice.
 
 ---
 
-## Executive summary
+## How to use this repository
 
-- **Facts documented:** the repository contains a timeline, payroll/accounting references, correspondence logs, and anonymized descriptions of accommodation/privacy-related incidents.
-- **Evidence available:** payslips, communication records, and audio/video materials (shared only with authorized institutions or representatives on justified request).
-- **Current stage:** public anonymized publication is maintained while the case is pending further institutional/legal follow-up and formal responses.
-
----
-
-## Additional documentation
-
-The repository also includes supplementary contextual material concerning publicly available information and documented inconsistencies related to the broader context of the case. This material is supplementary in nature and does not constitute a final legal determination on its own.
-
-- [Public context of entities and the Home of People group](doc.html?file=PUBLIC_REPORT_EVIDENCE_ANON_EN.md) · [raw](PUBLIC_REPORT_EVIDENCE_ANON_EN.md)
-- The primary core of this repository remains the Intrixo case and its source documentation.
+- Start with the HTML pages in the `en/` directory.
+- Then read `TIMELINE.en.md`, `EVIDENCE_INDEX.en.md` and `ALLEGATIONS_AND_LAW.en.md`.
+- Full evidence containing sensitive data is not published publicly.
+- The PL, EN and NL versions have equivalent structure and scope.
 
 ---
 
-## Why we are making this public
+## Core of the case
 
-Because we see that without visibility:
-
-- a case can disappear inside procedures,
-- institutions can remain silent for weeks/months,
-- a worker is left alone with evidence, costs, and stress.
-
-Our experience is brutally simple: the evidence exists, but effectiveness is missing.
+- a dispute over a Phase C open-ended contract and a 32-hour weekly guarantee,
+- a dispute over wages due, missing periods, deductions and corrections,
+- questions concerning agency accommodation, privacy and economic dependence,
+- problems obtaining documents and completing the case through successive representatives,
+- the absence of a clear, complete and verifiable response from some institutions.
 
 ---
 
-## Who this concerns (short)
+## Proces-verbaal of 12 March 2024
 
-The public report concerns a labour dispute involving **Intrixo B.V. / Voorneputten** and related questions about payroll records, deductions, accommodation, legal assistance and institutional responses. All personal data of private individuals is removed from the public layer.
+The proces-verbaal did not impose a general task on both parties.
+
+Within two weeks Intrixo had to provide the worker's representative with:
+
+> “een berekening van het sinds 6 mei 2022 verschuldigde bruto loon”.
+
+This means a calculation of the gross wages due since 6 May 2022. A separate element was the €5,000 advance on wage arrears.
+
+---
+
+## What a verifiable calculation should contain
+
+- the balance of gross wages due since 6 May 2022,
+- a week-by-week comparison of hours due, hours recorded and the difference,
+- an explanation of weeks without payslips or with zero hours,
+- gross components, allowances, holiday reserves and corrections,
+- deductions for accommodation, insurance, pension and other items,
+- the gross-to-net calculation and matching bank transfers to payroll periods.
+
+---
+
+## Main evidence categories
+
+- the proces-verbaal and court correspondence,
+- contracts and payroll documents,
+- hour, missing-week and deduction schedules,
+- bank-transfer confirmations,
+- correspondence with the agency, representatives and institutions,
+- anonymized descriptions of audio and video evidence.
+
+---
+
+## Scope of the allegations
+
+- failure to honour guaranteed hours and full pay during periods without work,
+- unclear or excessive deductions,
+- late or incomplete settlements,
+- failure to fully perform the obligation recorded in the proces-verbaal,
+- ineffective legal services and difficulty obtaining the case file,
+- insufficient responses from supervisory and support bodies.
+
+---
+
+## Home of People – public context
+
+A separate section describes the public context of the Home of People group and entities appearing in the materials. It is documentary, cautious and comparative.
+
+An organizational or historical link does not prove responsibility for a particular event. The full PL, EN and NL versions cover the same material without exact accommodation addresses, workplace locations or private-worker data.
+
+---
+
+## Anonymization
+
+- personal data and private-worker initials have been removed,
+- the exact accommodation and workplace are not identified,
+- document numbers, bank accounts, signatures, faces and raw recordings are not published,
+- public company names and judgment identifiers are used only to identify sources.
+
+---
+
+## Key files
+
+- `TIMELINE.en.md` – chronology,
+- `PUBLIC_REPORT_EVIDENCE_ANON_EN.md` – full public report,
+- `sezer-duygulu/README.en.md` – Home of People context,
+- `EVIDENCE_INDEX.en.md` – evidence index,
+- `ANONYMIZATION.en.md` – anonymization rules,
+- `DISCLAIMER.en.md` – disclaimer.
+
+---
+
+## How to help
+
+- check dates, amounts and descriptions for consistency,
+- identify a missing document or translation error,
+- assist with payroll or legal analysis,
+- submit corrections through a GitHub Issue without publishing sensitive data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end of equivalent language version -->
