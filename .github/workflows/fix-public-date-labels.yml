@@ -1,0 +1,67 @@
+name: Fix public date labels
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  fix-date-labels:
+    if: ${{ !contains(github.event.head_commit.message, '[date-labels-done]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fix all visible update-date labels
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          new_date = '2026-07-11'
+          labels = ('Ostatnia aktualizacja', 'Last updated', 'Laatst bijgewerkt')
+          changed = []
+
+          for path in list(Path('.').rglob('*.html')) + list(Path('.').rglob('*.md')):
+              if '.git' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              original = text
+              for label in labels:
+                  patterns = [
+                      rf'(<strong>\s*{re.escape(label)}\s*:?\s*</strong>\s*)(\d{{4}}-\d{{2}}-\d{{2}})',
+                      rf'({re.escape(label)}\s*:?\s*)(\d{{4}}-\d{{2}}-\d{{2}})',
+                  ]
+                  for pattern in patterns:
+                      text = re.sub(pattern, rf'\g<1>{new_date}', text)
+              if text != original:
+                  path.write_text(text, encoding='utf-8')
+                  changed.append(str(path))
+
+          if not changed:
+              raise SystemExit('No remaining update-date labels required changes')
+          print('Updated files:')
+          print('\n'.join(sorted(changed)))
+          PY
+
+      - name: Run complete site audit
+        run: |
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_html_accessibility.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
+
+      - name: Commit corrected date labels
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add '*.md' '*.html' pl en nl home-of-people
+          git commit -m "[date-labels-done] Align public update dates to 2026-07-11"
+          git push origin HEAD:main
