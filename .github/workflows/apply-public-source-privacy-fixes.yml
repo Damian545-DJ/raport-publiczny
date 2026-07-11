@@ -29,19 +29,33 @@ jobs:
       - name: Apply source and privacy changes
         run: python scripts/apply_public_source_privacy_fixes.py
 
+      - name: Run and record repository audits
+        run: |
+          set +e
+          : > scripts/public_fix_audit.txt
+          status=0
+          for cmd in \
+            "python scripts/check_links.py" \
+            "python scripts/check_html_structure.py" \
+            "python scripts/check_complete_site.py" \
+            "python scripts/check_language_parity.py"
+          do
+            echo "===== $cmd =====" >> scripts/public_fix_audit.txt
+            bash -lc "$cmd" >> scripts/public_fix_audit.txt 2>&1
+            code=$?
+            echo "EXIT=$code" >> scripts/public_fix_audit.txt
+            echo >> scripts/public_fix_audit.txt
+            if [ "$code" -ne 0 ]; then status=1; fi
+          done
+          echo "FINAL_STATUS=$status" >> scripts/public_fix_audit.txt
+          cat scripts/public_fix_audit.txt
+
       - name: Remove one-time migration files
         run: |
           rm -f scripts/apply_public_source_privacy_fixes.py
           rm -f .github/workflows/apply-public-source-privacy-fixes.yml
 
-      - name: Run repository audits
-        run: |
-          python scripts/check_links.py
-          python scripts/check_html_structure.py
-          python scripts/check_complete_site.py
-          python scripts/check_language_parity.py
-
-      - name: Commit clean changes
+      - name: Commit changes and audit record
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
