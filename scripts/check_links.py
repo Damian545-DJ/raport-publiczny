@@ -113,7 +113,8 @@ class LinkChecker:
             if rel_path == "doc.html":
                 target = parse_qs(query).get("file", [""])[0]
                 if not target:
-                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing ?file= parameter"))
+                    if rel_path not in self.existing_rel:
+                        self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing doc.html"))
                     continue
                 if target not in self.existing_rel:
                     self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing document '{target}'"))

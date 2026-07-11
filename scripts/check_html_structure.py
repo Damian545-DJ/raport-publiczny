@@ -39,6 +39,17 @@ EXPECTED_HTML = {
     },
 }
 
+HREFLANG_GROUPS = [
+    ("pl/index.html", "en/index.html", "nl/index.html"),
+    ("pl/najwazniejsze-ustalenia.html", "en/key-findings.html", "nl/belangrijkste-bevindingen.html"),
+    ("pl/timeline.html", "en/timeline.html", "nl/timeline.html"),
+    ("pl/dowody.html", "en/dowody.html", "nl/dowody.html"),
+    ("pl/media.html", "en/media.html", "nl/media.html"),
+    ("pl/dla-instytucji.html", "en/for-institutions.html", "nl/voor-instanties.html"),
+    ("pl/home-of-people.html", "en/home-of-people.html", "nl/home-of-people.html"),
+]
+HREFLANG_LOOKUP = {path: group for group in HREFLANG_GROUPS for path in group}
+
 REQUIRED_META = (
     r'<meta\s+name="description"\s+content="[^"]+"\s*/?>',
     r'<meta\s+property="og:title"\s+content="[^"]+"\s*/?>',
@@ -102,6 +113,14 @@ def check_html_file(path: pathlib.Path, lang: str, errors: list[HtmlError]) -> N
 
     if count(r'<meta\s+name="description"', text) != 1:
         errors.append(HtmlError(path, "page should contain exactly one meta description"))
+
+    group = HREFLANG_LOOKUP.get(rel)
+    if group:
+        for code, target in zip(("pl", "en", "nl"), group):
+            expected = BASE_URL + target
+            pattern = rf'<link\s+rel="alternate"\s+hreflang="{code}"\s+href="{re.escape(expected)}"\s*/?>'
+            if not re.search(pattern, text, flags=re.IGNORECASE):
+                errors.append(HtmlError(path, f"missing hreflang {code} -> {expected}"))
 
     if "href=\"#" in text:
         for anchor in re.findall(r'href="#([^"]+)"', text):
