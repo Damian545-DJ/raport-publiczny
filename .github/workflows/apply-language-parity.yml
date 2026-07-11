@@ -32,6 +32,24 @@ jobs:
       - name: Patch timelines and public placeholders
         run: python scripts/patch_process_verbaal.py
 
+      - name: Run and record all audits
+        run: |
+          set +e
+          : > scripts/final_audit_output.txt
+          status=0
+          for command in \
+            "python scripts/check_links.py" \
+            "python scripts/check_html_structure.py" \
+            "python scripts/check_complete_site.py" \
+            "python scripts/check_language_parity.py"
+          do
+            echo "===== $command =====" >> scripts/final_audit_output.txt
+            bash -lc "$command" >> scripts/final_audit_output.txt 2>&1 || status=1
+            echo >> scripts/final_audit_output.txt
+          done
+          echo "FINAL_STATUS=$status" >> scripts/final_audit_output.txt
+          cat scripts/final_audit_output.txt
+
       - name: Remove one-time migration artifacts
         run: |
           rm -f scripts/.parity_payload_*.txt
@@ -43,14 +61,7 @@ jobs:
           rm -f .github/PULL_REQUEST_TEMPLATE.md
           rm -f .github/.parity-pr-trigger
 
-      - name: Run all repository audits
-        run: |
-          python scripts/check_links.py
-          python scripts/check_html_structure.py
-          python scripts/check_complete_site.py
-          python scripts/check_language_parity.py
-
-      - name: Commit final clean changes
+      - name: Commit patched files and audit record
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
