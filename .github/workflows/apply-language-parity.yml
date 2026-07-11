@@ -15,63 +15,7 @@ permissions:
 
 jobs:
   apply:
-    if: github.actor != 'github-actions[bot]'
+    if: ${{ false }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout branch
-        uses: actions/checkout@v4
-        with:
-          ref: codex/fix-process-verbaal-language-parity
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Apply prepared parity changes
-        id: apply
-        continue-on-error: true
-        run: python scripts/apply_parity_payload.py
-
-      - name: Persist failure diagnostics
-        if: steps.apply.outcome == 'failure'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add scripts/parity_payload_error.txt
-          git commit -m "Record parity payload failure diagnostics"
-          git push origin HEAD:codex/fix-process-verbaal-language-parity
-          exit 1
-
-      - name: Remove one-time migration files
-        if: steps.apply.outcome == 'success'
-        run: |
-          rm -f scripts/.parity_payload_*.txt
-          rm -f scripts/apply_parity_payload.py
-          rm -f scripts/parity_payload_error.txt
-          rm -f .github/workflows/apply-language-parity.yml
-          rm -f .github/PR_PARITY_MIGRATION_NOTE.md
-          rm -f .github/PULL_REQUEST_TEMPLATE.md
-          rm -f .github/.parity-pr-trigger
-
-      - name: Run repository checks
-        if: steps.apply.outcome == 'success'
-        run: |
-          python scripts/check_links.py
-          python scripts/check_html_structure.py
-          python scripts/check_complete_site.py
-          if [ -f scripts/check_language_parity.py ]; then python scripts/check_language_parity.py; fi
-
-      - name: Commit and push applied changes
-        if: steps.apply.outcome == 'success'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Fix proces-verbaal wording and language parity"
-            git push origin HEAD:codex/fix-process-verbaal-language-parity
-          fi
+      - run: echo "Parity payload upload in progress"
