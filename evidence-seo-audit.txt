@@ -1,0 +1,19 @@
+===== scripts/check_links.py =====
+Link check failed:
+ - doc.html:10 -> https://damian545-dj.github.io/raport-publiczny/doc.html :: missing ?file= parameter
+
+Summary: 1 error(s) found
+exit_code=1
+
+===== scripts/check_html_structure.py =====
+OK: checked 21 PL/EN/NL HTML file(s) for structure, SEO tags and duplicate/extra language pages
+exit_code=0
+
+===== scripts/check_complete_site.py =====
+OK: complete site quality audit passed: sitemap, robots, HTML basics, accessibility, canonical URLs, and safe external-link handling
+exit_code=0
+
+===== scripts/check_language_parity.py =====
+OK: PL/EN/NL parity, proces-verbaal wording, source cleanup, chronology and anonymization checks passed
+exit_code=0
+
