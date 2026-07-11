@@ -298,31 +298,6 @@ ol li,ul li { margin-bottom: 0.35rem; }
 }
 .institution-links ul { columns: 2; column-gap: 28px; }
 
-/* Legal footer added automatically per language */
-html[lang="pl"] body::after,
-html[lang="en"] body::after,
-html[lang="nl"] body::after {
-  display: block;
-  box-sizing: border-box;
-  max-width: 1080px;
-  margin: 24px auto 0;
-  padding: 14px 16px 22px;
-  border-top: 1px solid var(--line);
-  color: var(--muted);
-  font-size: .88rem;
-  line-height: 1.5;
-  text-align: center;
-}
-html[lang="pl"] body::after {
-  content: "© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.";
-}
-html[lang="en"] body::after {
-  content: "© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.";
-}
-html[lang="nl"] body::after {
-  content: "© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.";
-}
-
 @media (max-width: 900px) {
   .quick-start { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .process-card ol { grid-template-columns: 1fr; }
@@ -344,10 +319,4 @@ html[lang="nl"] body::after {
   .quick-start a { min-height: auto; }
   .card { border-radius: 14px !important; }
   .card p > a:not(.btn), .card .source a:not(.btn) { width: 100%; text-align: center; }
-  html[lang="pl"] body::after,
-  html[lang="en"] body::after,
-  html[lang="nl"] body::after {
-    margin: 18px 16px 0;
-    text-align: left;
-  }
 }

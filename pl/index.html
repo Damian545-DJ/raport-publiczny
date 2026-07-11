@@ -38,10 +38,12 @@
     .meta { font-size: .95rem; color: var(--muted); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
-    <nav class="topnav">
+    <nav aria-label="Główna nawigacja" class="topnav">
       <a class="btn" href="../index.html">Start global</a>
       <a class="btn" href="timeline.html">Skrócona oś czasu</a>
       <a class="btn" href="najwazniejsze-ustalenia.html">Najważniejsze ustalenia</a>
@@ -50,6 +52,8 @@
       <a class="btn" href="../en/index.html" lang="en" hreflang="en">EN</a>
       <a class="btn" href="../nl/index.html" lang="nl" hreflang="nl">NL</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card hero-card">
       <h1>Spór pracowniczy związany z Intrixo B.V. — publiczny briefing</h1>
@@ -161,6 +165,11 @@
       <p>Krótka, uporządkowana wersja sprawy przygotowana dla instytucji publicznych i organów oceniających dokumentację.</p>
       <p><a class="btn" href="dla-instytucji.html">Przejdź do strony „Dla instytucji”</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Informacja prawna">
+    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  </footer>
 </body>
 </html>

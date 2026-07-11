@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="pl">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="color-scheme" content="light dark" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
   <title>Intrixo — źródła Markdown (doc viewer)</title>
   <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">
   <meta name="robots" content="noindex, nofollow">
@@ -54,16 +54,18 @@
       .md code { background: rgba(110,118,129,.2); }
     }
   </style>
+  <link rel="stylesheet" href="assets/accessibility.css">
 </head>
 
 <body>
+  <a class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
-    <div class="top">
+    <nav class="top" aria-label="Nawigacja dokumentu">
       <a class="btn" href="./">← Start</a>
       <span class="small" id="fileName"></span>
-    </div>
+    </nav>
 
-    <article class="markdown-body md" id="content">Ładuję…</article>
+    <main class="markdown-body md" id="main-content" tabindex="-1">Ładuję…</main>
   </div>
 
   <!-- Markdown renderer -->
@@ -115,7 +117,7 @@
       const file = safeFileName(raw);
 
       const fileNameEl = document.getElementById("fileName");
-      const contentEl = document.getElementById("content");
+      const contentEl = document.getElementById("main-content");
 
       if (!file) {
         fileNameEl.textContent = "Błędna nazwa pliku w ?file=";
@@ -155,5 +157,8 @@
 
     load();
   </script>
+  <footer class="legal-footer" aria-label="Informacja prawna">
+    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  </footer>
 </body>
 </html>

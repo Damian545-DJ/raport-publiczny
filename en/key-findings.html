@@ -32,10 +32,12 @@
     .source { margin-top:12px; padding-top:10px; border-top:1px dashed var(--line); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <div class="wrap">
-    <nav class="topnav">
+    <nav aria-label="Main navigation" class="topnav">
       <a class="btn" href="index.html">EN start</a>
       <a class="btn" href="dowody.html">5 evidence points</a>
       <a class="btn" href="timeline.html">Timeline</a>
@@ -43,6 +45,8 @@
       <a class="btn" href="../pl/najwazniejsze-ustalenia.html">PL</a>
       <a class="btn" href="../nl/belangrijkste-bevindingen.html">NL</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card">
       <h1>Key findings</h1>
@@ -69,6 +73,11 @@
         <a href="../doc.html?file=README.en.md">Full Markdown sources</a>
       </p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Legal information">
+    <p>© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.</p>
+  </footer>
 </body>
 </html>

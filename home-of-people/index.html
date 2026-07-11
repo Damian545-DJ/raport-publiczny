@@ -40,8 +40,10 @@
     .note{background:var(--accent-soft);border:1px solid #bfd6ff}
     @media (max-width: 860px){.grid{grid-template-columns:1fr}}
   </style>
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <div class="wrap">
     <nav class="nav" aria-label="Top navigation">
       <a class="btn" href="../index.html">← Main page</a>
@@ -49,12 +51,14 @@
       <a class="btn" href="../en/index.html">EN start</a>
       <a class="btn" href="../nl/index.html">NL start</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card hero">
       <h1>Public context of entities and the Home of People group</h1>
       <p>This page is the clean entry point to an additional public-context section of the repository. Its purpose is simple: to explain what this section contains, why it exists, what is based on public sources, and what it does <strong>not</strong> claim.</p>
       <p class="meta"><strong>Last updated:</strong> 2026-06-30 · <strong>Status:</strong> structured entry page for readers, media, institutions and reviewers</p>
-      <div class="lang" aria-label="Language versions">
+      <div role="group" class="lang" aria-label="Language versions">
         <a class="primary" href="../pl/home-of-people.html">Czytaj po polsku</a>
         <a href="../en/home-of-people.html">Read in English</a>
         <a href="../nl/home-of-people.html">Lees in het Nederlands</a>
@@ -119,6 +123,11 @@
         <li><a href="../nl/home-of-people.html">Dutch summary page</a> · <a href="README.nl.md">README.nl.md</a></li>
       </ul>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Legal information">
+    <p>© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.</p>
+  </footer>
 </body>
 </html>
