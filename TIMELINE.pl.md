@@ -107,8 +107,12 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 - Zapowiedź zakończenia w **3–4 miesiące**
 - **07–09/2024:** brak realnych działań i statusu; trudny kontakt
 - Jesień 2024: dokument (**proces-verbaal**) uzyskany samodzielnie z sądu; MV Juridisch nie pozyskał dokumentów z sądu (wg relacji)
+- W 2025 r. nadal prosimy o uzyskanie kopii dokumentów z sądu i status sprawy.
 - **12/2024 – 01/2025:** wezwania do wyjaśnień/zwrotu; odmowa zwrotu, spór o rozliczenie
-
+## 6) Korespondencja z MV Juridisch (WhatsApp)
+- MV Juridisch opierał się na informacjach „od dyrekcji / drugiej strony”, że ugoda była zawarta i „nie można jej złamać”.
+- Pojawia się sugestia, że pełnomocnik „wprowadził w błąd” oraz że „od tej decyzji nie ma odwołania” (w ocenie autorów: sprzeczne z faktem braku dokumentów i konieczności samodzielnego pozyskania kluczowych akt).
+- W 2025 r. nadal prosimy o uzyskanie kopii dokumentów z sądu i status sprawy.
 
 ### Pełnomocnik 3 – mr. G.
 
@@ -274,16 +278,11 @@ Wyliczenia mr. G. zmieniały się następująco:
 Mr. G. poprawił swoje obliczenia po interwencji pracownicy, zwiększając wynik o około **3 585 EUR brutto**, ale mimo tej zmiany nadal utrzymał stanowisko, że dalsze roszczenie nie istnieje.
 
 Nie przedstawiono jednak pełnego rozliczenia obejmującego okres od 06.05.2022, wszystkie loonstrooki, brakujące tygodnie, przelewy bankowe, `ET-uitruil`, pozostałe potrącenia, zaliczkę 5 000 EUR oraz końcowe saldo.
----
 
-## 6) Korespondencja z MV Juridisch (WhatsApp)
-- MV Juridisch opierał się na informacjach „od dyrekcji / drugiej strony”, że ugoda była zawarta i „nie można jej złamać”.
-- Pojawia się sugestia, że pełnomocnik „wprowadził w błąd” oraz że „od tej decyzji nie ma odwołania” (w ocenie autorów: sprzeczne z faktem braku dokumentów i konieczności samodzielnego pozyskania kluczowych akt).
-- W 2025 r. nadal prosimy o uzyskanie kopii dokumentów z sądu i status sprawy.
 
 ---
 
-# Skarga na adwokata – Raad van Discipline (NL) (skrót)
+# Skarga na adwokata 1 – Raad van Discipline (NL) (skrót)
 
 Ten fragment jest publicznym streszczeniem wątku dyscyplinarnego. Dane osobowe, wewnętrzne numery kancelaryjne i nazwy plików dowodowych pozostają niepubliczne.
 
