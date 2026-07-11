@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Permanent CI check for equivalent PL, EN and NL public content.
 from __future__ import annotations
 
 from pathlib import Path
