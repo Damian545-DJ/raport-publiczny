@@ -117,41 +117,39 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
 ---
 
-# Complaint against lawyer – Raad van Discipline (NL) (short)
+# Complaint against a lawyer – Raad van Discipline (NL) (summary)
 
-This section is a public summary and evidence map (no personal data; use initials rather than names).
+This section is a public summary of the disciplinary matter. Personal data, internal law-office references and evidence filenames remain non-public.
 
-## 1) Case numbers / identification
-- The Hague Bar: the internal case reference was removed from the public version.
-- Raad van Discipline (The Hague): **25-714/DH/DH**
-- Background (Intrixo case): hearing **12 Mar 2024** (”)
+## 1) Public identification
+- Raad van Discipline (The Hague): **25-714/DH/DH**.
+- The complaint concerns the handling of the employment matter after the hearing of **12 March 2024**.
 
 ## 2) Core allegations
-A) Lack of reliable information after 12 Mar 2024
-B) Failure to transfer court documents and file (proces-verbaal/settlement/agreements)
-C) Loss of contact / unavailability
-D) “File transfer” claims without proof (no inventory/receipt)
-E) Risk that assessment was made on incomplete material (translations/evidence were submitted later)
+A) lack of reliable information after the hearing,
+B) failure to transfer court documents and the file,
+C) loss of contact or unavailability,
+D) claims that the dossier was transferred without complete confirmation,
+E) risk that the matter was assessed on incomplete material.
 
-## 3) Timeline (with file references)
-- **12 Mar 2024:** hearing (context) –
-- **
-- **
-- **27 May 2025:** lawyer’s defence – file: 2025-05-27 verweer (1).pdf
-- **18 Jun 2025:** complainant’s further response – file: 2025-06-18 nadere reactie klaagster (1).pdf
-- **22 Jul 2025:** dupliek – file: 2025-07-22 dupliek (1).pdf
-- The Hague Bar: the internal case reference was removed from the public version.
-- **
-- **
-- **
-- **
-- **
-- **
+## 3) Procedural chronology
+- **12 March 2024:** hearing in the Intrixo matter – background to the complaint.
+- **29–31 March 2025:** contact with the Hague Bar and information about the complaint procedure.
+- **9 April 2025:** confirmation that the complaint was received and request for additional correspondence.
+- **27 May 2025:** the lawyer's response to the complaint.
+- **18 June 2025:** further response from the complainant.
+- **22 July 2025:** reply in the disciplinary exchange.
+- **16 September 2025:** completion of the dean's stage.
+- **24 September 2025:** request to the court for a copy of the proces-verbaal.
+- **5 October 2025:** additional response and attachment list submitted.
+- **8 October 2025:** court-fee payment problem and repeat payment; the exact amount is not published.
+- **20 October 2025:** referral to the Raad van Discipline and closure of the dean's investigation.
+- **17 December 2025:** chair's decision.
+- **18 December 2025:** objection filed and confirmation of file completeness requested.
 
-## 5) Status
-- As of **18 Dec 2025**, verzet (objection) was filed.
-- Key point: confirmation that the file is complete and that all submitted evidence/translations were included and actually considered.
-
+## 4) Status
+- As of **18 December 2025**, an objection to the chair's decision had been filed.
+- The key issue is whether all evidence and translations were included in the dossier and actually assessed.
 ---
 
 ### After employment / settlement – follow-up actions (2025–2026)
@@ -160,13 +158,10 @@ E) Risk that assessment was made on incomplete material (translations/evidence w
 
 - **11.12.2025:** an email/letter titled “Request for calculation of overdue gross wages” was sent to Intrixo (helpdesk@intrixo.nl) — request for all documents and calculations of overdue gross wages from **06.05.2022** in line with the court minutes (proces-verbaal, **12.03.2024**) + request to respond within **14 days**, otherwise further steps.
 
-- **24.02.2026:** Intrixo issues payslip/payroll document (week **32/2025**, period **04.08.2025–10.08.2025**) — “)
-
-- **25.02.2026:** a transfer of a nominal amount below EUR 5 was recorded following that settlement; account and transaction details were removed.
-
-- **27.02.2026:** Worker 1 received the payslip/loonspecificatie from Intrixo (payslip no. **35**)..pdf)
-
-- **25.02.2026:** the third representative confirmed receipt of the first required contribution and the start of work; invoice and legal-aid identifiers were removed from the public version.
+- **24 February 2026:** Intrixo issued a final payroll document for week **32/2025**, showing a nominal net amount below EUR 5; the document number was removed from the public version.
+- **25 February 2026:** a transfer of a nominal amount below EUR 5 was recorded following that settlement; account and transaction details were removed.
+- **25 February 2026:** the third representative confirmed receipt of the first required contribution and the start of work; invoice and legal-aid identifiers were removed from the public version.
+- **27 February 2026:** the worker received the payroll document from Intrixo; the document number and filename remain non-public.
 
 ---
 
@@ -188,14 +183,13 @@ Public version: no names. Labels used: **Worker 2**, **Agency [A]**, **Client/co
 - Resignation + no complete final settlement → formal payment demand.
 - SNCU: procedure closed after correspondence with the employer/other side.
 
-## 3) Timeline (with file references)
-Note: screenshot file dates = date of screenshot; inside screenshots the message dates are often visible.
+## 3) Timeline of events
 
 ### June 2024 – scheduling / no work
 - **11 Jun 2024:** planning view (P4F) “Day Free”
-  ()
+
 - **20–21 Jun 2024:** no entry/no work
-  ()
+
 - **24 Jun 2024:** planning message: reduced staff at client; not on shift list; moved to another client + request to show up
 
 ### July 2024 – “minus” / housing debt confirmed by Helpdesk
@@ -203,11 +197,11 @@ The worker reported a negative balance. The helpdesk explained that, with few ho
 
 ### July–Aug 2024 – payslip dispute and corrections (week 29)
 - **31 Jul–01 Aug 2024:** questions “where did you work”; correction announced and later payment
-  ()
+
 
 ### July–Aug 2025 – holiday, pressure and resignation
 - **09 Jul 2025 (20:55):** resignation (one-month notice); last employment day **10 Aug 2025**; leaving housing the same day; request for final settlement, holiday use/compensation and post-employment documents (loonstroken/jaaropgave).
-  ()
+
 - **24 Jul 2025:** request to use holiday until the end of contract.
 - **25 Jul 2025:** planner: 61.11 holiday hours available, split across two weeks.
 - **27 Jul 2025:** note about possible system error; confirmation to use holiday from **29 Jul 2025**.
@@ -224,13 +218,13 @@ The worker reported a negative balance. The helpdesk explained that, with few ho
 
 ### Sep–Dec 2025 – FairWork → Juridisch Loket → SNCU
 - **01 Sep 2025:** FairWork report
-  ()
+
 - **13 Oct 2025:** Juridisch Loket takes over
-  ()
+
 - **20.01.2026:** information was provided that the preliminary procedure had ended after contact with the employer; internal case references were removed.
-  ()
+
 - **15 Dec 2025:** consent for SNCU to act on behalf of Worker 2
-  ()
+
 
 ### January 2026 – evidence submitted and case closed
 - **04 Jan 2026:** key evidence sent to SNCU: “minus/debt”, 61.11h holiday, communication pressure, missing final settlement and questions about corrections.

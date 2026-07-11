@@ -120,52 +120,37 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
 # Skarga na adwokata – Raad van Discipline (NL) (skrót)
 
-Ten fragment jest streszczeniem wątku dyscyplinarnego i mapą dowodów do publikacji (bez danych osobowych; rozważ inicjały zamiast pełnych nazwisk).
+Ten fragment jest publicznym streszczeniem wątku dyscyplinarnego. Dane osobowe, wewnętrzne numery kancelaryjne i nazwy plików dowodowych pozostają niepubliczne.
 
-## 1) Numery spraw / identyfikacja
-- Orde van Advocaten (Den Haag): wewnętrzne oznaczenie sprawy usunięto z wersji publicznej.
-- Raad van Discipline (Den Haag): **25-714/DH/DH**
-- Tło (sprawa przeciw Intrixo): posiedzenie **12.03.2024** (Rechtbank Den Haag; numer sprawy wskazany w piśmie zanonimizowany dokument)
+## 1) Identyfikacja publiczna
+- Raad van Discipline (Den Haag): **25-714/DH/DH**.
+- Tło skargi stanowi sposób prowadzenia sprawy pracowniczej po rozprawie z **12.03.2024**.
 
-## 2) Sedno skargi (zarzuty)
-A) Brak rzetelnej informacji po rozprawie 12.03.2024
-B) Brak przekazania dokumentacji sądowej i akt (m.in. proces-verbaal/ugoda/ustalenia)
-C) Zerwanie kontaktu / niedostępność
-D) Twierdzenia o „przekazaniu dossier” bez twardego potwierdzenia (brak inventory, brak dowodu odbioru)
-E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dowodów)
+## 2) Sedno skargi
+A) brak rzetelnej informacji po rozprawie,
+B) brak przekazania dokumentacji sądowej i akt,
+C) zerwanie kontaktu lub niedostępność,
+D) twierdzenia o przekazaniu dossier bez pełnego potwierdzenia,
+E) ryzyko oceny sprawy na niepełnym materiale.
 
-## 3) Oś czasu (z podpięciem do plików)
-- **12.03.2024:** posiedzenie w sprawie przeciw Intrixo (tło skargi)
+## 3) Chronologia postępowania
+- **12.03.2024:** rozprawa w sprawie przeciwko Intrixo – tło skargi.
+- **29–31.03.2025:** kontakt z Orde van Advocaten i informacja o procedurze złożenia skargi.
+- **09.04.2025:** potwierdzenie wpływu skargi i prośba o uzupełnienie korespondencji.
+- **27.05.2025:** odpowiedź adwokata na skargę.
+- **18.06.2025:** dalsza reakcja skarżącej.
+- **22.07.2025:** duplika.
+- **16.09.2025:** zakończenie etapu prowadzonego przez dziekana.
+- **24.09.2025:** wniosek do sądu o kopię proces-verbaal.
+- **05.10.2025:** przekazanie dodatkowej reakcji i listy załączników.
+- **08.10.2025:** problem z opłatą sądową i ponowienie płatności; dokładna kwota nie jest publikowana.
+- **20.10.2025:** przekazanie sprawy do Raad van Discipline i zakończenie badania przez dziekana.
+- **17.12.2025:** decyzja przewodniczącego.
+- **18.12.2025:** złożenie sprzeciwu oraz wniosku o potwierdzenie kompletności akt.
 
-- **29–31.03.2025:** kontakt z Orde; informacja o webformularzu
-
-- **09.04.2025:** samorząd adwokacki potwierdził wpływ skargi i poprosił o uzupełnienie korespondencji; wewnętrzny numer sprawy usunięto.
-
-- **27.05.2025:** verweer adwokata
-
-- **18.06.2025:** nadere reactie klaagster
-
-- **22.07.2025:** dupliek
-
-- **16.09.2025:** eindbrief (koniec etapu u dziekana)
-
-- **24.09.2025:** wniosek do sądu o kopię proces-verbaal
-
-- **05.10.2025:** dosłanie do Orde: reakcja + lista załączników
-
-- **08.10.2025:** griffierecht – problem z płatnością / ponowna wpłata
-
-- **20.10.2025:** Orde wysyła paczkę do Raad van Discipline i zamyka dekenonderzoek
-
-- **17.12.2025:** voorzitterbeslissing (częściowo niedopuszczalne, reszta „kennelijk ongegrond”)
-
-- **18.12.2025:** verzet (art. 46h lid 1 Advocatenwet) + wnioski o potwierdzenie kompletności akt
-
-
-## 5) Status sprawy
-- Na dzień **18.12.2025** złożono verzet od decyzji przewodniczącego.
-- Kluczowe znaczenie ma potwierdzenie kompletności akt oraz tego, czy wszystkie dosłane dowody i tłumaczenia zostały włączone do dossier i realnie uwzględnione.
-
+## 4) Status
+- Na dzień **18.12.2025** złożono sprzeciw od decyzji przewodniczącego.
+- Kluczowe znaczenie ma ustalenie, czy wszystkie dowody i tłumaczenia zostały włączone do dossier i rzeczywiście ocenione.
 ---
 
 ### Po zakończeniu pracy / ugoda – dalsze działania (2025–2026)
@@ -174,13 +159,10 @@ E) Ryzyko oceny na niepełnym materiale (wskazywano dosyłanie tłumaczeń i dow
 
 - **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki.
 
-- **24.02.2026:** Intrixo wystawia loonstrook/loonspecificatie nr **35** (tydzień **32/2025**, okres **04.08.2025–10.08.2025**) — )
-
-- **25.02.2026:** na tym rozliczeniu odnotowano przelew symbolicznej kwoty poniżej 5 EUR; szczegóły rachunku i opis transakcji usunięto.
-
-- **27.02.2026:** Pracownica 1 otrzymała loonstrook/loonspecificatie od Intrixo (loonstrook nr **35**)..pdf)
-
+- **24.02.2026:** Intrixo wystawiło końcowy dokument płacowy za tydzień **32/2025**, wskazujący symboliczną kwotę netto poniżej 5 EUR; numer dokumentu usunięto z wersji publicznej.
+- **25.02.2026:** po tym rozliczeniu odnotowano przelew symbolicznej kwoty poniżej 5 EUR; dane rachunku i opis transakcji usunięto.
 - **25.02.2026:** trzeci pełnomocnik potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań; numery faktury oraz pomocy prawnej usunięto z wersji publicznej.
+- **27.02.2026:** pracownica otrzymała dokument płacowy od Intrixo; numer dokumentu i nazwa pliku pozostają niepubliczne.
 
 ---
 
@@ -202,8 +184,7 @@ Wersja publiczna: bez imion i nazwisk. Oznaczenia: **Pracownik 2**, **Agencja [A
 - Wypowiedzenie + brak pełnego rozliczenia → formalne wezwanie do zapłaty.
 - SNCU: procedura zakończona po korespondencji z pracodawcą/stroną przeciwną.
 
-## 3) Oś czasu (z podpięciem do plików)
-Uwaga: daty w nazwach screenów = data wykonania zrzutu; w środku screenów często widać daty wiadomości.
+## 3) Oś czasu zdarzeń
 
 ### Czerwiec 2024 – planowanie / brak pracy / przerzucenia
 - **11.06.2024:** widok planowania (P4F): „Day Free / dzień wolny”.
