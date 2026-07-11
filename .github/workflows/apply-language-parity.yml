@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - codex/fix-process-verbaal-language-parity
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize, reopened]
   workflow_dispatch:
 
 permissions:
