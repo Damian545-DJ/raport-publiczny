@@ -116,77 +116,24 @@ Full evidence is not publicly linked where it contains personal data, document n
 
 ---
 
-## D) Possible legal qualifications under Dutch law – cautious risk map
+## D) Legal issues requiring assessment by competent authorities
 
-**Note:** this part describes possible legal-analysis routes if relevant conditions are established by a competent authority. It is not an accusation and not a judgment.
+The public report does not attribute criminal responsibility to individuals and does not propose criminal-offence classifications. It identifies only matters that may require assessment by a court, supervisory authority or independent lawyer:
 
-### 1. Company and individual responsibility
+- accuracy of payroll settlements and correction histories,
+- freedom of consent when documents were presented for signature and the manner in which meetings were conducted,
+- legality and transparency of deductions and negative balances,
+- completeness of information provided to the worker and institutions.
 
-Under Dutch law, conduct may be assessed in relation to a legal entity and, in specific circumstances, also in relation to persons who ordered, directed or knowingly participated in the conduct. A reference point is Article 51 of the Dutch Criminal Code.
-
-### 2. Dwang / unlawful pressure – Article 284 Sr
-
-If a competent authority were to find that a person lacked real freedom of decision when asked to sign documents, Article 284 Sr may become relevant for analysis.
-
-Red flags in the recording context include:
-
-- time pressure,
-- lack of a calm opportunity to review documents,
-- use of a “minus” / debt as pressure,
-- attempting to obtain a signature in a situation of unequal bargaining power.
-
-### 3. Afpersing – Article 317 Sr
-
-Afpersing is a heavier qualification and generally requires violence or threat of violence. Economic or psychological pressure more often requires assessment under dwang and should not automatically be described publicly as afpersing.
-
-### 4. Valsheid in geschrift – Article 225 Sr
-
-If an authority confirmed document manipulation, artificial creation of debt, alteration of settlement records or use of unreliable documents as genuine, Article 225 Sr could become relevant for analysis.
-
-### 5. Oplichting – Article 326 Sr
-
-If deception or a misleading narrative induced a person to sign, accept debt or abandon claims, Article 326 Sr could become relevant. This requires assessment by competent authorities.
-
-### Public wording guidance
-
-Recommended:
-
-- “The conduct may require analysis under Article 284 Sr if a competent authority finds unlawful pressure.”
-- “If document manipulation is confirmed, Article 225 Sr may become relevant.”
-- “The audio material shows the course of the conversation; legal qualification belongs to competent authorities.”
-
-Not recommended:
-
-- “They committed a crime.”
-- “This is definitely afpersing.”
-- publishing full personal identities where not necessary.
+Public reporting should describe events, documents and discrepancies while leaving legal qualification to competent authorities.
 
 ---
 
-## E) Entries into a room in agency accommodation – possible legal relevance in the Netherlands
+## E) Privacy in agency accommodation
 
-**Evidence statement:** according to video material, third parties allegedly opened doors and entered a room in the factual use of residents without prior notice and without the residents’ consent.
+According to video material, third parties allegedly entered an occupied room without prior notice or the residents' consent. The public version does not reveal the location, room number, faces, voices or data of private individuals.
 
-The exact accommodation name, room number and details identifying private persons have been removed from the public version in line with anonymization rules.
-
-### 1. Huisvredebreuk – Article 138 Sr
-
-Unlawful entry into a space in another person’s factual use, or remaining there despite a request to leave, may be assessed under home-peace / house-right protection. A room in agency accommodation, if actually used as a residence, may be protected as a private living space.
-
-### 2. Dwang – Article 284 Sr
-
-If entries into the room were part of pressure or coercion, they could also be assessed in the context of dwang. This requires establishing purpose, context and responsibility.
-
-### 3. Belaging / stalking – Article 285b Sr
-
-If privacy intrusions were repeated and aimed at causing fear or forcing conduct, belaging may require analysis. A full assessment of the material and procedural requirements is necessary.
-
-### 4. Minimum publication standards for video material
-
-- do not publish faces, voices or identifying elements of private persons,
-- do not publish room numbers or exact location details unless strictly necessary,
-- preserve originals and hashes for authorities / legal representatives,
-- publicly describe events as “according to recordings” or “according to the evidence material.”
+Original material should be preserved and shared only with competent institutions or legal representatives. Public reporting should remain limited to a cautious factual description and privacy protection, without attributing a criminal act to a specific person.
 
 ---
 
@@ -224,4 +171,4 @@ Safe summary:
 - Home of People: https://www.homeofpeople.nl/
 - Rechtspraak / Supreme Court, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
 - Raad van State, housing-related case: https://www.raadvanstate.nl/@138720/202103252-1-r3/
-- Dutch government – migrant labour abuses policy: https://www.rijksoverheid.nl/onderwerpen/hervormingen-arbeidsmarkt/aanpak-misstanden-arbeidsmigratie
+- Dutch government – migrant labour abuses policy: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten
