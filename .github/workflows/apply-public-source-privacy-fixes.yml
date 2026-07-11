@@ -8,14 +8,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   apply:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout working branch
+      - name: Checkout migration branch
         uses: actions/checkout@v4
         with:
           ref: agent/fix-public-sources-and-privacy
@@ -26,10 +26,16 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Prepare clean branch from main
+        run: |
+          cp scripts/apply_public_source_privacy_fixes.py /tmp/apply_public_source_privacy_fixes.py
+          git checkout -B agent/public-source-privacy-clean origin/main
+          cp /tmp/apply_public_source_privacy_fixes.py scripts/apply_public_source_privacy_fixes.py
+
       - name: Apply source and privacy changes
         run: python scripts/apply_public_source_privacy_fixes.py
 
-      - name: Remove obsolete article number from explanatory text
+      - name: Final privacy cleanup
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -49,61 +55,21 @@ jobs:
           }
           for name, (old, new) in replacements.items():
               path = Path(name)
-              value = path.read_text(encoding='utf-8').replace(old, new)
-              path.write_text(value, encoding='utf-8')
+              path.write_text(path.read_text(encoding='utf-8').replace(old, new), encoding='utf-8')
           PY
+          rm -f scripts/apply_public_source_privacy_fixes.py
 
-      - name: Run and record repository audits
+      - name: Run repository audits
         run: |
-          set +e
-          : > scripts/public_fix_audit.txt
-          status=0
-          for cmd in \
-            "python scripts/check_links.py" \
-            "python scripts/check_html_structure.py" \
-            "python scripts/check_complete_site.py" \
-            "python scripts/check_language_parity.py"
-          do
-            echo "===== $cmd =====" >> scripts/public_fix_audit.txt
-            bash -lc "$cmd" >> scripts/public_fix_audit.txt 2>&1
-            code=$?
-            echo "EXIT=$code" >> scripts/public_fix_audit.txt
-            echo >> scripts/public_fix_audit.txt
-            if [ "$code" -ne 0 ]; then status=1; fi
-          done
-          echo "FINAL_STATUS=$status" >> scripts/public_fix_audit.txt
-          cat scripts/public_fix_audit.txt
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
 
-      - name: Package changed files
+      - name: Commit and publish clean branch
         run: |
-          rm -rf /tmp/public-fix-package
-          mkdir -p /tmp/public-fix-package/changed
-          {
-            git diff --name-only --diff-filter=AMCR HEAD
-            git ls-files --others --exclude-standard
-          } | sort -u > /tmp/public-fix-package/changed.txt
-          git diff --name-only --diff-filter=D HEAD > /tmp/public-fix-package/deleted.txt
-          while IFS= read -r file; do
-            [ -z "$file" ] && continue
-            case "$file" in
-              scripts/apply_public_source_privacy_fixes.py|.github/workflows/apply-public-source-privacy-fixes.yml|scripts/public_fix_audit.txt|public-fix-package.tar.gz)
-                continue
-                ;;
-            esac
-            mkdir -p "/tmp/public-fix-package/changed/$(dirname "$file")"
-            cp "$file" "/tmp/public-fix-package/changed/$file"
-          done < /tmp/public-fix-package/changed.txt
-          printf '%s\n' \
-            'scripts/apply_public_source_privacy_fixes.py' \
-            '.github/workflows/apply-public-source-privacy-fixes.yml' \
-            >> /tmp/public-fix-package/deleted.txt
-          sort -u /tmp/public-fix-package/deleted.txt -o /tmp/public-fix-package/deleted.txt
-          cp scripts/public_fix_audit.txt /tmp/public-fix-package/audit.txt
-          tar -C /tmp/public-fix-package -czf public-fix-package.tar.gz .
-
-      - name: Upload generated changes
-        uses: actions/upload-artifact@v4
-        with:
-          name: public-source-privacy-fixes-v2
-          path: public-fix-package.tar.gz
-          if-no-files-found: error
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Fix public sources and reduce privacy risk"
+          git push --force-with-lease origin HEAD:agent/public-source-privacy-clean
