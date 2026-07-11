@@ -38,10 +38,12 @@
     .meta { font-size: .95rem; color: var(--muted); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Ga naar de hoofdinhoud</a>
   <div class="wrap">
-    <nav class="topnav">
+    <nav aria-label="Hoofdnavigatie" class="topnav">
       <a class="btn" href="../index.html">Globale start</a>
       <a class="btn" href="belangrijkste-bevindingen.html">Belangrijkste bevindingen</a>
       <a class="btn" href="timeline.html">Korte tijdlijn</a>
@@ -50,6 +52,8 @@
       <a class="btn" href="../pl/index.html" lang="pl" hreflang="pl">PL</a>
       <a class="btn" href="../en/index.html" lang="en" hreflang="en">EN</a>
     </nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card hero-card">
       <h1>Publiek bewijstrapport — korte instapversie</h1>
@@ -134,6 +138,11 @@
       <p>Een korte, gestructureerde versie van de zaak, voorbereid voor publieke instanties en organen die de documentatie beoordelen.</p>
       <p><a class="btn" href="voor-instanties.html">Ga naar “Voor instanties”</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Juridische informatie">
+    <p>© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.</p>
+  </footer>
 </body>
 </html>
