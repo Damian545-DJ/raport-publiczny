@@ -109,6 +109,171 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 - Jesień 2024: dokument (**proces-verbaal**) uzyskany samodzielnie z sądu; MV Juridisch nie pozyskał dokumentów z sądu (wg relacji)
 - **12/2024 – 01/2025:** wezwania do wyjaśnień/zwrotu; odmowa zwrotu, spór o rozliczenie
 
+
+### Pełnomocnik 3 – mr. G.
+
+- **25.02.2026:** mr. G. potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań w sprawie. Numery faktury oraz pomocy prawnej pozostają niepubliczne.
+
+- **02.03.2026:** mr. G. zwrócił się do Intrixo B.V. / Home of People w sprawie wykonania proces-verbaal Rechtbank Den Haag z 12.03.2024. Powołał się na wynikający z tego dokumentu obowiązek przedstawienia wyliczenia należnego wynagrodzenia brutto.
+
+  Na początku sprawa była więc traktowana jako dotycząca wykonania proces-verbaal, a nie wyłącznie technicznego przeliczenia części brakujących godzin.
+
+- **25.03.2026:** mr. G. potwierdził otrzymanie dokumentacji przekazanej przez pracownicę i osobę ją wspierającą oraz zapowiedział jej analizę.
+
+- **01.04.2026:** mr. G. przedstawił pierwsze wyliczenie wynoszące około **3 503,05 EUR brutto**. Jednocześnie wskazał, że nie posiada wszystkich loonstrooków i że bez brakujących pasków wynagrodzenia nie może w pełni ocenić ewentualnego roszczenia.
+
+- **07.04.2026:** po otrzymaniu kolejnych dokumentów mr. G. poinformował, że Intrixo przekazało mu:
+
+  > „vrijwel alle ontbrekende loonstroken”
+
+  czyli **prawie wszystkie brakujące loonstrooki**.
+
+  Następnie przedstawił drugie wyliczenie w wysokości około **4 155,86 EUR brutto**. Już na tym etapie uznał, że po uwzględnieniu dokonanych płatności pracownicy nie przysługuje dalsze roszczenie wobec Intrixo.
+
+  Stanowisko o braku roszczenia zostało więc przedstawione mimo tego, że sam mr. G. potwierdzał, iż dokumentacja nadal nie była kompletna.
+
+- **08.04.2026:** pracownica i osoba ją wspierająca przesłały mr. G. pisemne zakwestionowanie jego obliczeń oraz stanowiska o braku dalszego roszczenia.
+
+  Wskazano konkretne błędy liczbowe, w tym dotyczące tygodnia **2023-W01**:
+
+  - loonstrook wskazywał **17 godzin 30 minut** oraz **224,96 EUR brutto**;
+  - w arkuszu mr. G. przyjęto **14 godzin 30 minut** oraz **203,17 EUR brutto**.
+
+  Zwrócono również uwagę na niejasne lub niepełne rozliczenie tygodni **2023-W47–W51** oraz konieczność ponownego porównania arkusza z dokumentami źródłowymi.
+
+  Tego samego dnia przekazano mr. G. również **własne częściowe obliczenia za 2023 r.**, wskazujące na wyższą należność niż wynikająca z jego kalkulacji.
+
+  Nie była to więc jedynie ogólna prośba o ponowne sprawdzenie sprawy, lecz konkretne wskazanie błędów wraz z własnym materiałem liczbowym.
+
+- **09.04.2026:** zwrócono się do mr. G. o jednoznaczne potwierdzenie, czy wystąpił do Intrixo o wszystkie nadal brakujące loonstrooki, oraz o odniesienie się do wskazanych błędów w obliczeniach.
+
+- **10.04.2026:** mr. G. poinformował, że sprawa wymaga dalszej analizy. Wskazał, że otrzymał od Intrixo wiele brakujących loonstrooków, i poprosił o przedstawienie wyciągów bankowych oraz transakcji z lat 2022–2025.
+
+- **10–15.04.2026:** pracownica i osoba ją wspierająca samodzielnie przygotowały oraz przekazały mr. G. uporządkowany pakiet dowodów bankowych.
+
+  Pakiet obejmował:
+
+  - **155 potwierdzeń płatności**;
+  - **1 wyciąg bankowy**;
+  - wpłaty od Voorne Putten Uitzendbureau i Intrixo B.V.;
+  - łączną kwotę wpływów wynoszącą około **48 465,71 EUR**.
+
+  Dokumentacja bankowa została przygotowana przez pracownicę w celu umożliwienia:
+
+  - przypisania przelewów do konkretnych tygodni i loonstrooków;
+  - oddzielenia zwykłych wypłat od zaliczki 5 000 EUR;
+  - porównania kwot netto z wartościami wynikającymi z pasków wynagrodzenia;
+  - ustalenia końcowego salda.
+
+  Pakiet bankowy nie pochodził od Intrixo i nie stanowił wykonania obowiązku wynikającego z proces-verbaal.
+
+- **15.04.2026:** wraz z materiałami przekazano mr. G. zbiorczy arkusz dotyczący loonstrooków, płatności i potrąceń.
+
+  Zwrócono jego uwagę na rozbieżność występującą na paskach wynagrodzenia:
+
+  > `Contracturen: 1:00 uur per week`
+
+  mimo że umowa o pracę przewidywała **32 godziny tygodniowo**.
+
+  Przekazane materiały obejmowały również dane dotyczące potrąceń i zamian wynagrodzenia, w tym pozycji `ET-uitruil`, kosztów zakwaterowania, ubezpieczenia, składek emerytalnych oraz innych korekt.
+
+- **28.04.2026:** mr. G. potwierdził otrzymanie kolejnej wiadomości i zapowiedział dalszą odpowiedź w następnym tygodniu.
+
+- **07.05.2026:** po otrzymaniu pisemnego wskazania błędów, własnych obliczeń pracownicy oraz pakietu dowodów bankowych mr. G. przedstawił poprawioną wersję kalkulacji.
+
+  Kwota wzrosła z około **4 155,86 EUR brutto** do **7 741,03 EUR brutto**. Oznaczało to zwiększenie wyniku o około **3 585,17 EUR brutto**.
+
+  Poprawienie kalkulacji po otrzymaniu uwag i własnych obliczeń pracownicy wskazywało, że wcześniejsze wyliczenie, na podstawie którego mr. G. uznał brak dalszego roszczenia, było istotnie zaniżone lub niepełne.
+
+  Mr. G. oszacował wartość netto nowej kwoty na około **4 400–4 600 EUR**. Następnie porównał ją z płatnościami przekraczającymi 5 600 EUR netto i ponownie uznał, że dalsze roszczenie nie istnieje.
+
+  Nie przedstawił jednak kompletnej tabeli pokazującej:
+
+  - w jaki sposób poszczególne przelewy zostały przypisane do tygodni i loonstrooków;
+  - które wypłaty stanowiły zwykłe wynagrodzenie;
+  - w jaki sposób rozliczono zaliczkę 5 000 EUR;
+  - jak rozliczono `ET-uitruil`, zakwaterowanie i pozostałe potrącenia;
+  - jak dokładnie przeliczono kwotę brutto na netto.
+
+  Wyliczenie obejmowało ponadto okres od **21.11.2022**, podczas gdy proces-verbaal wymagał wyliczenia należnego wynagrodzenia brutto od **06.05.2022**.
+
+- **07.05.2026:** po otrzymaniu poprawionego wyliczenia zwrócono się do mr. G. o pełne pisemne uzasadnienie stanowiska, zgodnie z którym dalsze roszczenie nie istnieje.
+
+  Zażądano między innymi:
+
+  - przedstawienia pełnej metody obliczeń;
+  - rozliczenia całego okresu od 06.05.2022;
+  - wyjaśnienia nadal brakujących loonstrooków;
+  - przedstawienia pełnego przejścia od brutto do netto;
+  - wskazania wszystkich uwzględnionych przelewów;
+  - przypisania przelewów do tygodni i loonstrooków;
+  - rozliczenia zaliczki 5 000 EUR;
+  - rozliczenia `ET-uitruil`, zakwaterowania i innych potrąceń;
+  - przedstawienia końcowego salda.
+
+- **08.05.2026:** mr. G. podtrzymał swoje stanowisko i poinformował, że nie rozpocznie dalszej procedury przeciwko Intrixo.
+
+  Wyjaśnił, że analizował tydzień po tygodniu, czy rozliczono co najmniej 32 godziny, a w przypadku braku loonstrooka przyjmował 32 godziny jako punkt wyjścia.
+
+  Jednocześnie wskazał, że przygotowanie pełnego rozliczenia w żądanym zakresie nie należało do jego zadania, oraz powołał się na ciężar dowodu spoczywający po stronie pracownicy.
+
+  Nie przedstawił jednak jednej końcowej tabeli obejmującej cały okres od 06.05.2022, wszystkie tygodnie, loonstrooki, płatności, potrącenia, zaliczkę 5 000 EUR oraz końcowe saldo.
+
+- **11.05.2026:** w formalnym piśmie wskazano, że sprawa nie dotyczyła wyłącznie technicznego przeliczenia brakujących godzin.
+
+  Podkreślono, że obejmowała również:
+
+  - wykonanie proces-verbaal;
+  - wyliczenie należnego wynagrodzenia brutto od 06.05.2022;
+  - gwarancję 32 godzin wynikającą z umowy Fase 4;
+  - brakujące loonstrooki;
+  - rozliczenie przelewów bankowych;
+  - rozliczenie zaliczki 5 000 EUR;
+  - rozliczenie `ET-uitruil`;
+  - rozliczenie kosztów zakwaterowania, ubezpieczenia i innych potrąceń;
+  - ustalenie końcowego salda;
+  - przekazanie pełnego dossier sprawy.
+
+  Zażądano pisemnego stanowiska oraz przekazania pełnej dokumentacji.
+
+- **20.05.2026:** pracownica ponownie zwróciła się do mr. G., wskazując, że nie otrzymała merytorycznej odpowiedzi na wiadomość z 11 maja ani pełnego dossier.
+
+  Wyznaczono siedmiodniowy termin na przekazanie odpowiedzi i dokumentacji.
+
+  W dostępnym pakiecie korespondencji nie ma późniejszej merytorycznej odpowiedzi ani jednej kompletnej, końcowej i możliwej do niezależnego sprawdzenia kalkulacji.
+
+#### Brak pełnego wyliczenia od Intrixo
+
+Intrixo przekazało mr. G. część brakujących loonstrooków, ale w dostępnej dokumentacji nie ma pełnego wyliczenia należnego wynagrodzenia brutto od 06.05.2022, wymaganego przez proces-verbaal.
+
+Nie przedstawiono jednego kompletnego rozliczenia obejmującego:
+
+- wszystkie tygodnie od 06.05.2022;
+- należne i faktycznie rozliczone godziny;
+- kwoty brutto i przejście do netto;
+- wszystkie loonstrooki oraz ich korekty;
+- przypisanie przelewów do okresów wynagrodzenia;
+- rozliczenie zaliczki 5 000 EUR;
+- pełne rozliczenie `ET-uitruil`;
+- koszty zakwaterowania;
+- ubezpieczenie;
+- składki emerytalne;
+- pozostałe potrącenia i korekty;
+- końcowe saldo należności.
+
+Przekazanie „prawie wszystkich” brakujących loonstrooków nie było tym samym co przedstawienie pełnego wyliczenia wymaganego przez proces-verbaal.
+
+#### Podsumowanie
+
+Wyliczenia mr. G. zmieniały się następująco:
+
+- około **3 503,05 EUR brutto**;
+- następnie około **4 155,86 EUR brutto**;
+- po pisemnym wskazaniu błędów oraz przekazaniu własnych obliczeń i dowodów bankowych przez pracownicę — **7 741,03 EUR brutto**.
+
+Mr. G. poprawił swoje obliczenia po interwencji pracownicy, zwiększając wynik o około **3 585 EUR brutto**, ale mimo tej zmiany nadal utrzymał stanowisko, że dalsze roszczenie nie istnieje.
+
+Nie przedstawiono jednak pełnego rozliczenia obejmującego okres od 06.05.2022, wszystkie loonstrooki, brakujące tygodnie, przelewy bankowe, `ET-uitruil`, pozostałe potrącenia, zaliczkę 5 000 EUR oraz końcowe saldo.
 ---
 
 ## 6) Korespondencja z MV Juridisch (WhatsApp)

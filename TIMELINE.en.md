@@ -108,6 +108,171 @@ Dates and descriptions are based on our documentation and the evidence report. T
 - Autumn 2024: **proces-verbaal** obtained by us from the court; MV Juridisch did not obtain court documents (per account)
 - **12/2024 – 01/2025:** requests for clarification/refund; refusal; dispute about final billing
 
+
+### Representative 3 – mr. G.
+
+- **25 February 2026:** mr. G. confirmed receipt of the first part of the required fee and the start of work on the matter. Invoice and legal-aid reference numbers remain non-public.
+
+- **2 March 2026:** mr. G. contacted Intrixo B.V. / Home of People concerning enforcement of the proces-verbaal of the District Court of The Hague dated 12 March 2024. He referred to the obligation arising from that document to provide a calculation of the gross wages due.
+
+  At the outset, the matter was therefore treated as concerning enforcement of the proces-verbaal, rather than only a technical calculation of part of the missing hours.
+
+- **25 March 2026:** mr. G. confirmed receipt of the documentation supplied by the worker and the person supporting her and announced that it would be analysed.
+
+- **1 April 2026:** mr. G. presented his first calculation, amounting to approximately **EUR 3,503.05 gross**. At the same time, he stated that he did not have all payslips and could not fully assess any potential claim without the missing payslips.
+
+- **7 April 2026:** after receiving further documents, mr. G. stated that Intrixo had provided him with:
+
+  > “vrijwel alle ontbrekende loonstroken”
+
+  meaning **almost all missing payslips**.
+
+  He then presented a second calculation of approximately **EUR 4,155.86 gross**. At that stage, he concluded that, after taking the payments made into account, the worker had no further wage claim against Intrixo.
+
+  The conclusion that no further claim existed was therefore reached even though mr. G. himself confirmed that the documentation was still incomplete.
+
+- **8 April 2026:** the worker and the person supporting her sent mr. G. a written challenge to his calculations and to his conclusion that no further claim existed.
+
+  They identified specific numerical errors, including an error concerning week **2023-W01**:
+
+  - the payslip showed **17 hours and 30 minutes** and **EUR 224.96 gross**;
+  - mr. G.'s spreadsheet used **14 hours and 30 minutes** and **EUR 203.17 gross**.
+
+  They also drew attention to the unclear or incomplete treatment of weeks **2023-W47–W51** and the need to compare the spreadsheet again with the source documents.
+
+  On the same day, mr. G. was also provided with the worker's **own partial calculations for 2023**, which indicated a higher amount due than the amount resulting from his calculation.
+
+  This was therefore not merely a general request to review the matter, but a specific identification of errors supported by the worker's own numerical material.
+
+- **9 April 2026:** mr. G. was asked to confirm unequivocally whether he had requested all payslips that were still missing from Intrixo and to respond to the identified errors in the calculations.
+
+- **10 April 2026:** mr. G. stated that the matter required further analysis. He said that he had received many missing payslips from Intrixo and requested bank statements and transaction records for 2022–2025.
+
+- **10–15 April 2026:** the worker and the person supporting her independently prepared and provided mr. G. with an organised bank-evidence package.
+
+  The package contained:
+
+  - **155 payment confirmations**;
+  - **1 bank statement**;
+  - payments from Voorne Putten Uitzendbureau and Intrixo B.V.;
+  - total incoming payments of approximately **EUR 48,465.71**.
+
+  The bank documentation was prepared by the worker to enable:
+
+  - payments to be matched to specific weeks and payslips;
+  - ordinary wage payments to be separated from the EUR 5,000 advance;
+  - net payments to be compared with the amounts shown on the payslips;
+  - the final balance to be established.
+
+  The bank-evidence package did not originate from Intrixo and did not constitute performance of the obligation arising from the proces-verbaal.
+
+- **15 April 2026:** the materials supplied to mr. G. included a consolidated spreadsheet concerning payslips, payments and deductions.
+
+  His attention was drawn to the discrepancy appearing on the payslips:
+
+  > `Contracturen: 1:00 uur per week`
+
+  even though the employment contract provided for **32 hours per week**.
+
+  The material also included information about deductions and wage exchanges, including `ET-uitruil`, housing costs, insurance, pension contributions and other adjustments.
+
+- **28 April 2026:** mr. G. confirmed receipt of another message and stated that he would respond further the following week.
+
+- **7 May 2026:** after receiving the written identification of errors, the worker's own calculations and the bank-evidence package, mr. G. presented a corrected version of his calculation.
+
+  The amount increased from approximately **EUR 4,155.86 gross** to **EUR 7,741.03 gross**, an increase of approximately **EUR 3,585.17 gross**.
+
+  The correction made after receipt of the worker's comments and calculations indicated that the earlier calculation, on which the conclusion of no further claim had been based, had been materially understated or incomplete.
+
+  Mr. G. estimated the net value of the new amount at approximately **EUR 4,400–4,600**. He then compared that estimate with payments exceeding EUR 5,600 net and again concluded that no further claim existed.
+
+  However, he did not provide a complete table showing:
+
+  - how each payment was matched to a specific week and payslip;
+  - which payments represented ordinary wages;
+  - how the EUR 5,000 advance was accounted for;
+  - how `ET-uitruil`, housing and other deductions were accounted for;
+  - how the gross amount was converted into the net amount.
+
+  Moreover, the calculation covered the period from **21 November 2022**, whereas the proces-verbaal required a calculation of the gross wages due from **6 May 2022**.
+
+- **7 May 2026:** after receiving the corrected calculation, mr. G. was asked to provide a full written justification for his conclusion that no further claim existed.
+
+  The request included, among other things:
+
+  - the complete calculation method;
+  - settlement of the entire period from 6 May 2022;
+  - an explanation of the payslips that were still missing;
+  - a complete gross-to-net calculation;
+  - identification of all bank payments taken into account;
+  - matching payments to specific weeks and payslips;
+  - accounting for the EUR 5,000 advance;
+  - accounting for `ET-uitruil`, housing and other deductions;
+  - presentation of the final balance.
+
+- **8 May 2026:** mr. G. maintained his position and stated that he would not commence further proceedings against Intrixo.
+
+  He explained that he had analysed, week by week, whether at least 32 hours had been accounted for and that, when a payslip was missing, he used 32 hours as the starting point.
+
+  At the same time, he stated that preparing a complete calculation in the requested scope was not part of his assignment and referred to the burden of proof resting on the worker.
+
+  He did not, however, provide one final table covering the entire period from 6 May 2022, all weeks, payslips, payments, deductions, the EUR 5,000 advance and the final balance.
+
+- **11 May 2026:** a formal letter stated that the matter did not concern only a technical calculation of missing hours.
+
+  It also concerned:
+
+  - enforcement of the proces-verbaal;
+  - calculation of the gross wages due from 6 May 2022;
+  - the 32-hour guarantee arising from the Phase 4 employment contract;
+  - missing payslips;
+  - reconciliation of bank payments;
+  - accounting for the EUR 5,000 advance;
+  - accounting for `ET-uitruil`;
+  - accounting for housing costs, insurance and other deductions;
+  - establishment of the final balance;
+  - transfer of the complete case file.
+
+  A written position and the complete documentation were requested.
+
+- **20 May 2026:** the worker again contacted mr. G., stating that she had received neither a substantive response to the message of 11 May nor the complete case file.
+
+  A seven-day deadline was set for the response and transfer of the documentation.
+
+  The available correspondence package contains no later substantive response and no single complete, final and independently verifiable calculation.
+
+#### No complete calculation from Intrixo
+
+Intrixo provided mr. G. with part of the missing payslips, but the available documentation contains no complete calculation of the gross wages due from 6 May 2022 as required by the proces-verbaal.
+
+No single complete settlement was provided covering:
+
+- all weeks from 6 May 2022;
+- the hours due and the hours actually accounted for;
+- gross amounts and the conversion to net amounts;
+- all payslips and their corrections;
+- matching payments to wage periods;
+- accounting for the EUR 5,000 advance;
+- complete accounting for `ET-uitruil`;
+- housing costs;
+- insurance;
+- pension contributions;
+- other deductions and adjustments;
+- the final balance due.
+
+Providing “almost all” missing payslips was not the same as providing the complete calculation required by the proces-verbaal.
+
+#### Summary
+
+Mr. G.'s calculations changed as follows:
+
+- approximately **EUR 3,503.05 gross**;
+- then approximately **EUR 4,155.86 gross**;
+- after the worker identified errors in writing and provided her own calculations and bank evidence — **EUR 7,741.03 gross**.
+
+Mr. G. corrected his calculations after the worker's intervention, increasing the result by approximately **EUR 3,585 gross**, but despite that change he continued to maintain that no further claim existed.
+
+No complete calculation was provided covering the period from 6 May 2022, all payslips, missing weeks, bank payments, `ET-uitruil`, other deductions, the EUR 5,000 advance and the final balance.
 ---
 
 ## 6) WhatsApp correspondence with MV Juridisch
