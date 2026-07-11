@@ -32,10 +32,14 @@
     .meta { font-size: .95rem; color: var(--muted); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Ga naar de hoofdinhoud</a>
   <div class="wrap">
-    <nav class="topnav"><a class="btn" href="index.html">NL start</a><a class="btn" href="belangrijkste-bevindingen.html">Belangrijkste bevindingen</a><a class="btn" href="timeline.html">Tijdlijn</a><a class="btn" href="dowody.html">Bewijzen</a><a class="btn" href="../pl/media.html">PL</a><a class="btn" href="../en/media.html">EN</a></nav>
+    <nav aria-label="Hoofdnavigatie" class="topnav"><a class="btn" href="index.html">NL start</a><a class="btn" href="belangrijkste-bevindingen.html">Belangrijkste bevindingen</a><a class="btn" href="timeline.html">Tijdlijn</a><a class="btn" href="dowody.html">Bewijzen</a><a class="btn" href="../pl/media.html">PL</a><a class="btn" href="../en/media.html">EN</a></nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card">
       <h1>Voor media en instanties</h1>
@@ -81,6 +85,11 @@
       <p class="source"><a href="../doc.html?file=README.nl.md">Volledige bronversie</a> · <a href="../README.nl.md">README.nl.md</a></p>
       <p><a href="index.html">NL start</a> · <a href="belangrijkste-bevindingen.html">Belangrijkste bevindingen</a> · <a href="timeline.html">Tijdlijn</a> · <a href="dowody.html">Bewijzen</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Juridische informatie">
+    <p>© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.</p>
+  </footer>
 </body>
 </html>

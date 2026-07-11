@@ -32,10 +32,14 @@
     .meta { font-size: .95rem; color: var(--muted); }
   </style>
   <link rel="stylesheet" href="../assets/public-polish.css">
+  <link rel="stylesheet" href="../assets/accessibility.css">
 </head>
 <body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
   <div class="wrap">
-    <nav class="topnav"><a class="btn" href="index.html">EN start</a><a class="btn" href="key-findings.html">Key findings</a><a class="btn" href="timeline.html">Timeline</a><a class="btn" href="dowody.html">Evidence</a><a class="btn" href="../pl/media.html">PL</a><a class="btn" href="../nl/media.html">NL</a></nav>
+    <nav aria-label="Main navigation" class="topnav"><a class="btn" href="index.html">EN start</a><a class="btn" href="key-findings.html">Key findings</a><a class="btn" href="timeline.html">Timeline</a><a class="btn" href="dowody.html">Evidence</a><a class="btn" href="../pl/media.html">PL</a><a class="btn" href="../nl/media.html">NL</a></nav>
+    <main id="main-content" tabindex="-1">
+
 
     <section class="card">
       <h1>For media and institutions</h1>
@@ -81,6 +85,11 @@
       <p class="source"><a href="../doc.html?file=README.en.md">Full source version</a> · <a href="../README.en.md">README.en.md</a></p>
       <p><a href="index.html">EN start</a> · <a href="key-findings.html">Key findings</a> · <a href="timeline.html">Timeline</a> · <a href="dowody.html">Evidence</a></p>
     </section>
-  </div>
+  
+    </main>
+</div>
+  <footer class="legal-footer" aria-label="Legal information">
+    <p>© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.</p>
+  </footer>
 </body>
 </html>
