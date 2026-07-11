@@ -107,6 +107,9 @@ Dates and descriptions are based on our documentation and the evidence report. T
 - **07–09/2024:** no real progress; difficult contact
 - Autumn 2024: **proces-verbaal** obtained by us from the court; MV Juridisch did not obtain court documents (per account)
 - **12/2024 – 01/2025:** requests for clarification/refund; refusal; dispute about final billing
+## 6) WhatsApp correspondence with MV Juridisch
+- MV Juridisch relied on information “from management/the other side” that a settlement existed and “cannot be broken.”
+- Suggestion appears that the representative “misled” and that “there is no appeal” (authors’ view: inconsistent with missing documents and the fact we had to obtain key documents ourselves).
 
 
 ### Representative 3 – mr. G.
@@ -278,11 +281,11 @@ No complete calculation was provided covering the period from 6 May 2022, all pa
 ## 6) WhatsApp correspondence with MV Juridisch
 - MV Juridisch relied on information “from management/the other side” that a settlement existed and “cannot be broken.”
 - Suggestion appears that the representative “misled” and that “there is no appeal” (authors’ view: inconsistent with missing documents and the fact we had to obtain key documents ourselves).
-- Throughout 2025 we continued requesting copies of court documents and the case status.
+
 
 ---
 
-# Complaint against a lawyer – Raad van Discipline (NL) (summary)
+# Complaint against a lawyer 1 – Raad van Discipline (NL) (summary)
 
 This section is a public summary of the disciplinary matter. Personal data, internal law-office references and evidence filenames remain non-public.
 
