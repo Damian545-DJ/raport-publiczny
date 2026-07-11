@@ -1,52 +1,143 @@
-[NL Version]
-# Intrixo B.V. – openbaar (geanonimiseerd) rapport over vermeende schendingen en het uitblijven van effectieve systeemreactie
+[Nederlandse versie]
 
-**TL;DR:** Deze repository bevat geanonimiseerde documentatie van een arbeidsgerelateerd geschil, inclusief loonadministratie, correspondentie en verwijzingen naar audio/video-bewijs. De zaak is gemeld bij nationale partijen en instanties die verband houden met werknemersbescherming, arbeidsmarkt en uitzendwerk, en blijft onderwerp van verdere verificatie.
+# Intrixo B.V. – openbaar geanonimiseerd rapport over arbeidsrechtelijke verwijten en effectieve bescherming
 
-**Status:** openbare versie (geanonimiseerd)
-**Laatste update:** 2026-06-30
-**Doel van de repo:** verificatie, aandacht creëren en steun verzamelen (juridisch/media/sociaal)
+**TL;DR:** Deze repository ordent geanonimiseerde documentatie van een arbeidsgeschil over loon, gegarandeerde uren, inhoudingen, huisvesting, juridische dienstverlening en institutionele reacties.
 
-## Hoe gebruik je deze repository (kort)
+**Status:** openbare geanonimiseerde versie  
+**Laatste update:** 2026-07-11  
+**Doel:** feitelijke verificatie en veilige verstrekking aan instanties, juristen en media mogelijk maken.
 
-1. Begin met de HTML-briefinglaag (`index.html`, `nl/index.html`, `nl/belangrijkste-bevindingen.html`, `nl/dowody.html`, `nl/timeline.html`).
-2. Ga daarna naar de Markdown-bronbestanden (`README`, `TIMELINE`, `EVIDENCE_INDEX`) voor volledige context.
-3. Lees alle uitspraken over mogelijke misstanden als verwijten/allegaties die verdere verificatie vereisen.
-4. GitHub Issues/Discussions zijn uitsluitend voor technische repozaken; mediacontact hoort via het LinkedIn-contactpad of een ander geverifieerd kanaal van de auteur te lopen.
-
-> Belangrijk: dit is een informatieve en maatschappelijke publicatie. We beschrijven feiten en conclusies op basis van documenten en opnamen in ons bezit. Alle uitspraken over schendingen moeten worden gelezen als **verwijten/allegaties**, niet als definitieve rechterlijke vaststellingen. Dit is geen juridisch advies.
+> Alle uitspraken over misstanden zijn verwijten die onafhankelijke verificatie vereisen. Deze repository is geen vonnis en geen juridisch advies.
 
 ---
 
-## Executive summary
+## Hoe deze repository te gebruiken
 
-- **Vastgelegde feiten:** de repository bevat een tijdlijn, loon-/afrekeningsgegevens, correspondentielogs en geanonimiseerde beschrijvingen van incidenten rond huisvesting en privacy.
-- **Beschikbaar bewijs:** loonstroken, communicatierecords en audio/video-materiaal (alleen gedeeld met bevoegde instanties of vertegenwoordigers op gemotiveerd verzoek).
-- **Huidige fase:** de geanonimiseerde publieke versie blijft beschikbaar terwijl de zaak in afwachting is van verdere institutionele/juridische opvolging en formele reacties.
-
----
-
-## Aanvullende documentatie
-
-De repository bevat ook aanvullend contextmateriaal over publiek beschikbare informatie en gedocumenteerde inconsistenties die verband houden met de bredere context van de zaak. Dit materiaal is aanvullend van aard en vormt op zichzelf geen definitieve rechterlijke vaststelling.
-
-- [Publieke context van entiteiten en de Home of People-groep](doc.html?file=PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md) · [raw](PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md)
-- De hoofdcore van deze repository blijft de Intrixo-zaak en de bijbehorende bron-documentatie.
+- Begin met de HTML-pagina's in de map `nl/`.
+- Lees daarna `TIMELINE.nl.md`, `EVIDENCE_INDEX.nl.md` en `ALLEGATIONS_AND_LAW.nl.md`.
+- Volledig bewijs met gevoelige gegevens wordt niet openbaar gepubliceerd.
+- De PL-, EN- en NL-versies hebben een gelijkwaardige structuur en reikwijdte.
 
 ---
 
-## Waarom we dit publiek maken
+## Kern van de zaak
 
-Omdat we zien dat zonder publiciteit:
-
-- een zaak kan verdwijnen in procedures,
-- instanties weken/maanden kunnen zwijgen,
-- een werknemer alleen blijft met bewijs, kosten en stress.
-
-Onze ervaring is hard en simpel: het bewijs is er, maar effectiviteit ontbreekt.
+- een geschil over een fase-C contract voor onbepaalde tijd en een garantie van 32 uur per week,
+- een geschil over verschuldigd loon, ontbrekende periodes, inhoudingen en correcties,
+- vragen over uitzendhuisvesting, privacy en economische afhankelijkheid,
+- problemen met dossieroverdracht en afronding door opeenvolgende gemachtigden,
+- het ontbreken van een duidelijke, volledige en verifieerbare reactie van sommige instanties.
 
 ---
 
-## Over wie gaat het (kort)
+## Proces-verbaal van 12 maart 2024
 
-Het openbare rapport gaat over een arbeidsgeschil rond **Intrixo B.V. / Voorneputten** en vragen over loonadministratie, inhoudingen, huisvesting, juridische hulp en institutionele reacties. Persoonsgegevens van privépersonen zijn uit de publieke laag verwijderd.
+Het proces-verbaal legde geen algemene opdracht aan beide partijen op.
+
+Intrixo moest binnen twee weken aan de gemachtigde van de werkneemster verstrekken:
+
+> “een berekening van het sinds 6 mei 2022 verschuldigde bruto loon”.
+
+Dit betekent een berekening van het sinds 6 mei 2022 verschuldigde bruto loon. Een afzonderlijk onderdeel was het voorschot van € 5.000 op achterstallig loon.
+
+---
+
+## Wat een verifieerbare berekening moet bevatten
+
+- het saldo van het sinds 6 mei 2022 verschuldigde bruto loon,
+- een vergelijking per week van verschuldigde uren, geregistreerde uren en het verschil,
+- een verklaring voor weken zonder loonstrook of met nul uren,
+- brutocomponenten, toeslagen, vakantiereserves en correcties,
+- inhoudingen voor huisvesting, verzekering, pensioen en overige posten,
+- de bruto-nettoberekening en koppeling van bankbetalingen aan loonperioden.
+
+---
+
+## Belangrijkste bewijscategorieën
+
+- het proces-verbaal en gerechtelijke correspondentie,
+- contracten en loonstukken,
+- overzichten van uren, ontbrekende weken en inhoudingen,
+- bankbetalingsbewijzen,
+- correspondentie met het bureau, gemachtigden en instanties,
+- geanonimiseerde beschrijvingen van audio- en videomateriaal.
+
+---
+
+## Reikwijdte van de verwijten
+
+- niet naleven van gegarandeerde uren en volledige loonbetaling in periodes zonder werk,
+- onduidelijke of buitensporige inhoudingen,
+- late of onvolledige afrekeningen,
+- geen volledige uitvoering van de verplichting uit het proces-verbaal,
+- ineffectieve juridische dienstverlening en problemen bij het verkrijgen van het dossier,
+- onvoldoende reactie van toezichthoudende en hulpverlenende instanties.
+
+---
+
+## Home of People – publieke context
+
+Een afzonderlijke sectie beschrijft de publieke context van de Home of People-groep en entiteiten die in het materiaal voorkomen. De benadering is documentair, terughoudend en vergelijkend.
+
+Een organisatorisch of historisch verband bewijst geen verantwoordelijkheid voor een concreet voorval. De volledige PL-, EN- en NL-versies behandelen dezelfde inhoud zonder exacte huisvestingsadressen, werklocaties of gegevens van privéwerknemers.
+
+---
+
+## Anonimisering
+
+- persoonsgegevens en initialen van privéwerknemers zijn verwijderd,
+- de exacte huisvesting en werkplek worden niet genoemd,
+- documentnummers, bankrekeningen, handtekeningen, gezichten en ruwe opnamen worden niet gepubliceerd,
+- openbare bedrijfsnamen en uitspraaknummers worden alleen gebruikt om bronnen te identificeren.
+
+---
+
+## Belangrijkste bestanden
+
+- `TIMELINE.nl.md` – chronologie,
+- `PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md` – volledig openbaar rapport,
+- `sezer-duygulu/README.nl.md` – Home of People-context,
+- `EVIDENCE_INDEX.nl.md` – bewijsindex,
+- `ANONYMIZATION.nl.md` – anonimiseringsregels,
+- `DISCLAIMER.nl.md` – voorbehoud.
+
+---
+
+## Hoe te helpen
+
+- controleer de samenhang van data, bedragen en beschrijvingen,
+- wijs op een ontbrekend document of vertaalfout,
+- help bij loon- of juridische analyse,
+- meld correcties via een GitHub Issue zonder gevoelige gegevens te publiceren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end of equivalent language version -->

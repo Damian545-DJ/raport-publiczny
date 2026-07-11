@@ -1,25 +1,185 @@
-# Kontekst publiczny podmiotów i grupy Home of People
+[Wersja polska]
 
-Ten plik jest neutralnym, publicznym opisem kontekstu organizacyjnego. Ma charakter informacyjny i pomocniczy wobec głównego raportu dotyczącego sprawy Intrixo.
+# Sezer Duygulu i Home of People – publiczny kontekst podmiotów i udokumentowanych niespójności
 
-Materiał nie stanowi wyroku, oskarżenia ani przypisania odpowiedzialności żadnej osobie lub podmiotowi. Każda informacja powinna być sprawdzana w źródłach pierwotnych, rejestrach, oficjalnych publikacjach i dokumentach.
+Ta sekcja uzupełnia główny raport o publiczny kontekst organizacyjny. Nie stanowi oskarżenia, wyroku ani automatycznego przypisania odpowiedzialności konkretnej osobie.
 
-## Cel
+Nazwisko osoby publicznie powiązanej z działalnością gospodarczą jest używane wyłącznie w zakresie koniecznym do identyfikacji publicznych materiałów. Dane prywatnych pracowników, dokładne miejsca zakwaterowania i miejsca pracy zostały usunięte.
 
-Celem tej sekcji jest pokazanie, że sprawa Intrixo funkcjonuje w szerszym otoczeniu podmiotów działających w sektorze pracy tymczasowej, rekrutacji, zakwaterowania i rozliczeń pracowników migrujących.
+---
 
-Samo istnienie powiązań organizacyjnych, marketingowych lub historycznych nie przesądza odpowiedzialności za konkretne zdarzenia. Ma jedynie znaczenie kontekstowe.
+## 1. Cel i metodologia
 
-## Zakres
+- zestawienie publicznie dostępnych informacji o grupie i markach,
+- oddzielenie potwierdzonych źródeł od ocen i pytań wymagających dalszej kontroli,
+- pokazanie kontekstu dla indywidualnej sprawy Intrixo,
+- stosowanie ostrożnego języka i zasady, że powiązanie nie oznacza odpowiedzialności.
 
-W publicznych materiałach jako kontekst pojawiają się m.in. podmioty i marki takie jak Home of People, Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten i Masterteam.
+---
 
-Ten kontekst może być istotny dla instytucji, pełnomocników, organizacji i mediów, ponieważ sprawa dotyczy modelu, w którym praca, zakwaterowanie, rozliczenia i zależność ekonomiczna pracownika mogą się łączyć.
+## 2. Podmioty pojawiające się w publicznym kontekście
 
-## Zasady bezpieczeństwa publicznej wersji
+- Home of People
+- Uitzendbureau Solutions
+- Intrixo / Voorneputten
+- T&S Flexwerk
+- NWH Jobs
+- Efficient at Work
+- Masterteam
 
-W wersji publicznej nie należy publikować danych prywatnych, dokładnych danych zakwaterowania, numerów pokoi, surowych nagrań, twarzy, głosów, numerów dokumentów, kont bankowych ani innych elementów identyfikujących.
+---
 
-Bezpieczne podsumowanie:
+## 3. Charakter powiązań
 
-> Publiczne źródła i dokumentacja sprawy pokazują sygnały wymagające dalszej weryfikacji. Nie stanowią same w sobie prawomocnego ustalenia winy konkretnej osoby ani odpowiedzialności konkretnego podmiotu.
+Publiczne materiały branżowe i korporacyjne opisują Home of People jako grupę skupiającą lub przejmującą marki działające w pracy tymczasowej, rekrutacji i usługach dla pracowników migrujących.
+
+Samo istnienie powiązania kapitałowego, organizacyjnego, marketingowego lub historycznego nie przesądza odpowiedzialności za zachowanie innego podmiotu. Może jednak mieć znaczenie dla zrozumienia modelu operacyjnego i sposobu nadzoru.
+
+---
+
+## 4. Publiczna oś konsolidacji
+
+- 2022 – komunikowana zmiana marki Solutions Group na Home of People,
+- 2023 – publiczne informacje o dołączeniu NWH Jobs,
+- 2024 – publiczne informacje o przejęciu Efficient at Work,
+- 2025 – publiczne materiały dotyczące przejęcia Intrixo i Masterteam,
+- daty i zakres każdej transakcji należy każdorazowo weryfikować w źródłach pierwotnych.
+
+---
+
+## 5. Publicznie dostępne orzeczenia i ślady spraw
+
+- Uitzendbureau Solutions – ECLI:NL:RBDHA:2017:10292
+- Uitzendbureau Solutions – ECLI:NL:GHDHA:2020:460
+- Uitzendbureau Solutions – ECLI:NL:GHDHA:2021:1511
+- Uitzendbureau Solutions – ECLI:NL:HR:2023:426
+- Intrixo B.V. – ECLI:NL:RBDHA:2025:14934
+- T&S-related employment context – ECLI:NL:RBROT:2023:5934
+- T&S-related employment context – ECLI:NL:GHDHA:2025:577
+
+---
+
+## 6. Znaczenie orzeczeń
+
+Wskazane sygnatury służą do odnalezienia publicznych źródeł. Nie wszystkie sprawy mają ten sam charakter, nie wszystkie były prowadzone bezpośrednio przeciwko każdemu wymienionemu podmiotowi, a ich wynik nie może być automatycznie przenoszony na inną sprawę.
+
+Najsilniejszy publiczny ciąg orzeczniczy dotyczy Uitzendbureau Solutions i zagadnienia zakończenia stosunku pracy w związku z chorobą oraz późniejszego rozliczenia wynagrodzenia. Osobno występuje publiczna sprawa pracownicza dotycząca Intrixo.
+
+---
+
+## 7. Indywidualna sprawa Intrixo
+
+- główny raport opisuje umowę fazy C i gwarancję 32 godzin,
+- dokumentacja zawiera sporne rozliczenia godzin, wynagrodzenia i potrąceń,
+- proces-verbaal wymagał od Intrixo wyliczenia brutto od 6 maja 2022 r.,
+- sekcja grupowa nie zastępuje analizy dokumentów konkretnej pracownicy.
+
+---
+
+## 8. Model praca–zakwaterowanie
+
+- łączenie zatrudnienia, transportu i zakwaterowania może zwiększać zależność ekonomiczną pracownika,
+- potrącenia i utrata pracy mogą bezpośrednio wpływać na sytuację mieszkaniową,
+- jest to ryzyko systemowe wymagające przejrzystych procedur,
+- sam model nie dowodzi naruszenia w konkretnym przypadku.
+
+---
+
+## 9. Udokumentowane niespójności
+
+- autorzy wskazują rozbieżności pomiędzy korespondencją, planowaniem, dokumentami płacowymi i późniejszymi wyjaśnieniami,
+- każda rozbieżność powinna zostać oceniona na podstawie pełnego źródła i chronologii,
+- repozytorium rozróżnia dokument, relację autora i wniosek wymagający weryfikacji.
+
+---
+
+## 10. Ograniczenia badania
+
+- publiczne rejestry mogą być niepełne lub płatne,
+- struktury właścicielskie i funkcje osób mogą zmieniać się w czasie,
+- brak znalezionego orzeczenia nie oznacza braku innych postępowań,
+- informacje wtórne powinny być potwierdzane dokumentem pierwotnym.
+
+---
+
+## 11. Zasady anonimizacji
+
+- nie publikujemy dokładnych adresów zakwaterowania ani miejsc pracy,
+- nie publikujemy inicjałów prywatnych pracowników,
+- nie publikujemy numerów dokumentów, rachunków, podpisów, twarzy i surowych nagrań,
+- nazwy spółek i sygnatury pozostają wyłącznie tam, gdzie są konieczne do identyfikacji publicznego źródła.
+
+---
+
+## 12. Wniosek
+
+Publiczny materiał uzasadnia dalszą, spokojną weryfikację sposobu zarządzania ryzykiem pracowniczym, dokumentacją, potrąceniami i zakwaterowaniem w opisanym ekosystemie.
+
+Nie stanowi on prawomocnego ustalenia osobistej winy Sezera Duygulu ani automatycznej odpowiedzialności Home of People lub każdej marki za działania innego podmiotu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->

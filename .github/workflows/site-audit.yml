@@ -25,3 +25,6 @@ jobs:
 
       - name: Complete site quality audit
         run: python scripts/check_complete_site.py
+
+      - name: Check PL EN NL language parity and anonymization
+        run: python scripts/check_language_parity.py
