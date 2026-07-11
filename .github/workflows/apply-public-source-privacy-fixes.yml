@@ -58,6 +58,7 @@ jobs:
               path.write_text(path.read_text(encoding='utf-8').replace(old, new), encoding='utf-8')
           PY
           rm -f scripts/apply_public_source_privacy_fixes.py
+          git checkout HEAD -- .github/workflows/site-audit.yml
 
       - name: Run repository audits
         run: |
