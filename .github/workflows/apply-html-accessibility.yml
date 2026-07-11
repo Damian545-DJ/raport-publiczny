@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - agent/fix-html-accessibility
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
