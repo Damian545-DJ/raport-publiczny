@@ -50,11 +50,6 @@ jobs:
           echo "FINAL_STATUS=$status" >> scripts/public_fix_audit.txt
           cat scripts/public_fix_audit.txt
 
-      - name: Remove one-time migration files
-        run: |
-          rm -f scripts/apply_public_source_privacy_fixes.py
-          rm -f .github/workflows/apply-public-source-privacy-fixes.yml
-
       - name: Commit changes and audit record
         run: |
           git config user.name "github-actions[bot]"
