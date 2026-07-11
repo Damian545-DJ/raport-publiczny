@@ -1,0 +1,80 @@
+name: Run HTML accessibility migration
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout accessibility branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/fix-html-accessibility
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Repair migration helper
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('scripts/fix_html_accessibility.py')
+          text = path.read_text(encoding='utf-8')
+
+          start = text.index('    wrapper = re.search(\n')
+          end_marker = '    else:\n        wrapper_close = None\n'
+          end = text.index(end_marker, start) + len(end_marker)
+          replacement = '''    wrapper_pattern = re.compile(
+              r'<div\\b[^>]*\\bclass=["\\\'][^"\\\']*\\b(?:wrap|container)\\b[^"\\\']*["\\\'][^>]*>',
+              re.I,
+          )
+          wrapper = wrapper_pattern.search(text, body.end())
+          wrapper_close = find_matching_div_close(text, wrapper) if wrapper else None
+          '''
+          text = text[:start] + replacement + text[end:]
+
+          start = text.index("    text = re.sub(\n        r'<article")
+          end_marker = '    text = re.sub(r"</article>", "</main>", text, count=1, flags=re.I)\n'
+          end = text.index(end_marker, start) + len(end_marker)
+          replacement = '''    text = text.replace(
+              '<article class="markdown-body md" id="content">Ładuję…</article>',
+              '<main class="markdown-body md" id="main-content" tabindex="-1">Ładuję…</main>',
+          )
+          text = text.replace('getElementById("content")', 'getElementById("main-content")')
+          '''
+          text = text[:start] + replacement + text[end:]
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Apply semantic HTML and accessibility fixes
+        run: python scripts/fix_html_accessibility.py
+
+      - name: Run HTML accessibility audit
+        run: python scripts/check_html_accessibility.py
+
+      - name: Run existing repository audits
+        run: |
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
+
+      - name: Commit final changes to branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Fix HTML semantics and keyboard accessibility"
+          git push origin HEAD:agent/fix-html-accessibility
