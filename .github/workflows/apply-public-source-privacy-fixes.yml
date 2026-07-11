@@ -29,6 +29,30 @@ jobs:
       - name: Apply source and privacy changes
         run: python scripts/apply_public_source_privacy_fixes.py
 
+      - name: Remove obsolete article number from explanatory text
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          replacements = {
+              'home-of-people/README.pl.md': (
+                  'Błędny numer artykułu GroentenNieuws 9486553 został zastąpiony numerem 9487775.',
+                  'Błędny numer artykułu GroentenNieuws został zastąpiony poprawnym numerem 9487775.',
+              ),
+              'home-of-people/README.en.md': (
+                  'The incorrect GroentenNieuws article number 9486553 was replaced with 9487775.',
+                  'The incorrect GroentenNieuws article number was replaced with the correct number 9487775.',
+              ),
+              'home-of-people/README.nl.md': (
+                  'Het onjuiste GroentenNieuws-artikelnummer 9486553 is vervangen door 9487775.',
+                  'Het onjuiste GroentenNieuws-artikelnummer is vervangen door het correcte nummer 9487775.',
+              ),
+          }
+          for name, (old, new) in replacements.items():
+              path = Path(name)
+              value = path.read_text(encoding='utf-8').replace(old, new)
+              path.write_text(value, encoding='utf-8')
+          PY
+
       - name: Run and record repository audits
         run: |
           set +e
@@ -54,12 +78,15 @@ jobs:
         run: |
           rm -rf /tmp/public-fix-package
           mkdir -p /tmp/public-fix-package/changed
-          git diff --name-only --diff-filter=AMCR HEAD > /tmp/public-fix-package/changed.txt
+          {
+            git diff --name-only --diff-filter=AMCR HEAD
+            git ls-files --others --exclude-standard
+          } | sort -u > /tmp/public-fix-package/changed.txt
           git diff --name-only --diff-filter=D HEAD > /tmp/public-fix-package/deleted.txt
           while IFS= read -r file; do
             [ -z "$file" ] && continue
             case "$file" in
-              scripts/apply_public_source_privacy_fixes.py|.github/workflows/apply-public-source-privacy-fixes.yml|scripts/public_fix_audit.txt)
+              scripts/apply_public_source_privacy_fixes.py|.github/workflows/apply-public-source-privacy-fixes.yml|scripts/public_fix_audit.txt|public-fix-package.tar.gz)
                 continue
                 ;;
             esac
@@ -77,6 +104,6 @@ jobs:
       - name: Upload generated changes
         uses: actions/upload-artifact@v4
         with:
-          name: public-source-privacy-fixes
+          name: public-source-privacy-fixes-v2
           path: public-fix-package.tar.gz
           if-no-files-found: error
