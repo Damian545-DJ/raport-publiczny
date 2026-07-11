@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   apply:
@@ -50,10 +50,33 @@ jobs:
           echo "FINAL_STATUS=$status" >> scripts/public_fix_audit.txt
           cat scripts/public_fix_audit.txt
 
-      - name: Commit changes and audit record
+      - name: Package changed files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Fix public sources and reduce privacy risk"
-          git push origin HEAD:agent/fix-public-sources-and-privacy
+          rm -rf /tmp/public-fix-package
+          mkdir -p /tmp/public-fix-package/changed
+          git diff --name-only --diff-filter=AMCR HEAD > /tmp/public-fix-package/changed.txt
+          git diff --name-only --diff-filter=D HEAD > /tmp/public-fix-package/deleted.txt
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            case "$file" in
+              scripts/apply_public_source_privacy_fixes.py|.github/workflows/apply-public-source-privacy-fixes.yml|scripts/public_fix_audit.txt)
+                continue
+                ;;
+            esac
+            mkdir -p "/tmp/public-fix-package/changed/$(dirname "$file")"
+            cp "$file" "/tmp/public-fix-package/changed/$file"
+          done < /tmp/public-fix-package/changed.txt
+          printf '%s\n' \
+            'scripts/apply_public_source_privacy_fixes.py' \
+            '.github/workflows/apply-public-source-privacy-fixes.yml' \
+            >> /tmp/public-fix-package/deleted.txt
+          sort -u /tmp/public-fix-package/deleted.txt -o /tmp/public-fix-package/deleted.txt
+          cp scripts/public_fix_audit.txt /tmp/public-fix-package/audit.txt
+          tar -C /tmp/public-fix-package -czf public-fix-package.tar.gz .
+
+      - name: Upload generated changes
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-source-privacy-fixes
+          path: public-fix-package.tar.gz
+          if-no-files-found: error
