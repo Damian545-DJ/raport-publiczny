@@ -26,16 +26,9 @@ def apply_payload() -> None:
     packed = base64.b85decode(encoded.encode("ascii"))
 
     payload = packed
-    decoder_name = "none"
-    for name, decoder in (
-        ("zlib", zlib.decompress),
-        ("gzip", gzip.decompress),
-        ("bz2", bz2.decompress),
-        ("lzma", lzma.decompress),
-    ):
+    for decoder in (zlib.decompress, gzip.decompress, bz2.decompress, lzma.decompress):
         try:
             payload = decoder(packed)
-            decoder_name = name
             break
         except Exception:
             continue
@@ -75,7 +68,7 @@ def apply_payload() -> None:
 
 try:
     apply_payload()
-except Exception:
+except BaseException:
     ERROR_FILE.write_text(traceback.format_exc(), encoding="utf-8")
     raise
 else:
