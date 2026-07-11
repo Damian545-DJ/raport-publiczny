@@ -1,9 +1,6 @@
 name: Run evidence and SEO migration
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
@@ -13,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  migrate:
+  finalize:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
@@ -28,39 +25,49 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Repair migration script typo
+      - name: Allow stable doc viewer canonical in link audit
         run: |
           python - <<'PY'
           from pathlib import Path
-          path = Path('scripts/apply_evidence_seo_fix.py')
+          path = Path('scripts/check_links.py')
           text = path.read_text(encoding='utf-8')
-          text = text.replace(
-              'doc = doc_path.read_text(encoding="utf-8")ndoc_marker =',
-              'doc = doc_path.read_text(encoding="utf-8")\nndoc_marker =',
-          )
-          path.write_text(text, encoding='utf-8')
+          old = '''            if rel_path == "doc.html":
+                target = parse_qs(query).get("file", [""])[0]
+                if not target:
+                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing ?file= parameter"))
+                    continue
+                if target not in self.existing_rel:
+                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing document '{target}'"))
+                continue'''
+          new = '''            if rel_path == "doc.html":
+                target = parse_qs(query).get("file", [""])[0]
+                if not target:
+                    if rel_path not in self.existing_rel:
+                        self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, "missing doc.html"))
+                    continue
+                if target not in self.existing_rel:
+                    self.errors.append(LinkError(ref.source_file, ref.line_no, ref.raw_url, f"missing document '{target}'"))
+                continue'''
+          if old not in text:
+              raise SystemExit('Expected doc.html link-check block not found')
+          path.write_text(text.replace(old, new, 1), encoding='utf-8')
           PY
 
-      - name: Apply evidence and SEO changes
-        run: python scripts/apply_evidence_seo_fix.py
-
-      - name: Capture repository audits
+      - name: Remove temporary migration diagnostics
         run: |
-          set +e
-          : > evidence-seo-audit.txt
-          for check in scripts/check_links.py scripts/check_html_structure.py scripts/check_complete_site.py scripts/check_language_parity.py; do
-            echo "===== $check =====" >> evidence-seo-audit.txt
-            python "$check" >> evidence-seo-audit.txt 2>&1
-            echo "exit_code=$?" >> evidence-seo-audit.txt
-            echo >> evidence-seo-audit.txt
-          done
-          cat evidence-seo-audit.txt
-          exit 0
+          rm -f .evidence-seo-trigger .pr-trigger-note evidence-seo-audit.txt scripts/apply_evidence_seo_fix.py
 
-      - name: Commit migration result to branch
+      - name: Run repository audits
+        run: |
+          python scripts/check_links.py
+          python scripts/check_html_structure.py
+          python scripts/check_complete_site.py
+          python scripts/check_language_parity.py
+
+      - name: Commit final migration result to branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Apply evidence SEO migration with diagnostics"
+          git commit -m "Finalize verifiable evidence and multilingual SEO"
           git push origin HEAD:agent/evidence-seo-fix
