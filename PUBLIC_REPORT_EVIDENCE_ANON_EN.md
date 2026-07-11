@@ -181,3 +181,5 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->

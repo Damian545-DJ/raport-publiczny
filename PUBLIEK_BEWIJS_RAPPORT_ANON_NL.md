@@ -181,3 +181,5 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->

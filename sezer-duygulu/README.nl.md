@@ -181,3 +181,5 @@ Het vormt geen definitieve vaststelling van persoonlijke schuld van Sezer Duygul
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->

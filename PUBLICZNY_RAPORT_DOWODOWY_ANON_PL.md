@@ -181,3 +181,5 @@ Było to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r., a nie og�
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->
