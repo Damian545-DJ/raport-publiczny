@@ -221,14 +221,13 @@ The worker reported a negative balance. The helpdesk explained that, with few ho
 
 - **13 Oct 2025:** Juridisch Loket takes over
 
-- **20.01.2026:** information was provided that the preliminary procedure had ended after contact with the employer; internal case references were removed.
+- **03 Dec 2025:** SNCU registered the report; the internal reference was removed from the public version.
 
 - **15 Dec 2025:** consent for SNCU to act on behalf of Worker 2
 
 
 ### January 2026 – evidence submitted and case closed
 - **04 Jan 2026:** key evidence sent to SNCU: “minus/debt”, 61.11h holiday, communication pressure, missing final settlement and questions about corrections.
-  ( + screenshots)
 - **20 Jan 2026:** after contact with an employer representative, SNCU closed the case; no full explanation was provided for the grounds of the decision.
 - **20.01.2026:** information was provided that the preliminary procedure had ended after contact with the employer; internal case references were removed.
 - **20 Jan 2026:** objection to the case closure submitted (with reference to the evidence basis) – waiting for a response.
