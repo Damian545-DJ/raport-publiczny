@@ -181,3 +181,5 @@ It does not constitute a final finding of personal guilt by Sezer Duygulu or aut
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->

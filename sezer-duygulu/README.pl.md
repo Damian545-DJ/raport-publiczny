@@ -181,3 +181,5 @@ Nie stanowi on prawomocnego ustalenia osobistej winy Sezera Duygulu ani automaty
 
 
 <!-- end of equivalent language version -->
+<!-- equivalent language version: verified -->
+<!-- public anonymization: verified -->
