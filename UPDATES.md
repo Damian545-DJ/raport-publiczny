@@ -1,5 +1,18 @@
 # Updates
 
+## 2026-07-11
+
+PL
+- Zaktualizowano widoczne daty aktualizacji publicznej strony po dodaniu osi czasu Pełnomocnika 3 w wersjach PL/EN/NL.
+
+EN
+- Updated the visible public-site dates after adding the Representative 3 timeline in PL/EN/NL.
+
+NL
+- De zichtbare updatedatums van de publieke website zijn bijgewerkt na toevoeging van de tijdlijn van Gemachtigde 3 in PL/EN/NL.
+
+---
+
 ## 2026-06-30
 
 PL
