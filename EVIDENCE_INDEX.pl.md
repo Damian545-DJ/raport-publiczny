@@ -54,7 +54,7 @@ Wersja publiczna może zawierać:
 
 ---
 
-# Indeks dowodów — Pracownica B
+# Indeks dowodów — Pracownica 1
 
 ## A) Dokumenty sądowe / proceduralne
 
@@ -71,14 +71,14 @@ Wersja publiczna może zawierać:
 ## B) Zatrudnienie / umowa
 
 ### E-PB-010 — Umowa i dokumenty zatrudnienia
-- **Nośnik publiczny:** `overeenkomst-Pracownica_B.zip` jako nazwa zanonimizowana.
+- **Nośnik publiczny:** `overeenkomst-Pracownica_1.zip` jako nazwa zanonimizowana.
 - **Co to udowadnia:** warunki zatrudnienia, podstawę porównań z rozliczeniami oraz wymiar godzin.
 - **Widoczność:** FULL-ONLY.
 
 ## C) Wynagrodzenia / rozliczenia
 
 ### E-PB-020 — Paski płacowe / loonspecificaties Pracownicy B
-- **Nośnik publiczny:** `Loonspecificatie_Pracownica_B.zip` jako nazwa zanonimizowana.
+- **Nośnik publiczny:** `Loonspecificatie_Pracownica_1.zip` jako nazwa zanonimizowana.
 - **Zakres:** wybrane tygodnie rozliczeniowe z lat objętych sporem.
 - **Co to udowadnia:** godziny, stawki, potrącenia, salda, urlop i dodatki.
 - **Widoczność:** FULL-ONLY.
@@ -136,7 +136,7 @@ Wersja publiczna może zawierać:
 
 ---
 
-# Indeks dowodów — Pracownik A
+# Indeks dowodów — Pracownik 2
 
 ## A) Paski płacowe / wynagrodzenia
 
@@ -195,11 +195,11 @@ W publicznej wersji nie należy publikować pełnych nazw plików, jeżeli nazwa
 
 Zamiast tego stosować nazwy opisowe:
 
-- `overeenkomst-Pracownica_B.zip`
-- `Loonspecificatie_Pracownica_B.zip`
-- `Pracownica_B_vs_Intrixo_proces-verbaal_REDACTED.pdf`
+- `overeenkomst-Pracownica_1.zip`
+- `Loonspecificatie_Pracownica_1.zip`
+- `Pracownica_1_vs_Intrixo_proces-verbaal_REDACTED.pdf`
 - `Zakwaterowanie_material_video_REDACTED.pdf`
-- `Zgloszenia_instytucje_Pracownik_A_REDACTED.zip`
+- `Zgloszenia_instytucje_Pracownik_2_REDACTED.zip`
 
 ---
 

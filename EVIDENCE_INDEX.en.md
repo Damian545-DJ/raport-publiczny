@@ -54,7 +54,7 @@ The public version may contain:
 
 ---
 
-# Evidence index — Worker B
+# Evidence index — Worker 1
 
 ## A) Court / procedural documents
 
@@ -77,7 +77,7 @@ The public version may contain:
 
 ## C) Pay / settlement
 
-### E-WB-020 — Payslips / loonspecificaties for Worker B
+### E-WB-020 — Payslips / loonspecificaties for Worker 1
 - **Public carrier:** anonymized filename only.
 - **Range:** selected payroll weeks from the disputed period.
 - **What it supports:** hours, rates, deductions, balances, leave and allowances.
@@ -136,7 +136,7 @@ The public version may contain:
 
 ---
 
-# Evidence index — Worker A
+# Evidence index — Worker 2
 
 ## A) Payslips / wages
 
@@ -195,11 +195,11 @@ The public version must not publish full filenames if a filename contains a surn
 
 Use descriptive names instead, for example:
 
-- `employment-contract-Worker_B_REDACTED.zip`
-- `payslips-Worker_B_REDACTED.zip`
-- `Worker_B_vs_Intrixo_proces-verbaal_REDACTED.pdf`
+- `employment-contract-Worker_1_REDACTED.zip`
+- `payslips-Worker_1_REDACTED.zip`
+- `Worker_1_vs_Intrixo_proces-verbaal_REDACTED.pdf`
 - `agency-accommodation-video-material_REDACTED.pdf`
-- `institutional-reports-Worker_A_REDACTED.zip`
+- `institutional-reports-Worker_2_REDACTED.zip`
 
 ---
 
