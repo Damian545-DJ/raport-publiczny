@@ -4,51 +4,36 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
-  <title>Intrixo — źródła Markdown (doc viewer)</title>
-  <meta name="description" content="Podgląd źródeł Markdown dla publicznego briefingu sprawy Intrixo (wersja anonimizowana).">
+  <title>Intrixo — źródła Markdown</title>
+  <meta id="metaDescription" name="description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.">
   <meta name="robots" content="noindex, nofollow">
   <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/doc.html">
-  <meta property="og:title" content="Intrixo — źródła Markdown (doc viewer)">
-  <meta property="og:description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, anonimizowanej warstwy repozytorium.">
+  <meta property="og:type" content="article">
+  <meta id="ogLocale" property="og:locale" content="pl_PL">
+  <meta id="ogTitle" property="og:title" content="Intrixo — źródła Markdown">
+  <meta id="ogDescription" property="og:description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.">
+  <meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-neutral.png">
+  <script id="reportSchema" type="application/ld+json">{"@context":"https://schema.org","@type":"Report","name":"Intrixo — źródła Markdown","inLanguage":"pl","dateModified":"2026-07-14","isAccessibleForFree":true}</script>
 
-  <!-- GitHub-like markdown styles -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 
   <style>
     :root { color-scheme: light dark; }
-
     body { margin: 0; }
     .wrap { max-width: 980px; margin: 0 auto; padding: 24px; }
     .top { display: flex; gap: 12px; align-items: center; margin-bottom: 16px; flex-wrap: wrap; }
     .btn { text-decoration: none; border: 1px solid #d0d7de; padding: 8px 12px; border-radius: 10px; color: #111; background: #fff; }
-    .small { color: #666; font-size: 13px; }
-
-    /* Container for markdown */
-    .md {
-      border: 1px solid #d0d7de;
-      border-radius: 14px;
-      padding: 18px;
-      background: #fff;
-      color: #111;
-      box-shadow: 0 1px 2px rgba(0,0,0,.06);
-    }
-
-    /* Make code blocks readable */
+    .small { color: #666; font-size: 13px; overflow-wrap:anywhere; }
+    .md { border: 1px solid #d0d7de; border-radius: 14px; padding: 18px; background: #fff; color: #111; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
     .md pre { padding: 12px; border-radius: 10px; overflow: auto; }
     .md code { border-radius: 6px; padding: 0.15em 0.35em; }
-
-    /* DARK mode */
+    .md .table-scroll { overflow-x:auto; margin:16px 0; }
+    .md .table-scroll:focus { outline:3px solid #0550ae; outline-offset:3px; }
     @media (prefers-color-scheme: dark) {
       body { background: #0d1117; color: #c9d1d9; }
       .btn { border-color: #30363d; color: #c9d1d9; background: #161b22; }
       .small { color: #8b949e; }
-
-      .md {
-        border-color: #30363d;
-        background: #0d1117;
-        color: #c9d1d9;
-        box-shadow: none;
-      }
+      .md { border-color: #30363d; background: #0d1117; color: #c9d1d9; box-shadow: none; }
       .md a { color: #58a6ff; }
       .md pre { background: #161b22; }
       .md code { background: rgba(110,118,129,.2); }
@@ -58,107 +43,174 @@
 </head>
 
 <body>
-  <a class="skip-link" href="#main-content">Przejdź do treści</a>
+  <a id="skipLink" class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
-    <nav class="top" aria-label="Nawigacja dokumentu">
-      <a class="btn" href="./">← Start</a>
-      <span class="small" id="fileName"></span>
+    <nav id="documentNav" class="top" aria-label="Nawigacja dokumentu">
+      <a id="homeLink" class="btn" href="pl/index.html">← Strona główna</a>
+      <span class="small" id="fileName" aria-live="polite"></span>
     </nav>
 
-    <main class="markdown-body md" id="main-content" tabindex="-1">Ładuję…</main>
+    <main class="markdown-body md" id="main-content" tabindex="-1" aria-live="polite">Ładuję…</main>
   </div>
 
-  <!-- Markdown renderer -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
+    const UI = {
+      pl: {
+        lang: "pl", locale: "pl_PL", homeHref: "pl/index.html", home: "← Strona główna",
+        skip: "Przejdź do treści", nav: "Nawigacja dokumentu", loading: "Ładuję…",
+        invalidName: "Błędna nazwa pliku w parametrze ?file=", example: "Podaj poprawnie, np. doc.html?file=README.pl.md",
+        error: "Nie mogę wczytać pliku", description: "Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.",
+        footerLabel: "Informacja prawna",
+        footer: "© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.",
+        table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne"
+      },
+      en: {
+        lang: "en", locale: "en_US", homeHref: "en/index.html", home: "← Home",
+        skip: "Skip to main content", nav: "Document navigation", loading: "Loading…",
+        invalidName: "Invalid filename in the ?file= parameter", example: "Use a valid value, for example doc.html?file=README.en.md",
+        error: "Unable to load file", description: "Markdown source-document viewer for the public anonymized report layer.",
+        footerLabel: "Legal information",
+        footer: "© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.",
+        table: "Document table — use the keyboard to scroll horizontally when necessary"
+      },
+      nl: {
+        lang: "nl", locale: "nl_NL", homeHref: "nl/index.html", home: "← Startpagina",
+        skip: "Ga naar de hoofdinhoud", nav: "Documentnavigatie", loading: "Laden…",
+        invalidName: "Ongeldige bestandsnaam in de parameter ?file=", example: "Gebruik bijvoorbeeld doc.html?file=README.nl.md",
+        error: "Bestand kan niet worden geladen", description: "Markdown-brondocumentviewer voor de publieke geanonimiseerde rapportlaag.",
+        footerLabel: "Juridische informatie",
+        footer: "© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.",
+        table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen"
+      }
+    };
+
     function safeFileName(name) {
-      // allow only simple relative names, block ".."
-      if (!name) return null;
-      if (name.includes("..")) return null;
-      // allow letters, numbers, underscore, dash, dot, slash
+      if (!name || name.includes("..")) return null;
       if (!/^[a-zA-Z0-9._\-\/]+$/.test(name)) return null;
       return name;
     }
 
+    function documentLanguage(file) {
+      if (file.endsWith(".en.md")) return "en";
+      if (file.endsWith(".nl.md")) return "nl";
+      return "pl";
+    }
+
     function toDocLinkIfMd(href) {
-      // convert relative *.md links into doc.html?file=...
       if (!href) return href;
-      const isExternal = /^https?:\/\//i.test(href);
-      if (isExternal) return href;
-
-      // anchors like #section should stay
-      if (href.startsWith("#")) return href;
-
-      if (href.toLowerCase().endsWith(".md")) {
-        return "doc.html?file=" + encodeURIComponent(href);
-      }
+      if (/^https?:\/\//i.test(href) || href.startsWith("#")) return href;
+      if (href.toLowerCase().endsWith(".md")) return "doc.html?file=" + encodeURIComponent(href);
       return href;
     }
 
-    function formatDocTitle(file) {
+    function formatDocTitle(file, lang) {
       const map = {
-        "README.pl.md": "Intrixo – README (PL)",
-        "README.en.md": "Intrixo – README (EN)",
-        "README.nl.md": "Intrixo – README (NL)",
-        "TIMELINE.pl.md": "Intrixo – Oś czasu (PL)",
-        "TIMELINE.en.md": "Intrixo – Timeline (EN)",
-        "TIMELINE.nl.md": "Intrixo – Tijdlijn (NL)",
-        "EVIDENCE_INDEX.pl.md": "Intrixo – Indeks dowodów (PL)",
-        "EVIDENCE_INDEX.en.md": "Intrixo – Evidence index (EN)",
-        "EVIDENCE_INDEX.nl.md": "Intrixo – Bewijsindex (NL)"
+        "README.pl.md": "Intrixo – raport (PL)", "README.en.md": "Intrixo – report (EN)", "README.nl.md": "Intrixo – rapport (NL)",
+        "TIMELINE.pl.md": "Intrixo – oś czasu (PL)", "TIMELINE.en.md": "Intrixo – timeline (EN)", "TIMELINE.nl.md": "Intrixo – tijdlijn (NL)",
+        "EVIDENCE_INDEX.pl.md": "Intrixo – indeks dowodów (PL)", "EVIDENCE_INDEX.en.md": "Intrixo – evidence index (EN)", "EVIDENCE_INDEX.nl.md": "Intrixo – bewijsindex (NL)"
       };
       return map[file] || `Intrixo – ${file}`;
+    }
+
+    function applyInterfaceLanguage(lang) {
+      const t = UI[lang];
+      document.documentElement.lang = t.lang;
+      document.getElementById("skipLink").textContent = t.skip;
+      const nav = document.getElementById("documentNav");
+      nav.setAttribute("aria-label", t.nav);
+      const home = document.getElementById("homeLink");
+      home.href = t.homeHref;
+      home.textContent = t.home;
+      document.getElementById("main-content").textContent = t.loading;
+      const footer = document.getElementById("legalFooter");
+      footer.setAttribute("aria-label", t.footerLabel);
+      document.getElementById("legalFooterText").textContent = t.footer;
+      document.getElementById("metaDescription").content = t.description;
+      document.getElementById("ogDescription").content = t.description;
+      document.getElementById("ogLocale").content = t.locale;
+    }
+
+    function updateSchema(file, title, lang) {
+      const schema = {
+        "@context": "https://schema.org", "@type": "Report", name: title,
+        url: location.href, inLanguage: lang, dateModified: "2026-07-14",
+        isAccessibleForFree: true,
+        publisher: {"@type": "Organization", name: "Public evidence report project"},
+        about: {"@type": "Thing", name: file}
+      };
+      document.getElementById("reportSchema").textContent = JSON.stringify(schema);
+    }
+
+    function enhanceRenderedTables(lang) {
+      document.querySelectorAll("#main-content table").forEach((table, index) => {
+        table.querySelectorAll("thead th").forEach(th => th.setAttribute("scope", "col"));
+        table.querySelectorAll("tbody tr").forEach(row => {
+          const first = row.querySelector("th,td");
+          if (first && first.tagName === "TD") {
+            const replacement = document.createElement("th");
+            replacement.setAttribute("scope", "row");
+            replacement.innerHTML = first.innerHTML;
+            first.replaceWith(replacement);
+          }
+        });
+        const wrapper = document.createElement("div");
+        wrapper.className = "table-scroll";
+        wrapper.tabIndex = 0;
+        wrapper.setAttribute("role", "region");
+        wrapper.setAttribute("aria-label", `${UI[lang].table} ${index + 1}`);
+        table.parentNode.insertBefore(wrapper, table);
+        wrapper.appendChild(table);
+      });
     }
 
     async function load() {
       const params = new URLSearchParams(location.search);
       const raw = params.get("file") || "README.pl.md";
+      const lang = documentLanguage(raw);
+      applyInterfaceLanguage(lang);
+      const t = UI[lang];
       const file = safeFileName(raw);
-
       const fileNameEl = document.getElementById("fileName");
       const contentEl = document.getElementById("main-content");
 
       if (!file) {
-        fileNameEl.textContent = "Błędna nazwa pliku w ?file=";
-        contentEl.textContent = "Podaj poprawnie np. doc.html?file=README.pl.md";
+        fileNameEl.textContent = t.invalidName;
+        contentEl.textContent = t.example;
         return;
       }
 
       fileNameEl.textContent = file;
-      document.title = formatDocTitle(file);
-      document.documentElement.lang = file.endsWith(".en.md") ? "en" : (file.endsWith(".nl.md") ? "nl" : "pl");
+      const title = formatDocTitle(file, lang);
+      document.title = title;
+      document.getElementById("ogTitle").content = title;
+      updateSchema(file, title, lang);
 
       try {
         const res = await fetch(file, { cache: "no-store" });
         if (!res.ok) throw new Error("HTTP " + res.status);
-
         const md = await res.text();
         contentEl.innerHTML = marked.parse(md);
 
-        // Fix links
-        const links = contentEl.querySelectorAll("a[href]");
-        links.forEach(a => {
-          const oldHref = a.getAttribute("href");
-          const newHref = toDocLinkIfMd(oldHref);
+        contentEl.querySelectorAll("a[href]").forEach(a => {
+          const newHref = toDocLinkIfMd(a.getAttribute("href"));
           a.setAttribute("href", newHref);
-
-          // external links open new tab
           if (/^https?:\/\//i.test(newHref)) {
             a.setAttribute("target", "_blank");
             a.setAttribute("rel", "noopener noreferrer");
           }
         });
-
-      } catch (e) {
-        contentEl.textContent = "Nie mogę wczytać pliku: " + file + " (" + e.message + ")";
+        enhanceRenderedTables(lang);
+      } catch (error) {
+        contentEl.textContent = `${t.error}: ${file} (${error.message})`;
       }
     }
 
     load();
   </script>
-  <footer class="legal-footer" aria-label="Informacja prawna">
-    <p>© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.</p>
+  <footer id="legalFooter" class="legal-footer" aria-label="Informacja prawna">
+    <p id="legalFooterText">© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów.</p>
   </footer>
 </body>
 </html>
