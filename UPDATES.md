@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-07-14 — rozdzielenie dat zmian i weryfikacji źródeł
+
+PL
+- Rozdzielono widoczną datę edycji strony od daty merytorycznej weryfikacji źródeł.
+- Ustawiono „Ostatnia zmiana” na `2026-07-14` oraz „Ostatnia weryfikacja źródeł” na `2026-07-11`.
+- Usunięto zdublowane i nieaktualne oznaczenia dat, w tym `2026-07-02` oraz metadane `2026-06-30` pozostawione na części podstron.
+
+EN
+- Separated the visible page-modification date from the substantive source-verification date.
+- Set “Last modified” to `2026-07-14` and “Sources last verified” to `2026-07-11`.
+- Removed duplicate and outdated date metadata, including `2026-07-02` and remaining `2026-06-30` labels on some pages.
+
+NL
+- De zichtbare wijzigingsdatum is gescheiden van de datum waarop de bronnen inhoudelijk voor het laatst zijn geverifieerd.
+- “Laatst gewijzigd” is ingesteld op `2026-07-14` en “Bronnen laatst geverifieerd” op `2026-07-11`.
+- Dubbele en verouderde datumaanduidingen zijn verwijderd, waaronder `2026-07-02` en resterende metadata met `2026-06-30` op enkele pagina’s.
+
+---
+
 ## 2026-07-11
 
 PL

@@ -5,7 +5,8 @@
 **TL;DR:** Repozytorium porządkuje zanonimizowaną dokumentację sporu pracowniczego dotyczącego wynagrodzenia, gwarantowanych godzin, potrąceń, zakwaterowania, obsługi prawnej i reakcji instytucji.
 
 **Status:** wersja publiczna i anonimizowana  
-**Ostatnia aktualizacja:** 2026-07-11  
+**Ostatnia zmiana:** 2026-07-14  
+**Ostatnia weryfikacja źródeł:** 2026-07-11
 **Cel:** umożliwić weryfikację faktów i bezpieczne udostępnianie materiału instytucjom, prawnikom oraz mediom.
 
 > Wszystkie twierdzenia o naruszeniach są zarzutami wymagającymi niezależnej weryfikacji. Repozytorium nie jest wyrokiem ani poradą prawną.
