@@ -44,7 +44,7 @@ def normalize_timelines() -> None:
     en_lines: list[str] = []
     for line in en.splitlines():
         match = re.match(r"^(#{2,6})\s+(.+)$", line)
-        if match and (len(match.group(2)) > 120 or match.group(2).endswith(".")):
+        if match and len(match.group(2)) > 120:
             en_lines.append(match.group(2))
         else:
             en_lines.append(line)
@@ -59,7 +59,7 @@ def normalize_timelines() -> None:
     nl_lines: list[str] = []
     for line in nl.splitlines():
         match = re.match(r"^(#{2,6})\s+(.+)$", line)
-        if match and (len(match.group(2)) > 120 or match.group(2).endswith(".")):
+        if match and len(match.group(2)) > 120:
             nl_lines.append(match.group(2))
         else:
             nl_lines.append(line)
