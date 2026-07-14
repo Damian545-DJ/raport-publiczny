@@ -1,184 +1,150 @@
 [Wersja polska]
 
-# Home of People – publiczny kontekst podmiotów
+# Kontekst korporacyjny i publicznie dostępne źródła
 
-Ta sekcja przedstawia wyłącznie kontekst organizacyjny oparty na źródłach publicznych. Nie wskazuje osoby fizycznej jako odpowiedzialnej za działania którejkolwiek spółki i nie formułuje zarzutów karnych.
+**Wersja:** 2.0  
+**Ostatnia zmiana:** 2026-07-14  
+**Ostatnia weryfikacja źródeł:** 2026-07-14
 
----
-
-## 1. Cel sekcji
-
-- uporządkowanie publicznych informacji o grupie i jej markach,
-- oddzielenie faktów rejestrowych od ocen wymagających dalszej weryfikacji,
-- pokazanie kontekstu sprawy Intrixo bez przypisywania odpowiedzialności osobistej,
-- ograniczenie publikacji danych do informacji koniecznych i proporcjonalnych.
+Ta sekcja przedstawia neutralny kontekst korporacyjny dotyczący Home of People, Intrixo i podmiotów wymienianych w publicznych materiałach. Nie przypisuje odpowiedzialności konkretnej osobie ani spółce za zdarzenia opisane w indywidualnej sprawie pracowniczej.
 
 ---
 
-## 2. Podmioty występujące w publicznych materiałach
+## 1. Cel i ograniczony zakres
+
+Sekcja służy wyłącznie do:
+
+- wskazania podmiotów pojawiających się w publicznych źródłach,
+- opisania publicznie ogłoszonej transakcji dotyczącej Intrixo,
+- rozróżnienia źródeł urzędowych, firmowych i wtórnych,
+- ułatwienia ustalenia, która spółka wystawiała dokumenty, dokonywała płatności albo występowała w korespondencji,
+- przedstawienia kontekstu bez przenoszenia odpowiedzialności między podmiotami.
+
+Nie jest to katalog zarzutów, mapa „czerwonych flag” ani analiza całej historii grupy.
+
+---
+
+## 2. Podmioty pojawiające się w materiałach
+
+W dokumentacji sprawy albo w publicznych źródłach występują między innymi:
 
 - Home of People,
+- Intrixo B.V.,
+- Voorne Putten Uitzendbureau,
+- Masterteam B.V.,
 - Uitzendbureau Solutions,
-- Intrixo / Voorneputten,
 - T&S Flexwerk,
 - NWH Jobs,
-- Efficient at Work,
-- Masterteam.
+- Efficient at Work.
+
+Samo występowanie nazwy w tym zestawieniu oznacza wyłącznie, że podmiot pojawia się w określonym źródle. Nie oznacza odpowiedzialności za wszystkie działania innych spółek.
 
 ---
 
-## 3. Charakter powiązań
+## 3. Przejęcie Intrixo — bezpośrednie źródło ACM
 
-Publiczne materiały branżowe i korporacyjne opisują rozwój grupy poprzez integrację lub przejmowanie marek działających w pracy tymczasowej, rekrutacji i obsłudze pracowników migrujących.
+Autoriteit Consument & Markt opublikowała 18.09.2025 zgłoszenie koncentracji. Zgodnie z nim Home of People Acquisitie 3 B.V. zamierzała przejąć Intrixo B.V. poprzez nabycie wszystkich wyemitowanych udziałów. ACM wskazała również, że Intrixo B.V. wraz z udziałem w Masterteam B.V. tworzyła Intrixo Groep.
 
-Samo powiązanie kapitałowe, organizacyjne, marketingowe albo historyczne nie dowodzi odpowiedzialności za konkretne zdarzenie. Może jedynie pomagać w zrozumieniu modelu działalności i struktury nadzoru.
+ACM następnie podała, że decyzją z 29.09.2025 zezwoliła na przejęcie, ponieważ po transakcji miała pozostać wystarczająca konkurencja. Komunikat końcowy opublikowano 01.10.2025.
 
----
+Źródła urzędowe:
 
-## 4. Znaczenie dla sprawy Intrixo
+- zgłoszenie koncentracji ACM: https://www.acm.nl/nl/publicaties/home-people-wil-intrixo-overnemen-concentratiemelding
+- końcowy komunikat ACM: https://www.acm.nl/nl/publicaties/home-people-mag-intrixo-overnemen-eindmededeling
 
-Główny raport dotyczy dokumentów indywidualnej sprawy pracowniczej: umowy, godzin, wynagrodzenia, potrąceń, zakwaterowania, korespondencji i wykonania proces-verbaal.
-
-Kontekst grupy nie zastępuje analizy tych dokumentów i nie może służyć do automatycznego przenoszenia odpowiedzialności między podmiotami.
-
----
-
-## 5. Model praca–zakwaterowanie
-
-Połączenie pracy, transportu i zakwaterowania może zwiększać zależność ekonomiczną pracownika. Utrata pracy albo spór o potrącenia może wtedy wpływać również na bezpieczeństwo mieszkaniowe.
-
-Jest to ryzyko systemowe wymagające przejrzystych procedur, ale sam model nie dowodzi naruszenia w konkretnej sprawie.
+Informacja o zgodzie ACM dotyczy oceny koncentracji i konkurencji. Nie stanowi oceny prawidłowości indywidualnych rozliczeń pracowniczych ani zakwaterowania.
 
 ---
 
-## 6. Orzeczenia i źródła publiczne
+## 4. Znaczenie dla indywidualnej sprawy Intrixo
 
-Sygnatury orzeczeń i nazwy spółek pozostają publiczne wyłącznie wtedy, gdy są potrzebne do odnalezienia oficjalnego źródła. Orzeczenia dotyczą różnych stanów faktycznych i nie mogą być automatycznie stosowane do innej sprawy.
+Główny raport opiera się na dokumentach konkretnej sprawy: umowie, paskach płacowych, godzinach, potrąceniach, wypłatach bankowych, korespondencji i proces-verbaal.
+
+Kontekst korporacyjny może pomagać w ustaleniu:
+
+- właściwego podmiotu wskazanego na umowie lub pasku płacowym,
+- podmiotu dokonującego przelewu,
+- relacji pomiędzy nazwami używanymi w korespondencji,
+- właściwego adresata żądania dokumentów.
+
+Nie zastępuje jednak analizy dokumentów źródłowych i nie pozwala automatycznie przypisać jednemu podmiotowi działań innego podmiotu.
 
 ---
 
-## 7. Zasady prywatności
+## 5. Rodzaje źródeł i ich znaczenie
 
-- nie publikuje się imion i nazwisk osób fizycznych związanych z grupą, jeżeli nie jest to niezbędne,
-- nie publikuje się inicjałów prywatnych pracowników,
+### Źródła urzędowe
+
+- komunikaty i decyzje ACM,
+- orzeczenia sądów i organów, jeżeli są przywoływane z sygnaturą i zgodnie z ich faktycznym wynikiem.
+
+### Źródła firmowe
+
+- oficjalna strona Home of People,
+- komunikaty publikowane przez zainteresowane spółki.
+
+Źródła firmowe mogą potwierdzać, co sama organizacja publicznie komunikowała. Nie są niezależną oceną spornych zdarzeń.
+
+### Źródła wtórne
+
+- publikacje branżowe i medialne.
+
+Powinny być traktowane jako pomoc w odnalezieniu informacji i w miarę możliwości potwierdzane w źródle pierwotnym.
+
+---
+
+## 6. KVK, NBBU i SNF — czego ta wersja nie zawiera
+
+W tej publicznej sekcji nie zamieszczono obecnie kopii ani pełnych odpisów dokumentów KVK, NBBU lub SNF dotyczących wymienionych podmiotów.
+
+Dlatego sekcja:
+
+- nie twierdzi, że stanowi kompletny katalog rejestrowy KVK,
+- nie potwierdza aktualnego członkostwa NBBU bez bezpośredniego wpisu lub dokumentu,
+- nie potwierdza certyfikacji SNF konkretnego obiektu lub spółki bez aktualnego źródła,
+- nie wyciąga wniosków z dokumentów, których nie udostępniono ani nie opisano precyzyjnie.
+
+Jeżeli takie dokumenty zostaną później dodane, każdy powinien otrzymać datę, źródło, status aktualności oraz krótki opis tego, co może potwierdzać.
+
+---
+
+## 7. Orzeczenia
+
+Ta sekcja nie jest pełnym katalogiem orzeczeń. Orzeczenia istotne dla mapy prawnej są omawiane w osobnym pliku `ALLEGATIONS_AND_LAW.pl.md` i powinny być opisywane zgodnie z rzeczywistym wynikiem konkretnej sprawy.
+
+Samo wystąpienie nazwy spółki w orzeczeniu nie oznacza, że orzeczenie potwierdza naruszenie albo ma zastosowanie do indywidualnej sprawy opisanej w raporcie.
+
+---
+
+## 8. Prywatność i odpowiedzialne publikowanie
+
+- nie publikuje się danych prywatnych pracowników,
 - nie publikuje się dokładnych adresów zakwaterowania i miejsc pracy,
-- nie publikuje się numerów dokumentów, rachunków, faktur ani wewnętrznych oznaczeń spraw,
-- pełne materiały pozostają w archiwum prywatnym do przekazania właściwym instytucjom.
+- nie publikuje się numerów dokumentów, rachunków, podpisów ani danych systemowych,
+- pełne materiały zawierające dane wrażliwe pozostają w archiwum prywatnym,
+- nazwiska osób fizycznych podaje się tylko wtedy, gdy jest to konieczne do identyfikacji oficjalnego źródła i proporcjonalne do celu publikacji.
 
 ---
 
-## 8. Bezpieczne ramy prawne publikacji
+## 9. Zweryfikowane źródła używane w tej sekcji
 
-Publikacja opisuje podmioty, dokumenty i publiczne źródła. Nie przypisuje konkretnej osobie winy karnej, cywilnej ani zawodowej. Wątpliwości prawne powinny być kierowane do właściwych organów lub niezależnego prawnika.
+### Urzędowe
 
----
+- ACM — zgłoszenie koncentracji: https://www.acm.nl/nl/publicaties/home-people-wil-intrixo-overnemen-concentratiemelding
+- ACM — końcowy komunikat o zgodzie: https://www.acm.nl/nl/publicaties/home-people-mag-intrixo-overnemen-eindmededeling
+- Rijksoverheid — poprawa pozycji pracowników migrujących: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten
 
-## 9. Zweryfikowane źródła
+### Firmowe i wtórne
 
 - Home of People: https://www.homeofpeople.nl/
-- ACM – zgłoszenie koncentracji dotyczące Intrixo: https://www.acm.nl/nl/publicaties/home-people-wil-intrixo-overnemen-concentratiemelding
-- FlexNieuws – aktualny artykuł o Intrixo i Masterteam: https://www.flexnieuws.nl/2025/10/home-of-people-breidt-verder-uit-met-intrixo-en-masterteam/
-- GroentenNieuws – poprawny numer artykułu: https://www.groentennieuws.nl/article/9487775/
-- Rijksoverheid – poprawa pozycji pracowników migrujących: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten
-
-Stary artykuł FlexNieuws zwracający 404 został usunięty. Błędny numer artykułu GroentenNieuws został zastąpiony poprawnym numerem 9487775.
+- FlexNieuws — publikacja dotycząca Intrixo i Masterteam: https://www.flexnieuws.nl/2025/10/home-of-people-breidt-verder-uit-met-intrixo-en-masterteam/
+- GroentenNieuws: https://www.groentennieuws.nl/article/9487775/
 
 ---
 
-## 10. LinkedIn i automatyczne sprawdzanie
+## 10. Wniosek
 
-LinkedIn może zwracać automatom kod 999. Jest to blokada dostępu automatycznego, a nie wystarczający dowód usunięcia profilu. Linki LinkedIn powinny być sprawdzane ręcznie i nie są automatycznie oznaczane jako martwe wyłącznie z powodu kodu 999.
-
----
-
-## 11. Ograniczenia
-
-Rejestry mogą być niepełne, struktury właścicielskie mogą się zmieniać, a źródła wtórne wymagają potwierdzenia w materiałach pierwotnych. Brak publicznego dokumentu nie dowodzi, że dokument lub zdarzenie nie istnieje.
-
----
-
-## 12. Wniosek
-
-Publiczny materiał uzasadnia ostrożną analizę modelu zatrudnienia, zakwaterowania, potrąceń i dokumentacji. Nie stanowi jednak ustalenia osobistej odpowiedzialności jakiejkolwiek osoby fizycznej.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Publicznie dostępne źródła pomagają opisać strukturę podmiotów oraz publicznie ogłoszone przejęcie Intrixo. Nie przesądzają odpowiedzialności za indywidualne zdarzenia pracownicze. Wnioski dotyczące umowy, wynagrodzenia, potrąceń, zakwaterowania lub prowadzenia sprawy muszą opierać się przede wszystkim na dokumentach konkretnej sprawy.
 
 <!-- end of equivalent language version -->
 <!-- equivalent language version: verified -->
