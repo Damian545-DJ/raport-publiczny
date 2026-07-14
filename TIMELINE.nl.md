@@ -127,7 +127,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
   > “vrijwel alle ontbrekende loonstroken”
 
-  Vervolgens presenteerde hij een tweede berekening van ongeveer **€ 4.155,86 bruto**. Op dat moment concludeerde hij al dat de werkneemster, na verrekening van de gedane betalingen, geen verdere loonvordering op Intrixo had.
+  Vervolgens presenteerde hij een tweede berekening van ongeveer **€ 4.155,85 bruto**. Op dat moment concludeerde hij al dat de werkneemster, na verrekening van de gedane betalingen, geen verdere loonvordering op Intrixo had.
 
   Het standpunt dat geen verdere vordering bestond, werd dus ingenomen ondanks het feit dat mr. G. zelf bevestigde dat de documentatie nog steeds niet volledig was.
 
@@ -180,13 +180,13 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 - **07-05-2026:** na ontvangst van de schriftelijke aanwijzing van fouten, de eigen berekeningen van de werkneemster en het bankbewijspakket presenteerde mr. G. een verbeterde versie van zijn berekening.
 
-  Het bedrag steeg van ongeveer **€ 4.155,86 bruto** naar **€ 7.741,03 bruto**, een verhoging van ongeveer **€ 3.585,17 bruto**.
+  Het bedrag steeg van ongeveer **€ 4.155,85 bruto** naar **€ 7.741,03 bruto**, een verhoging van ongeveer **€ 3.585,18 bruto**.
 
-  De correctie na ontvangst van de opmerkingen en eigen berekeningen van de werkneemster wees erop dat de eerdere berekening, waarop het standpunt over het ontbreken van een verdere vordering was gebaseerd, aanzienlijk te laag of onvolledig was.
+  Volgens de auteurs wijst zo'n grote wijziging na ontvangst van de opmerkingen en eigen berekeningen van de werkneemster erop dat de eerdere berekening, waarop het standpunt over het ontbreken van een verdere vordering was gebaseerd, mogelijk aanzienlijk te laag of onvolledig was.
 
-  Mr. G. schatte de nettowaarde van het nieuwe bedrag op ongeveer **€ 4.400–4.600**. Vervolgens vergeleek hij dit geschatte bedrag met nettobetalingen van meer dan € 5.600 en concludeerde hij opnieuw dat geen verdere vordering bestond.
+  Mr. G. schatte de nettowaarde van het nieuwe bedrag op ongeveer **€ 4.400–4.600**. Vervolgens vergeleek hij dit geschatte bedrag met een bedrag van meer dan € 5.600 dat de werkneemster volgens zijn berekeningen al had ontvangen, en concludeerde hij opnieuw dat geen verdere vordering bestond. Hij koppelde dit bedrag echter niet volledig aan concrete bankbetalingen en loonstroken en lichtte evenmin toe hoe het voorschot van € 5.000 was verwerkt.
 
-  Hij verstrekte echter geen volledige tabel waaruit bleek:
+  In het bijzonder verstrekte hij geen volledige tabel waaruit bleek:
 
   - hoe iedere betaling aan een specifieke week en loonstrook was gekoppeld;
   - welke betalingen regulier loon vormden;
@@ -213,6 +213,8 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 - **08-05-2026:** mr. G. handhaafde zijn standpunt en deelde mee dat hij geen verdere procedure tegen Intrixo zou starten.
 
   Hij legde uit dat hij per week had onderzocht of ten minste 32 uur waren verantwoord en dat hij bij het ontbreken van een loonstrook 32 uur als uitgangspunt had genomen.
+
+  Het hanteren van 32 uur voor een week waarvoor een loonstrook ontbrak, toonde echter niet aan dat het loon voor die uren daadwerkelijk was berekend en uitbetaald.
 
   Tegelijkertijd stelde hij dat het opstellen van een volledige berekening in de gevraagde omvang niet tot zijn opdracht behoorde en verwees hij naar de bewijslast van de werkneemster.
 
@@ -241,38 +243,30 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
   Het beschikbare correspondentiepakket bevat geen latere inhoudelijke reactie en geen enkele volledige, definitieve en onafhankelijk controleerbare berekening.
 
-#### Geen volledige berekening van Intrixo
+#### Geen volledige berekening van Intrixo en geen controleerbare afrekening
 
 Intrixo verstrekte mr. G. een deel van de ontbrekende loonstroken, maar de beschikbare documentatie bevat geen volledige berekening van het sinds 06-05-2022 verschuldigde bruto loon zoals vereist door het proces-verbaal.
 
-Er werd geen enkele volledige afrekening verstrekt die het volgende omvatte:
+Het proces-verbaal verplichtte Intrixo tot het verstrekken van een berekening van het sinds 06-05-2022 verschuldigde bruto loon. Daaruit volgde niet uitdrukkelijk dat één document ook een volledige omzetting van bruto naar netto, de koppeling van bankbetalingen, alle inhoudingen en het eindsaldo moest bevatten. Deze aanvullende onderdelen waren echter wel nodig om het standpunt van mr. G. dat geen verdere vordering bestond te kunnen controleren.
 
-- alle weken vanaf 06-05-2022;
-- de verschuldigde en daadwerkelijk verantwoorde uren;
-- brutobedragen en de omzetting naar netto;
-- alle loonstroken en correcties daarop;
-- koppeling van betalingen aan loonperioden;
-- verwerking van het voorschot van € 5.000;
-- volledige verwerking van `ET-uitruil`;
-- huisvestingskosten;
-- verzekering;
-- pensioenpremies;
-- overige inhoudingen en correcties;
-- het verschuldigde eindsaldo.
+De beschikbare documentatie bevat noch:
 
-Het verstrekken van “vrijwel alle ontbrekende loonstroken” was niet hetzelfde als het verstrekken van de volledige berekening die het proces-verbaal vereiste.
+- één volledige brutoloonberekening voor alle weken vanaf 06-05-2022, met de verschuldigde en daadwerkelijk verantwoorde uren, toegepaste tarieven, brutobedragen en alle loonstroken en correcties;
+- noch een afzonderlijke, transparante afrekening waarmee het standpunt dat geen verdere vordering bestond kon worden gecontroleerd, met de omzetting van bruto naar netto, de koppeling van betalingen aan loonperioden, het voorschot van € 5.000, `ET-uitruil`, huisvesting, verzekering, pensioenpremies, overige inhoudingen en het eindsaldo.
+
+Het verstrekken van “vrijwel alle” ontbrekende loonstroken was niet hetzelfde als het verstrekken van de volledige brutoloonberekening die het proces-verbaal vereiste.
 
 #### Samenvatting
 
 De berekeningen van mr. G. veranderden als volgt:
 
 - ongeveer **€ 3.503,05 bruto**;
-- vervolgens ongeveer **€ 4.155,86 bruto**;
+- vervolgens ongeveer **€ 4.155,85 bruto**;
 - nadat de werkneemster schriftelijk fouten had aangewezen en haar eigen berekeningen en bankbewijzen had verstrekt — **€ 7.741,03 bruto**.
 
 Mr. G. corrigeerde zijn berekening na de interventie van de werkneemster en verhoogde het resultaat met ongeveer **€ 3.585 bruto**, maar bleef ondanks deze wijziging bij zijn standpunt dat geen verdere vordering bestond.
 
-Er werd echter geen volledige berekening verstrekt over de periode vanaf 06-05-2022, alle loonstroken, ontbrekende weken, bankbetalingen, `ET-uitruil`, overige inhoudingen, het voorschot van € 5.000 en het eindsaldo.
+Er werd noch een volledige berekening van het sinds 06-05-2022 verschuldigde bruto loon verstrekt, noch een afzonderlijke, transparante afrekening van bankbetalingen, inhoudingen, het voorschot van € 5.000 en het eindsaldo waarmee het standpunt dat geen verdere vordering bestond onafhankelijk kon worden gecontroleerd.
 ---
 
 # Klacht tegen een advocaat 1 – Raad van Discipline (NL) (samenvatting)
