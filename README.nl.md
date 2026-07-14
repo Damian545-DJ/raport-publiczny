@@ -6,7 +6,7 @@
 
 **Status:** openbare geanonimiseerde versie  
 **Laatst gewijzigd:** 2026-07-14  
-**Bronnen laatst geverifieerd:** 2026-07-11
+**Bronnen laatst geverifieerd:** 2026-07-11  
 **Doel:** feitelijke verificatie en veilige verstrekking aan instanties, juristen en media mogelijk maken.
 
 > Alle uitspraken over misstanden zijn verwijten die onafhankelijke verificatie vereisen. Deze repository is geen vonnis en geen juridisch advies.
@@ -40,18 +40,33 @@ Intrixo moest binnen twee weken aan de gemachtigde van de werkneemster verstrekk
 
 > “een berekening van het sinds 6 mei 2022 verschuldigde bruto loon”.
 
-Dit betekent een berekening van het sinds 6 mei 2022 verschuldigde bruto loon. Een afzonderlijk onderdeel was het voorschot van € 5.000 op achterstallig loon.
+Dit betekent een berekening van het sinds 6 mei 2022 verschuldigde brutoloon. Een afzonderlijk onderdeel was het voorschot van EUR 5.000 op achterstallig loon.
 
 ---
 
-## Wat een verifieerbare berekening moet bevatten
+## Verplichting vastgelegd in het proces-verbaal
 
-- het saldo van het sinds 6 mei 2022 verschuldigde bruto loon,
+De in het proces-verbaal vastgelegde verplichting hield in dat Intrixo binnen twee weken een berekening moest verstrekken van het sinds 6 mei 2022 verschuldigde brutoloon.
+
+Het proces-verbaal bepaalt niet uitdrukkelijk dat één document daarnaast ook een volledige bruto-nettoafrekening, alle inhoudingen, alle bankbetalingen en het eindsaldo moest bevatten.
+
+---
+
+## Gegevens die nodig zijn om het eindsaldo te controleren
+
+Om onafhankelijk te kunnen controleren of na alle betalingen nog een bedrag verschuldigd bleef, zijn daarnaast nodig:
+
+- het volledige bedrag van het sinds 6 mei 2022 verschuldigde brutoloon,
 - een vergelijking per week van verschuldigde uren, geregistreerde uren en het verschil,
 - een verklaring voor weken zonder loonstrook of met nul uren,
 - brutocomponenten, toeslagen, vakantiereserves en correcties,
+- de bruto-nettoberekening,
 - inhoudingen voor huisvesting, verzekering, pensioen en overige posten,
-- de bruto-nettoberekening en koppeling van bankbetalingen aan loonperioden.
+- koppeling van bankbetalingen aan loonperioden,
+- afzonderlijke verwerking van het voorschot van EUR 5.000,
+- het eindsaldo.
+
+Deze gegevens zijn nodig om het standpunt te toetsen dat geen verdere vordering bestaat, maar zij zijn niet hetzelfde als de letterlijke reikwijdte van de verplichting uit het proces-verbaal.
 
 ---
 
@@ -72,6 +87,7 @@ Dit betekent een berekening van het sinds 6 mei 2022 verschuldigde bruto loon. E
 - onduidelijke of buitensporige inhoudingen,
 - late of onvolledige afrekeningen,
 - geen volledige uitvoering van de verplichting uit het proces-verbaal,
+- ontbreken van gegevens waarmee het eindsaldo onafhankelijk kan worden gecontroleerd,
 - ineffectieve juridische dienstverlening en problemen bij het verkrijgen van het dossier,
 - onvoldoende reactie van toezichthoudende en hulpverlenende instanties.
 
@@ -111,34 +127,5 @@ Een organisatorisch of historisch verband bewijst geen verantwoordelijkheid voor
 - wijs op een ontbrekend document of vertaalfout,
 - help bij loon- of juridische analyse,
 - meld correcties via een GitHub Issue zonder gevoelige gegevens te publiceren.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- end of equivalent language version -->
