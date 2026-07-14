@@ -21,7 +21,7 @@ The public version removes private-person data, exact accommodation and workplac
 
 ## 1. Case summary
 
-- a Phase C open-ended contract with a 32-hour weekly guarantee,
+- an open-ended **NBBU Fase 4 agreement, equivalent to ABU Phase C**, providing for 32 hours per week,
 - periods without assigned work and a dispute about pay while available for work,
 - accumulating costs and deductions during periods without work,
 - missing or incomplete payroll documents and corrections,
@@ -45,7 +45,7 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 ## 3. Evidence material
 
 - the proces-verbaal and correspondence concerning its retrieval and performance,
-- the employment contract and Phase C documents,
+- the employment agreement and Fase 4 documents,
 - payslips, hour schedules and corrections,
 - lists of missing weeks and periods showing zero hours,
 - bank-transfer evidence and comparison with net amounts,
@@ -90,7 +90,7 @@ This broader material is necessary to verify the final balance and a no-further-
 
 ## 5. Findings concerning hours and wages
 
-- the documents indicate a discrepancy between the 32-hour contract and parts of the payroll data,
+- the documents indicate a discrepancy between the 32-hour agreement and parts of the payroll data,
 - some weeks lack a complete settlement or an available payslip,
 - different spreadsheets produced materially different results,
 - calculations limited to hours alone do not explain all gross components and deductions,
@@ -146,7 +146,7 @@ This broader material is necessary to verify the final balance and a no-further-
 ## 11. Safe evidence index
 
 - D-01 – proces-verbaal and court documents,
-- D-02 – contract and employment records,
+- D-02 – agreement and employment records,
 - D-03 – payroll and hour records,
 - D-04 – deduction and correction schedules,
 - D-05 – banking evidence,
