@@ -132,7 +132,7 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
   czyli **prawie wszystkie brakujące loonstrooki**.
 
-  Następnie przedstawił drugie wyliczenie w wysokości około **4 155,86 EUR brutto**. Już na tym etapie uznał, że po uwzględnieniu dokonanych płatności pracownicy nie przysługuje dalsze roszczenie wobec Intrixo.
+  Następnie przedstawił drugie wyliczenie w wysokości około **4 155,85 EUR brutto**. Już na tym etapie uznał, że po uwzględnieniu dokonanych płatności pracownicy nie przysługuje dalsze roszczenie wobec Intrixo.
 
   Stanowisko o braku roszczenia zostało więc przedstawione mimo tego, że sam mr. G. potwierdzał, iż dokumentacja nadal nie była kompletna.
 
@@ -185,13 +185,13 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
 - **07.05.2026:** po otrzymaniu pisemnego wskazania błędów, własnych obliczeń pracownicy oraz pakietu dowodów bankowych mr. G. przedstawił poprawioną wersję kalkulacji.
 
-  Kwota wzrosła z około **4 155,86 EUR brutto** do **7 741,03 EUR brutto**. Oznaczało to zwiększenie wyniku o około **3 585,17 EUR brutto**.
+  Kwota wzrosła z około **4 155,85 EUR brutto** do **7 741,03 EUR brutto**. Oznaczało to zwiększenie wyniku o około **3 585,18 EUR brutto**.
 
-  Poprawienie kalkulacji po otrzymaniu uwag i własnych obliczeń pracownicy wskazywało, że wcześniejsze wyliczenie, na podstawie którego mr. G. uznał brak dalszego roszczenia, było istotnie zaniżone lub niepełne.
+  W ocenie autorów tak duża zmiana wyniku po otrzymaniu uwag i własnych obliczeń pracownicy wskazuje, że wcześniejsze wyliczenie, na podstawie którego mr. G. uznał brak dalszego roszczenia, mogło być istotnie zaniżone lub niepełne.
 
-  Mr. G. oszacował wartość netto nowej kwoty na około **4 400–4 600 EUR**. Następnie porównał ją z płatnościami przekraczającymi 5 600 EUR netto i ponownie uznał, że dalsze roszczenie nie istnieje.
+  Mr. G. oszacował wartość netto nowej kwoty na około **4 400–4 600 EUR**. Następnie porównał ją z kwotą ponad 5 600 EUR, którą według jego obliczeń pracownica miała już otrzymać, i ponownie uznał, że dalsze roszczenie nie istnieje. Nie przedstawił jednak pełnego przypisania tej kwoty do konkretnych przelewów, loonstrooków ani sposobu rozliczenia zaliczki 5 000 EUR.
 
-  Nie przedstawił jednak kompletnej tabeli pokazującej:
+  W szczególności nie przedstawił kompletnej tabeli pokazującej:
 
   - w jaki sposób poszczególne przelewy zostały przypisane do tygodni i loonstrooków;
   - które wypłaty stanowiły zwykłe wynagrodzenie;
@@ -218,6 +218,8 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 - **08.05.2026:** mr. G. podtrzymał swoje stanowisko i poinformował, że nie rozpocznie dalszej procedury przeciwko Intrixo.
 
   Wyjaśnił, że analizował tydzień po tygodniu, czy rozliczono co najmniej 32 godziny, a w przypadku braku loonstrooka przyjmował 32 godziny jako punkt wyjścia.
+
+  Przyjęcie 32 godzin za tydzień, dla którego brakowało loonstrooka, nie potwierdzało jednak, że wynagrodzenie za te godziny zostało rzeczywiście naliczone i wypłacone.
 
   Jednocześnie wskazał, że przygotowanie pełnego rozliczenia w żądanym zakresie nie należało do jego zadania, oraz powołał się na ciężar dowodu spoczywający po stronie pracownicy.
 
@@ -246,38 +248,30 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
   W dostępnym pakiecie korespondencji nie ma późniejszej merytorycznej odpowiedzi ani jednej kompletnej, końcowej i możliwej do niezależnego sprawdzenia kalkulacji.
 
-#### Brak pełnego wyliczenia od Intrixo
+#### Brak pełnego wyliczenia od Intrixo i brak weryfikowalnego rozliczenia
 
 Intrixo przekazało mr. G. część brakujących loonstrooków, ale w dostępnej dokumentacji nie ma pełnego wyliczenia należnego wynagrodzenia brutto od 06.05.2022, wymaganego przez proces-verbaal.
 
-Nie przedstawiono jednego kompletnego rozliczenia obejmującego:
+Proces-verbaal wymagał od Intrixo przedstawienia wyliczenia należnego wynagrodzenia brutto od 06.05.2022. Nie wynikało z niego wprost, że w jednym dokumencie należało przedstawić także pełne przejście od brutto do netto, przypisanie przelewów, wszystkie potrącenia i końcowe saldo. Te dodatkowe elementy były jednak konieczne do sprawdzenia stanowiska mr. G., że pracownicy nie przysługuje dalsze roszczenie.
 
-- wszystkie tygodnie od 06.05.2022;
-- należne i faktycznie rozliczone godziny;
-- kwoty brutto i przejście do netto;
-- wszystkie loonstrooki oraz ich korekty;
-- przypisanie przelewów do okresów wynagrodzenia;
-- rozliczenie zaliczki 5 000 EUR;
-- pełne rozliczenie `ET-uitruil`;
-- koszty zakwaterowania;
-- ubezpieczenie;
-- składki emerytalne;
-- pozostałe potrącenia i korekty;
-- końcowe saldo należności.
+W dostępnej dokumentacji nie przedstawiono:
 
-Przekazanie „prawie wszystkich” brakujących loonstrooków nie było tym samym co przedstawienie pełnego wyliczenia wymaganego przez proces-verbaal.
+- jednego pełnego wyliczenia brutto obejmującego wszystkie tygodnie od 06.05.2022, należne i faktycznie rozliczone godziny, zastosowane stawki, kwoty brutto oraz wszystkie loonstrooki i ich korekty;
+- ani odrębnego, przejrzystego rozliczenia pozwalającego zweryfikować stanowisko o braku roszczenia, obejmującego przejście od brutto do netto, przypisanie przelewów do okresów wynagrodzenia, zaliczkę 5 000 EUR, `ET-uitruil`, zakwaterowanie, ubezpieczenie, składki emerytalne, pozostałe potrącenia i końcowe saldo.
+
+Przekazanie „prawie wszystkich” brakujących loonstrooków nie było tym samym co przedstawienie pełnego wyliczenia brutto wymaganego przez proces-verbaal.
 
 #### Podsumowanie
 
 Wyliczenia mr. G. zmieniały się następująco:
 
 - około **3 503,05 EUR brutto**;
-- następnie około **4 155,86 EUR brutto**;
+- następnie około **4 155,85 EUR brutto**;
 - po pisemnym wskazaniu błędów oraz przekazaniu własnych obliczeń i dowodów bankowych przez pracownicę — **7 741,03 EUR brutto**.
 
 Mr. G. poprawił swoje obliczenia po interwencji pracownicy, zwiększając wynik o około **3 585 EUR brutto**, ale mimo tej zmiany nadal utrzymał stanowisko, że dalsze roszczenie nie istnieje.
 
-Nie przedstawiono jednak pełnego rozliczenia obejmującego okres od 06.05.2022, wszystkie loonstrooki, brakujące tygodnie, przelewy bankowe, `ET-uitruil`, pozostałe potrącenia, zaliczkę 5 000 EUR oraz końcowe saldo.
+Nie przedstawiono jednak ani pełnego wyliczenia należnego wynagrodzenia brutto od 06.05.2022, ani odrębnego, przejrzystego rozliczenia przelewów, potrąceń, zaliczki 5 000 EUR i końcowego salda, które pozwalałoby niezależnie zweryfikować stanowisko o braku dalszego roszczenia.
 
 
 ---
