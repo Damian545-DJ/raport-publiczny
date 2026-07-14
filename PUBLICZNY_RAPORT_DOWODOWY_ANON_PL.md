@@ -44,7 +44,7 @@ Było to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r., a nie og�
 
 ## 3. Materiał dowodowy
 
-- process-verbaal oraz korespondencja związana z jego uzyskaniem i wykonaniem,
+- proces-verbaal oraz korespondencja związana z jego uzyskaniem i wykonaniem,
 - umowa o pracę i dokumenty dotyczące fazy C,
 - loonstrooki, zestawienia godzin i korekty,
 - zestawienia brakujących tygodni i okresów z zerową liczbą godzin,
@@ -55,11 +55,11 @@ Było to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r., a nie og�
 
 ---
 
-## 4A. Obowiązek zapisany w process-verbaal
+## 4A. Obowiązek zapisany w proces-verbaal
 
-Obowiązek zapisany w process-verbaal obejmował przekazanie przez Intrixo, w terminie dwóch tygodni, wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r.
+Obowiązek zapisany w proces-verbaal obejmował przekazanie przez Intrixo, w terminie dwóch tygodni, wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r.
 
-Process-verbaal nie stanowi wprost, że w jednym dokumencie należało przedstawić również:
+Proces-verbaal nie stanowi wprost, że w jednym dokumencie należało przedstawić również:
 
 - pełne przejście brutto–netto,
 - wszystkie potrącenia,
@@ -84,7 +84,7 @@ Aby niezależnie sprawdzić stanowisko, że pracownicy nie przysługuje dalsza n
 - odrębne rozliczenie zaliczki 5 000 EUR,
 - końcowe saldo.
 
-Ten szerszy zakres jest potrzebny do weryfikacji salda i stanowiska o braku dalszego roszczenia, ale nie należy przedstawiać go jako literalnej treści jednego dokumentu wyraźnie nakazanego przez process-verbaal.
+Ten szerszy zakres jest potrzebny do weryfikacji salda i stanowiska o braku dalszego roszczenia, ale nie należy przedstawiać go jako literalnej treści jednego dokumentu wyraźnie nakazanego przez proces-verbaal.
 
 ---
 
@@ -135,8 +135,8 @@ Ten szerszy zakres jest potrzebny do weryfikacji salda i stanowiska o braku dals
 
 ## 10. Wnioski
 
-- obowiązek Intrixo zapisany w process-verbaal dotyczył wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r.,
-- process-verbaal nie należy przedstawiać jako wyraźnego nakazu sporządzenia w jednym dokumencie pełnego rozliczenia brutto–netto, wszystkich potrąceń i przelewów,
+- obowiązek Intrixo zapisany w proces-verbaal dotyczył wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r.,
+- proces-verbaal nie należy przedstawiać jako wyraźnego nakazu sporządzenia w jednym dokumencie pełnego rozliczenia brutto–netto, wszystkich potrąceń i przelewów,
 - dane o brutto–netto, potrąceniach, przelewach, zaliczce 5 000 EUR i saldzie końcowym są jednak konieczne do niezależnego sprawdzenia stanowiska o braku dalszego roszczenia,
 - braki dokumentów, rozbieżne arkusze i nieprzypisane płatności uniemożliwiają proste zamknięcie sprawy,
 - materiał powinien zostać oceniony przez niezależnego specjalistę z dostępem do pełnych dowodów.
@@ -145,7 +145,7 @@ Ten szerszy zakres jest potrzebny do weryfikacji salda i stanowiska o braku dals
 
 ## 11. Bezpieczny indeks dowodów
 
-- D-01 – process-verbaal i dokumenty sądowe,
+- D-01 – proces-verbaal i dokumenty sądowe,
 - D-02 – umowa oraz dokumenty zatrudnienia,
 - D-03 – dokumentacja płacowa i godzinowa,
 - D-04 – zestawienia potrąceń i korekt,
