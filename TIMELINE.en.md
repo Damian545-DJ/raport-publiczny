@@ -130,7 +130,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
   meaning **almost all missing payslips**.
 
-  He then presented a second calculation of approximately **EUR 4,155.86 gross**. At that stage, he concluded that, after taking the payments made into account, the worker had no further wage claim against Intrixo.
+  He then presented a second calculation of approximately **EUR 4,155.85 gross**. At that stage, he concluded that, after taking the payments made into account, the worker had no further wage claim against Intrixo.
 
   The conclusion that no further claim existed was therefore reached even though mr. G. himself confirmed that the documentation was still incomplete.
 
@@ -183,13 +183,13 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
 - **7 May 2026:** after receiving the written identification of errors, the worker's own calculations and the bank-evidence package, mr. G. presented a corrected version of his calculation.
 
-  The amount increased from approximately **EUR 4,155.86 gross** to **EUR 7,741.03 gross**, an increase of approximately **EUR 3,585.17 gross**.
+  The amount increased from approximately **EUR 4,155.85 gross** to **EUR 7,741.03 gross**, an increase of approximately **EUR 3,585.18 gross**.
 
-  The correction made after receipt of the worker's comments and calculations indicated that the earlier calculation, on which the conclusion of no further claim had been based, had been materially understated or incomplete.
+  In the authors' assessment, such a substantial change after receipt of the worker's comments and calculations indicates that the earlier calculation, on which the conclusion of no further claim had been based, may have been materially understated or incomplete.
 
-  Mr. G. estimated the net value of the new amount at approximately **EUR 4,400–4,600**. He then compared that estimate with payments exceeding EUR 5,600 net and again concluded that no further claim existed.
+  Mr. G. estimated the net value of the new amount at approximately **EUR 4,400–4,600**. He then compared that estimate with an amount exceeding EUR 5,600 which, according to his calculations, the worker had already received, and again concluded that no further claim existed. He did not, however, fully match that amount to specific bank payments and payslips or explain how the EUR 5,000 advance had been accounted for.
 
-  However, he did not provide a complete table showing:
+  In particular, he did not provide a complete table showing:
 
   - how each payment was matched to a specific week and payslip;
   - which payments represented ordinary wages;
@@ -216,6 +216,8 @@ Dates and descriptions are based on our documentation and the evidence report. T
 - **8 May 2026:** mr. G. maintained his position and stated that he would not commence further proceedings against Intrixo.
 
   He explained that he had analysed, week by week, whether at least 32 hours had been accounted for and that, when a payslip was missing, he used 32 hours as the starting point.
+
+  Treating a missing-payslip week as 32 hours did not, however, establish that wages for those hours had actually been calculated and paid.
 
   At the same time, he stated that preparing a complete calculation in the requested scope was not part of his assignment and referred to the burden of proof resting on the worker.
 
@@ -244,38 +246,30 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
   The available correspondence package contains no later substantive response and no single complete, final and independently verifiable calculation.
 
-#### No complete calculation from Intrixo
+#### No complete calculation from Intrixo and no verifiable reconciliation
 
 Intrixo provided mr. G. with part of the missing payslips, but the available documentation contains no complete calculation of the gross wages due from 6 May 2022 as required by the proces-verbaal.
 
-No single complete settlement was provided covering:
+The proces-verbaal required Intrixo to provide a calculation of the gross wages due from 6 May 2022. It did not expressly require a single document also to contain a complete gross-to-net conversion, matching of bank payments, every deduction and the final balance. Those additional elements were nevertheless necessary to verify mr. G.'s conclusion that the worker had no further claim.
 
-- all weeks from 6 May 2022;
-- the hours due and the hours actually accounted for;
-- gross amounts and the conversion to net amounts;
-- all payslips and their corrections;
-- matching payments to wage periods;
-- accounting for the EUR 5,000 advance;
-- complete accounting for `ET-uitruil`;
-- housing costs;
-- insurance;
-- pension contributions;
-- other deductions and adjustments;
-- the final balance due.
+The available documentation contains neither:
 
-Providing “almost all” missing payslips was not the same as providing the complete calculation required by the proces-verbaal.
+- one complete gross-wage calculation covering all weeks from 6 May 2022, the hours due and actually accounted for, the rates applied, gross amounts, and all payslips and corrections;
+- nor a separate, transparent reconciliation enabling the no-further-claim conclusion to be verified, including the gross-to-net conversion, matching payments to wage periods, the EUR 5,000 advance, `ET-uitruil`, housing, insurance, pension contributions, other deductions and the final balance.
+
+Providing “almost all” missing payslips was not the same as providing the complete gross-wage calculation required by the proces-verbaal.
 
 #### Summary
 
 Mr. G.'s calculations changed as follows:
 
 - approximately **EUR 3,503.05 gross**;
-- then approximately **EUR 4,155.86 gross**;
+- then approximately **EUR 4,155.85 gross**;
 - after the worker identified errors in writing and provided her own calculations and bank evidence — **EUR 7,741.03 gross**.
 
 Mr. G. corrected his calculations after the worker's intervention, increasing the result by approximately **EUR 3,585 gross**, but despite that change he continued to maintain that no further claim existed.
 
-No complete calculation was provided covering the period from 6 May 2022, all payslips, missing weeks, bank payments, `ET-uitruil`, other deductions, the EUR 5,000 advance and the final balance.
+Neither a complete calculation of the gross wages due from 6 May 2022 nor a separate, transparent reconciliation of bank payments, deductions, the EUR 5,000 advance and the final balance was provided that would allow the no-further-claim conclusion to be independently verified.
 ---
 
 ## 6) WhatsApp correspondence with MV Juridisch
