@@ -5,7 +5,10 @@
 **Case:** employment dispute connected with Intrixo B.V. / Voorneputten in the Netherlands  
 **Scope:** wages, guaranteed hours, deductions, accommodation, legal assistance and institutional responses  
 **Authors:** Worker 1 and Worker 2 – private data removed  
-**Nature:** informational and evidentiary document, not a judgment or legal advice.
+**Nature:** informational and evidentiary document, not a judgment or legal advice  
+**Report version:** 2.0  
+**Updated:** 14 July 2026  
+**Publication status:** public, anonymized full-report version.
 
 ---
 
@@ -27,6 +30,54 @@ The public version removes private-person data, exact accommodation and workplac
 - missing or incomplete payroll documents and corrections,
 - difficulty obtaining full performance of the court-recorded arrangements,
 - problems involving successive representatives and institutional responses.
+
+---
+
+## 1A. Current amounts in successive calculations
+
+The documentation contains three successive calculation versions prepared in 2026:
+
+| Date | Amount | Status |
+|---|---:|---|
+| 1 April 2026 | approximately **EUR 3,503.05 gross** | first version; the representative stated that not all payslips were available |
+| 7 April 2026 | approximately **EUR 4,155.85 gross** | second version after further documents were received; the documentation was still incomplete |
+| 7 May 2026 | **EUR 7,741.03 gross** | later calculation version; it does not by itself constitute a complete and final reconciliation of the balance |
+
+These figures are successive working calculations, not a final amount established by a binding decision. The material differences between them require comparison with the complete source documentation.
+
+---
+
+## 1B. Brief status of the main issues
+
+| Main issue | Status as of 14 July 2026 | Brief explanation |
+|---|---|---|
+| Obligation in the proces-verbaal | **documented; timely performance requires verification** | the obligation concerned gross wages due since 6 May 2022; the public material contains no proof of full performance by 26 March 2024 |
+| Fase 4 agreement and 32-hour guarantee | **documented** | the agreement records 32 hours per week; parts of the payroll data require explanation |
+| Missing weeks and final balance | **unresolved** | a complete reconciliation of periods, gross-to-net, deductions, banking and the EUR 5,000 advance is still required |
+| Representative's 2026 calculations | **divergent; independent review required** | results changed from approximately EUR 3,503.05 to EUR 4,155.85 and EUR 7,741.03 gross |
+| Disciplinary proceedings concerning the first representative | **decision dated 29 June 2026** | according to the held document, complaint parts a) and d) were upheld, b) and c) were dismissed, and a reprimand was imposed |
+| Further institutional actions | **ongoing / documented** | materials have been submitted or supplemented in contacts with relevant bodies; the report does not prejudge their final outcome |
+
+---
+
+## 1C. Disciplinary decision of 29 June 2026
+
+The authors hold a decision of the Raad van Discipline in the ressort Den Haag dated 29 June 2026, reference **25-714/DH/DH**. According to the decision, the objection was upheld, complaint parts a) and d) were upheld, parts b) and c) were dismissed, and a reprimand was imposed on the lawyer.
+
+The full document is held privately. The public report contains only an anonymized description of the operative outcome and the case reference.
+
+---
+
+## 1D. Public document and privately held materials
+
+| Publicly available | Held privately |
+|---|---|
+| anonymized full report, key findings, timeline and evidence-category index | complete court documents and the full disciplinary decision |
+| dates, working calculation amounts and descriptions of discrepancies | raw payslips, bank statements, invoices and complete correspondence |
+| safe descriptions of recordings and photographic material | original audio/video recordings, photographs and files containing personal data |
+| anonymized excerpts required for public verification | documents containing signatures, addresses, bank details, identifiers and other sensitive data |
+
+Private materials may be provided to competent institutions, courts, disciplinary bodies or verified legal representatives only through a justified and secure process.
 
 ---
 
