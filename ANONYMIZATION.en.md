@@ -1,3 +1,11 @@
+
+## Fixed person pseudonyms
+
+- **Worker 1** — the primary worker in the wage and Fase 4 case.
+- **Worker 2** — the second worker appearing in the public documentation.
+
+Only these two labels are used throughout the current report.
+
 [English version]
 Anonymization (ANONYMIZATION)
 

@@ -1,3 +1,11 @@
+
+## Stałe pseudonimy osób
+
+- **Pracownica 1** — główna pracownica, której dotyczy sprawa o wynagrodzenie i umowę Fase 4.
+- **Pracownik 2** — drugi pracownik występujący w dokumentacji publicznej.
+
+W całym aktualnym raporcie stosowane są wyłącznie te dwa oznaczenia.
+
 [Polska wersja]
 Anonimizacja (ANONYMIZATION)
 

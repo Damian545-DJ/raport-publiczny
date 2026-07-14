@@ -58,26 +58,26 @@ De publieke versie mag bevatten:
 
 ## A) Gerechtelijke / procedurele documenten
 
-### E-WB-001 — Proces-verbaal / document uit gerechtelijke fase
+### E-W1-001 — Proces-verbaal / document uit gerechtelijke fase
 - **Publieke drager:** geanonimiseerde beschrijving.
 - **Wat het ondersteunt:** bestaan van de procedure, referentiepunt voor verdere berekeningen en tijdskader van de zaak.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** alleen geanonimiseerde samenvatting of feitentabel.
 
-### E-WB-002 — Verzoeken om kopie van gerechtelijk document en reacties
+### E-W1-002 — Verzoeken om kopie van gerechtelijk document en reacties
 - **Wat het ondersteunt:** route van verkrijgen van het document en chronologie van acties.
 - **Zichtbaarheid:** FULL-ONLY.
 
 ## B) Arbeid / contract
 
-### E-WB-010 — Arbeidsovereenkomst en arbeidsdocumenten
+### E-W1-010 — Arbeidsovereenkomst en arbeidsdocumenten
 - **Publieke drager:** alleen geanonimiseerde bestandsnaam.
 - **Wat het ondersteunt:** arbeidsvoorwaarden, vergelijkingsbasis voor loon- en urenvraagstukken.
 - **Zichtbaarheid:** FULL-ONLY.
 
 ## C) Loon / afrekening
 
-### E-WB-020 — Loonstroken / loonspecificaties van Werkneemster 1
+### E-W1-020 — Loonstroken / loonspecificaties van Werkneemster 1
 - **Publieke drager:** alleen geanonimiseerde bestandsnaam.
 - **Bereik:** geselecteerde loonweken uit de betwiste periode.
 - **Wat het ondersteunt:** uren, tarieven, inhoudingen, saldi, verlof en toeslagen.
@@ -86,51 +86,51 @@ De publieke versie mag bevatten:
 
 ## D) Vertegenwoordiger 1 / dossier / contact
 
-### E-WB-030 — Brief met verzoek om dossier en uitleg
+### E-W1-030 — Brief met verzoek om dossier en uitleg
 - **Wat het ondersteunt:** formele poging om dossier, documenten en uitleg te verkrijgen.
 - **Zichtbaarheid:** FULL-ONLY.
 
-### E-WB-040 — Professionele klacht / tuchtrechtelijk traject
+### E-W1-040 — Professionele klacht / tuchtrechtelijk traject
 - **Wat het ondersteunt:** chronologie van klacht, reacties, beslissing en verdere procedurele stappen.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** alleen tijdlijn en beschrijving van stappen, zonder volledige scans.
 
 ## E) Opvolgende vertegenwoordiger / overname van de zaak
 
-### E-WB-050 — Overname door opvolgende vertegenwoordiger
+### E-W1-050 — Overname door opvolgende vertegenwoordiger
 - **Wat het ondersteunt:** overdrachtsfase en vervolgstappen.
 - **Zichtbaarheid:** FULL-ONLY.
 
-### E-WB-060 — Correspondentie, facturering en betalingsbevestigingen
+### E-W1-060 — Correspondentie, facturering en betalingsbevestigingen
 - **Wat het ondersteunt:** communicatie, standpunten, kosten, betalingen en begeleidende documenten.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** alleen samenvatting en datums, zonder financiële/privégegevens.
 
 ## F) Correspondentie / communicatie
 
-### E-WB-070 — Correspondentie en communicatiescreenshots
+### E-W1-070 — Correspondentie en communicatiescreenshots
 - **Wat het ondersteunt:** verloop van communicatie, toezeggingen, weigeringen, vertragingen of geen reactie.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** alleen tijdlijnbeschrijving, zonder screenshots.
 
 ## G) Fotomateriaal
 
-### E-WB-080 — Ondersteunende foto’s
+### E-W1-080 — Ondersteunende foto’s
 - **Wat het ondersteunt:** aan te vullen met bewijsbeschrijving; foto’s zonder uitleg hebben lage bewijswaarde.
 - **Zichtbaarheid:** FULL-ONLY tot volledige anonimisering.
 
 ## H) Audio-opnamen
 
-### E-WB-090 — Opname van gesprek op kantoor van het bureau
+### E-W1-090 — Opname van gesprek op kantoor van het bureau
 - **Wat het ondersteunt:** verloop van gesprek, verklaringen van partijen, mogelijke elementen van druk en afrekeningscontext.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** ruwe audio niet publiceren.
 
-### E-WB-091 — Transcript / samenvatting van opname
+### E-W1-091 — Transcript / samenvatting van opname
 - **Wat het ondersteunt:** snelle verwijzing naar de inhoud van het gesprek, bij voorkeur met tijdsaanduidingen.
 - **Zichtbaarheid:** SEMI (REDACTED) of FULL-ONLY afhankelijk van inhoud.
 
-### E-WB-092 — Integriteit van opname
+### E-W1-092 — Integriteit van opname
 - **Wat het ondersteunt:** dat het bestand later niet is vervangen of bewerkt.
 - **Zichtbaarheid:** FULL-ONLY of publiek alleen checksum zonder persoonsgegevens.
 
@@ -140,50 +140,50 @@ De publieke versie mag bevatten:
 
 ## A) Loonstroken / loon
 
-### E-WA-001 — Loonstrook van geselecteerde loonweek
+### E-W2-001 — Loonstrook van geselecteerde loonweek
 - **Wat het ondersteunt:** uren, bedragen, inhoudingen en saldi.
 - **Zichtbaarheid:** FULL-ONLY.
 
-### E-WA-010 — Bundel loonstroken
+### E-W2-010 — Bundel loonstroken
 - **Wat het ondersteunt:** materiaal voor vergelijking van lonen, inhoudingen, toeslagen, correcties en saldi.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** alleen geanonimiseerde samenvattende tabel.
 
 ## B) Werknemerssysteem / volledigheid van documenten
 
-### E-WA-011 — Screenshots uit werknemerssysteem
+### E-W2-011 — Screenshots uit werknemerssysteem
 - **Wat het ondersteunt:** beschikbaarheid van documenten, planning, saldi en documentgeschiedenis.
 - **Zichtbaarheid:** FULL-ONLY.
 
 ## C) Instanties / meldingen / ontbreken van reactie
 
-### E-WA-020 — Meldingen aan instanties en ontbreken van reactie
+### E-W2-020 — Meldingen aan instanties en ontbreken van reactie
 - **Wat het ondersteunt:** meldingsroute, reikwijdte van reacties, geen reactie of geen volledige verificatie.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** datum, instantie en betekenis van reactie zonder persoonsgegevens.
 
 ## D) Juridisch Loket / correspondentie juridische bijstand
 
-### E-WA-030 — Documenten en correspondentie met instelling voor juridische bijstand
+### E-W2-030 — Documenten en correspondentie met instelling voor juridische bijstand
 - **Wat het ondersteunt:** verloop van contact, gegeven aanwijzingen en grenzen van ondersteuning.
 - **Zichtbaarheid:** FULL-ONLY.
 
 ## E) NBBU / SNF / huisvesting
 
-### E-WA-040 — Materialen over sectormeldingen en huisvesting
+### E-W2-040 — Materialen over sectormeldingen en huisvesting
 - **Wat het ondersteunt:** verloop van meldingen en kwesties rond privacy en huisvesting.
 - **Zichtbaarheid:** FULL-ONLY.
 - **Publiek:** geen objectnaam, kamernummer, gezichten, stemmen of gegevens van privépersonen.
 
 ## F) Kennisgevingen / eindfasebrieven
 
-### E-WA-050 — Kennisgevingen en eindfasebrieven
+### E-W2-050 — Kennisgevingen en eindfasebrieven
 - **Wat het ondersteunt:** chronologie van beëindiging of latere fase van de zaak.
 - **Zichtbaarheid:** FULL-ONLY.
 
 ## G) Probleemsamenvatting
 
-### E-WA-060 — Beschrijvend pakket van problemen en tegenstrijdigheden
+### E-W2-060 — Beschrijvend pakket van problemen en tegenstrijdigheden
 - **Wat het ondersteunt:** gestructureerd overzicht van betwiste punten en bronmaterialen.
 - **Zichtbaarheid:** FULL-ONLY of PUBLIC (REDACTED) na volledige redactie.
 

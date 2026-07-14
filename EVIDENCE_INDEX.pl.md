@@ -58,26 +58,26 @@ Wersja publiczna może zawierać:
 
 ## A) Dokumenty sądowe / proceduralne
 
-### E-PB-001 — Proces-verbaal / dokument z etapu sądowego
+### E-P1-001 — Proces-verbaal / dokument z etapu sądowego
 - **Nośnik publiczny:** opis zanonimizowany.
 - **Co to udowadnia:** istnienie postępowania, punkt odniesienia dla dalszych wyliczeń oraz ramy czasowe sprawy.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** wyłącznie zanonimizowane streszczenie lub tabela faktów.
 
-### E-PB-002 — Wnioski o kopię dokumentu sądowego i odpowiedzi
+### E-P1-002 — Wnioski o kopię dokumentu sądowego i odpowiedzi
 - **Co to udowadnia:** ścieżkę pozyskania dokumentu oraz chronologię działań.
 - **Widoczność:** FULL-ONLY.
 
 ## B) Zatrudnienie / umowa
 
-### E-PB-010 — Umowa i dokumenty zatrudnienia
+### E-P1-010 — Umowa i dokumenty zatrudnienia
 - **Nośnik publiczny:** `overeenkomst-Pracownica_1.zip` jako nazwa zanonimizowana.
 - **Co to udowadnia:** warunki zatrudnienia, podstawę porównań z rozliczeniami oraz wymiar godzin.
 - **Widoczność:** FULL-ONLY.
 
 ## C) Wynagrodzenia / rozliczenia
 
-### E-PB-020 — Paski płacowe / loonspecificaties Pracownicy B
+### E-P1-020 — Paski płacowe / loonspecificaties Pracownicy 1
 - **Nośnik publiczny:** `Loonspecificatie_Pracownica_1.zip` jako nazwa zanonimizowana.
 - **Zakres:** wybrane tygodnie rozliczeniowe z lat objętych sporem.
 - **Co to udowadnia:** godziny, stawki, potrącenia, salda, urlop i dodatki.
@@ -86,51 +86,51 @@ Wersja publiczna może zawierać:
 
 ## D) Pełnomocnik 1 / akta / kontakt
 
-### E-PB-030 — Pismo o akta i wyjaśnienia
+### E-P1-030 — Pismo o akta i wyjaśnienia
 - **Co to udowadnia:** formalną próbę uzyskania akt, dokumentów i wyjaśnień.
 - **Widoczność:** FULL-ONLY.
 
-### E-PB-040 — Skarga zawodowa / postępowanie dyscyplinarne
+### E-P1-040 — Skarga zawodowa / postępowanie dyscyplinarne
 - **Co to udowadnia:** przebieg skargi, odpowiedzi, decyzji i dalszych kroków.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** wyłącznie oś czasu i opis etapów bez pełnych skanów.
 
 ## E) Kolejny pełnomocnik / przejęcie sprawy
 
-### E-PB-050 — Przejęcie sprawy przez kolejnego pełnomocnika
+### E-P1-050 — Przejęcie sprawy przez kolejnego pełnomocnika
 - **Co to udowadnia:** etap przekazania sprawy oraz dalsze kroki.
 - **Widoczność:** FULL-ONLY.
 
-### E-PB-060 — Korespondencja, rozliczenia i potwierdzenia płatności
+### E-P1-060 — Korespondencja, rozliczenia i potwierdzenia płatności
 - **Co to udowadnia:** kontakt, stanowiska, koszty, płatność i dokumenty towarzyszące.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** samo streszczenie i daty, bez danych finansowych.
 
 ## F) Korespondencja / komunikacja
 
-### E-PB-070 — Korespondencja i zrzuty komunikacji
+### E-P1-070 — Korespondencja i zrzuty komunikacji
 - **Co to udowadnia:** przebieg komunikacji, obietnice, odmowy, opóźnienia lub brak reakcji.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** opis osi czasu bez screenów rozmów.
 
 ## G) Materiał zdjęciowy
 
-### E-PB-080 — Zdjęcia pomocnicze
+### E-P1-080 — Zdjęcia pomocnicze
 - **Co to udowadnia:** do uzupełnienia opisem dowodowym; bez opisu zdjęcia mają niską wartość dowodową.
 - **Widoczność:** FULL-ONLY do czasu pełnej anonimizacji.
 
 ## H) Nagrania audio
 
-### E-PB-090 — Nagranie rozmowy w biurze agencji
+### E-P1-090 — Nagranie rozmowy w biurze agencji
 - **Co to udowadnia:** przebieg rozmowy, wypowiedzi stron, możliwe elementy presji oraz kontekst rozliczeń.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** nie publikować surowego audio.
 
-### E-PB-091 — Transkrypcja / streszczenie nagrania
+### E-P1-091 — Transkrypcja / streszczenie nagrania
 - **Co to udowadnia:** szybkie odniesienie do treści rozmowy, najlepiej z oznaczeniami czasu.
 - **Widoczność:** SEMI (REDACTED) albo FULL-ONLY zależnie od treści.
 
-### E-PB-092 — Integralność nagrania
+### E-P1-092 — Integralność nagrania
 - **Co to udowadnia:** że plik nie był podmieniany lub edytowany po czasie.
 - **Widoczność:** FULL-ONLY albo publicznie wyłącznie suma kontrolna bez danych osobowych.
 
@@ -140,50 +140,50 @@ Wersja publiczna może zawierać:
 
 ## A) Paski płacowe / wynagrodzenia
 
-### E-PA-001 — Loonspecificatie – wybrany tydzień rozliczeniowy
+### E-P2-001 — Loonspecificatie – wybrany tydzień rozliczeniowy
 - **Co to udowadnia:** rozliczenie godzin, kwot, potrąceń i sald.
 - **Widoczność:** FULL-ONLY.
 
-### E-PA-010 — Zbiorczy pakiet pasków płacowych
+### E-P2-010 — Zbiorczy pakiet pasków płacowych
 - **Co to udowadnia:** materiał do porównania wynagrodzeń, potrąceń, dodatków, korekt i sald.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** wyłącznie tabela zbiorcza po anonimizacji.
 
 ## B) System pracowniczy / kompletność dokumentów
 
-### E-PA-011 — Zrzuty z systemu pracowniczego
+### E-P2-011 — Zrzuty z systemu pracowniczego
 - **Co to udowadnia:** dostępność dokumentów, planowanie, salda i historię dokumentów.
 - **Widoczność:** FULL-ONLY.
 
 ## C) Instytucje / zgłoszenia / brak reakcji
 
-### E-PA-020 — Zgłoszenia do instytucji i brak reakcji
+### E-P2-020 — Zgłoszenia do instytucji i brak reakcji
 - **Co to udowadnia:** ścieżkę zgłoszeń, zakres odpowiedzi, brak odpowiedzi lub brak pełnej weryfikacji.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** data, instytucja i sens odpowiedzi bez danych osobowych.
 
 ## D) Juridisch Loket / korespondencja pomocowa
 
-### E-PA-030 — Dokumenty i korespondencja z instytucją pomocy prawnej
+### E-P2-030 — Dokumenty i korespondencja z instytucją pomocy prawnej
 - **Co to udowadnia:** przebieg kontaktu, udzielone wskazania i ograniczenia pomocy.
 - **Widoczność:** FULL-ONLY.
 
 ## E) NBBU / SNF / zakwaterowanie
 
-### E-PA-040 — Materiały dotyczące zgłoszeń branżowych i zakwaterowania
+### E-P2-040 — Materiały dotyczące zgłoszeń branżowych i zakwaterowania
 - **Co to udowadnia:** przebieg zgłoszeń oraz kwestie prywatności i zakwaterowania.
 - **Widoczność:** FULL-ONLY.
 - **Publicznie:** bez nazwy obiektu, numeru pokoju, twarzy, głosów i danych osób prywatnych.
 
 ## F) Kennisgeving / powiadomienia
 
-### E-PA-050 — Powiadomienia i pisma końcowe
+### E-P2-050 — Powiadomienia i pisma końcowe
 - **Co to udowadnia:** chronologię zakończenia albo dalszego etapu sprawy.
 - **Widoczność:** FULL-ONLY.
 
 ## G) Pakiet naruszeń / zestawienie problemów
 
-### E-PA-060 — Pakiet opisowy problemów i rozbieżności
+### E-P2-060 — Pakiet opisowy problemów i rozbieżności
 - **Co to udowadnia:** uporządkowany opis punktów spornych i materiałów źródłowych.
 - **Widoczność:** FULL-ONLY albo PUBLIC (REDACTED) po pełnej redakcji.
 

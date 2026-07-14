@@ -1,3 +1,11 @@
+
+## Vaste pseudoniemen van personen
+
+- **Werkneemster 1** — de hoofdwerkneemster in de loon- en Fase 4-zaak.
+- **Werknemer 2** — de tweede werknemer die in de publieke documentatie voorkomt.
+
+In het actuele rapport worden uitsluitend deze twee aanduidingen gebruikt.
+
 [Nederlandse versie]
 Anonimisering (ANONYMIZATION)
 
