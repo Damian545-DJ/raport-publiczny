@@ -1,174 +1,211 @@
-[EN Version]
+[English version]
 
-# Allegations and legal basis (ALLEGATIONS_AND_LAW)
+# Allegations and possible legal bases — verification map
 
-This file is a map of **what is alleged based on documents** and **which legal standards may be relevant**. It is not a judgment and not a final legal qualification. Any legal qualification should be confirmed by an independent lawyer or competent authority.
+**Version:** 2.0  
+**Last modified:** 2026-07-14  
+**Sources last verified:** 2026-07-14
 
-> Important: the public version describes facts, documents, correspondence and recordings in cautious wording. All statements about violations should be read as **allegations requiring independent verification**, not as final court findings.
+This document separates:
 
----
+1. facts and allegations derived from the documentation,
+2. statutory provisions or judgments that may be relevant,
+3. the conditions for their application,
+4. issues requiring assessment by a court, authority or independent lawyer.
 
-## A) Intrixo B.V. – alleged labour-law and standards issues
-
-### 1. Pay during no-work periods / guaranteed hours
-
-- **Dutch Civil Code, Book 7, art. 7:628** – wages in certain no-work situations where the cause lies with the employer.
-- **Dutch Civil Code, Book 7, art. 7:610b** – statutory presumption of working hours.
-- **EU Charter of Fundamental Rights, art. 31** – fair and just working conditions.
-
-The case requires comparison of contracts, planning/rosters, payslips, bank payments and correspondence concerning lack of work and continuing cost deductions.
-
-### 2. Late wage payment
-
-- **Dutch Civil Code, Book 7, art. 7:625** – statutory increase for late wage payment, subject to judicial moderation.
-
-### 3. Leave and holiday pay
-
-- **Dutch Civil Code, Book 7, art. 7:639–641** – paid leave and settlement of leave rights.
-- **EU Charter, art. 31(2)** – right to annual paid leave.
-- **Directive 2003/88/EC, art. 7** – minimum paid leave standard.
-
-### 4. Holiday allowance
-
-- **Minimum Wage and Minimum Holiday Allowance Act (WML), art. 15** – minimum holiday allowance, generally 8%.
-
-### 5. Housing deductions
-
-Housing deductions from the minimum wage framework are allowed only under strict conditions, including proper written authorization and relevant quality/formal requirements. It must be checked whether deductions left the worker without a real minimum subsistence level.
-
-### 6. Accuracy of payroll records
-
-- **GDPR, art. 5(1)(d)** – accuracy principle.
-
-If payslips are corrected later, different versions exist, or contract hours / balances / net amounts change, the correction history must be verified: who changed what, when, why and on what basis.
-
-### 7. Privacy in agency accommodation
-
-The video material described in the report concerns alleged entries by third parties into an occupied room in agency accommodation. The public version does not publish the exact accommodation name, room number, private persons, faces, voices or sensitive identifiers. Full material should be shared only with institutions, authorities or legal representatives through a justified and secure channel.
+It is not a judgment, legal opinion or final legal classification. Citing a provision or judgment does not mean that it applies to every event described.
 
 ---
 
-## B) Legal representatives / legal assistance – diligence, information and file transfer
+## A) Wages, working-time scope and payroll settlement
 
-This part concerns mainly:
+### 1. Wages where work was not performed — Article 7:628 BW
 
-- lack of clear information after the hearing,
-- lack of full file and court-document transfer,
-- conflicting statements about settlement / inability to act,
-- costs paid to subsequent representatives,
-- lack of a clear record of work actually performed.
+The main rule in Article 7:628(1) of the Dutch Civil Code is that time-based wages remain payable where the employee has not performed all or part of the agreed work, **unless the non-performance should reasonably be for the employee's account**.
 
-Professional legal assistance should include timely and understandable communication, acting in the client’s interest and handing over the file so the client or a new representative can verify and continue the matter.
+The provision should not be reduced to the statement that wages are due only where “the cause lies with the employer”. It requires an assessment of whose risk sphere the particular reason for non-performance belongs to, together with the employment agreement, the applicable collective agreement and any legally permitted derogations.
 
-> Note: assessment of disciplinary liability or contractual breach belongs to the competent bodies / court / independent lawyer.
+The relevant comparison in this matter includes:
 
----
+- the Fase 4 agreement and the 32-hour guarantee,
+- the worker's availability for work,
+- work planning and work offered,
+- the reasons for weeks with fewer or no hours,
+- payslips, payments and correspondence.
 
-## C) SNCU – possible procedural concerns, lack of control transparency and EU standards
+### 2. Presumption of working-time scope — Article 7:610b BW
 
-**Status:** this section is based on documents and correspondence. It does not assess SNCU’s intentions. It describes facts, lack of transparency and the minimum standard expected from a genuine verification process.
+Where the employment relationship has lasted at least three months, the agreed working-time scope in a given month is presumed to equal **the average monthly number of hours worked during the preceding three months**.
 
-### 1. Role of SNCU
+This is a rebuttable presumption, not an automatic and final number of hours. A party may show that the selected three-month reference period was unrepresentative. Where an agreement expressly guarantees 32 hours, Article 7:610b may be relevant as a supporting rule but should not replace interpretation of the agreement itself.
 
-The effectiveness of SNCU control depends on whether source data are verified: payroll administration, payslips, rosters/planning, time registration, leave records and correction history.
+### 3. Late wage payment — Article 7:625 BW
 
-Control should not end with simply accepting the employer’s position without showing which documents were actually checked.
+Article 7:625 BW provides for a statutory increase where wages due are paid late. The statutory maximum may reach 50%, but the court may reduce it. The amount due and its due date must first be established.
 
-### 2. No clear response to the complainant
+### 4. Leave and holiday allowance
 
-The complainant requested status, reopening and identification of the documents that had been verified. Lack of a clear answer makes the process a “black box”: the worker does not know what was checked, on what basis the matter was closed and whether contradictions were genuinely verified.
+Potentially relevant provisions include:
 
-This is relevant to **Article 47 of the EU Charter of Fundamental Rights** — effective remedy and fair procedure.
-
-### 3. Contact with employer and closure of the matter
-
-According to materials relayed through Juridisch Loket, SNCU contacted the employer and then closed the matter at the preliminary stage. In a case where the employer is an interested party, the employer’s position alone should not be a sufficient basis for closing the case without showing which source data were checked.
-
-### 4. Contradictions requiring verification
-
-The documentation identifies, among others, these points for review:
-
-- employer narrative concerning work ending in week 31 / after 28 July 2025,
-- payslip Week 32 (2025) showing period 04 August 2025–10 August 2025 and Contracturen 32:00 per week,
-- payslip Week 8 (2025), reportedly reappearing later with Contracturen 1:00 per week and negative net amount,
-- leave issue of 61.11 hours: written information/approval, later denial and pressure to report for work,
-- creation and compensation of “minus” / negative balances.
-
-### 5. Minimum data package for proper verification
-
-A proper assessment should include:
-
-- full payroll administration with correction history,
-- roster/planning for disputed weeks,
-- time registration,
-- leave records and logs of approvals/reversals,
-- explanation of the difference between Week 31 and Week 32,
-- explanation of the later Week 8 correction and negative net amount,
-- rules and calculations behind housing / insurance / negative-balance deductions.
-
-### 6. Conclusion
-
-If a control body does not answer the complainant, does not disclose the scope of review and closes a case despite documentary contradictions, the protection of the worker becomes formal but ineffective in practice. This is the central issue described in the report.
-
-### Related evidence
-
-Full evidence is not publicly linked where it contains personal data, document numbers, signatures, bank details, faces, voices or system identifiers. Publicly, only categories of evidence and anonymized summaries should be used. Full materials remain available for institutions, authorities or legal representatives upon a justified request.
+- Articles 7:639–641 BW — pay during leave and settlement of leave rights,
+- Article 7 of Directive 2003/88/EC — the minimum right to annual paid leave,
+- Article 31(2) of the EU Charter — only where the matter falls within the scope of EU law,
+- Article 15 WML — holiday allowance, generally 8%, subject to statutory exceptions.
 
 ---
 
-## D) Legal issues requiring assessment by competent authorities
+## B) Housing and health-insurance deductions
 
-The public report does not attribute criminal responsibility to individuals and does not propose criminal-offence classifications. It identifies only matters that may require assessment by a court, supervisory authority or independent lawyer:
+According to the Dutch central-government guidance, deducting housing costs from the minimum wage is permitted only where specific conditions are met.
 
-- accuracy of payroll settlements and correction histories,
-- freedom of consent when documents were presented for signature and the manner in which meetings were conducted,
-- legality and transparency of deductions and negative balances,
-- completeness of information provided to the worker and institutions.
+For housing, the review should include whether:
 
-Public reporting should describe events, documents and discrepancies while leaving legal qualification to competent authorities.
+- the worker gave a **written authorisation (volmacht)**,
+- the authorisation identifies the worker, employer, amount and type of costs to be paid,
+- only permitted costs are deducted, such as rent, service charges and utilities measured by an individual meter,
+- the accommodation belongs to a housing corporation or meets the quality requirements stated in the applicable collective agreement,
+- the landlord is certified under those quality requirements,
+- the deduction does not exceed **25% of the gross minimum wage to which the worker is entitled**.
 
----
+For health-insurance deductions, the relevant conditions include a copy of the insurance policy, written authorisation, the worker being the policyholder and actual payment of the premium by the employer. Separate annual monetary limits also apply.
 
-## E) Privacy in agency accommodation
-
-According to video material, third parties allegedly entered an occupied room without prior notice or the residents' consent. The public version does not reveal the location, room number, faces, voices or data of private individuals.
-
-Original material should be preserved and shared only with competent institutions or legal representatives. Public reporting should remain limited to a cautious factual description and privacy protection, without attributing a criminal act to a specific person.
+The presence of a deduction on a payslip does not by itself establish that it is lawful or unlawful. The legal basis, authorisation, accommodation quality, certification, amount and period must be checked for each deduction.
 
 ---
 
-## F) Public context: Home of People / related entities
+## C) Accuracy of payroll data and records
 
-This section is contextual. It does not attribute personal criminal, civil or administrative responsibility without a final decision.
+### 1. Data-accuracy principle
 
-Public materials describe an ecosystem of entities operating in the temporary-work and migrant-worker sector, including Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten and Masterteam.
+Article 5(1)(d) GDPR requires personal data to be accurate and, where necessary, kept up to date. This may be relevant where payroll records contain differing contract hours, balances or net amounts.
 
-The mere existence of links within a broader ecosystem does not establish liability for specific violations. It is relevant context because the case concerns a model in which one structure may influence work, housing, payroll settlement and the worker’s economic dependence.
+It does not follow that every payroll error automatically constitutes a GDPR infringement. The nature of the data, cause of the error, correction history, impact on the worker and the controller's response must be examined.
 
-Public red flags requiring cautious description include:
+### 2. Data needed to review the final balance
 
-- labour disputes involving entities from that ecosystem,
-- migrant-worker housing issues,
-- activity in a sector identified by the state as vulnerable to abuse,
-- presence in industry / certification structures, which does not automatically remove risk of irregularities.
+The following are particularly necessary:
 
-Safe summary:
+- complete payroll administration and correction history,
+- planning and time registration,
+- leave rights and corrections,
+- gross-to-net calculation,
+- all deductions and their legal bases,
+- matching bank payments to payroll periods,
+- separate treatment of the EUR 5,000 advance.
 
-> Public sources and the case documentation show warning signals that justify further review and caution. They do not by themselves establish personal guilt of any specific person.
+This is the material needed to review the final balance. It should not be presented as the literal scope of a single document ordered by the proces-verbaal, which concerned a calculation of gross wages due since 6 May 2022.
 
 ---
 
-## General sources / reference points
+## D) Supreme Court judgment ECLI:NL:HR:2023:426
 
-- Dutch Civil Code Book 7: https://wetten.overheid.nl/BWBR0005290/
-- Dutch judiciary – wage claim / statutory increase: https://www.rechtspraak.nl/Onderwerpen/Loonvordering
+The judgment concerns the operation of an agency-work termination clause (uitzendbeding) during illness.
+
+The safest statement of the outcome is:
+
+> An agency-work agreement does not end automatically merely because the agency worker becomes ill. Termination under the uitzendbeding during illness requires an actual request by the hirer to end the assignment.
+
+The judgment should not be presented as a general rule that every agency-work agreement continues during every illness. The agreement, collective agreement, existence of the uitzendbeding, the hirer's actual request and the timing of the end of the assignment must be examined.
+
+In this report the judgment may be used only as a reference point where the documentation concerns termination of an assignment or agreement in connection with illness.
+
+---
+
+## E) SNCU and the EU Charter of Fundamental Rights
+
+### 1. Review of SNCU conduct
+
+The documentation may justify questions about:
+
+- the scope of the source data checked,
+- how conflicting payslips and corrections were addressed,
+- the basis on which the matter was closed,
+- the information provided to the complainant.
+
+These should be described as transparency and completeness issues, without attributing an intention to protect the employer or unlawfulness to SNCU without an adequate legal basis.
+
+### 2. Articles 47 and 51 of the Charter
+
+It should not be stated automatically that SNCU's handling of a report infringes Article 47 of the EU Charter.
+
+Article 47 protects the right to an effective remedy and access to an independent tribunal in respect of rights and freedoms guaranteed by EU law. Under Article 51, the Charter binds Member States **only when they are implementing EU law**. It does not extend the scope of EU law or the Union's powers.
+
+Before relying on Article 47, it is therefore necessary to identify:
+
+1. the specific EU-law right or obligation being implemented,
+2. whether the challenged conduct of SNCU or a state body falls within that scope,
+3. whether there is a decision or procedure subject to the requirement of effective judicial protection.
+
+Without that link, Article 47 can only be described as a possible reference point, not an automatic legal basis for an allegation against SNCU.
+
+---
+
+## F) Legal representatives — diligence, information and file transfer
+
+The issues concerning legal representatives may include:
+
+- transfer of the complete case file,
+- clear information about the state of the matter,
+- the scope of document review,
+- responses to identified errors,
+- costs and work performed.
+
+Whether professional rules or contractual duties were breached is for the competent disciplinary body or court. For the first representative, the complaint parts actually determined in decision 25-714/DH/DH must be separated from allegations that were dismissed or not determined.
+
+---
+
+## G) Privacy in agency accommodation
+
+According to the description of privately held video material, third parties allegedly entered an occupied room. Public reporting should be limited to:
+
+- the date or period,
+- the general type of location,
+- the manner of entry and notification of residents,
+- the existence of a recording or correspondence.
+
+The exact location, room number, faces, voices and private-person data should not be disclosed. Assessment of the legal basis for entry requires examination of the rental or accommodation agreement, house rules, consent, purpose and circumstances.
+
+---
+
+## H) Raad van State case 202103252/1/R3 — correct context
+
+The judgment of 9 August 2023, ECLI:NL:RVS:2023:3071, concerned, among other matters, enforcement of fire-safety requirements in a building used to house migrant workers.
+
+It should not be presented as an independent “warning signal” against an entity connected with the accommodation. In that particular case, the Administrative Jurisdiction Division held that:
+
+- there was no infringement of the examined requirements of the 2012 Building Decree,
+- there was no infringement of the relevant fire-safety conditions in the temporary permits,
+- the authority consequently had no power to enforce those requirements.
+
+The decision may be mentioned only as historical context and as an example of a dispute about the classification of accommodation and the scope of enforcement powers. It does not establish a fire-safety infringement in that case or in the matter described in this report.
+
+---
+
+## I) Public context of entities
+
+Corporate, organisational, sectoral or historical links do not establish responsibility of a particular entity for an event described in the report.
+
+Public context may be used to:
+
+- identify the roles of individual companies,
+- establish which entity issued documents or made payments,
+- understand links between work, accommodation and payroll administration,
+- identify the proper recipient of a document request.
+
+A “red-flag map” should not be built merely because an entity's name appeared in another proceeding. Each judgment and inspection must be described according to its actual outcome.
+
+---
+
+## Official sources and judgments
+
+- Dutch Civil Code, Book 7: https://wetten.overheid.nl/BWBR0005290/
 - WML: https://wetten.overheid.nl/BWBR0002638/
-- Dutch government – housing and insurance deductions: https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
+- Dutch Government — housing and insurance deductions: https://www.rijksoverheid.nl/vraag-en-antwoord/minimumloon/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
 - EU Charter of Fundamental Rights: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT
+- FRA, Article 51 — field of application: https://fra.europa.eu/en/eu-charter/article/51-field-application
 - GDPR: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Supreme Court / Rechtspraak, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+- Raad van State, 202103252/1/R3, ECLI:NL:RVS:2023:3071: https://www.raadvanstate.nl/uitspraken/@138720/202103252-1-r3/
 - SNCU: https://www.sncu.nl/
-- ABU – role of SNCU: https://www.abu.nl/faq/wat-is-de-rol-van-de-sncu-bij-het-lid-worden/
-- Home of People: https://www.homeofpeople.nl/
-- Rechtspraak / Supreme Court, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
-- Raad van State, housing-related case: https://www.raadvanstate.nl/@138720/202103252-1-r3/
-- Dutch government – migrant labour abuses policy: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten
+
+<!-- end of equivalent language version -->
