@@ -6,7 +6,7 @@
 
 **Status:** wersja publiczna i anonimizowana  
 **Ostatnia zmiana:** 2026-07-14  
-**Ostatnia weryfikacja źródeł:** 2026-07-11
+**Ostatnia weryfikacja źródeł:** 2026-07-11  
 **Cel:** umożliwić weryfikację faktów i bezpieczne udostępnianie materiału instytucjom, prawnikom oraz mediom.
 
 > Wszystkie twierdzenia o naruszeniach są zarzutami wymagającymi niezależnej weryfikacji. Repozytorium nie jest wyrokiem ani poradą prawną.
@@ -44,14 +44,29 @@ Oznacza to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r. Oddzieln
 
 ---
 
-## Co powinno obejmować weryfikowalne wyliczenie
+## Obowiązek zapisany w process-verbaal
 
-- saldo należnego wynagrodzenia brutto od 6 maja 2022 r.,
+Zakres zapisany w process-verbaal obejmował przekazanie przez Intrixo wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r. w terminie dwóch tygodni.
+
+Process-verbaal nie stanowi wprost, że w jednym dokumencie należało przedstawić również pełne przejście brutto–netto, wszystkie potrącenia, wszystkie przelewy bankowe i saldo końcowe.
+
+---
+
+## Dane potrzebne do sprawdzenia końcowego salda
+
+Aby niezależnie sprawdzić, czy po uwzględnieniu wszystkich płatności pozostała dalsza należność, potrzebne są dodatkowo:
+
+- pełna kwota należnego wynagrodzenia brutto od 6 maja 2022 r.,
 - porównanie tydzień po tygodniu: należne godziny, rozliczone godziny i różnica,
 - wyjaśnienie tygodni bez pasków płacowych albo z zerową liczbą godzin,
 - składniki brutto, dodatki, rezerwy urlopowe i korekty,
+- przejście brutto–netto,
 - potrącenia za zakwaterowanie, ubezpieczenie, emeryturę i inne pozycje,
-- przejście brutto–netto oraz przypisanie przelewów do okresów płacowych.
+- przypisanie przelewów bankowych do okresów płacowych,
+- odrębne rozliczenie zaliczki 5 000 EUR,
+- końcowe saldo.
+
+Te dane są potrzebne do sprawdzenia stanowiska o braku dalszego roszczenia, ale nie są tożsame z literalnym zakresem obowiązku zapisanego w process-verbaal.
 
 ---
 
@@ -71,7 +86,8 @@ Oznacza to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r. Oddzieln
 - niewykonywanie gwarantowanych godzin i brak pełnej wypłaty za okresy bez pracy,
 - niejasne lub nadmierne potrącenia,
 - spóźnione albo niepełne rozliczenia,
-- brak pełnego wykonania obowiązku wynikającego z proces-verbaal,
+- brak pełnego wykonania obowiązku wynikającego z process-verbaal,
+- brak danych pozwalających niezależnie sprawdzić końcowe saldo,
 - nieskuteczna obsługa prawna i trudności w uzyskaniu akt,
 - niewystarczająca reakcja podmiotów kontrolnych i pomocowych.
 
@@ -111,34 +127,5 @@ Samo powiązanie organizacyjne lub historyczne nie dowodzi odpowiedzialności za
 - wskazać brakujący dokument albo błąd tłumaczenia,
 - pomóc w analizie płacowej i prawnej,
 - zgłosić poprawkę przez GitHub Issue bez publikowania danych wrażliwych.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- end of equivalent language version -->
