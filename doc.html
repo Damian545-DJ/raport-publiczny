@@ -25,10 +25,11 @@
     .btn { text-decoration: none; border: 1px solid #d0d7de; padding: 8px 12px; border-radius: 10px; color: #111; background: #fff; }
     .small { color: #666; font-size: 13px; overflow-wrap:anywhere; }
     .md { border: 1px solid #d0d7de; border-radius: 14px; padding: 18px; background: #fff; color: #111; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
-    .md pre { padding: 12px; border-radius: 10px; overflow: auto; }
+    .md pre { padding: 12px; border-radius: 10px; overflow: auto; white-space: pre-wrap; }
     .md code { border-radius: 6px; padding: 0.15em 0.35em; }
     .md .table-scroll { overflow-x:auto; margin:16px 0; }
     .md .table-scroll:focus { outline:3px solid #0550ae; outline-offset:3px; }
+    .load-note { margin: 0 0 14px; padding: 10px 12px; border: 1px solid #d0d7de; border-radius: 10px; background: #f6f8fa; }
     @media (prefers-color-scheme: dark) {
       body { background: #0d1117; color: #c9d1d9; }
       .btn { border-color: #30363d; color: #c9d1d9; background: #161b22; }
@@ -37,6 +38,7 @@
       .md a { color: #58a6ff; }
       .md pre { background: #161b22; }
       .md code { background: rgba(110,118,129,.2); }
+      .load-note { border-color:#30363d; background:#161b22; }
     }
   </style>
   <link rel="stylesheet" href="assets/accessibility.css">
@@ -47,12 +49,14 @@
   <div class="wrap">
     <nav id="documentNav" class="top" aria-label="Nawigacja dokumentu">
       <a id="homeLink" class="btn" href="pl/index.html">← Strona główna</a>
+      <a id="rawLink" class="btn" href="#" hidden>Otwórz plik bez czytnika</a>
       <span class="small" id="fileName" aria-live="polite"></span>
     </nav>
 
     <main class="markdown-body md" id="main-content" tabindex="-1" aria-live="polite">Ładuję…</main>
   </div>
 
+  <script src="assets/markdown-fallback.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <script>
@@ -64,7 +68,8 @@
         error: "Nie mogę wczytać pliku", description: "Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.",
         footerLabel: "Informacja prawna",
         footer: "© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.",
-        table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne"
+        table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne",
+        raw: "Otwórz plik bez czytnika"
       },
       en: {
         lang: "en", locale: "en_US", homeHref: "en/index.html", home: "← Home",
@@ -73,7 +78,8 @@
         error: "Unable to load file", description: "Markdown source-document viewer for the public anonymized report layer.",
         footerLabel: "Legal information",
         footer: "© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.",
-        table: "Document table — use the keyboard to scroll horizontally when necessary"
+        table: "Document table — use the keyboard to scroll horizontally when necessary",
+        raw: "Open the file without the viewer"
       },
       nl: {
         lang: "nl", locale: "nl_NL", homeHref: "nl/index.html", home: "← Startpagina",
@@ -82,7 +88,8 @@
         error: "Bestand kan niet worden geladen", description: "Markdown-brondocumentviewer voor de publieke geanonimiseerde rapportlaag.",
         footerLabel: "Juridische informatie",
         footer: "© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.",
-        table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen"
+        table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen",
+        raw: "Open het bestand zonder de lezer"
       }
     };
 
@@ -109,7 +116,10 @@
       const map = {
         "README.pl.md": "Intrixo – raport (PL)", "README.en.md": "Intrixo – report (EN)", "README.nl.md": "Intrixo – rapport (NL)",
         "TIMELINE.pl.md": "Intrixo – oś czasu (PL)", "TIMELINE.en.md": "Intrixo – timeline (EN)", "TIMELINE.nl.md": "Intrixo – tijdlijn (NL)",
-        "EVIDENCE_INDEX.pl.md": "Intrixo – indeks dowodów (PL)", "EVIDENCE_INDEX.en.md": "Intrixo – evidence index (EN)", "EVIDENCE_INDEX.nl.md": "Intrixo – bewijsindex (NL)"
+        "EVIDENCE_INDEX.pl.md": "Intrixo – indeks dowodów (PL)", "EVIDENCE_INDEX.en.md": "Intrixo – evidence index (EN)", "EVIDENCE_INDEX.nl.md": "Intrixo – bewijsindex (NL)",
+        "PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md": "Intrixo – pełny raport dowodowy (PL)",
+        "PUBLIC_REPORT_EVIDENCE_ANON_EN.md": "Intrixo – full evidence report (EN)",
+        "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md": "Intrixo – volledig bewijsrapport (NL)"
       };
       return map[file] || `Intrixo – ${file}`;
     }
@@ -123,6 +133,8 @@
       const home = document.getElementById("homeLink");
       home.href = t.homeHref;
       home.textContent = t.home;
+      const rawLink = document.getElementById("rawLink");
+      rawLink.textContent = t.raw;
       document.getElementById("main-content").textContent = t.loading;
       const footer = document.getElementById("legalFooter");
       footer.setAttribute("aria-label", t.footerLabel);
@@ -174,6 +186,7 @@
       const file = safeFileName(raw);
       const fileNameEl = document.getElementById("fileName");
       const contentEl = document.getElementById("main-content");
+      const rawLink = document.getElementById("rawLink");
 
       if (!file) {
         fileNameEl.textContent = t.invalidName;
@@ -182,6 +195,8 @@
       }
 
       fileNameEl.textContent = file;
+      rawLink.href = file;
+      rawLink.hidden = false;
       const title = formatDocTitle(file, lang);
       document.title = title;
       document.getElementById("ogTitle").content = title;
@@ -191,7 +206,15 @@
         const res = await fetch(file, { cache: "no-store" });
         if (!res.ok) throw new Error("HTTP " + res.status);
         const md = await res.text();
-        contentEl.innerHTML = marked.parse(md);
+        if (typeof window.renderReportMarkdown === "function") {
+          contentEl.innerHTML = window.renderReportMarkdown(md);
+        } else if (window.marked && typeof window.marked.parse === "function") {
+          contentEl.innerHTML = window.marked.parse(md);
+        } else {
+          const pre = document.createElement("pre");
+          pre.textContent = md;
+          contentEl.replaceChildren(pre);
+        }
 
         contentEl.querySelectorAll("a[href]").forEach(a => {
           const newHref = toDocLinkIfMd(a.getAttribute("href"));
@@ -203,7 +226,15 @@
         });
         enhanceRenderedTables(lang);
       } catch (error) {
-        contentEl.textContent = `${t.error}: ${file} (${error.message})`;
+        contentEl.replaceChildren();
+        const message = document.createElement("p");
+        message.className = "load-note";
+        message.textContent = `${t.error}: ${file} (${error.message})`;
+        const link = document.createElement("a");
+        link.className = "btn";
+        link.href = file;
+        link.textContent = t.raw;
+        contentEl.append(message, link);
       }
     }
 
