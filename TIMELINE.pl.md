@@ -61,7 +61,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 
 ---
 
-# Pracownica 1 – dowody (skrót + timeline)
+## Pracownica 1 – dowody (skrót + timeline)
 
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
 - Od **21.11.2022** (umowa na czas nieokreślony, Fase 4, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
@@ -278,7 +278,7 @@ Nie przedstawiono jednak ani pełnego wyliczenia należnego wynagrodzenia brutto
 
 ---
 
-# Skarga na adwokata 1 – Raad van Discipline (NL) (skrót)
+## Skarga na adwokata 1 – Raad van Discipline (NL) (skrót)
 
 Ten fragment jest publicznym streszczeniem wątku dyscyplinarnego. Dane osobowe, wewnętrzne numery kancelaryjne i nazwy plików dowodowych pozostają niepubliczne.
 
@@ -326,7 +326,7 @@ E) ryzyko oceny sprawy na niepełnym materiale.
 
 ---
 
-# Pracownik 2 – dowody (skrót + timeline)
+## Pracownik 2 – dowody (skrót + timeline)
 
 Wersja publiczna: bez imion i nazwisk. Oznaczenia: **Pracownik 2**, **Agencja [A]**, **Klient/zakład [B]**. Instytucje (FairWork, Juridisch Loket, SNCU) pozostają jawne, bo nie są danymi osobowymi.
 

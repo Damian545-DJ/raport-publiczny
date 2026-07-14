@@ -61,7 +61,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
 ---
 
-# Worker 1 – evidence (short summary + timeline)
+## Worker 1 – evidence (short summary + timeline)
 
 ## 1) Debt mechanism caused by lack of work scheduling
 - From **21 Nov 2022** (open-ended contract, Fase 4, 32h guarantee), the agency’s failure to schedule work resulted in debt being built up on the worker (e.g., ongoing housing costs).
@@ -109,12 +109,12 @@ Dates and descriptions are based on our documentation and the evidence report. T
 - **07–09/2024:** no real progress; difficult contact
 - Autumn 2024: **proces-verbaal** obtained by us from the court; MV Juridisch did not obtain court documents (per account)
 - **12/2024 – 01/2025:** requests for clarification/refund; refusal; dispute about final billing
-## 6) WhatsApp correspondence with MV Juridisch
+#### WhatsApp correspondence with MV Juridisch
 - MV Juridisch relied on information “from management/the other side” that a settlement existed and “cannot be broken.”
 - Suggestion appears that the representative “misled” and that “there is no appeal” (authors’ view: inconsistent with missing documents and the fact we had to obtain key documents ourselves).
 
 
-### Representative 3 – mr. G.
+Representative 3 – mr. G.
 
 - **25 February 2026:** mr. G. confirmed receipt of the first part of the required fee and the start of work on the matter. Invoice and legal-aid reference numbers remain non-public.
 
@@ -274,14 +274,7 @@ Mr. G. corrected his calculations after the worker's intervention, increasing th
 Neither a complete calculation of the gross wages due from 6 May 2022 nor a separate, transparent reconciliation of bank payments, deductions, the EUR 5,000 advance and the final balance was provided that would allow the no-further-claim conclusion to be independently verified.
 ---
 
-## 6) WhatsApp correspondence with MV Juridisch
-- MV Juridisch relied on information “from management/the other side” that a settlement existed and “cannot be broken.”
-- Suggestion appears that the representative “misled” and that “there is no appeal” (authors’ view: inconsistent with missing documents and the fact we had to obtain key documents ourselves).
-
-
----
-
-# Complaint against a lawyer 1 – Raad van Discipline (NL) (summary)
+## Complaint against a lawyer 1 – Raad van Discipline (NL) (summary)
 
 This section is a public summary of the disciplinary matter. Personal data, internal law-office references and evidence filenames remain non-public.
 
@@ -329,7 +322,7 @@ E) risk that the matter was assessed on incomplete material.
 
 ---
 
-# Worker 2 – evidence (short summary + timeline)
+## Worker 2 – evidence (short summary + timeline)
 
 Public version: no names. Labels used: **Worker 2**, **Agency [A]**, **Client/company [B]**. Institutions (FairWork, Juridisch Loket, SNCU) remain named.
 

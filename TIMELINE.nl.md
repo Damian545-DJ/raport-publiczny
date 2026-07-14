@@ -61,7 +61,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ---
 
-# Werkneemster 1 – bewijs (korte samenvatting + tijdlijn)
+## Werkneemster 1 – bewijs (korte samenvatting + tijdlijn)
 
 ## 1) Schuldmechanisme door geen werkplanning
 - Vanaf **21-11-2022** (onbepaalde tijd, Fase 4, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
@@ -109,11 +109,11 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 - **07–09/2024:** geen concrete voortgang; lastig bereikbaar
 - Najaar 2024: **proces-verbaal** door ons zelf verkregen; MV Juridisch verkreeg geen stukken van de rechtbank (volgens relaas)
 - **12/2024 – 01/2025:** verzoeken om uitleg/terugbetaling; weigering; geschil over afrekening
-- ## 6) WhatsApp-correspondentie met MV Juridisch
+#### WhatsApp-correspondentie met MV Juridisch
 - MV Juridisch baseerde zich op informatie “van directie/de wederpartij” dat er een schikking was en “die niet te breken is”.
 - Suggestie verschijnt dat de gemachtigde “misleidde” en dat “er geen beroep mogelijk is” (volgens de auteurs: in strijd met het feit dat cruciale stukken ontbraken en wij die zelf moesten opvragen).
 
-### Gemachtigde 3 – mr. G.
+Gemachtigde 3 – mr. G.
 
 - **25-02-2026:** mr. G. bevestigde de ontvangst van het eerste deel van de vereiste eigen bijdrage en de aanvang van zijn werkzaamheden in de zaak. Factuurnummers en kenmerken van de rechtsbijstand blijven niet-openbaar.
 
@@ -271,7 +271,7 @@ Mr. G. corrigeerde zijn berekening na de interventie van de werkneemster en verh
 Er werd noch een volledige berekening van het sinds 06-05-2022 verschuldigde bruto loon verstrekt, noch een afzonderlijke, transparante afrekening van bankbetalingen, inhoudingen, het voorschot van € 5.000 en het eindsaldo waarmee het standpunt dat geen verdere vordering bestond onafhankelijk kon worden gecontroleerd.
 ---
 
-# Klacht tegen een advocaat 1 – Raad van Discipline (NL) (samenvatting)
+## Klacht tegen een advocaat 1 – Raad van Discipline (NL) (samenvatting)
 
 Dit onderdeel is een publieke samenvatting van de tuchtzaak. Persoonsgegevens, interne kantoorkenmerken en namen van bewijsbestanden blijven niet-openbaar.
 
@@ -319,7 +319,7 @@ E) risico dat de zaak op onvolledig materiaal is beoordeeld.
 
 ---
 
-# Werknemer 2 – bewijs (korte samenvatting + tijdlijn)
+## Werknemer 2 – bewijs (korte samenvatting + tijdlijn)
 
 Publieke versie: zonder namen. Labels: **Werknemer 2**, **Uitzendbureau [A]**, **Klant/bedrijf [B]**. Instanties (FairWork, Juridisch Loket, SNCU) blijven vermeld.
 
