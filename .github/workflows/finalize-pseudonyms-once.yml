@@ -28,27 +28,22 @@ jobs:
           allowed = {'.md', '.html', '.htm', '.txt', '.py', '.json', '.yml', '.yaml'}
 
           def normalize(text: str) -> str:
-              # Polish female primary person: every B/2 form becomes number 1.
               text = re.sub(r'\bPracownica (?:B|2)\b', 'Pracownica 1', text)
               text = re.sub(r'\bPracownicy (?:B|2)\b', 'Pracownicy 1', text)
               text = re.sub(r'\bPracownicę (?:B|2)\b', 'Pracownicę 1', text)
               text = re.sub(r'\bPracownicą (?:B|2)\b', 'Pracownicą 1', text)
               text = re.sub(r'\bPracownico (?:B|2)\b', 'Pracownico 1', text)
-              # Polish male second person: every A/1 form becomes number 2.
               text = re.sub(r'\bPracownik (?:A|1)\b', 'Pracownik 2', text)
               text = re.sub(r'\bPracownika (?:A|1)\b', 'Pracownika 2', text)
               text = re.sub(r'\bPracownikowi (?:A|1)\b', 'Pracownikowi 2', text)
               text = re.sub(r'\bPracownikiem (?:A|1)\b', 'Pracownikiem 2', text)
               text = re.sub(r'\bPracowniku (?:A|1)\b', 'Pracowniku 2', text)
-              # Underscore variants used in anonymized filenames.
               text = text.replace('Pracownica_B', 'Pracownica_1').replace('Pracownica_2', 'Pracownica_1')
               text = text.replace('Pracownik_A', 'Pracownik_2').replace('Pracownik_1', 'Pracownik_2')
 
-              # English.
               text = text.replace('Worker B', 'Worker 1').replace('Worker A', 'Worker 2')
               text = text.replace('Worker_B', 'Worker_1').replace('Worker_A', 'Worker_2')
 
-              # Dutch.
               text = text.replace('Werkneemster B', 'Werkneemster 1').replace('Werkneemster 2', 'Werkneemster 1')
               text = text.replace('Werknemer B', 'Werkneemster 1').replace('Werknemer 1', 'Werkneemster 1')
               text = text.replace('Werknemer A', 'Werknemer 2')
@@ -56,7 +51,6 @@ jobs:
               text = text.replace('Werknemer_B', 'Werkneemster_1').replace('Werknemer_1', 'Werkneemster_1')
               text = text.replace('Werknemer_A', 'Werknemer_2')
 
-              # Evidence IDs: person 1 and person 2 instead of B and A.
               text = text.replace('E-PB-', 'E-P1-').replace('E-PA-', 'E-P2-')
               text = text.replace('E-WB-', 'E-W1-').replace('E-WA-', 'E-W2-')
               return text
@@ -77,23 +71,22 @@ jobs:
           glossaries = {
               Path('ANONYMIZATION.pl.md'): (
                   '## Stałe pseudonimy osób',
-                  '## Stałe pseudonimy osób\n\n- **Pracownica 1** — główna pracownica, której dotyczy sprawa o wynagrodzenie i umowę Fase 4.\n- **Pracownik 2** — drugi pracownik występujący w dokumentacji publicznej.\n\nNazwy „Pracownica B”, „Pracownik A”, „Pracownik 1” i „Pracownica 2” nie są używane w aktualnej wersji raportu.\n'
+                  '## Stałe pseudonimy osób\n\n- **Pracownica 1** — główna pracownica, której dotyczy sprawa o wynagrodzenie i umowę Fase 4.\n- **Pracownik 2** — drugi pracownik występujący w dokumentacji publicznej.\n\nW całym aktualnym raporcie stosowane są wyłącznie te dwa oznaczenia.\n'
               ),
               Path('ANONYMIZATION.en.md'): (
                   '## Fixed person pseudonyms',
-                  '## Fixed person pseudonyms\n\n- **Worker 1** — the primary worker in the wage and Fase 4 case.\n- **Worker 2** — the second worker appearing in the public documentation.\n\nThe labels “Worker A” and “Worker B” are not used in the current report.\n'
+                  '## Fixed person pseudonyms\n\n- **Worker 1** — the primary worker in the wage and Fase 4 case.\n- **Worker 2** — the second worker appearing in the public documentation.\n\nOnly these two labels are used throughout the current report.\n'
               ),
               Path('ANONYMIZATION.nl.md'): (
                   '## Vaste pseudoniemen van personen',
-                  '## Vaste pseudoniemen van personen\n\n- **Werkneemster 1** — de hoofdwerkneemster in de loon- en Fase 4-zaak.\n- **Werknemer 2** — de tweede werknemer die in de publieke documentatie voorkomt.\n\nDe aanduidingen “Werknemer A”, “Werknemer B”, “Werknemer 1” en “Werkneemster 2” worden in het actuele rapport niet gebruikt.\n'
+                  '## Vaste pseudoniemen van personen\n\n- **Werkneemster 1** — de hoofdwerkneemster in de loon- en Fase 4-zaak.\n- **Werknemer 2** — de tweede werknemer die in de publieke documentatie voorkomt.\n\nIn het actuele rapport worden uitsluitend deze twee aanduidingen gebruikt.\n'
               ),
           }
 
           for path, (marker, block) in glossaries.items():
               if not path.exists():
                   continue
-              text = path.read_text(encoding='utf-8')
-              text = normalize(text)
+              text = normalize(path.read_text(encoding='utf-8'))
               if marker not in text:
                   lines = text.splitlines()
                   insert_at = 0
