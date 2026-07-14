@@ -4,7 +4,7 @@
 
 **Zaak:** arbeidsgeschil in verband met Intrixo B.V. / Voorneputten in Nederland  
 **Reikwijdte:** loon, gegarandeerde uren, inhoudingen, huisvesting, juridische hulp en institutionele reacties  
-**Auteurs:** Werknemer 1 en Werkneemster 2 – privégegevens verwijderd  
+**Auteurs:** Werkneemster 1 en Werkneemster 1 – privégegevens verwijderd  
 **Karakter:** informatief en bewijsgericht document, geen vonnis en geen juridisch advies.
 
 ---

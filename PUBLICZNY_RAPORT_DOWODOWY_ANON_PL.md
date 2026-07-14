@@ -4,7 +4,7 @@
 
 **Sprawa:** spór pracowniczy związany z Intrixo B.V. / Voorneputten w Niderlandach  
 **Zakres:** wynagrodzenie, gwarantowane godziny, potrącenia, zakwaterowanie, pomoc prawna i reakcje instytucji  
-**Autorzy:** Pracownik 1 i Pracownica 2 – dane prywatne usunięte  
+**Autorzy:** Pracownik 2 i Pracownica 1 – dane prywatne usunięte  
 **Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna.
 
 ---

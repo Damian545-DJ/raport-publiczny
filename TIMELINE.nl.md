@@ -8,7 +8,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ## 2023 – begin 2024 (escalatie van problemen)
 - Toenemende arbeids- en loonproblemen: geschil over inhoudingen en urengarantie (Fase 4).
-- Werknemer 1 werd gedurende meerdere maanden zonder inkomen gelaten doordat er geen werk werd ingepland (volgens documentatie).
+- Werkneemster 1 werd gedurende meerdere maanden zonder inkomen gelaten doordat er geen werk werd ingepland (volgens documentatie).
 - Opbouw van een “schuld” voor uitzendhuisvesting tijdens periodes zonder ingepland werk (volgens documentatie).
 - Bijeenkomst op het kantoor van Intrixo waarbij (volgens audio-opnamen) communicatieve druk kan zijn uitgeoefend in verband met het ondertekenen van documenten die nadelig waren voor de werknemer.
 
@@ -29,7 +29,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ## 24-05-2024 – signaal over beslissing en aflossing “schuld”
 - Een boekhouder gaf informatie door over een beslissing/vonnis; in die periode was er geen reëel contact met de gemachtigde.
-- Werknemer 1 loste de door het bureau opgebouwde “schuld” af (volgens de auteurs: punt dat onafhankelijke juridische beoordeling vereist).
+- Werkneemster 1 loste de door het bureau opgebouwde “schuld” af (volgens de auteurs: punt dat onafhankelijke juridische beoordeling vereist).
 
 ---
 
@@ -61,7 +61,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ---
 
-# Werknemer 1 – bewijs (korte samenvatting + tijdlijn)
+# Werkneemster 1 – bewijs (korte samenvatting + tijdlijn)
 
 ## 1) Schuldmechanisme door geen werkplanning
 - Vanaf **21-11-2022** (onbepaalde tijd, Fase 4, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
@@ -308,7 +308,7 @@ E) risico dat de zaak op onvolledig materiaal is beoordeeld.
 
 ### Na einde werk / schikking – vervolgacties (2025–2026)
 
-- **09.07.2025 (Den Haag):** Werknemer 1 zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave.
+- **09.07.2025 (Den Haag):** Werkneemster 1 zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave.
 
 - **11.12.2025:** aan Intrixo (helpdesk@intrixo.nl) is de brief/e-mail “Verzoek om berekening achterstallig brutoloon” verzonden — verzoek om alle documenten en berekeningen van het achterstallig brutoloon vanaf **06.05.2022** conform het proces-verbaal (**12.03.2024**) + verzoek om reactie binnen **14 dagen**, anders verdere stappen.
 

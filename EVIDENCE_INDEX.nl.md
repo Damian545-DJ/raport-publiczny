@@ -54,7 +54,7 @@ De publieke versie mag bevatten:
 
 ---
 
-# Bewijsindex — Werknemer B
+# Bewijsindex — Werkneemster 1
 
 ## A) Gerechtelijke / procedurele documenten
 
@@ -77,7 +77,7 @@ De publieke versie mag bevatten:
 
 ## C) Loon / afrekening
 
-### E-WB-020 — Loonstroken / loonspecificaties van Werknemer B
+### E-WB-020 — Loonstroken / loonspecificaties van Werkneemster 1
 - **Publieke drager:** alleen geanonimiseerde bestandsnaam.
 - **Bereik:** geselecteerde loonweken uit de betwiste periode.
 - **Wat het ondersteunt:** uren, tarieven, inhoudingen, saldi, verlof en toeslagen.
@@ -136,7 +136,7 @@ De publieke versie mag bevatten:
 
 ---
 
-# Bewijsindex — Werknemer A
+# Bewijsindex — Werknemer 2
 
 ## A) Loonstroken / loon
 
@@ -195,11 +195,11 @@ De publieke versie mag geen volledige bestandsnamen publiceren als een bestandsn
 
 Gebruik in plaats daarvan beschrijvende namen, bijvoorbeeld:
 
-- `arbeidsovereenkomst-Werknemer_B_REDACTED.zip`
-- `loonstroken-Werknemer_B_REDACTED.zip`
-- `Werknemer_B_vs_Intrixo_proces-verbaal_REDACTED.pdf`
+- `arbeidsovereenkomst-Werkneemster_1_REDACTED.zip`
+- `loonstroken-Werkneemster_1_REDACTED.zip`
+- `Werkneemster_1_vs_Intrixo_proces-verbaal_REDACTED.pdf`
 - `uitzendhuisvesting-videomateriaal_REDACTED.pdf`
-- `meldingen-instanties-Werknemer_A_REDACTED.zip`
+- `meldingen-instanties-Werknemer_2_REDACTED.zip`
 
 ---
 
