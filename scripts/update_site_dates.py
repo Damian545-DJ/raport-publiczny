@@ -23,10 +23,12 @@ LANGUAGES = {
         ),
         "verification_labels": (
             "Ostatnia weryfikacja źródeł",
+            "Weryfikacja źródeł",
             "Źródła ostatnio zweryfikowano",
         ),
         "output_update": "Ostatnia zmiana",
         "output_verification": "Ostatnia weryfikacja źródeł",
+        "output_verification_short": "Weryfikacja źródeł",
     },
     "en": {
         "update_labels": (
@@ -37,9 +39,11 @@ LANGUAGES = {
         "verification_labels": (
             "Sources last verified",
             "Last source verification",
+            "Source verification",
         ),
         "output_update": "Last modified",
         "output_verification": "Sources last verified",
+        "output_verification_short": "Sources verified",
     },
     "nl": {
         "update_labels": (
@@ -50,9 +54,11 @@ LANGUAGES = {
         "verification_labels": (
             "Bronnen laatst geverifieerd",
             "Laatste bronverificatie",
+            "Bronverificatie",
         ),
         "output_update": "Laatst gewijzigd",
         "output_verification": "Bronnen laatst geverifieerd",
+        "output_verification_short": "Bronnen geverifieerd",
     },
 }
 
@@ -87,22 +93,57 @@ def update_html(path: Path, last_modified: str, sources_verified: str) -> bool:
     config = LANGUAGES[language]
     all_labels = config["update_labels"] + config["verification_labels"]
     labels_pattern = "|".join(re.escape(label) for label in all_labels)
-    pattern = re.compile(
+    total_fields = 0
+
+    meta_pattern = re.compile(
         rf'(?P<indent>[ \t]*)<p\s+class=["\']meta["\']><strong>(?:{labels_pattern}):</strong>\s*{DATE_RE}</p>',
         re.IGNORECASE,
     )
 
-    def replacement(match: re.Match[str]) -> str:
+    def meta_replacement(match: re.Match[str]) -> str:
         indent = match.group("indent")
         return (
             f'{indent}<p class="meta"><strong>{config["output_update"]}:</strong> {last_modified}</p>\n'
             f'{indent}<p class="meta"><strong>{config["output_verification"]}:</strong> {sources_verified}</p>'
         )
 
-    updated, count = replace_matches(text, pattern, replacement)
-    if count and updated != text:
-        path.write_text(updated, encoding="utf-8", newline="\n")
-        print(f"HTML: {path.relative_to(ROOT)} ({count} date field(s) normalized)")
+    text, count = replace_matches(text, meta_pattern, meta_replacement)
+    total_fields += count
+
+    plain_pattern = re.compile(
+        rf'(?P<indent>[ \t]*)<p><strong>(?:{labels_pattern}):</strong>\s*{DATE_RE}</p>',
+        re.IGNORECASE,
+    )
+
+    def plain_replacement(match: re.Match[str]) -> str:
+        indent = match.group("indent")
+        return (
+            f'{indent}<p><strong>{config["output_update"]}:</strong> {last_modified}</p>\n'
+            f'{indent}<p><strong>{config["output_verification"]}:</strong> {sources_verified}</p>'
+        )
+
+    text, count = replace_matches(text, plain_pattern, plain_replacement)
+    total_fields += count
+
+    badge_pattern = re.compile(
+        rf'(?P<indent>[ \t]*)<span\s+class=["\']badge["\']>(?:{labels_pattern}):\s*{DATE_RE}</span>',
+        re.IGNORECASE,
+    )
+
+    def badge_replacement(match: re.Match[str]) -> str:
+        indent = match.group("indent")
+        return (
+            f'{indent}<span class="badge">{config["output_update"]}: {last_modified}</span>\n'
+            f'{indent}<span class="badge">{config["output_verification_short"]}: {sources_verified}</span>'
+        )
+
+    text, count = replace_matches(text, badge_pattern, badge_replacement)
+    total_fields += count
+
+    original = path.read_text(encoding="utf-8")
+    if total_fields and text != original:
+        path.write_text(text, encoding="utf-8", newline="\n")
+        print(f"HTML: {path.relative_to(ROOT)} ({total_fields} date field(s) normalized)")
         return True
     return False
 
