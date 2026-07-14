@@ -44,11 +44,11 @@ Oznacza to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r. Oddzieln
 
 ---
 
-## Obowiązek zapisany w process-verbaal
+## Obowiązek zapisany w proces-verbaal
 
-Zakres zapisany w process-verbaal obejmował przekazanie przez Intrixo wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r. w terminie dwóch tygodni.
+Zakres zapisany w proces-verbaal obejmował przekazanie przez Intrixo wyliczenia należnego wynagrodzenia brutto od 6 maja 2022 r. w terminie dwóch tygodni.
 
-Process-verbaal nie stanowi wprost, że w jednym dokumencie należało przedstawić również pełne przejście brutto–netto, wszystkie potrącenia, wszystkie przelewy bankowe i saldo końcowe.
+Proces-verbaal nie stanowi wprost, że w jednym dokumencie należało przedstawić również pełne przejście brutto–netto, wszystkie potrącenia, wszystkie przelewy bankowe i saldo końcowe.
 
 ---
 
@@ -66,7 +66,7 @@ Aby niezależnie sprawdzić, czy po uwzględnieniu wszystkich płatności pozost
 - odrębne rozliczenie zaliczki 5 000 EUR,
 - końcowe saldo.
 
-Te dane są potrzebne do sprawdzenia stanowiska o braku dalszego roszczenia, ale nie są tożsame z literalnym zakresem obowiązku zapisanego w process-verbaal.
+Te dane są potrzebne do sprawdzenia stanowiska o braku dalszego roszczenia, ale nie są tożsame z literalnym zakresem obowiązku zapisanego w proces-verbaal.
 
 ---
 
@@ -86,7 +86,7 @@ Te dane są potrzebne do sprawdzenia stanowiska o braku dalszego roszczenia, ale
 - niewykonywanie gwarantowanych godzin i brak pełnej wypłaty za okresy bez pracy,
 - niejasne lub nadmierne potrącenia,
 - spóźnione albo niepełne rozliczenia,
-- brak pełnego wykonania obowiązku wynikającego z process-verbaal,
+- brak pełnego wykonania obowiązku wynikającego z proces-verbaal,
 - brak danych pozwalających niezależnie sprawdzić końcowe saldo,
 - nieskuteczna obsługa prawna i trudności w uzyskaniu akt,
 - niewystarczająca reakcja podmiotów kontrolnych i pomocowych.
