@@ -6,7 +6,7 @@
 
 **Status:** public anonymized version  
 **Last modified:** 2026-07-14  
-**Sources last verified:** 2026-07-11
+**Sources last verified:** 2026-07-11  
 **Purpose:** enable factual verification and safe sharing with institutions, lawyers and media.
 
 > All statements about wrongdoing are allegations requiring independent verification. This repository is neither a judgment nor legal advice.
@@ -40,18 +40,33 @@ Within two weeks Intrixo had to provide the worker's representative with:
 
 > “een berekening van het sinds 6 mei 2022 verschuldigde bruto loon”.
 
-This means a calculation of the gross wages due since 6 May 2022. A separate element was the €5,000 advance on wage arrears.
+This means a calculation of the gross wages due since 6 May 2022. A separate element was the EUR 5,000 advance on wage arrears.
 
 ---
 
-## What a verifiable calculation should contain
+## Obligation recorded in the proces-verbaal
 
-- the balance of gross wages due since 6 May 2022,
+The obligation recorded in the proces-verbaal was for Intrixo to provide, within two weeks, a calculation of the gross wages due since 6 May 2022.
+
+The proces-verbaal does not expressly state that one document also had to contain a complete gross-to-net reconciliation, every deduction, every bank transfer and the final balance.
+
+---
+
+## Data needed to verify the final balance
+
+To independently verify whether any further amount remained due after all payments, the following additional data are needed:
+
+- the full amount of gross wages due since 6 May 2022,
 - a week-by-week comparison of hours due, hours recorded and the difference,
 - an explanation of weeks without payslips or with zero hours,
 - gross components, allowances, holiday reserves and corrections,
+- the gross-to-net calculation,
 - deductions for accommodation, insurance, pension and other items,
-- the gross-to-net calculation and matching bank transfers to payroll periods.
+- matching bank transfers to payroll periods,
+- separate treatment of the EUR 5,000 advance,
+- the final balance.
+
+These data are necessary to test a conclusion that no further claim exists, but they are not identical to the literal scope of the obligation recorded in the proces-verbaal.
 
 ---
 
@@ -72,6 +87,7 @@ This means a calculation of the gross wages due since 6 May 2022. A separate ele
 - unclear or excessive deductions,
 - late or incomplete settlements,
 - failure to fully perform the obligation recorded in the proces-verbaal,
+- absence of data allowing independent verification of the final balance,
 - ineffective legal services and difficulty obtaining the case file,
 - insufficient responses from supervisory and support bodies.
 
@@ -111,34 +127,5 @@ An organizational or historical link does not prove responsibility for a particu
 - identify a missing document or translation error,
 - assist with payroll or legal analysis,
 - submit corrections through a GitHub Issue without publishing sensitive data.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- end of equivalent language version -->
