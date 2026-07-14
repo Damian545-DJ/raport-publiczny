@@ -1,0 +1,111 @@
+name: Normalize pseudonyms once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/normalize-pseudonyms-once.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Normalize pseudonyms in public text files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              # Polish: primary female = Pracownica 1; second male = Pracownik 2
+              'Pracownica 2': 'Pracownica 1',
+              'Pracownik 1': 'Pracownik 2',
+              'Pracownica B': 'Pracownica 1',
+              'Pracownik A': 'Pracownik 2',
+              'Pracownica_B': 'Pracownica_1',
+              'Pracownik_A': 'Pracownik_2',
+              # English: primary person = Worker 1; second person = Worker 2
+              'Worker B': 'Worker 1',
+              'Worker A': 'Worker 2',
+              'Worker_B': 'Worker_1',
+              'Worker_A': 'Worker_2',
+              # Dutch: primary female = Werkneemster 1; second male = Werknemer 2
+              'Werkneemster 2': 'Werkneemster 1',
+              'Werknemer 1': 'Werkneemster 1',
+              'Werkneemster B': 'Werkneemster 1',
+              'Werknemer B': 'Werkneemster 1',
+              'Werknemer A': 'Werknemer 2',
+              'Werkneemster_2': 'Werkneemster_1',
+              'Werknemer_1': 'Werkneemster_1',
+              'Werkneemster_B': 'Werkneemster_1',
+              'Werknemer_B': 'Werkneemster_1',
+              'Werknemer_A': 'Werknemer_2',
+          }
+
+          allowed_suffixes = {'.md', '.html', '.htm', '.txt', '.py', '.json', '.yml', '.yaml'}
+          workflow = Path('.github/workflows/normalize-pseudonyms-once.yml')
+          changed = []
+
+          for path in Path('.').rglob('*'):
+              if not path.is_file() or '.git' in path.parts or path == workflow:
+                  continue
+              if path.suffix.lower() not in allowed_suffixes:
+                  continue
+              try:
+                  original = path.read_text(encoding='utf-8')
+              except UnicodeDecodeError:
+                  continue
+              updated = original
+              for old, new in replacements.items():
+                  updated = updated.replace(old, new)
+              if updated != original:
+                  path.write_text(updated, encoding='utf-8')
+                  changed.append(str(path))
+
+          forbidden = [
+              'Pracownica 2', 'Pracownik 1', 'Pracownica B', 'Pracownik A',
+              'Pracownica_B', 'Pracownik_A',
+              'Worker B', 'Worker A', 'Worker_B', 'Worker_A',
+              'Werkneemster 2', 'Werknemer 1', 'Werkneemster B', 'Werknemer B', 'Werknemer A',
+              'Werkneemster_2', 'Werknemer_1', 'Werkneemster_B', 'Werknemer_B', 'Werknemer_A',
+          ]
+          failures = []
+          for path in Path('.').rglob('*'):
+              if not path.is_file() or '.git' in path.parts or path == workflow:
+                  continue
+              if path.suffix.lower() not in allowed_suffixes:
+                  continue
+              try:
+                  text = path.read_text(encoding='utf-8')
+              except UnicodeDecodeError:
+                  continue
+              for term in forbidden:
+                  if term in text:
+                      failures.append(f'{path}: {term}')
+          if failures:
+              raise SystemExit('Old pseudonyms remain:\n' + '\n'.join(failures))
+
+          print('Changed files:')
+          for item in changed:
+              print(item)
+          PY
+
+      - name: Remove one-time workflow and commit
+        run: |
+          rm -f .github/workflows/normalize-pseudonyms-once.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes required"
+            exit 0
+          fi
+          git commit -m "Ujednolicenie pseudonimów osób w PL EN NL"
+          git push
