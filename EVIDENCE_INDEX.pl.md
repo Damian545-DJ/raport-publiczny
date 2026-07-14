@@ -5,7 +5,8 @@
 Ten plik jest publicznym indeksem kategorii dowodów. Nie zawiera pełnych dokumentów ani danych wrażliwych. Pełne materiały źródłowe pozostają przeznaczone wyłącznie dla instytucji, organów, pełnomocników lub zweryfikowanych podmiotów, jeżeli istnieje uzasadniony cel ich przekazania.
 
 **Status:** publiczna wersja zanonimizowana  
-**Ostatnia aktualizacja:** 2026-06-30
+**Ostatnia zmiana:** 2026-07-14  
+**Ostatnia weryfikacja źródeł:** 2026-07-11
 
 ---
 

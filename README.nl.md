@@ -5,7 +5,8 @@
 **TL;DR:** Deze repository ordent geanonimiseerde documentatie van een arbeidsgeschil over loon, gegarandeerde uren, inhoudingen, huisvesting, juridische dienstverlening en institutionele reacties.
 
 **Status:** openbare geanonimiseerde versie  
-**Laatste update:** 2026-07-11  
+**Laatst gewijzigd:** 2026-07-14  
+**Bronnen laatst geverifieerd:** 2026-07-11
 **Doel:** feitelijke verificatie en veilige verstrekking aan instanties, juristen en media mogelijk maken.
 
 > Alle uitspraken over misstanden zijn verwijten die onafhankelijke verificatie vereisen. Deze repository is geen vonnis en geen juridisch advies.

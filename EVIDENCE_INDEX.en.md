@@ -5,7 +5,8 @@
 This file is a public index of evidence categories. It does not contain full documents or sensitive data. Full source materials are intended only for institutions, authorities, legal representatives or verified parties where there is a justified purpose for sharing them.
 
 **Status:** public anonymized version  
-**Last updated:** 2026-06-30
+**Last modified:** 2026-07-14  
+**Sources last verified:** 2026-07-11
 
 ---
 

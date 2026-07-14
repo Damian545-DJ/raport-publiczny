@@ -5,7 +5,8 @@
 Dit bestand is een publieke index van bewijs-categorieën. Het bevat geen volledige documenten en geen gevoelige gegevens. Volledige bronmaterialen zijn uitsluitend bedoeld voor instanties, autoriteiten, juridische vertegenwoordigers of geverifieerde partijen wanneer er een gerechtvaardigd doel voor verstrekking bestaat.
 
 **Status:** publieke geanonimiseerde versie  
-**Laatst bijgewerkt:** 2026-06-30
+**Laatst gewijzigd:** 2026-07-14  
+**Bronnen laatst geverifieerd:** 2026-07-11
 
 ---
 
