@@ -5,7 +5,10 @@
 **Sprawa:** spór pracowniczy związany z Intrixo B.V. / Voorneputten w Niderlandach  
 **Zakres:** wynagrodzenie, gwarantowane godziny, potrącenia, zakwaterowanie, pomoc prawna i reakcje instytucji  
 **Autorzy:** Pracownica 1 i Pracownik 2 – dane prywatne usunięte  
-**Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna.
+**Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna  
+**Wersja raportu:** 2.0  
+**Data aktualizacji:** 2026-07-14  
+**Status publikacji:** publiczna, zanonimizowana wersja pełnego raportu.
 
 ---
 
@@ -27,6 +30,54 @@ Wersja publiczna usuwa dane prywatnych osób, dokładne miejsca zakwaterowania i
 - brakujące albo niepełne dokumenty płacowe i korekty,
 - trudności w uzyskaniu pełnego wykonania ustaleń sądowych,
 - problemy z kolejnymi pełnomocnikami i reakcją instytucji.
+
+---
+
+## 1A. Aktualne kwoty kolejnych wyliczeń
+
+W dokumentacji znajdują się trzy kolejne wersje wyliczeń sporządzanych w 2026 r.:
+
+| Data | Kwota | Status |
+|---|---:|---|
+| 01.04.2026 | około **3 503,05 EUR brutto** | pierwsza wersja; pełnomocnik wskazywał, że nie posiada wszystkich loonstrooków |
+| 07.04.2026 | około **4 155,85 EUR brutto** | druga wersja po otrzymaniu dalszych dokumentów; dokumentacja nadal nie była kompletna |
+| 07.05.2026 | **7 741,03 EUR brutto** | późniejsza wersja wyliczenia; nie stanowi sama w sobie pełnego i ostatecznego rozliczenia końcowego salda |
+
+Kwoty przedstawiają kolejne wyniki roboczych kalkulacji, a nie prawomocnie ustaloną należność końcową. Istotne różnice między nimi wymagają porównania z pełnym zestawem dokumentów źródłowych.
+
+---
+
+## 1B. Krótki status głównych wątków
+
+| Główny wątek | Status na 14.07.2026 | Krótkie wyjaśnienie |
+|---|---|---|
+| Obowiązek z proces-verbaal | **udokumentowany; wykonanie w terminie wymaga weryfikacji** | obowiązek dotyczył wyliczenia należnego brutto od 06.05.2022; w publicznym materiale brak dowodu pełnego wykonania do 26.03.2024 |
+| Umowa Fase 4 i gwarancja 32 godzin | **udokumentowane** | umowa wskazuje 32 godziny tygodniowo; część danych płacowych wymaga wyjaśnienia |
+| Brakujące tygodnie i końcowe saldo | **nierozstrzygnięte** | potrzebne jest kompletne zestawienie okresów, brutto–netto, potrąceń, banku i zaliczki 5 000 EUR |
+| Wyliczenia pełnomocnika z 2026 r. | **rozbieżne; wymagają niezależnej kontroli** | wyniki zmieniały się z ok. 3 503,05 do 4 155,85 i 7 741,03 EUR brutto |
+| Postępowanie dyscyplinarne dotyczące pierwszego pełnomocnika | **decyzja z 29.06.2026** | według posiadanego dokumentu zarzuty a) i d) uznano za zasadne, b) i c) za niezasadne; zastosowano naganę |
+| Dalsze działania instytucjonalne | **w toku / dokumentowane** | materiały zostały przekazane lub uzupełniane w kontaktach z właściwymi instytucjami; raport nie przesądza ich końcowego wyniku |
+
+---
+
+## 1C. Decyzja dyscyplinarna z 29 czerwca 2026 r.
+
+Autorzy posiadają decyzję Raad van Discipline w ressort Den Haag z 29.06.2026 r., sygn. **25-714/DH/DH**. Według jej treści uwzględniono sprzeciw, zarzuty a) i d) uznano za zasadne, zarzuty b) i c) za niezasadne, a wobec adwokata zastosowano naganę.
+
+Pełny dokument jest przechowywany prywatnie. W raporcie publicznym publikowany jest wyłącznie zanonimizowany opis rozstrzygnięcia i sygnatura.
+
+---
+
+## 1D. Dokument publiczny a materiały przechowywane prywatnie
+
+| Publicznie dostępne | Przechowywane prywatnie |
+|---|---|
+| zanonimizowany pełny raport, krótkie ustalenia, oś czasu i indeks kategorii dowodów | pełne dokumenty sądowe i pełna decyzja dyscyplinarna |
+| daty, kwoty roboczych wyliczeń i opisy rozbieżności | surowe loonstrooki, wyciągi bankowe, faktury i kompletna korespondencja |
+| bezpieczne opisy nagrań i materiałów zdjęciowych | oryginalne nagrania audio/wideo, zdjęcia i pliki zawierające dane osobowe |
+| zanonimizowane fragmenty potrzebne do publicznej weryfikacji | dokumenty z podpisami, adresami, numerami kont, identyfikatorami i innymi danymi wrażliwymi |
+
+Materiały prywatne mogą zostać przekazane właściwym instytucjom, sądom, organom dyscyplinarnym lub zweryfikowanym pełnomocnikom wyłącznie w uzasadnionym i bezpiecznym trybie.
 
 ---
 
