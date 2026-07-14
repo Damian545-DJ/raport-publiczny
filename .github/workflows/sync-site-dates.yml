@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - scripts/update_site_dates.py
+      - scripts/fix_inline_date_metadata.py
       - .github/workflows/sync-site-dates.yml
   workflow_dispatch:
     inputs:
@@ -52,7 +53,9 @@ jobs:
         env:
           LAST_MODIFIED: ${{ github.event.inputs.last_modified || '2026-07-14' }}
           SOURCES_VERIFIED: ${{ github.event.inputs.sources_verified || '2026-07-11' }}
-        run: python scripts/update_site_dates.py
+        run: |
+          python scripts/update_site_dates.py
+          python scripts/fix_inline_date_metadata.py
 
       - name: Commit synchronized metadata
         run: |
