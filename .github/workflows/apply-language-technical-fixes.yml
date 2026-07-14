@@ -30,6 +30,30 @@ jobs:
       - name: Apply fixes
         run: python scripts/apply_language_technical_fixes.py
 
+      - name: Final language and script safeguards
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          index = Path("en/index.html")
+          text = index.read_text(encoding="utf-8").replace('content="en_GB"', 'content="en_US"')
+          index.write_text(text, encoding="utf-8")
+
+          evidence = Path("en/dowody.html")
+          text = evidence.read_text(encoding="utf-8").replace(
+              'content="anonymized excerpts from the process-verbaal',
+              'content="Anonymized excerpts from the process-verbaal',
+          )
+          evidence.write_text(text, encoding="utf-8")
+
+          script = Path("scripts/apply_language_technical_fixes.py")
+          text = script.read_text(encoding="utf-8").replace(
+              'if match and (len(match.group(2)) > 120 or match.group(2).endswith(".")):',
+              'if match and len(match.group(2)) > 120:',
+          )
+          script.write_text(text, encoding="utf-8")
+          PY
+
       - name: Preserve abbreviated-name headings
         run: |
           python - <<'PY'
