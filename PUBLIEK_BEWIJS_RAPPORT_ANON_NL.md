@@ -5,7 +5,10 @@
 **Zaak:** arbeidsgeschil in verband met Intrixo B.V. / Voorneputten in Nederland  
 **Reikwijdte:** loon, gegarandeerde uren, inhoudingen, huisvesting, juridische hulp en institutionele reacties  
 **Auteurs:** Werkneemster 1 en Werknemer 2 – privégegevens verwijderd  
-**Karakter:** informatief en bewijsgericht document, geen vonnis en geen juridisch advies.
+**Karakter:** informatief en bewijsgericht document, geen vonnis en geen juridisch advies  
+**Rapportversie:** 2.0  
+**Bijgewerkt:** 14 juli 2026  
+**Publicatiestatus:** publieke, geanonimiseerde versie van het volledige rapport.
 
 ---
 
@@ -27,6 +30,54 @@ De openbare versie verwijdert gegevens van privépersonen, exacte huisvestings- 
 - ontbrekende of onvolledige loonstukken en correcties,
 - problemen bij het verkrijgen van volledige uitvoering van de gerechtelijke afspraken,
 - problemen rond opeenvolgende gemachtigden en institutionele reacties.
+
+---
+
+## 1A. Actuele bedragen uit opeenvolgende berekeningen
+
+De documentatie bevat drie opeenvolgende berekeningsversies uit 2026:
+
+| Datum | Bedrag | Status |
+|---|---:|---|
+| 1 april 2026 | ongeveer **EUR 3.503,05 bruto** | eerste versie; de gemachtigde gaf aan niet over alle loonstroken te beschikken |
+| 7 april 2026 | ongeveer **EUR 4.155,85 bruto** | tweede versie na ontvangst van verdere stukken; de documentatie was nog steeds onvolledig |
+| 7 mei 2026 | **EUR 7.741,03 bruto** | latere berekeningsversie; vormt op zichzelf geen volledige en definitieve afrekening van het eindsaldo |
+
+Deze bedragen zijn opeenvolgende werkberekeningen en geen door een bindende beslissing definitief vastgesteld bedrag. De wezenlijke verschillen vereisen vergelijking met de volledige bronstukken.
+
+---
+
+## 1B. Korte status van de hoofdonderwerpen
+
+| Hoofdonderwerp | Status per 14 juli 2026 | Korte uitleg |
+|---|---|---|
+| Verplichting uit het proces-verbaal | **gedocumenteerd; tijdige uitvoering vereist verificatie** | de verplichting betrof het sinds 6 mei 2022 verschuldigde brutoloon; het publieke materiaal bevat geen bewijs van volledige uitvoering vóór 26 maart 2024 |
+| Fase 4-overeenkomst en garantie van 32 uur | **gedocumenteerd** | de overeenkomst vermeldt 32 uur per week; delen van de loonadministratie vereisen uitleg |
+| Ontbrekende weken en eindsaldo | **niet afgerond** | een volledige afstemming van periodes, bruto-netto, inhoudingen, bankbetalingen en het voorschot van EUR 5.000 is nodig |
+| Berekeningen van de gemachtigde uit 2026 | **uiteenlopend; onafhankelijke controle nodig** | de resultaten wijzigden van ongeveer EUR 3.503,05 naar EUR 4.155,85 en EUR 7.741,03 bruto |
+| Tuchtprocedure betreffende de eerste gemachtigde | **beslissing van 29 juni 2026** | volgens het aanwezige document zijn onderdelen a) en d) gegrond, b) en c) ongegrond verklaard en is een berisping opgelegd |
+| Verdere institutionele stappen | **lopend / gedocumenteerd** | materiaal is ingediend of aangevuld in contacten met relevante instanties; het rapport loopt niet vooruit op hun definitieve uitkomst |
+
+---
+
+## 1C. Tuchtrechtelijke beslissing van 29 juni 2026
+
+De auteurs beschikken over een beslissing van de Raad van Discipline in het ressort Den Haag van 29 juni 2026, zaaknummer **25-714/DH/DH**. Volgens de beslissing is het verzet gegrond verklaard, zijn klachtonderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is aan de advocaat een berisping opgelegd.
+
+Het volledige document wordt privé bewaard. Het publieke rapport bevat alleen een geanonimiseerde beschrijving van het dictum en het zaaknummer.
+
+---
+
+## 1D. Publiek document en privé bewaarde materialen
+
+| Publiek beschikbaar | Privé bewaard |
+|---|---|
+| geanonimiseerd volledig rapport, belangrijkste bevindingen, tijdlijn en index van bewijscategorieën | volledige gerechtelijke stukken en de volledige tuchtrechtelijke beslissing |
+| datums, bedragen van werkberekeningen en beschrijvingen van verschillen | ruwe loonstroken, bankafschriften, facturen en volledige correspondentie |
+| veilige beschrijvingen van opnamen en fotomateriaal | originele audio-/video-opnamen, foto's en bestanden met persoonsgegevens |
+| geanonimiseerde fragmenten die nodig zijn voor publieke verificatie | documenten met handtekeningen, adressen, bankgegevens, identificatoren en andere gevoelige gegevens |
+
+Privé bewaarde materialen kunnen uitsluitend via een gemotiveerde en veilige route worden verstrekt aan bevoegde instanties, rechtbanken, tuchtrechtelijke organen of geverifieerde juridische vertegenwoordigers.
 
 ---
 
