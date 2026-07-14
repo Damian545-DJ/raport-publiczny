@@ -21,7 +21,7 @@ De openbare versie verwijdert gegevens van privépersonen, exacte huisvestings- 
 
 ## 1. Samenvatting van de zaak
 
-- een fase-C contract voor onbepaalde tijd met een garantie van 32 uur per week,
+- een arbeidsovereenkomst voor onbepaalde tijd in **NBBU Fase 4, de tegenhanger van ABU Fase C**, met 32 uur per week,
 - periodes zonder toegewezen werk en een geschil over loon bij beschikbaarheid voor werk,
 - oplopende kosten en inhoudingen in periodes zonder werk,
 - ontbrekende of onvolledige loonstukken en correcties,
@@ -45,7 +45,7 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde brutoloon en geen 
 ## 3. Bewijsmateriaal
 
 - het proces-verbaal en correspondentie over verkrijging en uitvoering ervan,
-- de arbeidsovereenkomst en fase-C documenten,
+- de arbeidsovereenkomst en Fase 4-documenten,
 - loonstroken, urenoverzichten en correcties,
 - lijsten van ontbrekende weken en periodes met nul uren,
 - bankbetalingsbewijzen en vergelijking met nettobedragen,
@@ -90,7 +90,7 @@ Deze bredere gegevens zijn nodig om het eindsaldo en het standpunt dat geen verd
 
 ## 5. Bevindingen over uren en loon
 
-- de stukken wijzen op een verschil tussen het 32-urencontract en delen van de loonadministratie,
+- de stukken wijzen op een verschil tussen de 32-urenovereenkomst en delen van de loonadministratie,
 - voor sommige weken ontbreekt een volledige afrekening of beschikbare loonstrook,
 - verschillende spreadsheets leidden tot wezenlijk verschillende resultaten,
 - berekeningen die alleen uren behandelen verklaren niet alle brutocomponenten en inhoudingen,
@@ -146,7 +146,7 @@ Deze bredere gegevens zijn nodig om het eindsaldo en het standpunt dat geen verd
 ## 11. Veilige bewijsindex
 
 - D-01 – proces-verbaal en gerechtelijke stukken,
-- D-02 – contract en arbeidsdocumenten,
+- D-02 – overeenkomst en arbeidsdocumenten,
 - D-03 – loon- en urenadministratie,
 - D-04 – overzichten van inhoudingen en correcties,
 - D-05 – bankbewijzen,
