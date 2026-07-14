@@ -24,7 +24,7 @@
 
 ## Core of the case
 
-- a dispute over a Phase C open-ended contract and a 32-hour weekly guarantee,
+- a dispute over an open-ended **NBBU Fase 4 agreement, equivalent to ABU Phase C**, providing for 32 hours per week,
 - a dispute over wages due, missing periods, deductions and corrections,
 - questions concerning agency accommodation, privacy and economic dependence,
 - problems obtaining documents and completing the case through successive representatives,
