@@ -26,4 +26,4 @@ Redactie / instantie: ${x.org||'-'}
 Antwoordadres: ${x.reply||'-'}
 Onderwerp: ${x.subject}
 
-${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='Het bericht is naar het klembord gekopieerd.';}catch(_e){document.getElementById('copyStatus').textContent='Copy the prepared text manually.';}});</script></body></html>
+${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='Het bericht is naar het klembord gekopieerd.';}catch(_e){document.getElementById('copyStatus').textContent='Kopieer de voorbereide tekst handmatig.';}});</script></body></html>

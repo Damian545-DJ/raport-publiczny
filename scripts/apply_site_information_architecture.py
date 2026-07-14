@@ -16,6 +16,8 @@ LANGS = {
         "menu": ["Start", "Ustalenia", "Dowody", "Oś czasu", "Instytucje", "Media"],
         "paths": ["index.html", "najwazniejsze-ustalenia.html", "dowody.html", "timeline.html", "dla-instytucji.html", "media.html"],
         "menu_label": "Menu główne",
+        "skip": "Przejdź do treści",
+        "copy_fallback": "Skopiuj przygotowany tekst ręcznie.",
         "lang_label": "Wersja językowa",
         "facts_title": "Pięć faktów na pierwszą lekturę",
         "timeline_title": "Najważniejsze wydarzenia",
@@ -60,6 +62,8 @@ LANGS = {
         "menu": ["Start", "Findings", "Evidence", "Timeline", "Institutions", "Media"],
         "paths": ["index.html", "key-findings.html", "dowody.html", "timeline.html", "for-institutions.html", "media.html"],
         "menu_label": "Main menu",
+        "skip": "Skip to main content",
+        "copy_fallback": "Copy the prepared text manually.",
         "lang_label": "Language version",
         "facts_title": "Five facts for a first reading",
         "timeline_title": "Key events",
@@ -104,6 +108,8 @@ LANGS = {
         "menu": ["Start", "Bevindingen", "Bewijs", "Tijdlijn", "Instanties", "Media"],
         "paths": ["index.html", "belangrijkste-bevindingen.html", "dowody.html", "timeline.html", "voor-instanties.html", "media.html"],
         "menu_label": "Hoofdmenu",
+        "skip": "Ga naar de hoofdinhoud",
+        "copy_fallback": "Kopieer de voorbereide tekst handmatig.",
         "lang_label": "Taalversie",
         "facts_title": "Vijf feiten voor een eerste lezing",
         "timeline_title": "Belangrijkste gebeurtenissen",
@@ -218,7 +224,7 @@ def fact_cards(lang: str) -> str:
     types = ["document", "private", "document", "calculation", "private"]
     cards = []
     for i in range(5):
-        cards.append(f'''<article class="fact-card"><span class="claim-label claim-{types[i]}">{d['labels'][types[i]]}</span><h2>{d['fact_docs'][i]}</h2><dl><dt>Data</dt><dd>{d['fact_dates'][i]}</dd><dt>{'Kwota / zakres' if lang=='pl' else ('Amount / scope' if lang=='en' else 'Bedrag / reikwijdte')}</dt><dd>{d['fact_amounts'][i]}</dd><dt>Status</dt><dd>{d['status'][i]}</dd></dl><p><a href="{FACT_LINKS[lang][i]}">{d['read']} →</a></p></article>''')
+        cards.append(f'''<article class="fact-card"><span class="claim-label claim-{types[i]}">{d['labels'][types[i]]}</span><h2>{d['fact_docs'][i]}</h2><dl><dt>{'Data' if lang=='pl' else ('Date' if lang=='en' else 'Datum')}</dt><dd>{d['fact_dates'][i]}</dd><dt>{'Kwota / zakres' if lang=='pl' else ('Amount / scope' if lang=='en' else 'Bedrag / reikwijdte')}</dt><dd>{d['fact_amounts'][i]}</dd><dt>Status</dt><dd>{d['status'][i]}</dd></dl><p><a href="{FACT_LINKS[lang][i]}">{d['read']} →</a></p></article>''')
     return "".join(cards)
 
 
@@ -228,7 +234,7 @@ def home_page(lang: str) -> str:
     report = REPORT_FILES[lang]
     description = d["intro"]
     return head(lang, d["title"], description, "index.html") + f'''
-<body><a class="skip-link" href="#main-content">Skip</a><div class="wrap">{nav(lang)}<main id="main-content" tabindex="-1">
+<body><a class="skip-link" href="#main-content">{d['skip']}</a><div class="wrap">{nav(lang)}<main id="main-content" tabindex="-1">
 <section class="hero-modern"><h1>{d['hero']}</h1><p>{d['intro']}</p><p><strong>{'Wersja' if lang=='pl' else ('Version' if lang=='en' else 'Versie')} 3.0</strong> · {DATE}</p></section>
 <section aria-labelledby="facts-title"><h2 id="facts-title">{d['facts_title']}</h2><div class="fact-grid">{fact_cards(lang)}</div></section>
 <section class="card"><h2>{d['timeline_title']}</h2><ol class="visual-timeline">{items}</ol><p><a href="timeline.html">{d['read']} →</a></p></section>
@@ -267,7 +273,7 @@ def print_page(lang: str) -> str:
 def contact_page(lang: str) -> str:
     d = LANGS[lang]
     f = d["fields"]
-    return head(lang, d["contact_title"], d["contact_intro"], "contact.html") + f'''<body><div class="wrap">{nav(lang)}<main id="main-content"><section class="hero-modern"><h1>{d['contact_title']}</h1><p>{d['contact_intro']}</p></section><section class="card"><form id="contactForm" class="contact-form"><label>{f[0]}<input name="name" required></label><label>{f[1]}<input name="org"></label><label>{f[2]}<input name="reply" type="email"></label><label>{f[3]}<input name="subject" required></label><label>{f[4]}<textarea name="message" required></textarea></label><button type="submit">{d['copy']}</button></form><p id="copyStatus" role="status"></p><pre id="contactOutput" class="contact-output"></pre><p><a href="https://www.linkedin.com/in/damian-nowak-3a50442b0" target="_blank" rel="noopener noreferrer">{d['linkedin']}</a></p></section></main>{footer(lang)}</div><script>document.getElementById('contactForm').addEventListener('submit',async e=>{{e.preventDefault();const x=Object.fromEntries(new FormData(e.target));const text=`{f[0]}: ${{x.name}}\n{f[1]}: ${{x.org||'-'}}\n{f[2]}: ${{x.reply||'-'}}\n{f[3]}: ${{x.subject}}\n\n${{x.message}}`;document.getElementById('contactOutput').textContent=text;try{{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='{d['copied']}';}}catch(_e){{document.getElementById('copyStatus').textContent='Copy the prepared text manually.';}}}});</script></body></html>'''
+    return head(lang, d["contact_title"], d["contact_intro"], "contact.html") + f'''<body><div class="wrap">{nav(lang)}<main id="main-content"><section class="hero-modern"><h1>{d['contact_title']}</h1><p>{d['contact_intro']}</p></section><section class="card"><form id="contactForm" class="contact-form"><label>{f[0]}<input name="name" required></label><label>{f[1]}<input name="org"></label><label>{f[2]}<input name="reply" type="email"></label><label>{f[3]}<input name="subject" required></label><label>{f[4]}<textarea name="message" required></textarea></label><button type="submit">{d['copy']}</button></form><p id="copyStatus" role="status"></p><pre id="contactOutput" class="contact-output"></pre><p><a href="https://www.linkedin.com/in/damian-nowak-3a50442b0" target="_blank" rel="noopener noreferrer">{d['linkedin']}</a></p></section></main>{footer(lang)}</div><script>document.getElementById('contactForm').addEventListener('submit',async e=>{{e.preventDefault();const x=Object.fromEntries(new FormData(e.target));const text=`{f[0]}: ${{x.name}}\n{f[1]}: ${{x.org||'-'}}\n{f[2]}: ${{x.reply||'-'}}\n{f[3]}: ${{x.subject}}\n\n${{x.message}}`;document.getElementById('contactOutput').textContent=text;try{{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='{d['copied']}';}}catch(_e){{document.getElementById('copyStatus').textContent='{d['copy_fallback']}';}}}});</script></body></html>'''
 
 
 def inject_shell() -> None:

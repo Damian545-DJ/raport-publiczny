@@ -26,4 +26,4 @@ Redakcja / instytucja: ${x.org||'-'}
 Adres zwrotny: ${x.reply||'-'}
 Temat: ${x.subject}
 
-${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='Wiadomość została skopiowana do schowka.';}catch(_e){document.getElementById('copyStatus').textContent='Copy the prepared text manually.';}});</script></body></html>
+${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='Wiadomość została skopiowana do schowka.';}catch(_e){document.getElementById('copyStatus').textContent='Skopiuj przygotowany tekst ręcznie.';}});</script></body></html>
