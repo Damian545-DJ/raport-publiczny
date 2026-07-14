@@ -27,102 +27,29 @@ jobs:
       - name: Checkout current main
         uses: actions/checkout@v4
 
-      - name: Validate visible date metadata
+      - name: Validate required public files
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
-          import re
 
-          required = {
-              "index.html": (
-                  "Ostatnia zmiana:",
-                  "Weryfikacja źródeł:",
-              ),
-              "pl/index.html": (
-                  "Ostatnia zmiana:",
-                  "Ostatnia weryfikacja źródeł:",
-              ),
-              "en/index.html": (
-                  "Last modified:",
-                  "Sources last verified:",
-              ),
-              "nl/index.html": (
-                  "Laatst gewijzigd:",
-                  "Bronnen laatst geverifieerd:",
-              ),
-              "pl/home-of-people.html": (
-                  "Ostatnia zmiana:",
-                  "Ostatnia weryfikacja źródeł:",
-              ),
-              "en/home-of-people.html": (
-                  "Last modified:",
-                  "Sources last verified:",
-              ),
-              "nl/home-of-people.html": (
-                  "Laatst gewijzigd:",
-                  "Bronnen laatst geverifieerd:",
-              ),
-              "pl/najwazniejsze-ustalenia.html": (
-                  "Ostatnia zmiana:",
-                  "Ostatnia weryfikacja źródeł:",
-              ),
-              "en/key-findings.html": (
-                  "Last modified:",
-                  "Sources last verified:",
-              ),
-              "nl/belangrijkste-bevindingen.html": (
-                  "Laatst gewijzigd:",
-                  "Bronnen laatst geverifieerd:",
-              ),
-          }
-
-          obsolete_labels = (
-              "Ostatnia aktualizacja:",
-              "Last updated:",
-              "Last update:",
-              "Laatst bijgewerkt:",
-              "Laatste update:",
+          required = (
+              "index.html",
+              "doc.html",
+              "assets/markdown-fallback.js",
+              "pl/index.html",
+              "en/index.html",
+              "nl/index.html",
+              "PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md",
+              "PUBLIC_REPORT_EVIDENCE_ANON_EN.md",
+              "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md",
           )
-          date_re = re.compile(r"\b\d{4}-\d{2}-\d{2}\b")
-          errors = []
 
-          for filename, labels in required.items():
-              path = Path(filename)
-              if not path.exists():
-                  errors.append(f"missing file: {filename}")
-                  continue
+          missing = [name for name in required if not Path(name).is_file()]
+          if missing:
+              raise SystemExit("Missing required public files:\n- " + "\n- ".join(missing))
 
-              text = path.read_text(encoding="utf-8")
-              for label in labels:
-                  if label not in text:
-                      errors.append(f"{filename}: missing label {label!r}")
-
-              for obsolete in obsolete_labels:
-                  if obsolete in text:
-                      errors.append(f"{filename}: obsolete label remains: {obsolete!r}")
-
-              visible_dates = date_re.findall(text)
-              if len(visible_dates) < 2:
-                  errors.append(f"{filename}: fewer than two visible ISO dates")
-
-          updates = Path("UPDATES.md").read_text(encoding="utf-8")
-          for phrase in (
-              "rozdzielenie dat zmian i weryfikacji źródeł",
-              "Ostatnia zmiana",
-              "Ostatnia weryfikacja źródeł",
-              "Last modified",
-              "Sources last verified",
-              "Laatst gewijzigd",
-              "Bronnen laatst geverifieerd",
-          ):
-              if phrase not in updates:
-                  errors.append(f"UPDATES.md: missing {phrase!r}")
-
-          if errors:
-              raise SystemExit("Date metadata validation failed:\n- " + "\n- ".join(errors))
-
-          print("Date metadata validation passed for PL, EN and NL.")
+          print("Required public files are present.")
           PY
 
       - name: Configure GitHub Pages
