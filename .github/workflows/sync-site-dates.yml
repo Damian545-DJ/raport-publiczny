@@ -2,6 +2,7 @@ name: Synchronize site dates
 
 # Default dates for the first normalization run: modification 2026-07-14,
 # substantive source verification 2026-07-11.
+# This workflow also republishes the synchronized main branch to GitHub Pages.
 on:
   push:
     branches:
