@@ -32,13 +32,13 @@ De openbare versie verwijdert gegevens van privépersonen, exacte huisvestings- 
 
 ## 2. Proces-verbaal van 12 maart 2024
 
-Het document voorzag in betaling van een voorschot van € 5.000 op achterstallig loon.
+Het document voorzag in betaling van een voorschot van EUR 5.000 op achterstallig loon.
 
 Daarnaast legde het Intrixo een concrete verplichting op: binnen twee weken aan de gemachtigde van de werkneemster verstrekken:
 
 > “een berekening van het sinds 6 mei 2022 verschuldigde bruto loon”.
 
-Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen algemene opdracht aan beide partijen.
+Dit was een berekening van het sinds 6 mei 2022 verschuldigde brutoloon en geen algemene opdracht aan beide partijen.
 
 ---
 
@@ -55,16 +55,36 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen
 
 ---
 
-## 4. Vereiste reikwijdte van een volledige berekening
+## 4A. Verplichting vastgelegd in het proces-verbaal
 
-- het eindsaldo van het sinds 6 mei 2022 verschuldigde bruto loon,
+De in het proces-verbaal vastgelegde verplichting hield in dat Intrixo binnen twee weken een berekening moest verstrekken van het sinds 6 mei 2022 verschuldigde brutoloon.
+
+Het proces-verbaal bepaalt niet uitdrukkelijk dat één document daarnaast ook moest bevatten:
+
+- een volledige bruto-nettoafrekening,
+- alle inhoudingen,
+- alle bankbetalingen,
+- afzonderlijke verwerking van het voorschot van EUR 5.000,
+- het eindsaldo.
+
+---
+
+## 4B. Gegevens die nodig zijn om het eindsaldo te controleren
+
+Om onafhankelijk te kunnen toetsen of geen verdere vordering bestond, zijn daarnaast nodig:
+
+- het volledige bedrag van het sinds 6 mei 2022 verschuldigde brutoloon,
 - verschuldigde en geregistreerde uren per week,
 - ontbrekende weken en loonstroken,
 - uurloon, toeslagen, verlof, feestdagen en reserveringen,
 - achteraf aangebrachte correcties,
-- alle inhoudingen en hun grondslag,
 - de bruto-nettoberekening,
-- koppeling van iedere bankbetaling aan een loonperiode.
+- alle inhoudingen en hun grondslag,
+- koppeling van iedere bankbetaling aan een loonperiode,
+- afzonderlijke verwerking van het voorschot van EUR 5.000,
+- het eindsaldo.
+
+Deze bredere gegevens zijn nodig om het eindsaldo en het standpunt dat geen verdere vordering bestaat te controleren, maar mogen niet worden beschreven als de letterlijke inhoud van één document dat uitdrukkelijk door het proces-verbaal is voorgeschreven.
 
 ---
 
@@ -91,7 +111,7 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen
 
 - de eerste gemachtigde woonde de zitting bij, maar later ontstond een probleem met overdracht van het volledige dossier,
 - de volgende gemachtigde bereikte geen duidelijke afronding en volledige afrekening,
-- de derde gemachtigde maakte veranderende berekeningen maar presenteerde niet de volledige afrekening die het proces-verbaal vereiste,
+- de derde gemachtigde maakte veranderende berekeningen; in de beschikbare documentatie ontbreekt een volledige berekening van het sinds 6 mei 2022 verschuldigde brutoloon en het standpunt dat geen verdere vordering bestaat is niet onderbouwd met een afzonderlijke, transparante eindsaldoafrekening,
 - professionele verantwoordelijkheid moet worden beoordeeld door bevoegde organen of een rechter.
 
 ---
@@ -115,8 +135,9 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen
 
 ## 10. Conclusies
 
-- de verplichting van Intrixo kan niet worden gereduceerd tot een algemene uitwisseling van berekeningen tussen partijen,
-- volledige uitvoering vereist één samenhangende en controleerbare brutoloonafrekening vanaf 6 mei 2022,
+- de in het proces-verbaal vastgelegde verplichting betrof een berekening van het sinds 6 mei 2022 verschuldigde brutoloon,
+- het proces-verbaal mag niet worden beschreven als een uitdrukkelijke opdracht om in één document een volledige bruto-nettoafrekening, alle inhoudingen en alle bankbetalingen op te nemen,
+- gegevens over bruto-netto, inhoudingen, betalingen, het voorschot van EUR 5.000 en het eindsaldo zijn niettemin nodig om onafhankelijk te toetsen of geen verdere vordering bestaat,
 - ontbrekende stukken, uiteenlopende spreadsheets en niet-gekoppelde betalingen verhinderen eenvoudige afsluiting,
 - een onafhankelijke specialist moet het materiaal beoordelen met toegang tot het volledige bewijs.
 
@@ -132,53 +153,6 @@ Dit was een berekening van het sinds 6 mei 2022 verschuldigde bruto loon en geen
 - D-06 – correspondentie met het bureau en gemachtigden,
 - D-07 – correspondentie met instanties,
 - D-08 – veilige beschrijvingen van audio- en videomateriaal.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- end of equivalent language version -->
 <!-- equivalent language version: verified -->
