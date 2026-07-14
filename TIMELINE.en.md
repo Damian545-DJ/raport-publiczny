@@ -2,10 +2,12 @@
 
 Dates and descriptions are based on our documentation and the evidence report. This public version is anonymized (no sensitive data and no identifying data of private individuals).
 
+
+**Agreement terminology:** NBBU Fase 4 is equivalent to ABU Phase C. The remainder of this timeline uses only **Fase 4**.
 ---
 
 ## 2023 – early 2024 (issues escalating)
-- Increasing employment and payroll issues: dispute over deductions and the guaranteed hours framework (Phase C).
+- Increasing employment and payroll issues: dispute over deductions and the guaranteed hours framework (Fase 4).
 - Worker 1 was left without income for several months due to lack of work scheduling (per documentation).
 - A “debt” for agency housing was accumulated during periods without scheduled work (per documentation).
 - Meeting at Intrixo’s office where (according to audio recordings) communication pressure may have occurred in connection with signing documents detrimental to the worker.
@@ -38,7 +40,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 ---
 
 ## July 2024 – Helpdesk/planner (evidence of the debt mechanism)
-- Intrixo (referencing NBBU certification) confirmed that with a Phase C contract (32h guarantee), if the agency does not schedule work, they charge the worker with a debt.
+- Intrixo (referencing NBBU certification) confirmed that with a Fase 4 contract (32h guarantee), if the agency does not schedule work, they charge the worker with a debt.
 
 ---
 
@@ -62,7 +64,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 # Worker 1 – evidence (short summary + timeline)
 
 ## 1) Debt mechanism caused by lack of work scheduling
-- From **21 Nov 2022** (open-ended contract, Phase C, 32h guarantee), the agency’s failure to schedule work resulted in debt being built up on the worker (e.g., ongoing housing costs).
+- From **21 Nov 2022** (open-ended contract, Fase 4, 32h guarantee), the agency’s failure to schedule work resulted in debt being built up on the worker (e.g., ongoing housing costs).
 - When work was later assigned again, the “debt” was deducted from wages, significantly lowering net pay.
 - In practice: a mechanism of debt accumulation and recovery via deductions (the debt effectively persisted until **27 May 2024**).
 
@@ -229,7 +231,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
   - enforcement of the proces-verbaal;
   - calculation of the gross wages due from 6 May 2022;
-  - the 32-hour guarantee arising from the Phase 4 employment contract;
+  - the 32-hour guarantee arising from the Fase 4 employment contract;
   - missing payslips;
   - reconciliation of bank payments;
   - accounting for the EUR 5,000 advance;
@@ -332,7 +334,7 @@ E) risk that the matter was assessed on incomplete material.
 Public version: no names. Labels used: **Worker 2**, **Agency [A]**, **Client/company [B]**. Institutions (FairWork, Juridisch Loket, SNCU) remain named.
 
 ## 1) Context
-- Phase C / 32h weekly guarantee.
+- Fase 4 / 32h weekly guarantee.
 - Issues: work scheduling, hour calculations, payslip corrections, balance/“minus”, deductions (incl. housing).
 - Holiday dispute: written confirmation of holiday hours vs later refusal + communication pressure.
 - After resignation: dispute over final settlement and payment.

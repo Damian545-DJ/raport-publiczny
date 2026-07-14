@@ -2,10 +2,12 @@
 
 Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrapport. Deze publieke versie is geanonimiseerd (geen gevoelige gegevens en geen identificerende gegevens van privépersonen).
 
+
+**Terminologie van de overeenkomst:** NBBU Fase 4 is de tegenhanger van ABU Fase C. In de rest van deze tijdlijn wordt alleen **Fase 4** gebruikt.
 ---
 
 ## 2023 – begin 2024 (escalatie van problemen)
-- Toenemende arbeids- en loonproblemen: geschil over inhoudingen en urengarantie (fase C).
+- Toenemende arbeids- en loonproblemen: geschil over inhoudingen en urengarantie (Fase 4).
 - Werknemer 1 werd gedurende meerdere maanden zonder inkomen gelaten doordat er geen werk werd ingepland (volgens documentatie).
 - Opbouw van een “schuld” voor uitzendhuisvesting tijdens periodes zonder ingepland werk (volgens documentatie).
 - Bijeenkomst op het kantoor van Intrixo waarbij (volgens audio-opnamen) communicatieve druk kan zijn uitgeoefend in verband met het ondertekenen van documenten die nadelig waren voor de werknemer.
@@ -38,7 +40,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 ---
 
 ## 07-2024 – Helpdesk/planner (bewijs van schuldmechanisme)
-- Intrixo (met NBBU-certificering) bevestigde dat bij een fase C-contract (32 uur garantie), wanneer er geen werk wordt ingepland door het bureau, er een schuld bij de werknemer wordt opgebouwd.
+- Intrixo (met NBBU-certificering) bevestigde dat bij een Fase 4-contract (32 uur garantie), wanneer er geen werk wordt ingepland door het bureau, er een schuld bij de werknemer wordt opgebouwd.
 
 ---
 
@@ -62,7 +64,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 # Werknemer 1 – bewijs (korte samenvatting + tijdlijn)
 
 ## 1) Schuldmechanisme door geen werkplanning
-- Vanaf **21-11-2022** (onbepaalde tijd, fase C, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
+- Vanaf **21-11-2022** (onbepaalde tijd, Fase 4, 32 uur garantie) leidde het niet inplannen van werk tot schuldopbouw bij de werknemer (bijv. door doorlopende huisvestingskosten).
 - Zodra er weer werk werd toegewezen, werd de “schuld” verrekend via looninhoudingen, waardoor het nettoloon aanzienlijk lager werd.
 - In de praktijk: mechanisme van schuldopbouw en terughalen via inhoudingen (schuld liep in wezen door tot **27-05-2024**).
 
@@ -322,7 +324,7 @@ E) risico dat de zaak op onvolledig materiaal is beoordeeld.
 Publieke versie: zonder namen. Labels: **Werknemer 2**, **Uitzendbureau [A]**, **Klant/bedrijf [B]**. Instanties (FairWork, Juridisch Loket, SNCU) blijven vermeld.
 
 ## 1) Context
-- Fase C / 32 uur garantie.
+- Fase 4 / 32 uur garantie.
 - Problemen: planning, urenafrekening, correcties loonstroken, saldo/“minus”, inhoudingen (incl. huisvesting).
 - Verlofconflict: schriftelijke bevestiging van verlofuren vs latere weigering + communicatieve druk.
 - Na opzegging: geschil over eindafrekening en betaling.
