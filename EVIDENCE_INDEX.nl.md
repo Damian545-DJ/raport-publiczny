@@ -44,7 +44,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 
 ---
 
-# Bewijscatalogus — Werkneemster 1
+## Bewijscatalogus — Werkneemster 1
 
 ## Gerechtelijke stukken, overeenkomst en betalingen
 
@@ -209,7 +209,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 
 ---
 
-# Bewijscatalogus — Werknemer 2
+## Bewijscatalogus — Werknemer 2
 
 ### E-018 — Loonstrokenarchief Werknemer 2
 - **Datum / periode:** 2022–2025.

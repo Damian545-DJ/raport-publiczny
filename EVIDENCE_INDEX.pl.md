@@ -44,7 +44,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 
 ---
 
-# Katalog dowodów — Pracownica 1
+## Katalog dowodów — Pracownica 1
 
 ## Dokumenty sądowe, umowa i płatności
 
@@ -209,7 +209,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 
 ---
 
-# Katalog dowodów — Pracownik 2
+## Katalog dowodów — Pracownik 2
 
 ### E-018 — Zbiorczy pakiet loonstrooków Pracownika 2
 - **Data / okres:** 2022–2025.
