@@ -114,7 +114,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 - Suggestion appears that the representative “misled” and that “there is no appeal” (authors’ view: inconsistent with missing documents and the fact we had to obtain key documents ourselves).
 
 
-Representative 3 – mr. G.
+### Representative 3 – mr. G.
 
 - **25 February 2026:** mr. G. confirmed receipt of the first part of the required fee and the start of work on the matter. Invoice and legal-aid reference numbers remain non-public.
 
