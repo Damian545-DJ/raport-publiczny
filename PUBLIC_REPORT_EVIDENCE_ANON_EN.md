@@ -32,7 +32,7 @@ The public version removes private-person data, exact accommodation and workplac
 
 ## 2. Proces-verbaal of 12 March 2024
 
-The document provided for a €5,000 advance payment on wage arrears.
+The document provided for a EUR 5,000 advance payment on wage arrears.
 
 It also imposed a specific obligation on Intrixo: within two weeks it had to provide the worker's representative with:
 
@@ -55,16 +55,36 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 
 ---
 
-## 4. Required scope of a complete calculation
+## 4A. Obligation recorded in the proces-verbaal
 
-- the final balance of gross wages due since 6 May 2022,
+The obligation recorded in the proces-verbaal was for Intrixo to provide, within two weeks, a calculation of the gross wages due since 6 May 2022.
+
+The proces-verbaal does not expressly state that a single document also had to contain:
+
+- a complete gross-to-net reconciliation,
+- every deduction,
+- every bank transfer,
+- separate treatment of the EUR 5,000 advance,
+- the final balance.
+
+---
+
+## 4B. Data needed to verify the final balance
+
+To independently test the conclusion that no further amount was due, the following additional data are needed:
+
+- the full amount of gross wages due since 6 May 2022,
 - hours due and hours recorded week by week,
 - missing weeks and payslips,
 - hourly rate, allowances, leave, public holidays and reserves,
 - retrospective corrections,
-- all deductions and their basis,
 - the gross-to-net calculation,
-- matching every bank transfer to a payroll period.
+- all deductions and their basis,
+- matching every bank transfer to a payroll period,
+- separate treatment of the EUR 5,000 advance,
+- the final balance.
+
+This broader material is necessary to verify the final balance and a no-further-claim conclusion, but it should not be described as the literal content of one document expressly ordered by the proces-verbaal.
 
 ---
 
@@ -91,7 +111,7 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 
 - the first representative attended the hearing, but a problem later arose with transfer of the complete file,
 - the next representative did not achieve a clear conclusion and complete settlement,
-- the third representative prepared changing calculations but did not present the complete account required by the proces-verbaal,
+- the third representative produced changing calculations; the available documentation does not contain a complete gross-wage calculation from 6 May 2022, and the no-further-claim conclusion was not supported by a separate, transparent final-balance reconciliation,
 - professional responsibility must be assessed by the competent bodies or a court.
 
 ---
@@ -115,8 +135,9 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 
 ## 10. Conclusions
 
-- the Intrixo obligation cannot be reduced to a general exchange of calculations between both parties,
-- full performance requires one coherent and auditable gross-wage account from 6 May 2022,
+- the obligation recorded in the proces-verbaal concerned a calculation of gross wages due since 6 May 2022,
+- the proces-verbaal should not be described as expressly requiring one document containing a complete gross-to-net reconciliation, every deduction and every bank transfer,
+- gross-to-net data, deductions, transfers, the EUR 5,000 advance and the final balance are nevertheless necessary to independently test the conclusion that no further claim exists,
 - missing documents, divergent spreadsheets and unmatched payments prevent a simple closure of the case,
 - an independent specialist should assess the material with access to the complete evidence.
 
@@ -132,53 +153,6 @@ This was a calculation of gross wages due since 6 May 2022, not a general assign
 - D-06 – correspondence with the agency and representatives,
 - D-07 – correspondence with institutions,
 - D-08 – safe descriptions of audio and video material.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- end of equivalent language version -->
 <!-- equivalent language version: verified -->
