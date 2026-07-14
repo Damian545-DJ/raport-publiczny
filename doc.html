@@ -40,6 +40,7 @@
     }
   </style>
   <link rel="stylesheet" href="assets/accessibility.css">
+<link rel="stylesheet" href="assets/site-shell.css">
 </head>
 
 <body>
@@ -50,6 +51,7 @@
       <span class="small" id="fileName" aria-live="polite"></span>
     </nav>
 
+    <aside id="docToc" class="toc-panel" hidden></aside>
     <main class="markdown-body md" id="main-content" tabindex="-1" aria-live="polite">Ładuję…</main>
   </div>
 
@@ -64,7 +66,7 @@
         error: "Nie mogę wczytać pliku", description: "Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.",
         footerLabel: "Informacja prawna",
         footer: "© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.",
-        table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne"
+        table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne", toc: "Spis treści"
       },
       en: {
         lang: "en", locale: "en_US", homeHref: "en/index.html", home: "← Home",
@@ -73,7 +75,7 @@
         error: "Unable to load file", description: "Markdown source-document viewer for the public anonymized report layer.",
         footerLabel: "Legal information",
         footer: "© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.",
-        table: "Document table — use the keyboard to scroll horizontally when necessary"
+        table: "Document table — use the keyboard to scroll horizontally when necessary", toc: "Table of contents"
       },
       nl: {
         lang: "nl", locale: "nl_NL", homeHref: "nl/index.html", home: "← Startpagina",
@@ -82,7 +84,7 @@
         error: "Bestand kan niet worden geladen", description: "Markdown-brondocumentviewer voor de publieke geanonimiseerde rapportlaag.",
         footerLabel: "Juridische informatie",
         footer: "© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.",
-        table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen"
+        table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen", toc: "Inhoudsopgave"
       }
     };
 
@@ -165,6 +167,23 @@
       });
     }
 
+
+    function buildDocumentToc(lang) {
+      const headings = [...document.querySelectorAll("#main-content h2, #main-content h3")];
+      const toc = document.getElementById("docToc");
+      if (headings.length < 4) { toc.hidden = true; return; }
+      const title = UI[lang].toc || (lang === "pl" ? "Spis treści" : lang === "nl" ? "Inhoudsopgave" : "Table of contents");
+      const used = new Set();
+      const items = headings.map((heading, index) => {
+        let id = heading.id || heading.textContent.toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"") || `section-${index+1}`;
+        while (used.has(id)) id += `-${index+1}`;
+        used.add(id); heading.id = id;
+        return `<li class="toc-level-${heading.tagName.toLowerCase()}"><a href="#${id}">${heading.textContent}</a></li>`;
+      }).join("");
+      toc.innerHTML = `<strong>${title}</strong><ol>${items}</ol>`;
+      toc.hidden = false;
+    }
+
     async function load() {
       const params = new URLSearchParams(location.search);
       const raw = params.get("file") || "README.pl.md";
@@ -202,6 +221,7 @@
           }
         });
         enhanceRenderedTables(lang);
+        buildDocumentToc(lang);
       } catch (error) {
         contentEl.textContent = `${t.error}: ${file} (${error.message})`;
       }

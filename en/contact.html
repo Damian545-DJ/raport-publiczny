@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact form for media and institutions</title>
+<meta name="description" content="The form does not transmit data to a server. It prepares a structured message that can be copied and sent through a chosen channel.">
+<link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<link rel="alternate" hreflang="pl" href="https://damian545-dj.github.io/raport-publiczny/pl/contact.html">
+<link rel="alternate" hreflang="en" href="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<link rel="alternate" hreflang="nl" href="https://damian545-dj.github.io/raport-publiczny/nl/contact.html">
+<link rel="alternate" hreflang="x-default" href="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Contact form for media and institutions">
+<meta property="og:description" content="The form does not transmit data to a server. It prepares a structured message that can be copied and sent through a chosen channel.">
+<meta property="og:url" content="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-neutral.png">
+<link rel="stylesheet" href="../assets/accessibility.css">
+<link rel="stylesheet" href="../assets/site-shell.css">
+<script defer src="../assets/site-shell.js"></script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Report", "name": "Contact form for media and institutions", "url": "https://damian545-dj.github.io/raport-publiczny/en/contact.html", "inLanguage": "en", "dateModified": "2026-07-14", "isAccessibleForFree": true}</script>
+</head><body><div class="wrap"><div class="site-header"><nav data-site-nav></nav><div data-language-switch></div></div><main id="main-content"><section class="hero-modern"><h1>Contact form for media and institutions</h1><p>The form does not transmit data to a server. It prepares a structured message that can be copied and sent through a chosen channel.</p></section><section class="card"><form id="contactForm" class="contact-form"><label>Name<input name="name" required></label><label>Newsroom / institution<input name="org"></label><label>Reply address<input name="reply" type="email"></label><label>Subject<input name="subject" required></label><label>Message<textarea name="message" required></textarea></label><button type="submit">Prepare and copy message</button></form><p id="copyStatus" role="status"></p><pre id="contactOutput" class="contact-output"></pre><p><a href="https://www.linkedin.com/in/damian-nowak-3a50442b0" target="_blank" rel="noopener noreferrer">Open the public LinkedIn profile</a></p></section></main><footer class="legal-footer"><p>© 2026. The public version is anonymized. The material is intended for independent verification and is not legal advice or a final legal determination.</p></footer></div><script>document.getElementById('contactForm').addEventListener('submit',async e=>{e.preventDefault();const x=Object.fromEntries(new FormData(e.target));const text=`Name: ${x.name}
+Newsroom / institution: ${x.org||'-'}
+Reply address: ${x.reply||'-'}
+Subject: ${x.subject}
+
+${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='The message has been copied to the clipboard.';}catch(_e){document.getElementById('copyStatus').textContent='Copy the prepared text manually.';}});</script></body></html>

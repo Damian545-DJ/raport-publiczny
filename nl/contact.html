@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contactformulier voor media en instanties</title>
+<meta name="description" content="Het formulier verstuurt geen gegevens naar een server. Het maakt een geordend bericht dat kan worden gekopieerd en via een gekozen kanaal kan worden verzonden.">
+<link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/nl/contact.html">
+<link rel="alternate" hreflang="pl" href="https://damian545-dj.github.io/raport-publiczny/pl/contact.html">
+<link rel="alternate" hreflang="en" href="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<link rel="alternate" hreflang="nl" href="https://damian545-dj.github.io/raport-publiczny/nl/contact.html">
+<link rel="alternate" hreflang="x-default" href="https://damian545-dj.github.io/raport-publiczny/en/contact.html">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="nl_NL">
+<meta property="og:title" content="Contactformulier voor media en instanties">
+<meta property="og:description" content="Het formulier verstuurt geen gegevens naar een server. Het maakt een geordend bericht dat kan worden gekopieerd en via een gekozen kanaal kan worden verzonden.">
+<meta property="og:url" content="https://damian545-dj.github.io/raport-publiczny/nl/contact.html">
+<meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-neutral.png">
+<link rel="stylesheet" href="../assets/accessibility.css">
+<link rel="stylesheet" href="../assets/site-shell.css">
+<script defer src="../assets/site-shell.js"></script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Report", "name": "Contactformulier voor media en instanties", "url": "https://damian545-dj.github.io/raport-publiczny/nl/contact.html", "inLanguage": "nl", "dateModified": "2026-07-14", "isAccessibleForFree": true}</script>
+</head><body><div class="wrap"><div class="site-header"><nav data-site-nav></nav><div data-language-switch></div></div><main id="main-content"><section class="hero-modern"><h1>Contactformulier voor media en instanties</h1><p>Het formulier verstuurt geen gegevens naar een server. Het maakt een geordend bericht dat kan worden gekopieerd en via een gekozen kanaal kan worden verzonden.</p></section><section class="card"><form id="contactForm" class="contact-form"><label>Naam<input name="name" required></label><label>Redactie / instantie<input name="org"></label><label>Antwoordadres<input name="reply" type="email"></label><label>Onderwerp<input name="subject" required></label><label>Bericht<textarea name="message" required></textarea></label><button type="submit">Bericht maken en kopiëren</button></form><p id="copyStatus" role="status"></p><pre id="contactOutput" class="contact-output"></pre><p><a href="https://www.linkedin.com/in/damian-nowak-3a50442b0" target="_blank" rel="noopener noreferrer">Open het openbare LinkedIn-profiel</a></p></section></main><footer class="legal-footer"><p>© 2026. De publieke versie is geanonimiseerd. Het materiaal is bedoeld voor onafhankelijke verificatie en vormt geen juridisch advies of definitieve juridische beslissing.</p></footer></div><script>document.getElementById('contactForm').addEventListener('submit',async e=>{e.preventDefault();const x=Object.fromEntries(new FormData(e.target));const text=`Naam: ${x.name}
+Redactie / instantie: ${x.org||'-'}
+Antwoordadres: ${x.reply||'-'}
+Onderwerp: ${x.subject}
+
+${x.message}`;document.getElementById('contactOutput').textContent=text;try{await navigator.clipboard.writeText(text);document.getElementById('copyStatus').textContent='Het bericht is naar het klembord gekopieerd.';}catch(_e){document.getElementById('copyStatus').textContent='Copy the prepared text manually.';}});</script></body></html>
