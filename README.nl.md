@@ -24,7 +24,7 @@
 
 ## Kern van de zaak
 
-- een geschil over een fase-C contract voor onbepaalde tijd en een garantie van 32 uur per week,
+- een geschil over een arbeidsovereenkomst voor onbepaalde tijd in **NBBU Fase 4, de tegenhanger van ABU Fase C**, met 32 uur per week,
 - een geschil over verschuldigd loon, ontbrekende periodes, inhoudingen en correcties,
 - vragen over uitzendhuisvesting, privacy en economische afhankelijkheid,
 - problemen met dossieroverdracht en afronding door opeenvolgende gemachtigden,
