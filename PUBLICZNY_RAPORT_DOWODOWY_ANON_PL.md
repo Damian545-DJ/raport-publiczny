@@ -21,7 +21,7 @@ Wersja publiczna usuwa dane prywatnych osób, dokładne miejsca zakwaterowania i
 
 ## 1. Podsumowanie sprawy
 
-- umowa fazy C na czas nieokreślony z gwarancją 32 godzin tygodniowo,
+- umowa **NBBU Fase 4, będąca odpowiednikiem ABU Fase C**, zawarta na czas nieokreślony i przewidująca 32 godziny tygodniowo,
 - okresy bez przydzielonej pracy i spór o wynagrodzenie za gotowość do pracy,
 - narastanie kosztów i potrąceń w okresach bez pracy,
 - brakujące albo niepełne dokumenty płacowe i korekty,
@@ -45,7 +45,7 @@ Było to wyliczenie należnego wynagrodzenia brutto od 6 maja 2022 r., a nie og�
 ## 3. Materiał dowodowy
 
 - proces-verbaal oraz korespondencja związana z jego uzyskaniem i wykonaniem,
-- umowa o pracę i dokumenty dotyczące fazy C,
+- umowa o pracę i dokumenty dotyczące Fase 4,
 - loonstrooki, zestawienia godzin i korekty,
 - zestawienia brakujących tygodni i okresów z zerową liczbą godzin,
 - potwierdzenia przelewów i porównanie z kwotami netto,
