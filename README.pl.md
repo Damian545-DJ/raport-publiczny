@@ -24,7 +24,7 @@
 
 ## Sedno sprawy
 
-- spór o realizację umowy fazy C na czas nieokreślony i gwarancję 32 godzin tygodniowo,
+- spór o realizację umowy **NBBU Fase 4, będącej odpowiednikiem ABU Fase C**, zawartej na czas nieokreślony i przewidującej 32 godziny tygodniowo,
 - spór o należne wynagrodzenie, brakujące okresy, potrącenia i korekty,
 - pytania o zakwaterowanie agencyjne, prywatność i zależność ekonomiczną,
 - problemy z przekazaniem dokumentów oraz skutecznym dokończeniem sprawy przez kolejnych pełnomocników,
