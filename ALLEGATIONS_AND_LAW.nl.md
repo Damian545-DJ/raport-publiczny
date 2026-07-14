@@ -1,174 +1,211 @@
-[NL Version]
+[Nederlandse versie]
 
-# Vermeende schendingen en juridische basis (ALLEGATIONS_AND_LAW)
+# Verwijten en mogelijke rechtsgronden — verificatiekaart
 
-Dit bestand is een kaart van **wat op basis van documenten wordt gesteld** en **welke juridische normen mogelijk relevant zijn**. Het is geen vonnis en geen definitieve juridische kwalificatie. Een juridische kwalificatie moet worden bevestigd door een onafhankelijke jurist of bevoegde instantie.
+**Versie:** 2.0  
+**Laatst gewijzigd:** 2026-07-14  
+**Bronnen laatst geverifieerd:** 2026-07-14
 
-> Belangrijk: de publieke versie beschrijft feiten, documenten, correspondentie en opnamen in voorzichtige bewoordingen. Alle uitspraken over schendingen moeten worden gelezen als **allegaties die onafhankelijke verificatie vereisen**, niet als definitieve rechterlijke vaststellingen.
+Dit document maakt onderscheid tussen:
 
----
+1. feiten en verwijten die uit de documentatie naar voren komen,
+2. wettelijke bepalingen of uitspraken die mogelijk relevant zijn,
+3. de voorwaarden voor toepassing daarvan,
+4. onderwerpen die beoordeling door een rechter, instantie of onafhankelijke jurist vereisen.
 
-## A) Intrixo B.V. – vermeende arbeidsrechtelijke en normatieve kwesties
-
-### 1. Loon bij geen arbeid / urengarantie
-
-- **BW Boek 7, art. 7:628** – loon in bepaalde situaties zonder arbeid wanneer de oorzaak bij de werkgever ligt.
-- **BW Boek 7, art. 7:610b** – rechtsvermoeden arbeidsomvang.
-- **EU-Handvest, art. 31** – eerlijke en rechtvaardige arbeidsomstandigheden.
-
-De zaak vereist vergelijking van contracten, planning/roosters, loonstroken, bankbetalingen en correspondentie over gebrek aan werk en doorlopende kosteninhoudingen.
-
-### 2. Te late loonbetaling
-
-- **BW Boek 7, art. 7:625** – wettelijke verhoging bij te late loonbetaling, met mogelijkheid tot matiging door de rechter.
-
-### 3. Verlof en vakantieloon
-
-- **BW Boek 7, art. 7:639–641** – doorbetaling tijdens verlof en afrekening van verlofrechten.
-- **EU-Handvest, art. 31 lid 2** – recht op jaarlijkse vakantie met behoud van loon.
-- **Richtlijn 2003/88/EG, art. 7** – minimumstandaard voor betaald verlof.
-
-### 4. Vakantiebijslag
-
-- **WML, art. 15** – minimumvakantiebijslag, in beginsel 8%.
-
-### 5. Inhoudingen voor huisvesting
-
-Inhoudingen voor huisvesting binnen het minimumloonstelsel zijn alleen toegestaan onder strikte voorwaarden, waaronder een juiste schriftelijke machtiging en relevante kwaliteits-/formele vereisten. Er moet worden gecontroleerd of inhoudingen de werknemer niet feitelijk onder een reëel bestaansminimum brachten.
-
-### 6. Juistheid van loonadministratie
-
-- **AVG/GDPR, art. 5 lid 1 onder d** – juistheidsbeginsel.
-
-Als loonstroken later worden gecorrigeerd, verschillende versies bestaan of contracturen / saldi / nettobedragen veranderen, moet de correctiegeschiedenis worden gecontroleerd: wie wijzigde wat, wanneer, waarom en op welke grondslag.
-
-### 7. Privacy in uitzendhuisvesting
-
-Het videomateriaal dat in het rapport wordt beschreven, betreft gestelde binnenkomsten door derden in een bewoonde kamer in uitzendhuisvesting. De publieke versie publiceert niet de exacte naam van de accommodatie, het kamernummer, privépersonen, gezichten, stemmen of gevoelige identificatoren. Volledig materiaal hoort alleen via een gemotiveerd en veilig kanaal met instanties, autoriteiten of juridische vertegenwoordigers te worden gedeeld.
+Het is geen vonnis, juridisch advies of definitieve juridische kwalificatie. Het noemen van een bepaling of uitspraak betekent niet dat deze op ieder beschreven voorval van toepassing is.
 
 ---
 
-## B) Juridische vertegenwoordigers / juridische bijstand – zorgvuldigheid, informatie en dossieroverdracht
+## A) Loon, arbeidsomvang en loonafrekening
 
-Dit onderdeel betreft met name:
+### 1. Loon wanneer geen arbeid is verricht — artikel 7:628 BW
 
-- gebrek aan duidelijke informatie na de zitting,
-- gebrek aan volledige overdracht van dossier en rechtbankstukken,
-- tegenstrijdige mededelingen over een schikking / onmogelijkheid om te handelen,
-- kosten betaald aan opvolgende vertegenwoordigers,
-- ontbreken van een duidelijke onderbouwing van daadwerkelijk verrichte werkzaamheden.
+De hoofdregel van artikel 7:628 lid 1 BW is dat het naar tijdruimte vastgestelde loon verschuldigd blijft wanneer de werknemer de overeengekomen arbeid geheel of gedeeltelijk niet heeft verricht, **tenzij het niet verrichten redelijkerwijs voor rekening van de werknemer behoort te komen**.
 
-Professionele juridische bijstand moet tijdige en begrijpelijke communicatie, handelen in het belang van de cliënt en overdracht van het dossier omvatten, zodat de cliënt of een nieuwe vertegenwoordiger de zaak kan controleren en voortzetten.
+Deze bepaling mag niet worden verkort tot de stelling dat loon alleen verschuldigd is wanneer “de oorzaak bij de werkgever ligt”. Beoordeeld moet worden in wiens risicosfeer de concrete oorzaak ligt, met inachtneming van de arbeidsovereenkomst, de toepasselijke cao en eventueel wettelijk toegestane afwijkingen.
 
-> Let op: beoordeling van tuchtrechtelijke aansprakelijkheid of contractuele tekortkoming is aan bevoegde organen / de rechter / een onafhankelijke jurist.
+In deze zaak moeten vooral worden vergeleken:
 
----
+- de Fase 4-overeenkomst en de garantie van 32 uur,
+- de beschikbaarheid van de werkneemster voor arbeid,
+- planning en aangeboden werk,
+- de oorzaken van weken met minder of geen uren,
+- loonstroken, betalingen en correspondentie.
 
-## C) SNCU – mogelijke procedurele aandachtspunten, gebrek aan transparantie van controle en EU-standaarden
+### 2. Rechtsvermoeden arbeidsomvang — artikel 7:610b BW
 
-**Status:** deze sectie is gebaseerd op documenten en correspondentie. Zij beoordeelt niet de intenties van SNCU. Zij beschrijft feiten, gebrek aan transparantie en de minimumstandaard die van een echte verificatieprocedure mag worden verwacht.
+Wanneer de arbeidsovereenkomst ten minste drie maanden heeft geduurd, wordt vermoed dat de bedongen arbeidsomvang in een maand gelijk is aan **de gemiddelde maandelijkse arbeidsomvang in de drie voorafgaande maanden**.
 
-### 1. Rol van SNCU
+Dit is een weerlegbaar vermoeden en geen automatisch definitief aantal uren. Een partij kan aantonen dat de gekozen referteperiode van drie maanden niet representatief was. Bij een overeenkomst met een uitdrukkelijke garantie van 32 uur kan artikel 7:610b ondersteunend relevant zijn, maar het mag de uitleg van de overeenkomst zelf niet vervangen.
 
-De effectiviteit van SNCU-controle hangt af van de vraag of brongegevens worden geverifieerd: loonadministratie, loonstroken, roosters/planning, urenregistratie, verlofgegevens en correctiegeschiedenis.
+### 3. Te late loonbetaling — artikel 7:625 BW
 
-Controle mag niet eindigen met het eenvoudig overnemen van het standpunt van de werkgever zonder aan te geven welke documenten daadwerkelijk zijn gecontroleerd.
+Artikel 7:625 BW voorziet in een wettelijke verhoging bij te late betaling van verschuldigd loon. Het wettelijke maximum kan 50% bedragen, maar de rechter kan de verhoging matigen. Eerst moeten het verschuldigde bedrag en de vervaldatum worden vastgesteld.
 
-### 2. Geen duidelijke reactie aan de melder
+### 4. Verlof en vakantiebijslag
 
-De melder vroeg om status, heropening en identificatie van de documenten die waren gecontroleerd. Het ontbreken van een duidelijke reactie maakt de procedure tot een “black box”: de werknemer weet niet wat is gecontroleerd, op welke basis de zaak is gesloten en of tegenstrijdigheden werkelijk zijn geverifieerd.
+Mogelijk relevant zijn:
 
-Dit is relevant voor **artikel 47 van het EU-Handvest** — effectieve rechtsbescherming en een eerlijke procedure.
-
-### 3. Contact met werkgever en afsluiting van de zaak
-
-Volgens materiaal dat via Juridisch Loket is doorgegeven, nam SNCU contact op met de werkgever en sloot daarna de zaak in de voorlopige fase. In een zaak waarin de werkgever belanghebbende partij is, mag het standpunt van de werkgever alleen geen voldoende basis zijn voor afsluiting van de zaak zonder aan te geven welke brongegevens zijn gecontroleerd.
-
-### 4. Tegenstrijdigheden die controle vereisen
-
-De documentatie noemt onder meer de volgende punten voor controle:
-
-- werkgeversnarratief over einde werk in week 31 / na 28 juli 2025,
-- loonstrook Week 32 (2025) met periode 04 augustus 2025–10 augustus 2025 en Contracturen 32:00 per week,
-- loonstrook Week 8 (2025), die volgens de documentatie later opnieuw verscheen met Contracturen 1:00 per week en negatief netto bedrag,
-- verlofkwestie van 61,11 uur: schriftelijke informatie/toestemming, latere ontkenning en druk om te komen werken,
-- vorming en verrekening van “min” / negatieve saldi.
-
-### 5. Minimaal gegevenspakket voor behoorlijke verificatie
-
-Een behoorlijke beoordeling moet omvatten:
-
-- volledige loonadministratie met correctiegeschiedenis,
-- rooster/planning voor betwiste weken,
-- urenregistratie,
-- verlofgegevens en logs van goedkeuringen/intrekkingen,
-- uitleg van het verschil tussen Week 31 en Week 32,
-- uitleg van de latere Week 8-correctie en het negatieve nettobedrag,
-- regels en berekeningen achter inhoudingen voor huisvesting / verzekering / negatieve saldi.
-
-### 6. Conclusie
-
-Als een controleorgaan de melder niet beantwoordt, de reikwijdte van de controle niet bekendmaakt en een zaak sluit ondanks tegenstrijdigheden in documenten, wordt de bescherming van de werknemer formeel maar in de praktijk ineffectief. Dit is het centrale probleem dat in het rapport wordt beschreven.
-
-### Gerelateerd bewijs
-
-Volledig bewijs wordt niet publiek gelinkt wanneer het persoonsgegevens, documentnummers, handtekeningen, bankgegevens, gezichten, stemmen of systeemidentificatoren bevat. Publiek worden alleen bewijs-categorieën en geanonimiseerde samenvattingen gebruikt. Volledige materialen blijven beschikbaar voor instanties, autoriteiten of juridische vertegenwoordigers op gemotiveerd verzoek.
+- artikelen 7:639–641 BW — loon tijdens verlof en afrekening van verlofrechten,
+- artikel 7 van Richtlijn 2003/88/EG — minimumrecht op jaarlijkse vakantie met behoud van loon,
+- artikel 31 lid 2 van het EU-Handvest — alleen wanneer de zaak binnen het toepassingsgebied van het Unierecht valt,
+- artikel 15 WML — vakantiebijslag, in beginsel 8%, met inachtneming van wettelijke uitzonderingen.
 
 ---
 
-## D) Juridische kwesties die beoordeling door bevoegde instanties vereisen
+## B) Inhoudingen voor huisvesting en zorgverzekering
 
-Het publieke rapport schrijft geen strafrechtelijke verantwoordelijkheid toe aan natuurlijke personen en formuleert geen strafrechtelijke kwalificaties. Het benoemt alleen onderwerpen die beoordeling door een rechter, toezichthouder of onafhankelijke jurist kunnen vereisen:
+Volgens de informatie van de Rijksoverheid mogen huisvestingskosten alleen onder concrete voorwaarden op het minimumloon worden ingehouden.
 
-- juistheid van loonafrekeningen en correctiegeschiedenis,
-- vrije instemming bij het voorleggen van documenten en de wijze waarop gesprekken zijn gevoerd,
-- rechtmatigheid en transparantie van inhoudingen en negatieve saldi,
-- volledigheid van informatie aan de werknemer en instanties.
+Voor huisvesting moet onder meer worden gecontroleerd of:
 
-Publieke verslaglegging dient gebeurtenissen, documenten en tegenstrijdigheden te beschrijven en de juridische kwalificatie aan bevoegde instanties over te laten.
+- de werknemer een **schriftelijke volmacht** heeft gegeven,
+- de volmacht werknemer, werkgever, bedrag en soort te betalen kosten vermeldt,
+- alleen toegestane kosten worden ingehouden, zoals huur, servicekosten en nutsvoorzieningen met een individuele meter,
+- de woonruimte van een woningcorporatie is of voldoet aan de kwaliteitseisen in de toepasselijke cao,
+- de verhuurder volgens die kwaliteitseisen is gecertificeerd,
+- de inhouding niet hoger is dan **25% van het bruto minimumloon waarop de werknemer recht heeft**.
 
----
+Voor inhouding van zorgverzekeringskosten zijn onder meer een kopie van de polis, een schriftelijke volmacht, de werknemer als verzekeringnemer en daadwerkelijke betaling van de premie door de werkgever vereist. Daarnaast gelden afzonderlijke jaarlijkse maximumbedragen.
 
-## E) Privacy in uitzendhuisvesting
-
-Volgens videomateriaal zouden derden een bewoonde kamer zijn binnengekomen zonder voorafgaande kennisgeving of toestemming van de bewoners. De publieke versie vermeldt geen locatie, kamernummer, gezichten, stemmen of gegevens van privépersonen.
-
-Het oorspronkelijke materiaal moet worden bewaard en alleen aan bevoegde instanties of juridische vertegenwoordigers worden verstrekt. Publiek dient men zich te beperken tot een voorzichtige feitelijke beschrijving en bescherming van de privacy, zonder een strafbaar feit aan een specifieke persoon toe te schrijven.
+Het enkele voorkomen van een inhouding op een loonstrook bewijst niet dat deze rechtmatig of onrechtmatig is. Voor iedere inhouding moeten grondslag, machtiging, kwaliteit van de huisvesting, certificering, hoogte en periode worden gecontroleerd.
 
 ---
 
-## F) Publieke context: Home of People / gerelateerde entiteiten
+## C) Juistheid van loon- en persoonsgegevens
 
-Deze sectie is contextueel. Zij kent geen persoonlijke strafrechtelijke, civielrechtelijke of bestuursrechtelijke verantwoordelijkheid toe zonder definitieve beslissing.
+### 1. Juistheidsbeginsel
 
-Publieke materialen beschrijven een ecosysteem van entiteiten actief in de uitzend- en arbeidsmigrantensector, waaronder Uitzendbureau Solutions, T&S Flexwerk, NWH Jobs, Efficient at Work, Intrixo / Voorneputten en Masterteam.
+Artikel 5 lid 1 onder d AVG vereist dat persoonsgegevens juist zijn en zo nodig worden geactualiseerd. Dit kan relevant zijn wanneer loonstukken verschillende contracturen, saldi of nettobedragen bevatten.
 
-Het enkele bestaan van verbanden binnen een breder ecosysteem stelt geen aansprakelijkheid voor concrete schendingen vast. Het is relevante context omdat de zaak een model betreft waarin één structuur invloed kan hebben op werk, huisvesting, loonafrekening en economische afhankelijkheid van de werknemer.
+Niet iedere loonfout vormt automatisch een AVG-schending. De aard van de gegevens, oorzaak van de fout, correctiegeschiedenis, gevolgen voor de werknemer en reactie van de verwerkingsverantwoordelijke moeten worden onderzocht.
 
-Publieke rode vlaggen die voorzichtige beschrijving vereisen:
+### 2. Gegevens voor controle van het eindsaldo
 
-- arbeidsconflicten rond entiteiten uit dit ecosysteem,
-- kwesties rond huisvesting van arbeidsmigranten,
-- activiteit in een sector die door de staat als kwetsbaar voor misstanden wordt aangemerkt,
-- aanwezigheid in branche-/certificeringsstructuren, wat het risico op onregelmatigheden niet automatisch wegneemt.
+Daarvoor zijn met name nodig:
 
-Veilige samenvatting:
+- volledige loonadministratie en correctiegeschiedenis,
+- planning en urenregistratie,
+- verlofrechten en correcties,
+- bruto-nettoberekening,
+- alle inhoudingen en hun grondslagen,
+- koppeling van bankbetalingen aan loonperioden,
+- afzonderlijke verwerking van het voorschot van EUR 5.000.
 
-> Publieke bronnen en de dossierdocumentatie tonen waarschuwingssignalen die verdere controle en voorzichtigheid rechtvaardigen. Zij stellen op zichzelf geen persoonlijke schuld van een specifieke persoon vast.
+Dit is het materiaal dat nodig is voor controle van het eindsaldo. Het mag niet worden voorgesteld als de letterlijke inhoud van één document dat door het proces-verbaal was voorgeschreven; dat proces-verbaal betrof een berekening van het sinds 6 mei 2022 verschuldigde brutoloon.
 
 ---
 
-## Algemene bronnen / referentiepunten
+## D) Arrest Hoge Raad ECLI:NL:HR:2023:426
+
+Het arrest betreft de werking van een uitzendbeding tijdens ziekte van een uitzendkracht.
+
+De veiligste weergave van de uitkomst is:
+
+> Een uitzendovereenkomst eindigt niet automatisch uitsluitend doordat de uitzendkracht ziek wordt. Beëindiging op grond van het uitzendbeding tijdens ziekte vereist een daadwerkelijk verzoek van de inlener om de terbeschikkingstelling te beëindigen.
+
+Het arrest mag niet worden voorgesteld als algemene regel dat iedere uitzendovereenkomst tijdens iedere ziekte altijd voortduurt. De overeenkomst, cao, aanwezigheid van het uitzendbeding, het daadwerkelijke verzoek van de inlener en het moment van beëindiging moeten worden onderzocht.
+
+In dit rapport kan het arrest alleen als referentiepunt worden gebruikt wanneer de documentatie betrekking heeft op beëindiging van een terbeschikkingstelling of overeenkomst in verband met ziekte.
+
+---
+
+## E) SNCU en het EU-Handvest van de grondrechten
+
+### 1. Beoordeling van het handelen van SNCU
+
+De documentatie kan vragen rechtvaardigen over:
+
+- de omvang van de gecontroleerde brongegevens,
+- de behandeling van tegenstrijdige loonstroken en correcties,
+- de grondslag voor afsluiting van de zaak,
+- de informatie aan de melder.
+
+Deze punten moeten worden beschreven als vragen over transparantie en volledigheid, zonder SNCU zonder voldoende grondslag de bedoeling toe te schrijven de werkgever te beschermen of onrechtmatig te handelen.
+
+### 2. Artikelen 47 en 51 van het Handvest
+
+Er mag niet automatisch worden gesteld dat de behandeling van een melding door SNCU artikel 47 van het EU-Handvest schendt.
+
+Artikel 47 beschermt het recht op een doeltreffende voorziening in rechte en toegang tot een onafhankelijk gerecht ten aanzien van rechten en vrijheden die door het Unierecht worden gewaarborgd. Volgens artikel 51 bindt het Handvest de lidstaten **uitsluitend wanneer zij het recht van de Unie ten uitvoer brengen**. Het Handvest breidt het toepassingsgebied van het Unierecht of de bevoegdheden van de Unie niet uit.
+
+Voor een beroep op artikel 47 moet daarom eerst worden vastgesteld:
+
+1. welk concreet Unierechtelijk recht of welke verplichting wordt uitgevoerd,
+2. of het betwiste handelen van SNCU of een overheidsorgaan binnen dat bereik valt,
+3. of sprake is van een beslissing of procedure waarop het vereiste van effectieve rechtsbescherming van toepassing is.
+
+Zonder die koppeling kan artikel 47 alleen als mogelijk referentiepunt worden genoemd en niet als automatische rechtsgrond voor een verwijt aan SNCU.
+
+---
+
+## F) Juridische vertegenwoordigers — zorgvuldigheid, informatie en dossieroverdracht
+
+De onderwerpen rond juridische vertegenwoordigers kunnen omvatten:
+
+- overdracht van het volledige dossier,
+- duidelijke informatie over de stand van de zaak,
+- omvang van de documentanalyse,
+- reactie op gemelde fouten,
+- kosten en verrichte werkzaamheden.
+
+Of beroepsregels of contractuele verplichtingen zijn geschonden, moet worden beoordeeld door het bevoegde tuchtrechtelijke orgaan of de rechter. Ten aanzien van de eerste vertegenwoordiger moeten de daadwerkelijk besliste klachtonderdelen uit beslissing 25-714/DH/DH worden onderscheiden van onderdelen die ongegrond zijn verklaard of niet zijn beoordeeld.
+
+---
+
+## G) Privacy in uitzendhuisvesting
+
+Volgens de beschrijving van privé bewaard videomateriaal zouden derden een bewoonde ruimte zijn binnengekomen. Publiek mogen alleen worden vermeld:
+
+- datum of periode,
+- algemeen type locatie,
+- wijze van binnenkomst en kennisgeving aan bewoners,
+- bestaan van een opname of correspondentie.
+
+Exacte locatie, kamernummer, gezichten, stemmen en persoonsgegevens mogen niet worden gepubliceerd. Beoordeling van de rechtsgrond voor het binnentreden vereist onderzoek van huur- of huisvestingsovereenkomst, huisregels, toestemming, doel en omstandigheden.
+
+---
+
+## H) Raad van State 202103252/1/R3 — juiste context
+
+De uitspraak van 9 augustus 2023, ECLI:NL:RVS:2023:3071, betrof onder meer handhaving van brandveiligheidseisen in een gebouw dat werd gebruikt voor huisvesting van arbeidsmigranten.
+
+De uitspraak mag niet worden gepresenteerd als een zelfstandig “waarschuwingssignaal” tegen een aan de huisvesting verbonden entiteit. In die concrete zaak oordeelde de Afdeling bestuursrechtspraak dat:
+
+- geen overtreding bestond van de onderzochte eisen van het Bouwbesluit 2012,
+- geen overtreding bestond van de relevante brandveiligheidsvoorschriften in de tijdelijke vergunningen,
+- het bestuursorgaan daarom niet bevoegd was om op die gronden handhavend op te treden.
+
+De uitspraak kan alleen als historische context en als voorbeeld van een geschil over kwalificatie van de huisvesting en de omvang van handhavingsbevoegdheden worden genoemd. Zij stelt geen brandveiligheidsovertreding vast in die zaak of in de zaak die in dit rapport wordt beschreven.
+
+---
+
+## I) Publieke context van entiteiten
+
+Kapitaal-, organisatorische, branche- of historische verbanden bewijzen geen verantwoordelijkheid van een specifieke entiteit voor een in het rapport beschreven gebeurtenis.
+
+Publieke context kan worden gebruikt om:
+
+- de rollen van afzonderlijke vennootschappen te identificeren,
+- vast te stellen welke entiteit documenten uitgaf of betalingen verrichtte,
+- verbanden tussen arbeid, huisvesting en loonadministratie te begrijpen,
+- de juiste geadresseerde van een verzoek om documenten te bepalen.
+
+Een “rode-vlaggenkaart” mag niet uitsluitend worden opgebouwd uit het feit dat de naam van een entiteit in een andere procedure voorkomt. Iedere uitspraak en controle moet overeenkomstig de werkelijke uitkomst worden beschreven.
+
+---
+
+## Officiële bronnen en uitspraken
 
 - BW Boek 7: https://wetten.overheid.nl/BWBR0005290/
-- Rechtspraak – loonvordering / wettelijke verhoging: https://www.rechtspraak.nl/Onderwerpen/Loonvordering
 - WML: https://wetten.overheid.nl/BWBR0002638/
-- Rijksoverheid – inhoudingen voor huisvesting en verzekering: https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
-- EU-Handvest: https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:12012P/TXT
-- AVG / GDPR: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Rijksoverheid — inhoudingen huisvesting en zorgverzekering: https://www.rijksoverheid.nl/vraag-en-antwoord/minimumloon/kosten-voor-huur-en-zorgverzekering-inhouden-op-minimumloon-werknemer
+- EU-Handvest van de grondrechten: https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:12012P/TXT
+- FRA, artikel 51 — toepassingsgebied: https://fra.europa.eu/en/eu-charter/article/51-field-application
+- AVG: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Hoge Raad / Rechtspraak, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
+- Raad van State, 202103252/1/R3, ECLI:NL:RVS:2023:3071: https://www.raadvanstate.nl/uitspraken/@138720/202103252-1-r3/
 - SNCU: https://www.sncu.nl/
-- ABU – rol van SNCU: https://www.abu.nl/faq/wat-is-de-rol-van-de-sncu-bij-het-lid-worden/
-- Home of People: https://www.homeofpeople.nl/
-- Rechtspraak / Hoge Raad, ECLI:NL:HR:2023:426: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2023:426
-- Raad van State, huisvestingsgerelateerde zaak: https://www.raadvanstate.nl/@138720/202103252-1-r3/
-- Rijksoverheid – aanpak misstanden arbeidsmigratie: https://www.rijksoverheid.nl/themas/migratie-en-reizen/buitenlandse-werknemers/verbeteren-positie-arbeidsmigranten
+
+<!-- end of equivalent language version -->
