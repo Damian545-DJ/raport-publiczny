@@ -2,10 +2,12 @@
 
 Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja publiczna jest anonimizowana (bez danych wrażliwych i bez danych identyfikujących osoby prywatne).
 
+
+**Terminologia umowy:** NBBU Fase 4 jest odpowiednikiem ABU Fase C. W dalszej części używane jest wyłącznie określenie **Fase 4**.
 ---
 
 ## 2023 – początek 2024 (narastanie problemów)
-- Narastające problemy pracownicze i rozliczeniowe: spór o potrącenia oraz gwarancję godzin (faza C).
+- Narastające problemy pracownicze i rozliczeniowe: spór o potrącenia oraz gwarancję godzin (Fase 4).
 - Pozostawienie pracownicy bez środków do życia poprzez nieprzydzielanie pracy przez kilka miesięcy (wg dokumentacji).
 - Naliczanie „długu” za zakwaterowanie agencyjne w okresie braku pracy (wg dokumentacji).
 - Spotkanie w siedzibie agencji Intrixo, podczas którego (wg nagrań audio) mogła występować presja komunikacyjna związana z podpisaniem dokumentów działających na niekorzyść pracownika.
@@ -38,7 +40,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 ---
 
 ## 07.2024 – Helpdesk/planistka (dowód mechanizmu zadłużenia)
-- Agencja Intrixo (posługująca się certyfikacją NBBU) potwierdziła, że przy umowie faza C (gwarancja 32h), w przypadku braku pracy z ich strony, naliczają pracownikowi zadłużenie.
+- Agencja Intrixo (posługująca się certyfikacją NBBU) potwierdziła, że przy umowie Fase 4 (gwarancja 32h), w przypadku braku pracy z ich strony, naliczają pracownikowi zadłużenie.
 
 ---
 
@@ -62,7 +64,7 @@ Daty i opisy są oparte na naszej dokumentacji oraz raporcie dowodowym. Wersja p
 # Pracownica 1 – dowody (skrót + timeline)
 
 ## 1) Mechanizm zadłużenia przez brak planowania pracy
-- Od **21.11.2022** (umowa na czas nieokreślony, faza C, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
+- Od **21.11.2022** (umowa na czas nieokreślony, Fase 4, gwarancja 32h) agencja poprzez nieplanowanie pracy doprowadza do powstawania zadłużenia po stronie pracownika (np. przez dalsze naliczanie kosztów zakwaterowania).
 - Gdy następnie praca zostaje ponownie przydzielona, „dług” jest potrącany z wynagrodzenia, przez co wypłata jest znacznie niższa.
 - W praktyce: mechanizm powstawania zadłużenia + odzyskiwanie pieniędzy przez potrącenia (dług utrzymywał się praktycznie do **27.05.2024**).
 
@@ -329,7 +331,7 @@ E) ryzyko oceny sprawy na niepełnym materiale.
 Wersja publiczna: bez imion i nazwisk. Oznaczenia: **Pracownik 2**, **Agencja [A]**, **Klient/zakład [B]**. Instytucje (FairWork, Juridisch Loket, SNCU) pozostają jawne, bo nie są danymi osobowymi.
 
 ## 1) Kontekst
-- Umowa faza C / gwarancja 32h tygodniowo.
+- Umowa Fase 4 / gwarancja 32h tygodniowo.
 - Problemy: planowanie pracy, rozliczenia godzin, korekty pasków płacowych, saldo/„minus”, potrącenia (w tym mieszkaniowe).
 - Spór o urlop: pisemna informacja o przysługujących godzinach urlopu vs późniejsza odmowa + presja komunikacyjna.
 - Po wypowiedzeniu: spór o rozliczenie końcowe i wypłatę należności.
