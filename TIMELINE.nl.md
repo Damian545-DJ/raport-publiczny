@@ -113,7 +113,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 - MV Juridisch baseerde zich op informatie “van directie/de wederpartij” dat er een schikking was en “die niet te breken is”.
 - Suggestie verschijnt dat de gemachtigde “misleidde” en dat “er geen beroep mogelijk is” (volgens de auteurs: in strijd met het feit dat cruciale stukken ontbraken en wij die zelf moesten opvragen).
 
-Gemachtigde 3 – mr. G.
+### Gemachtigde 3 – mr. G.
 
 - **25-02-2026:** mr. G. bevestigde de ontvangst van het eerste deel van de vereiste eigen bijdrage en de aanvang van zijn werkzaamheden in de zaak. Factuurnummers en kenmerken van de rechtsbijstand blijven niet-openbaar.
 
