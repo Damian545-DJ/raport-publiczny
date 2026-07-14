@@ -30,6 +30,30 @@ jobs:
       - name: Apply fixes
         run: python scripts/apply_language_technical_fixes.py
 
+      - name: Preserve abbreviated-name headings
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              "TIMELINE.en.md": (
+                  "\nRepresentative 3 – mr. G.\n",
+                  "\n### Representative 3 – mr. G.\n",
+              ),
+              "TIMELINE.nl.md": (
+                  "\nGemachtigde 3 – mr. G.\n",
+                  "\n### Gemachtigde 3 – mr. G.\n",
+              ),
+          }
+
+          for filename, (old, new) in replacements.items():
+              path = Path(filename)
+              text = path.read_text(encoding="utf-8")
+              if old in text:
+                  path.write_text(text.replace(old, new), encoding="utf-8")
+                  print(f"restored heading: {filename}")
+          PY
+
       - name: Commit generated corrections
         run: |
           if git diff --quiet; then
