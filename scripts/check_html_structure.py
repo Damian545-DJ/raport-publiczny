@@ -18,6 +18,7 @@ EXPECTED_HTML = {
         "media.html",
         "dla-instytucji.html",
         "home-of-people.html",
+        "full-report.html",
     },
     "en": {
         "index.html",
@@ -47,6 +48,7 @@ HREFLANG_GROUPS = [
     ("pl/media.html", "en/media.html", "nl/media.html"),
     ("pl/dla-instytucji.html", "en/for-institutions.html", "nl/voor-instanties.html"),
     ("pl/home-of-people.html", "en/home-of-people.html", "nl/home-of-people.html"),
+    ("pl/full-report.html", "en/full-report.html", "nl/full-report.html"),
 ]
 HREFLANG_LOOKUP = {path: group for group in HREFLANG_GROUPS for path in group}
 
