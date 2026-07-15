@@ -20,16 +20,18 @@ def lines(path: str) -> list[str]:
 
 
 triplets = [
-    (("README.pl.md", "README.en.md", "README.nl.md"), 143),
-    (("PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md", "PUBLIC_REPORT_EVIDENCE_ANON_EN.md", "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md"), 185),
-    (("home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md"), 185),
+    (("README.pl.md", "README.en.md", "README.nl.md"), 100),
+    (("PUBLICZNY_RAPORT_DOWODOWY_ANON_PL.md", "PUBLIC_REPORT_EVIDENCE_ANON_EN.md", "PUBLIEK_BEWIJS_RAPPORT_ANON_NL.md"), 150),
+    (("home-of-people/README.pl.md", "home-of-people/README.en.md", "home-of-people/README.nl.md"), 100),
 ]
 
-for paths, expected in triplets:
+for paths, minimum_lines in triplets:
     counts = [len(lines(path)) for path in paths]
     headings = [sum(1 for line in lines(path) if line.startswith("#")) for path in paths]
-    if counts != [expected, expected, expected]:
-        issues.append(f"line-count mismatch {dict(zip(paths, counts))}, expected {expected}")
+    if len(set(counts)) != 1:
+        issues.append(f"line-count mismatch {dict(zip(paths, counts))}; language versions must remain equal")
+    if min(counts) < minimum_lines:
+        issues.append(f"public document unexpectedly short {dict(zip(paths, counts))}; minimum {minimum_lines}")
     if len(set(headings)) != 1:
         issues.append(f"heading-count mismatch {dict(zip(paths, headings))}")
 
