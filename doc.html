@@ -13,7 +13,7 @@
   <meta id="ogTitle" property="og:title" content="Intrixo — źródła Markdown">
   <meta id="ogDescription" property="og:description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.">
   <meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-neutral.png">
-  <script id="reportSchema" type="application/ld+json">{"@context":"https://schema.org","@type":"Report","name":"Intrixo — źródła Markdown","inLanguage":"pl","dateModified":"2026-07-14","isAccessibleForFree":true}</script>
+  <script id="reportSchema" type="application/ld+json">{"@context":"https://schema.org","@type":"Report","name":"Intrixo — źródła Markdown","inLanguage":"pl","dateModified":"2026-07-15","isAccessibleForFree":true}</script>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
 
@@ -161,7 +161,7 @@
     function updateSchema(file, title, lang) {
       const schema = {
         "@context": "https://schema.org", "@type": "Report", name: title,
-        url: location.href, inLanguage: lang, dateModified: "2026-07-14",
+        url: location.href, inLanguage: lang, dateModified: "2026-07-15",
         isAccessibleForFree: true,
         publisher: {"@type": "Organization", name: "Public evidence report project"},
         about: {"@type": "Thing", name: file}
@@ -286,7 +286,11 @@
       }
     }
 
-    load();
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", load, { once: true });
+    } else {
+      load();
+    }
   </script>
   <footer id="legalFooter" class="legal-footer" aria-label="Informacja prawna">
     <p id="legalFooterText">© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów.</p>
