@@ -1,3 +1,4 @@
+# Zasady anonimizacji
 
 ## Stałe pseudonimy osób
 
