@@ -1,3 +1,4 @@
+# Anonymization rules
 
 ## Fixed person pseudonyms
 
