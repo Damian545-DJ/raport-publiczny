@@ -328,6 +328,28 @@ ol li,ul li { margin-bottom: 0.35rem; }
   .card p > a:not(.btn), .card .source a:not(.btn) { width: 100%; text-align: center; }
 }
 
+.topnav.language-nav {
+  display: flex !important;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 6px !important;
+  padding-top: 8px;
+  border-top: 1px solid #d0d7de;
+}
+.topnav.language-nav .btn,
+.topnav.language-nav a.btn {
+  width: auto !important;
+  min-width: 44px;
+  margin: 0 !important;
+  padding: 6px 10px;
+  text-align: center;
+}
+.topnav.language-nav [aria-current="true"] {
+  color: #fff !important;
+  background: #0550ae !important;
+  border-color: #0550ae !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: .01ms !important; }
 }
