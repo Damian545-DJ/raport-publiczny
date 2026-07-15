@@ -14,6 +14,7 @@
 }
 
 body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
   background:
     radial-gradient(circle at top left, rgba(5, 80, 174, 0.10), transparent 32rem),
     linear-gradient(180deg, #f7faff 0%, var(--bg) 45%, #eef3f9 100%) !important;
@@ -313,10 +314,35 @@ ol li,ul li { margin-bottom: 0.35rem; }
 }
 
 @media (max-width: 720px) {
-  .topnav { position: static; border-radius: 18px; justify-content: flex-start; }
-  .btn,a.btn { width: 100%; text-align: center; }
+  .topnav {
+    position: static;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px !important;
+    border-radius: 18px;
+  }
+  .topnav .btn, .topnav a.btn { width: 100%; min-width: 0; margin: 0 !important; text-align: center; white-space: normal; }
   .quick-start { grid-template-columns: 1fr; }
   .quick-start a { min-height: auto; }
   .card { border-radius: 14px !important; }
   .card p > a:not(.btn), .card .source a:not(.btn) { width: 100%; text-align: center; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: .01ms !important; }
+}
+
+@media print {
+  @page { margin: 15mm; }
+  body { background: #fff !important; color: #000 !important; font-size: 10.5pt; }
+  .wrap { max-width: none !important; padding: 0 !important; }
+  .topnav, .skip-link, .print-hide, button { display: none !important; }
+  .card, .quick-start a, .timeline li {
+    break-inside: avoid;
+    border: 1px solid #aaa !important;
+    box-shadow: none !important;
+    background: #fff !important;
+  }
+  .legal-footer { max-width: none; color: #333 !important; }
+  a { color: #000 !important; text-decoration: none !important; }
 }

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
   <title>Intrixo — źródła Markdown</title>
-  <meta id="metaDescription" name="description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu.">
+  <meta name="description" content="Czytnik dokumentów źródłowych Markdown dla publicznej, zanonimizowanej warstwy raportu." id="metaDescription">
   <meta name="robots" content="noindex, nofollow">
   <link rel="canonical" href="https://damian545-dj.github.io/raport-publiczny/doc.html">
   <meta property="og:type" content="article">
@@ -19,7 +19,7 @@
 
   <style>
     :root { color-scheme: light dark; }
-    body { margin: 0; }
+    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .wrap { max-width: 980px; margin: 0 auto; padding: 24px; }
     .top { display: flex; gap: 12px; align-items: center; margin-bottom: 16px; flex-wrap: wrap; }
     .btn { text-decoration: none; border: 1px solid #d0d7de; padding: 8px 12px; border-radius: 10px; color: #111; background: #fff; }
@@ -30,6 +30,13 @@
     .md .table-scroll { overflow-x:auto; margin:16px 0; }
     .md .table-scroll:focus { outline:3px solid #0550ae; outline-offset:3px; }
     .load-note { margin: 0 0 14px; padding: 10px 12px; border: 1px solid #d0d7de; border-radius: 10px; background: #f6f8fa; }
+    .toc { margin: 0 0 16px; padding: 16px 18px; border: 1px solid #d0d7de; border-radius: 14px; background: #f6f8fa; }
+    .toc h2 { margin: 0 0 9px; font-size: 1rem; }
+    .toc ol { margin: 0; padding-left: 22px; columns: 2; column-gap: 28px; }
+    .toc li { break-inside: avoid; margin: 4px 0; }
+    .toc a { color: #0550ae; text-underline-offset: 3px; }
+    @media (max-width: 700px) { .wrap { padding: 14px; } .toc ol { columns: 1; } }
+    @media print { .top, .toc, .skip-link { display: none !important; } .wrap { max-width: none; padding: 0; } .md { border: 0; box-shadow: none; padding: 0; } }
     @media (prefers-color-scheme: dark) {
       body { background: #0d1117; color: #c9d1d9; }
       .btn { border-color: #30363d; color: #c9d1d9; background: #161b22; }
@@ -39,6 +46,8 @@
       .md pre { background: #161b22; }
       .md code { background: rgba(110,118,129,.2); }
       .load-note { border-color:#30363d; background:#161b22; }
+      .toc { border-color:#30363d; background:#161b22; }
+      .toc a { color:#58a6ff; }
     }
   </style>
   <link rel="stylesheet" href="assets/accessibility.css">
@@ -52,6 +61,10 @@
       <a id="rawLink" class="btn" href="#" hidden>Otwórz plik bez czytnika</a>
       <span class="small" id="fileName" aria-live="polite"></span>
     </nav>
+    <aside id="toc" class="toc" aria-labelledby="tocTitle" hidden>
+      <h2 id="tocTitle">Spis treści</h2>
+      <ol id="tocList"></ol>
+    </aside>
 
     <main class="markdown-body md" id="main-content" tabindex="-1" aria-live="polite">Ładuję…</main>
   </div>
@@ -69,7 +82,7 @@
         footerLabel: "Informacja prawna",
         footer: "© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów. Nie stanowi porady prawnej, prawomocnego rozstrzygnięcia ani przesądzenia odpowiedzialności którejkolwiek ze stron. Pełniejsze materiały mogą zostać udostępnione wyłącznie właściwym instytucjom lub zweryfikowanym odbiorcom w uzasadnionym i bezpiecznym trybie.",
         table: "Tabela w dokumencie — przewijaj poziomo klawiaturą, jeżeli jest to potrzebne",
-        raw: "Otwórz plik bez czytnika"
+        raw: "Otwórz plik bez czytnika", contents: "Spis treści"
       },
       en: {
         lang: "en", locale: "en_US", homeHref: "en/index.html", home: "← Home",
@@ -79,7 +92,7 @@
         footerLabel: "Legal information",
         footer: "© 2026. The public version is anonymized. The material is informational and intended for independent verification of documents. It does not constitute legal advice, a final legal determination, or a finding of liability against any party. Fuller materials may be shared only with competent institutions or verified recipients through a justified and secure channel.",
         table: "Document table — use the keyboard to scroll horizontally when necessary",
-        raw: "Open the file without the viewer"
+        raw: "Open the file without the viewer", contents: "Contents"
       },
       nl: {
         lang: "nl", locale: "nl_NL", homeHref: "nl/index.html", home: "← Startpagina",
@@ -89,7 +102,7 @@
         footerLabel: "Juridische informatie",
         footer: "© 2026. De publieke versie is geanonimiseerd. Het materiaal heeft een informatief karakter en dient voor onafhankelijke verificatie van documenten. Het vormt geen juridisch advies, geen definitieve juridische beslissing en stelt geen aansprakelijkheid van enige partij vast. Uitgebreidere stukken kunnen alleen worden gedeeld met bevoegde instanties of geverifieerde ontvangers via een gemotiveerd en veilig kanaal.",
         table: "Tabel in het document — gebruik het toetsenbord om indien nodig horizontaal te scrollen",
-        raw: "Open het bestand zonder de lezer"
+        raw: "Open het bestand zonder de lezer", contents: "Inhoudsopgave"
       }
     };
 
@@ -136,6 +149,7 @@
       const rawLink = document.getElementById("rawLink");
       rawLink.textContent = t.raw;
       document.getElementById("main-content").textContent = t.loading;
+      document.getElementById("tocTitle").textContent = t.contents;
       const footer = document.getElementById("legalFooter");
       footer.setAttribute("aria-label", t.footerLabel);
       document.getElementById("legalFooterText").textContent = t.footer;
@@ -175,6 +189,39 @@
         table.parentNode.insertBefore(wrapper, table);
         wrapper.appendChild(table);
       });
+    }
+
+    function buildTableOfContents(lang) {
+      const content = document.getElementById("main-content");
+      const headings = Array.from(content.querySelectorAll("h2, h3"));
+      const toc = document.getElementById("toc");
+      const list = document.getElementById("tocList");
+      list.replaceChildren();
+      if (headings.length < 3) {
+        toc.hidden = true;
+        return;
+      }
+      const used = new Set();
+      headings.forEach((heading, index) => {
+        let id = heading.id || heading.textContent.toLowerCase()
+          .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+          .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+        if (!id) id = "section-" + (index + 1);
+        let unique = id;
+        let suffix = 2;
+        while (used.has(unique) || (document.getElementById(unique) && document.getElementById(unique) !== heading)) unique = id + "-" + suffix++;
+        used.add(unique);
+        heading.id = unique;
+        const item = document.createElement("li");
+        if (heading.tagName === "H3") item.style.marginLeft = "1rem";
+        const link = document.createElement("a");
+        link.href = "#" + unique;
+        link.textContent = heading.textContent;
+        item.appendChild(link);
+        list.appendChild(item);
+      });
+      toc.setAttribute("aria-label", UI[lang].contents);
+      toc.hidden = false;
     }
 
     async function load() {
@@ -225,6 +272,7 @@
           }
         });
         enhanceRenderedTables(lang);
+        buildTableOfContents(lang);
       } catch (error) {
         contentEl.replaceChildren();
         const message = document.createElement("p");
