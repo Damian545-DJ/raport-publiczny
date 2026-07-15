@@ -1,3 +1,4 @@
+# Anonimiseringsregels
 
 ## Vaste pseudoniemen van personen
 
