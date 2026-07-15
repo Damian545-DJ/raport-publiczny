@@ -28,6 +28,7 @@ EXPECTED_HTML = {
         "media.html",
         "for-institutions.html",
         "home-of-people.html",
+        "full-report.html",
     },
     "nl": {
         "index.html",
@@ -37,6 +38,7 @@ EXPECTED_HTML = {
         "media.html",
         "voor-instanties.html",
         "home-of-people.html",
+        "full-report.html",
     },
 }
 
