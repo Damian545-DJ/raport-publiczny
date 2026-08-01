@@ -183,7 +183,7 @@ def enhance_evidence_tables() -> None:
 
 
 def ensure_social_preview_metadata() -> None:
-    image_url = "https://damian545-dj.github.io/raport-publiczny/assets/social-preview-netherlands-rights.jpg"
+    image_url = "https://damian545-dj.github.io/raport-publiczny/assets/social-preview-netherlands-rights-clean.jpg"
     alt_by_language = {
         "pl": "Publiczny raport dowodowy — prawa pracownicze, dokumenty i fakty",
         "en": "Public evidence report — worker rights, documents and facts",
@@ -277,7 +277,7 @@ def add_metadata_and_structured_data() -> None:
         # One universal social image for every language and sharing platform.
         text = re.sub(
             r"assets/og-image-(?:en|netherlands|neutral)\.png",
-            "assets/social-preview-netherlands-rights.jpg",
+            "assets/social-preview-netherlands-rights-clean.jpg",
             text,
         )
 
