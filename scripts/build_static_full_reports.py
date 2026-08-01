@@ -134,7 +134,7 @@ def build(lang: str, cfg: dict[str, str]) -> None:
 <meta property="og:title" content="{html.escape(cfg['title'])}">
 <meta property="og:description" content="{html.escape(cfg['description'])}">
 <meta property="og:url" content="{canonical}">
-<meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/og-image-neutral.png">
+<meta property="og:image" content="https://damian545-dj.github.io/raport-publiczny/assets/social-preview.jpg">
 <style>{CSS}</style>
 </head>
 <body>

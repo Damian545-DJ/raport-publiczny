@@ -182,32 +182,80 @@ def enhance_evidence_tables() -> None:
             write(path, text)
 
 
-def neutral_og_image() -> None:
-    from PIL import Image, ImageDraw
+def ensure_social_preview_metadata() -> None:
+    image_url = "https://damian545-dj.github.io/raport-publiczny/assets/social-preview.jpg"
+    alt_by_language = {
+        "pl": "Publiczny raport dowodowy — prawa pracownicze, dokumenty i fakty",
+        "en": "Public evidence report — worker rights, documents and facts",
+        "nl": "Publiek bewijsrapport — arbeidsrechten, documenten en feiten",
+    }
 
-    target = ROOT / "assets" / "og-image-neutral.png"
-    image = Image.new("RGB", (1200, 630), "#eef5ff")
-    draw = ImageDraw.Draw(image)
+    for path in ROOT.rglob("*.html"):
+        if ".git" in path.parts:
+            continue
 
-    # Text-free report motif: layered documents, evidence nodes and a verification mark.
-    draw.rounded_rectangle((80, 70, 1120, 560), radius=38, fill="#ffffff", outline="#b7c9e8", width=5)
-    draw.rounded_rectangle((145, 125, 690, 500), radius=24, fill="#f8fbff", outline="#6f93c6", width=4)
-    draw.rounded_rectangle((195, 175, 640, 220), radius=12, fill="#d7e7fb")
-    for y, width in [(265, 390), (320, 330), (375, 410), (430, 285)]:
-        draw.rounded_rectangle((195, y, 195 + width, y + 22), radius=9, fill="#9bb9df")
+        text = path.read_text(encoding="utf-8")
+        original = text
+        text = re.sub(
+            r'<meta property="og:image" content="[^"]+">',
+            f'<meta property="og:image" content="{image_url}">',
+            text,
+        )
+        if 'property="og:image"' not in text:
+            continue
 
-    nodes = [(810, 205), (970, 315), (790, 430)]
-    for start, end in [(nodes[0], nodes[1]), (nodes[1], nodes[2]), (nodes[2], nodes[0])]:
-        draw.line((start[0], start[1], end[0], end[1]), fill="#6f93c6", width=10)
-    for x, y in nodes:
-        draw.ellipse((x - 32, y - 32, x + 32, y + 32), fill="#ffffff", outline="#0550ae", width=8)
+        lang_match = re.search(r'<html\s+lang="([^"]+)"', text, flags=re.IGNORECASE)
+        lang = lang_match.group(1).lower().split("-")[0] if lang_match else "en"
+        alt_text = alt_by_language.get(lang, alt_by_language["en"])
+        def meta_content(key: str) -> str | None:
+            match = re.search(
+                rf'<meta\b(?=[^>]*(?:property|name)="{re.escape(key)}")'
+                r'(?=[^>]*content="([^"]*)")[^>]*>',
+                text,
+                flags=re.IGNORECASE,
+            )
+            return match.group(1) if match else None
 
-    draw.ellipse((875, 220, 1065, 410), fill="#0550ae")
-    draw.line((925, 315, 970, 360), fill="#ffffff", width=20)
-    draw.line((970, 360, 1030, 275), fill="#ffffff", width=20)
+        title = meta_content("og:title")
+        description = meta_content("og:description")
+        if not title:
+            title_match = re.search(r'<title>(.*?)</title>', text, flags=re.IGNORECASE | re.DOTALL)
+            title = re.sub(r"\s+", " ", title_match.group(1)).strip() if title_match else None
+        if not description:
+            description = meta_content("description")
 
-    image.save(target, "PNG", optimize=True)
-    print(f"generated: {target.relative_to(ROOT)}")
+        social_tags = [
+            f'<meta property="og:image:secure_url" content="{image_url}">',
+            '<meta property="og:image:type" content="image/jpeg">',
+            '<meta property="og:image:width" content="1200">',
+            '<meta property="og:image:height" content="630">',
+            f'<meta property="og:image:alt" content="{alt_text}">',
+            '<meta name="twitter:card" content="summary_large_image">',
+            f'<meta name="twitter:image" content="{image_url}">',
+            f'<meta name="twitter:image:alt" content="{alt_text}">',
+        ]
+        if title:
+            social_tags.append(f'<meta name="twitter:title" content="{title}">')
+        if description:
+            social_tags.append(f'<meta name="twitter:description" content="{description}">')
+
+        for tag in social_tags:
+            key_match = re.match(r'<meta (?:property|name)="([^"]+)"', tag)
+            if not key_match:
+                continue
+            key = re.escape(key_match.group(1))
+            existing = rf'<meta (?:property|name)="{key}"\s+content="[^"]*">'
+            if re.search(existing, text):
+                text = re.sub(existing, tag, text)
+            else:
+                image_tag = re.search(r'<meta property="og:image" content="[^"]+">', text)
+                if image_tag:
+                    insert_at = image_tag.end()
+                    text = text[:insert_at] + "\n  " + tag + text[insert_at:]
+
+        if text != original:
+            path.write_text(text, encoding="utf-8")
+            print(f"updated social preview metadata: {path.relative_to(ROOT)}")
 
 
 def add_metadata_and_structured_data() -> None:
@@ -226,8 +274,12 @@ def add_metadata_and_structured_data() -> None:
         text = path.read_text(encoding="utf-8")
         original = text
 
-        # One language-neutral, text-free social image for every language.
-        text = text.replace("assets/og-image-en.png", "assets/og-image-neutral.png")
+        # One universal social image for every language and sharing platform.
+        text = re.sub(
+            r"assets/og-image-(?:en|netherlands|neutral)\.png",
+            "assets/social-preview.jpg",
+            text,
+        )
 
         lang_match = re.search(r'<html\s+lang="(pl|en|nl)"', text)
         if not lang_match:
@@ -284,7 +336,7 @@ def main() -> None:
     normalize_markdown()
     normalize_press_page()
     enhance_evidence_tables()
-    neutral_og_image()
+    ensure_social_preview_metadata()
     add_metadata_and_structured_data()
 
 
