@@ -1,5 +1,21 @@
 # Updates
 
+## 2026-08-02 — korekta osi czasu na podstawie dokumentów
+
+PL
+- Skorygowano oś czasu Pracownicy 1 w wersjach PL/EN/NL: dokument za tydzień 32/2025 przypisano do 15.08.2025 i kwoty 330,28 EUR netto do wypłaty; przelew 2,50 EUR z 25.02.2026 opisano jako nieprzypisany do odnalezionego dokumentu; przyjęcie zlecenia przez trzeciego pełnomocnika przypisano do 03.02.2026.
+- Usunięto niepotwierdzone wpisy z 24.02.2026 i 27.02.2026.
+
+EN
+- Corrected Worker 1's timeline in the PL/EN/NL versions: the week 32/2025 payslip was assigned to 15 August 2025 and EUR 330.28 net payable; the EUR 2.50 payment of 25 February 2026 was described as not matched to an available payslip; acceptance of the instruction by the third representative was assigned to 3 February 2026.
+- Removed the unsupported entries dated 24 and 27 February 2026.
+
+NL
+- De tijdlijn van Werkneemster 1 is in de PL/EN/NL-versies gecorrigeerd: de loonspecificatie voor week 32/2025 is gekoppeld aan 15 augustus 2025 en EUR 330,28 netto te betalen; de betaling van EUR 2,50 van 25 februari 2026 is beschreven als niet gekoppeld aan een beschikbare loonspecificatie; de aanvaarding van de opdracht door de derde gemachtigde is gedateerd op 3 februari 2026.
+- De niet-onderbouwde vermeldingen van 24 en 27 februari 2026 zijn verwijderd.
+
+---
+
 ## 2026-07-14 — rozdzielenie dat zmian i weryfikacji źródeł
 
 PL
@@ -70,15 +86,15 @@ NL
 
 PL
 - Dodano wpis do Timeline z 14.02.2026 dotyczący Juridisch Loket: brak możliwości uzyskania odpowiedzi od SNCU w sprawie zamknięcia sprawy oraz załącznik „Juridisch Loket.pdf”.
-- Uzupełniono Timeline B. S. o zdarzenia po zakończeniu pracy: wypowiedzenie 09.07.2025, wezwanie Intrixo do wyliczeń po ugodzie 11.12.2025, loonstrook nr 35 oraz przejęcie sprawy przez trzeciego pełnomocnika 25.02.2026.
+- Uzupełniono Timeline B. S. o zdarzenia po zakończeniu pracy: wypowiedzenie 09.07.2025, dokument płacowy za tydzień 32/2025, wezwanie Intrixo z 11.12.2025 oraz późniejszy, niewyjaśniony przelew opisany jako odnoszący się do dokumentu nr 35. Późniejsza weryfikacja skorygowała daty i zakres tych wpisów.
 
 EN
 - Added a 14.02.2026 Timeline entry regarding Juridisch Loket and the lack of a clear answer from SNCU about closing the case.
-- Updated B. S.’s Timeline with post-employment events: resignation, request to Intrixo for settlement calculations, payslip no. 35 and case takeover by the third representative.
+- Updated B. S.’s Timeline with post-employment events: resignation, the week 32/2025 payslip, the 11 December 2025 request to Intrixo and a later unexplained payment described as referring to payslip no. 35. A later verification corrected the dates and scope of these entries.
 
 NL
 - Tijdlijn aangevuld met het item van 14.02.2026 over Juridisch Loket en het uitblijven van een duidelijke reactie van SNCU over het sluiten van de zaak.
-- Tijdlijn van B. S. aangevuld met gebeurtenissen na het einde van het werk: opzegging, verzoek aan Intrixo om berekeningen, loonstrook nr. 35 en zaakovername door de derde gemachtigde.
+- Tijdlijn van B. S. aangevuld met gebeurtenissen na het einde van het werk: opzegging, de loonspecificatie voor week 32/2025, het verzoek aan Intrixo van 11 december 2025 en een latere onverklaarde betaling die volgens de omschrijving naar loonspecificatie nr. 35 verwees. Een latere verificatie heeft de data en reikwijdte van deze vermeldingen gecorrigeerd.
 
 ---
 

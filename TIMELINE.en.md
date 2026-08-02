@@ -116,7 +116,7 @@ Dates and descriptions are based on our documentation and the evidence report. T
 
 ### Representative 3 – mr. G.
 
-- **25 February 2026:** mr. G. confirmed receipt of the first part of the required fee and the start of work on the matter. Invoice and legal-aid reference numbers remain non-public.
+- **3 February 2026:** mr. G. confirmed in writing that he had accepted the instruction to help the worker obtain what she was entitled to and to seek compliance by her former employer.
 
 - **2 March 2026:** mr. G. contacted Intrixo B.V. / Home of People concerning enforcement of the proces-verbaal of the District Court of The Hague dated 12 March 2024. He referred to the obligation arising from that document to provide a calculation of the gross wages due.
 
@@ -313,12 +313,15 @@ E) risk that the matter was assessed on incomplete material.
 
 - **09.07.2025 (The Hague):** Worker 1 submits resignation from Intrixo with a **one-month notice period**. She states: **last day of employment 10.08.2025** and **leaving agency housing on 10.08.2025**. She requests full settlement of all amounts due and — if leave cannot be taken during the notice period — **payment in lieu for unused leave**; she also requests by email: confirmation of termination, final settlement, payslips (loonstroken) and the annual income statement (jaaropgave).
 
+- **15 August 2025:** Intrixo issued a payslip for week **32/2025**, showing **EUR 330.28 net payable**. The corresponding payment of EUR 330.28 was recorded on 18 August 2025. The document number and bank-account details remain non-public.
+
 - **11.12.2025:** an email/letter titled “Request for calculation of overdue gross wages” was sent to Intrixo (helpdesk@intrixo.nl) — request for all documents and calculations of overdue gross wages from **06.05.2022** in line with the court minutes (proces-verbaal, **12.03.2024**) + request to respond within **14 days**, otherwise further steps.
 
-- **24 February 2026:** Intrixo issued a final payroll document for week **32/2025**, showing a nominal net amount below EUR 5; the document number was removed from the public version.
-- **25 February 2026:** a transfer of a nominal amount below EUR 5 was recorded following that settlement; account and transaction details were removed.
-- **25 February 2026:** the third representative confirmed receipt of the first required contribution and the start of work; invoice and legal-aid identifiers were removed from the public version.
-- **27 February 2026:** the worker received the payroll document from Intrixo; the document number and filename remain non-public.
+- **3 February 2026:** the third representative confirmed in writing that he had accepted the instruction to help the worker obtain what she was entitled to and to seek compliance by her former employer.
+
+- **25 February 2026:** the bank records show a payment of **EUR 2.50** from Intrixo. Its description refers to payslip no. 35. That document was not found in the available evidence set, so the relevant period and basis of payment have not been established. Bank-account details and the full transaction description remain non-public.
+
+- **2 March 2026:** the third representative demanded that Intrixo B.V. / Home of People comply within fourteen days with the obligation arising from the proces-verbaal of the District Court of The Hague dated 12 March 2024.
 
 ---
 

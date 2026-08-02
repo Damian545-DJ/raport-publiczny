@@ -115,7 +115,7 @@ Datums en beschrijvingen zijn gebaseerd op onze documentatie en het bewijsrappor
 
 ### Gemachtigde 3 – mr. G.
 
-- **25-02-2026:** mr. G. bevestigde de ontvangst van het eerste deel van de vereiste eigen bijdrage en de aanvang van zijn werkzaamheden in de zaak. Factuurnummers en kenmerken van de rechtsbijstand blijven niet-openbaar.
+- **03-02-2026:** mr. G. bevestigde schriftelijk dat hij de opdracht had aanvaard om de werkneemster te helpen verkrijgen waarop zij recht had en om te trachten de voormalige werkgever haar verplichtingen te laten nakomen.
 
 - **02-03-2026:** mr. G. nam contact op met Intrixo B.V. / Home of People over de nakoming van het proces-verbaal van de Rechtbank Den Haag van 12-03-2024. Hij verwees naar de uit dit document voortvloeiende verplichting om een berekening van het verschuldigde bruto loon te verstrekken.
 
@@ -310,12 +310,15 @@ E) risico dat de zaak op onvolledig materiaal is beoordeeld.
 
 - **09.07.2025 (Den Haag):** Werkneemster 1 zegt haar arbeidsovereenkomst bij Intrixo op met een **opzegtermijn van één maand**. Zij vermeldt: **laatste dag in dienst 10.08.2025** en **vertrek uit de huisvesting 10.08.2025**. Zij verzoekt om volledige afrekening van alle bedragen en — indien vakantie niet kan worden opgenomen tijdens de opzegtermijn — **uitbetaling van een vergoeding voor niet-opgenomen vakantie**; daarnaast vraagt zij per e-mail om bevestiging van beëindiging, de eindafrekening, loonstroken en de jaaropgave.
 
+- **15 augustus 2025:** Intrixo verstrekte een loonspecificatie voor week **32/2025**, met daarop **EUR 330,28 netto te betalen**. De bijbehorende betaling van EUR 330,28 werd op 18 augustus 2025 geregistreerd. Het documentnummer en de rekeninggegevens blijven niet-openbaar.
+
 - **11.12.2025:** aan Intrixo (helpdesk@intrixo.nl) is de brief/e-mail “Verzoek om berekening achterstallig brutoloon” verzonden — verzoek om alle documenten en berekeningen van het achterstallig brutoloon vanaf **06.05.2022** conform het proces-verbaal (**12.03.2024**) + verzoek om reactie binnen **14 dagen**, anders verdere stappen.
 
-- **24 februari 2026:** Intrixo verstrekte een laatste loondocument voor week **32/2025**, met een symbolisch nettobedrag onder EUR 5; het documentnummer is uit de publieke versie verwijderd.
-- **25 februari 2026:** na die afrekening werd een overschrijving van een symbolisch bedrag onder EUR 5 geregistreerd; rekening- en transactiedetails zijn verwijderd.
-- **25 februari 2026:** de derde vertegenwoordiger bevestigde ontvangst van de eerste vereiste bijdrage en de start van de werkzaamheden; factuur- en rechtsbijstandskenmerken zijn uit de publieke versie verwijderd.
-- **27 februari 2026:** de werkneemster ontving het loondocument van Intrixo; documentnummer en bestandsnaam blijven niet-openbaar.
+- **3 februari 2026:** de derde gemachtigde bevestigde schriftelijk dat hij de opdracht had aanvaard om de werkneemster te helpen verkrijgen waarop zij recht had en om te trachten de voormalige werkgever haar verplichtingen te laten nakomen.
+
+- **25 februari 2026:** in de bankdocumentatie is een betaling van **EUR 2,50** door Intrixo geregistreerd. De omschrijving verwijst naar loonspecificatie nr. 35. Dit document is niet aangetroffen in het beschikbare bewijsbestand; daarom zijn de periode en de grondslag van de betaling niet vastgesteld. Rekeninggegevens en de volledige transactieomschrijving blijven niet-openbaar.
+
+- **2 maart 2026:** de derde gemachtigde sommeerde Intrixo B.V. / Home of People om binnen veertien dagen te voldoen aan de verplichting uit het proces-verbaal van de Rechtbank Den Haag van 12 maart 2024.
 
 ---
 
