@@ -118,7 +118,7 @@ Dowody: screeny/wiadomości – wielokrotne prośby o planowanie pracy.
 
 ### Pełnomocnik 3 – mr. G.
 
-- **25.02.2026:** mr. G. potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań w sprawie. Numery faktury oraz pomocy prawnej pozostają niepubliczne.
+- **03.02.2026:** mr. G. pisemnie potwierdził przyjęcie zlecenia dotyczącego pomocy pracownicy w uzyskaniu należnych świadczeń oraz doprowadzeniu do wykonania obowiązków przez byłego pracodawcę.
 
 - **02.03.2026:** mr. G. zwrócił się do Intrixo B.V. / Home of People w sprawie wykonania proces-verbaal Rechtbank Den Haag z 12.03.2024. Powołał się na wynikający z tego dokumentu obowiązek przedstawienia wyliczenia należnego wynagrodzenia brutto.
 
@@ -317,12 +317,15 @@ E) ryzyko oceny sprawy na niepełnym materiale.
 
 - **09.07.2025 (Den Haag):** Pracownica 1 składa wypowiedzenie umowy o pracę w Intrixo z **miesięcznym okresem wypowiedzenia**. Wskazuje: **ostatni dzień zatrudnienia 10.08.2025** oraz **opuszczenie zakwaterowania 10.08.2025**. Prosi o pełne rozliczenie należności, a jeśli urlop nie zostanie wykorzystany w okresie wypowiedzenia — o **ekwiwalent za niewykorzystany urlop**; dodatkowo prosi o potwierdzenie zakończenia umowy, końcowe rozliczenie, loonstroken i jaaropgave mailem.
 
+- **15.08.2025:** Intrixo wystawiło dokument płacowy za tydzień **32/2025**, wskazujący **330,28 EUR netto do wypłaty**. Odpowiadający mu przelew 330,28 EUR odnotowano 18.08.2025. Numer dokumentu i dane rachunku pozostają niepubliczne.
+
 - **11.12.2025:** wysłano do Intrixo (helpdesk@intrixo.nl) pismo „Verzoek om berekening achterstallig brutoloon” — żądanie przekazania wszystkich dokumentów i wyliczeń zaległego brutto wynagrodzenia od **06.05.2022** zgodnie z proces-verbaal (**12.03.2024**) + wezwanie do reakcji w **14 dni**, w przeciwnym razie dalsze kroki.
 
-- **24.02.2026:** Intrixo wystawiło końcowy dokument płacowy za tydzień **32/2025**, wskazujący symboliczną kwotę netto poniżej 5 EUR; numer dokumentu usunięto z wersji publicznej.
-- **25.02.2026:** po tym rozliczeniu odnotowano przelew symbolicznej kwoty poniżej 5 EUR; dane rachunku i opis transakcji usunięto.
-- **25.02.2026:** trzeci pełnomocnik potwierdził otrzymanie pierwszej części wymaganej opłaty i rozpoczęcie działań; numery faktury oraz pomocy prawnej usunięto z wersji publicznej.
-- **27.02.2026:** pracownica otrzymała dokument płacowy od Intrixo; numer dokumentu i nazwa pliku pozostają niepubliczne.
+- **03.02.2026:** trzeci pełnomocnik pisemnie potwierdził przyjęcie zlecenia dotyczącego pomocy pracownicy w uzyskaniu należnych świadczeń oraz doprowadzeniu do wykonania obowiązków przez byłego pracodawcę.
+
+- **25.02.2026:** w dokumentacji bankowej odnotowano przelew **2,50 EUR** od Intrixo, którego opis odnosi się do dokumentu płacowego nr 35. W udostępnionym zbiorze dowodów nie odnaleziono tego dokumentu, dlatego okres oraz podstawa płatności pozostają nieustalone. Dane rachunku i pełny opis transakcji pozostają niepubliczne.
+
+- **02.03.2026:** trzeci pełnomocnik skierował do Intrixo B.V. / Home of People wezwanie do wykonania obowiązku wynikającego z proces-verbaal Rechtbank Den Haag z 12.03.2024, wyznaczając termin 14 dni.
 
 ---
 
