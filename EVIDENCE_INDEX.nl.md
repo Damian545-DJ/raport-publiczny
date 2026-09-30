@@ -49,6 +49,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 ## Gerechtelijke stukken, overeenkomst en betalingen
 
 ### E-001 — Proces-verbaal Rechtbank Den Haag
+- **Publieke kaart en rapport:** [E-001 — fragment / status](nl/dowody.html#proces-verbaal) · [rapport, 2. Proces-verbaal](nl/full-report.html#2-proces-verbaal-van-12-maart-2024).
 - **Datum:** 12 maart 2024.
 - **Bron:** Rechtbank Den Haag, zaaknummer 10943706 RL EXPL 23-3936.
 - **Korte beschrijving:** document uit de gerechtelijke fase met het voorschot en de berekening van het sinds 6 mei 2022 verschuldigde brutoloon.
@@ -67,6 +68,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **SHA-256 privébestand:** niet gepubliceerd; het afschrift moet worden geregistreerd na blijvende redactie van bankgegevens.
 
 ### E-003 — NBBU Fase 4-overeenkomst van 32 uur
+- **Publieke kaart en rapport:** [E-003 — fragment / status](nl/dowody.html#contract-32-hours) · [rapport, 5. Uren en loon](nl/full-report.html#5-bevindingen-over-uren-en-loon).
 - **Datum:** 21 november 2022.
 - **Bron:** arbeidsovereenkomst van Werkneemster 1.
 - **Korte beschrijving:** overeenkomst voor onbepaalde tijd van 32 uur per week, geen oproepovereenkomst; NBBU Fase 4 is de tegenhanger van ABU Fase C.
@@ -76,6 +78,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van het origineel.
 
 ### E-004 — Loonstroken met “Contracturen: 1:00 uur per week”
+- **Publieke kaart en rapport:** [E-004 — fragment / status](nl/dowody.html#contracturen-1-hour) · [rapport, 5. Uren en loon](nl/full-report.html#5-bevindingen-over-uren-en-loon).
 - **Datum / periode:** vanaf 21 november 2022; geselecteerde weken tijdens de Fase 4-overeenkomst.
 - **Bron:** loonstroken uitgegeven door Intrixo / Voorne Putten.
 - **Korte beschrijving:** het contractgegevensveld vermeldt één uur per week ondanks de overeenkomst van 32 uur.
@@ -85,6 +88,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **SHA-256 privébestand:** voor iedere loonstrook is een afzonderlijke waarde nodig; niet gepubliceerd.
 
 ### E-005 — Loonstrokenarchief en register van ontbrekende weken
+- **Publieke kaart en rapport:** [E-005 — fragment / status](nl/dowody.html#missing-weeks) · [rapport, 11. Bewijsindex](nl/full-report.html#11-veilige-bewijsindex).
 - **Datum / periode:** 2022-W17 tot en met 2025-W32.
 - **Bron:** loonstroken ontvangen van Intrixo / Voorne Putten en uit het werknemerssysteem; privéregister van volledigheid.
 - **Korte beschrijving:** pakket loonstukken met een lijst van periodes die ontbreken, later zijn ontvangen of nog moeten worden gekoppeld.
@@ -170,11 +174,12 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **SHA-256 privébestand:** niet gepubliceerd.
 
 ### E-014 — Beslissing Raad van Discipline
+- **Publieke kaart en rapport:** [E-014 — fragment / status](nl/dowody.html#disciplinary-decision) · [rapport, 1C. Tuchtbeslissing](nl/full-report.html#1c-tuchtrechtelijke-beslissing-van-29-juni-2026).
 - **Datum:** 29 juni 2026.
 - **Bron:** Raad van Discipline in het ressort Den Haag, zaaknummer 25-714/DH/DH.
 - **Korte beschrijving:** beslissing betreffende de eerste gemachtigde; volgens het dictum is het verzet gegrond, zijn onderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is een berisping opgelegd.
 - **Wat het kan ondersteunen:** de uitkomst van de specifieke tuchtprocedure en de omvang van de besliste klachtonderdelen.
-- **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING; de volledige beslissing is niet publiek.
+- **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING; een beschrijving en kort dictumfragment zijn publiek, de volledige beslissing blijft privé.
 - **Gekoppelde stellingen:** T-08, T-09.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van de originele PDF.
 

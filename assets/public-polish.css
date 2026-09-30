@@ -368,3 +368,30 @@ ol li,ul li { margin-bottom: 0.35rem; }
   .legal-footer { max-width: none; color: #333 !important; }
   a { color: #000 !important; text-decoration: none !important; }
 }
+/* Source details shared by the PL, EN and NL evidence pages. */
+.evidence-meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 12px;
+  margin: 14px 0 18px;
+}
+.evidence-meta > div {
+  min-width: 0;
+  padding: 9px 11px;
+  border: 1px solid #d0d7de;
+  border-radius: 9px;
+  background: #f6f8fa;
+}
+.evidence-meta dt {
+  color: #57606a;
+  font-size: .82rem;
+  font-weight: 750;
+}
+.evidence-meta dd {
+  margin: 3px 0 0;
+  overflow-wrap: anywhere;
+}
+.evidence-ref { font-weight: 750; }
+@media (max-width: 680px) {
+  .evidence-meta { grid-template-columns: 1fr; }
+}

@@ -49,6 +49,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 ## Court documents, agreement and payments
 
 ### E-001 — Rechtbank Den Haag proces-verbaal
+- **Public card and report:** [E-001 — excerpt / status](en/dowody.html#proces-verbaal) · [report, 2. Proces-verbaal](en/full-report.html#2-proces-verbaal-of-12-march-2024).
 - **Date:** 12 March 2024.
 - **Source:** Rechtbank Den Haag, reference 10943706 RL EXPL 23-3936.
 - **Brief description:** court-stage document recording the advance and the gross-wage calculation from 6 May 2022.
@@ -67,6 +68,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Private-file SHA-256:** not published; the statement should be registered after permanent redaction of bank data.
 
 ### E-003 — NBBU Fase 4 agreement for 32 hours
+- **Public card and report:** [E-003 — excerpt / status](en/dowody.html#contract-32-hours) · [report, 5. Hours and wages](en/full-report.html#5-findings-concerning-hours-and-wages).
 - **Date:** 21 November 2022.
 - **Source:** Worker 1 employment agreement.
 - **Brief description:** indefinite-term agreement for 32 hours per week, not an on-call agreement; NBBU Fase 4 is equivalent to ABU Phase C.
@@ -76,6 +78,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Private-file SHA-256:** not published; to be recorded after verification of the original.
 
 ### E-004 — Payslips containing “Contracturen: 1:00 uur per week”
+- **Public card and report:** [E-004 — excerpt / status](en/dowody.html#contracturen-1-hour) · [report, 5. Hours and wages](en/full-report.html#5-findings-concerning-hours-and-wages).
 - **Date / period:** from 21 November 2022; selected weeks during the Fase 4 agreement.
 - **Source:** payslips issued by Intrixo / Voorne Putten.
 - **Brief description:** the contract-data field records one hour per week despite the 32-hour agreement.
@@ -85,6 +88,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Private-file SHA-256:** a separate value is required for every payslip; not published.
 
 ### E-005 — Payslip archive and missing-week register
+- **Public card and report:** [E-005 — excerpt / status](en/dowody.html#missing-weeks) · [report, 11. Evidence index](en/full-report.html#11-safe-evidence-index).
 - **Date / period:** 2022-W17 to 2025-W32.
 - **Source:** payslips received from Intrixo / Voorne Putten and the employee system; private completeness register.
 - **Brief description:** payroll-document package and list of periods that are absent, later received or require allocation.
@@ -170,11 +174,12 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Private-file SHA-256:** not published.
 
 ### E-014 — Raad van Discipline decision
+- **Public card and report:** [E-014 — excerpt / status](en/dowody.html#disciplinary-decision) · [report, 1C. Disciplinary decision](en/full-report.html#1c-disciplinary-decision-of-29-june-2026).
 - **Date:** 29 June 2026.
 - **Source:** Raad van Discipline in the ressort Den Haag, reference 25-714/DH/DH.
 - **Brief description:** decision concerning the first representative; according to the operative part, the objection was upheld, parts a) and d) were upheld, b) and c) were dismissed, and a reprimand was imposed.
 - **What it may support:** the outcome of the specific disciplinary proceedings and the scope of the complaint parts decided.
-- **Publication status:** PRIVATE — PUBLIC DESCRIPTION; the full decision is not public.
+- **Publication status:** PRIVATE — PUBLIC DESCRIPTION; a summary and short operative-part excerpt are public, while the full decision remains private.
 - **Linked claims:** T-08, T-09.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original PDF.
 

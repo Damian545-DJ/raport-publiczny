@@ -49,6 +49,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 ## Dokumenty sądowe, umowa i płatności
 
 ### E-001 — Proces-verbaal Rechtbank Den Haag
+- **Karta publiczna i raport:** [E-001 — fragment / status](pl/dowody.html#proces-verbaal) · [raport, 2. Proces-verbaal](pl/full-report.html#2-proces-verbaal-z-12-marca-2024-r).
 - **Data:** 2024-03-12.
 - **Źródło:** Rechtbank Den Haag, sygn. 10943706 RL EXPL 23-3936.
 - **Krótki opis:** dokument z etapu sądowego zawierający zapis o zaliczce i wyliczeniu wynagrodzenia brutto od 06.05.2022.
@@ -67,6 +68,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **SHA-256 prywatnego pliku:** nieopublikowana; wyciąg powinien zostać zarejestrowany po trwałej redakcji danych bankowych.
 
 ### E-003 — Umowa NBBU Fase 4 na 32 godziny
+- **Karta publiczna i raport:** [E-003 — fragment / status](pl/dowody.html#contract-32-hours) · [raport, 5. Godziny i wynagrodzenie](pl/full-report.html#5-ustalenia-dotyczące-godzin-i-wynagrodzenia).
 - **Data:** 2022-11-21.
 - **Źródło:** umowa o pracę Pracownicy 1.
 - **Krótki opis:** umowa na czas nieokreślony, 32 godziny tygodniowo, niebędąca umową na wezwanie; NBBU Fase 4 jest odpowiednikiem ABU Fase C.
@@ -76,6 +78,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po weryfikacji oryginału.
 
 ### E-004 — Paski z polem „Contracturen: 1:00 uur per week”
+- **Karta publiczna i raport:** [E-004 — fragment / status](pl/dowody.html#contracturen-1-hour) · [raport, 5. Godziny i wynagrodzenie](pl/full-report.html#5-ustalenia-dotyczące-godzin-i-wynagrodzenia).
 - **Data / okres:** od 2022-11-21; wybrane tygodnie w okresie obowiązywania umowy Fase 4.
 - **Źródło:** loonstrooki wystawiane przez Intrixo / Voorne Putten.
 - **Krótki opis:** pole danych umownych wskazuje jedną godzinę tygodniowo mimo umowy na 32 godziny.
@@ -85,6 +88,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **SHA-256 prywatnego pliku:** oddzielna suma wymagana dla każdego paska; nieopublikowana.
 
 ### E-005 — Zbiorczy pakiet loonstrooków i rejestr brakujących tygodni
+- **Karta publiczna i raport:** [E-005 — fragment / status](pl/dowody.html#missing-weeks) · [raport, 11. Indeks dowodów](pl/full-report.html#11-bezpieczny-indeks-dowodów).
 - **Data / okres:** 2022-W17–2025-W32.
 - **Źródło:** paski otrzymane od Intrixo / Voorne Putten i z systemu pracowniczego; prywatny rejestr kompletności.
 - **Krótki opis:** pakiet dokumentów płacowych wraz z listą okresów nieobecnych, później otrzymanych albo wymagających przypisania.
@@ -170,11 +174,12 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **SHA-256 prywatnego pliku:** nieopublikowana.
 
 ### E-014 — Decyzja Raad van Discipline
+- **Karta publiczna i raport:** [E-014 — fragment / status](pl/dowody.html#disciplinary-decision) · [raport, 1C. Decyzja dyscyplinarna](pl/full-report.html#1c-decyzja-dyscyplinarna-z-29-czerwca-2026-r).
 - **Data:** 2026-06-29.
 - **Źródło:** Raad van Discipline in het ressort Den Haag, sygn. 25-714/DH/DH.
 - **Krótki opis:** decyzja dotycząca pierwszego pełnomocnika; według sentencji sprzeciw uwzględniono, zarzuty a) i d) uznano za zasadne, b) i c) za niezasadne, zastosowano naganę.
 - **Co może potwierdzać:** wynik konkretnego postępowania dyscyplinarnego i zakres rozstrzygniętych zarzutów.
-- **Status publikacji:** PRYWATNY — OPIS PUBLICZNY; pełna decyzja nie jest publikowana.
+- **Status publikacji:** PRYWATNY — OPIS PUBLICZNY; publicznie dostępne są opis i krótki odpis sentencji, pełna decyzja nie jest publikowana.
 - **Powiązane twierdzenia:** T-08, T-09.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po sprawdzeniu oryginalnego PDF.
 
