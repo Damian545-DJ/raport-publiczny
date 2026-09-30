@@ -9,6 +9,7 @@ PL
 - Doprecyzowano tytuł strony z pięcioma punktami jako „5 kluczowych fragmentów dokumentów i kwestii do weryfikacji” oraz zgodne odsyłacze w trzech językach.
 - Usunięto nieaktualną, wspólną datę `dateModified` z czytnika Markdown; daty źródeł pozostają przy dokumentach.
 - Przy pięciu publicznych punktach dodano istniejące identyfikatory dowodów, rodzaj, datę lub okres, status ustalenia, zakres publicznego dostępu oraz odsyłacze do właściwych sekcji raportu; analogiczne odsyłacze dodano do ustaleń i indeksu w PL/EN/NL.
+- W indeksie odróżniono prywatny oryginał z publicznym fragmentem od prywatnego oryginału z publiczną tabelą opisową.
 
 EN
 - Standardized the visible modification date of edited pages in PL/EN/NL to 30 September 2026.
@@ -17,6 +18,7 @@ EN
 - Clarified the five-point page title as “5 key document excerpts and issues for verification” and aligned links in all three languages.
 - Removed the outdated shared `dateModified` value from the Markdown reader; source dates remain with the documents.
 - Added existing evidence IDs, type, date or period, finding status, public-access scope and report-section links to the five public points; aligned links in the findings and index across PL/EN/NL.
+- Distinguished private originals with public excerpts from private originals with a public descriptive table in the index.
 
 NL
 - De zichtbare wijzigingsdatum van de aangepaste pagina's in PL/EN/NL is gelijkgetrokken naar 30 september 2026.
@@ -25,6 +27,7 @@ NL
 - De titel van de pagina met vijf punten verduidelijkt als “5 belangrijke documentfragmenten en te verifiëren punten”, met overeenkomstige verwijzingen in de drie talen.
 - De verouderde gemeenschappelijke `dateModified`-waarde uit de Markdown-lezer verwijderd; brondatums blijven bij de documenten.
 - De vijf publieke punten voorzien van bestaande bewijs-ID’s, documentsoort, datum of periode, status, publieke toegankelijkheid en verwijzingen naar rapportsecties; verwijzingen in bevindingen en index gelijkgetrokken in PL/EN/NL.
+- In de index privéoriginelen met een publiek fragment onderscheiden van privéoriginelen met een publieke beschrijvende tabel.
 
 ---
 

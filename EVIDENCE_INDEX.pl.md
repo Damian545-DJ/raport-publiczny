@@ -15,6 +15,7 @@ Ten indeks identyfikuje konkretne materiały, ich daty, źródła, możliwe znac
 
 - **PUBLICZNY** — opis, tabela albo zanonimizowany fragment jest dostępny publicznie.
 - **PUBLICZNY PO REDAKCJI** — materiał może zostać opublikowany dopiero po trwałym usunięciu danych osobowych i identyfikujących.
+- **PRYWATNY — FRAGMENT PUBLICZNY** — pełny dokument jest prywatny; publicznie dostępny jest tylko zanonimizowany odpis wybranego pola lub krótkiej części.
 - **PRYWATNY — OPIS PUBLICZNY** — oryginał jest przechowywany prywatnie; publicznie udostępniono tylko bezpieczny opis, datę lub wynik.
 - **PRYWATNY** — materiał nie jest publicznie udostępniany; może być przekazany właściwej instytucji lub zweryfikowanemu pełnomocnikowi.
 
@@ -54,7 +55,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **Źródło:** Rechtbank Den Haag, sygn. 10943706 RL EXPL 23-3936.
 - **Krótki opis:** dokument z etapu sądowego zawierający zapis o zaliczce i wyliczeniu wynagrodzenia brutto od 06.05.2022.
 - **Co może potwierdzać:** literalny zakres obowiązku Intrixo oraz termin dwóch tygodni.
-- **Status publikacji:** PRYWATNY — OPIS PUBLICZNY; udostępniono zanonimizowany fragment i tabelę faktów.
+- **Status publikacji:** PRYWATNY — FRAGMENT PUBLICZNY; udostępniono zanonimizowany odpis fragmentu i tabelę faktów; pełny protokół pozostaje prywatny.
 - **Powiązane twierdzenia:** T-01, T-02.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po sprawdzeniu oryginalnego PDF.
 
@@ -73,7 +74,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **Źródło:** umowa o pracę Pracownicy 1.
 - **Krótki opis:** umowa na czas nieokreślony, 32 godziny tygodniowo, niebędąca umową na wezwanie; NBBU Fase 4 jest odpowiednikiem ABU Fase C.
 - **Co może potwierdzać:** podstawowy wymiar czasu pracy i rodzaj umowy przy porównywaniu z rozliczeniami.
-- **Status publikacji:** PRYWATNY — OPIS PUBLICZNY; publicznie dostępny jest zanonimizowany odpis istotnych pól.
+- **Status publikacji:** PRYWATNY — FRAGMENT PUBLICZNY; publiczny jest zanonimizowany odpis istotnych pól; pełna umowa pozostaje prywatna.
 - **Powiązane twierdzenia:** T-03, T-04.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po weryfikacji oryginału.
 
@@ -83,7 +84,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **Źródło:** loonstrooki wystawiane przez Intrixo / Voorne Putten.
 - **Krótki opis:** pole danych umownych wskazuje jedną godzinę tygodniowo mimo umowy na 32 godziny.
 - **Co może potwierdzać:** istnienie rozbieżności w danych płacowych wymagającej wyjaśnienia; samo pole nie przesądza skutków finansowych.
-- **Status publikacji:** PUBLICZNY PO REDAKCJI; publicznie pokazano tylko bezpieczny fragment pola.
+- **Status publikacji:** PRYWATNY — FRAGMENT PUBLICZNY; publiczny jest jedynie bezpieczny odpis pola; pełne paski pozostają prywatne.
 - **Powiązane twierdzenia:** T-03, T-04.
 - **SHA-256 prywatnego pliku:** oddzielna suma wymagana dla każdego paska; nieopublikowana.
 
@@ -179,7 +180,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **Źródło:** Raad van Discipline in het ressort Den Haag, sygn. 25-714/DH/DH.
 - **Krótki opis:** decyzja dotycząca pierwszego pełnomocnika; według sentencji sprzeciw uwzględniono, zarzuty a) i d) uznano za zasadne, b) i c) za niezasadne, zastosowano naganę.
 - **Co może potwierdzać:** wynik konkretnego postępowania dyscyplinarnego i zakres rozstrzygniętych zarzutów.
-- **Status publikacji:** PRYWATNY — OPIS PUBLICZNY; publicznie dostępne są opis i krótki odpis sentencji, pełna decyzja nie jest publikowana.
+- **Status publikacji:** PRYWATNY — FRAGMENT PUBLICZNY; publiczny jest opis i krótki odpis sentencji; pełna decyzja pozostaje prywatna.
 - **Powiązane twierdzenia:** T-08, T-09.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po sprawdzeniu oryginalnego PDF.
 

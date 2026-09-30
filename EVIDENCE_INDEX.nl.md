@@ -15,6 +15,7 @@ Deze index identificeert concrete materialen, datums, bronnen, mogelijke bewijsb
 
 - **PUBLIEK** — een geanonimiseerde beschrijving, tabel of fragment is publiek beschikbaar.
 - **PUBLIEK NA REDACTIE** — het materiaal mag pas worden gepubliceerd nadat persoonsgegevens en identificerende gegevens blijvend zijn verwijderd.
+- **PRIVÉ — PUBLIEK FRAGMENT** — het volledige document blijft privé; alleen een geanonimiseerd veld of kort fragment is publiek.
 - **PRIVÉ — PUBLIEKE BESCHRIJVING** — het origineel wordt privé bewaard; alleen een veilige beschrijving, datum of uitkomst is publiek.
 - **PRIVÉ** — het materiaal wordt niet publiek gedeeld; het kan worden verstrekt aan een bevoegde instantie of geverifieerde juridische vertegenwoordiger.
 
@@ -54,7 +55,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **Bron:** Rechtbank Den Haag, zaaknummer 10943706 RL EXPL 23-3936.
 - **Korte beschrijving:** document uit de gerechtelijke fase met het voorschot en de berekening van het sinds 6 mei 2022 verschuldigde brutoloon.
 - **Wat het kan ondersteunen:** de letterlijke omvang van de verplichting van Intrixo en de termijn van twee weken.
-- **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING; een geanonimiseerd fragment en feitentabel zijn publiek.
+- **Publicatiestatus:** PRIVÉ — PUBLIEK FRAGMENT; een geanonimiseerd fragment en feitentabel zijn publiek; het volledige proces-verbaal blijft privé.
 - **Gekoppelde stellingen:** T-01, T-02.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van de originele PDF.
 
@@ -73,7 +74,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **Bron:** arbeidsovereenkomst van Werkneemster 1.
 - **Korte beschrijving:** overeenkomst voor onbepaalde tijd van 32 uur per week, geen oproepovereenkomst; NBBU Fase 4 is de tegenhanger van ABU Fase C.
 - **Wat het kan ondersteunen:** de contractuele basis voor arbeidsuren en het type overeenkomst bij vergelijking met loonafrekeningen.
-- **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING; een geanonimiseerde weergave van de relevante velden is publiek.
+- **Publicatiestatus:** PRIVÉ — PUBLIEK FRAGMENT; een geanonimiseerd fragment van relevante velden is publiek; de volledige overeenkomst blijft privé.
 - **Gekoppelde stellingen:** T-03, T-04.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van het origineel.
 
@@ -83,7 +84,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **Bron:** loonstroken uitgegeven door Intrixo / Voorne Putten.
 - **Korte beschrijving:** het contractgegevensveld vermeldt één uur per week ondanks de overeenkomst van 32 uur.
 - **Wat het kan ondersteunen:** het bestaan van een verschil in de loonadministratie dat uitleg vereist; het veld bepaalt niet zelfstandig het financiële gevolg.
-- **Publicatiestatus:** PUBLIEK NA REDACTIE; alleen een veilig fragment van het veld is publiek.
+- **Publicatiestatus:** PRIVÉ — PUBLIEK FRAGMENT; alleen een veilig veldfragment is publiek; volledige loonstroken blijven privé.
 - **Gekoppelde stellingen:** T-03, T-04.
 - **SHA-256 privébestand:** voor iedere loonstrook is een afzonderlijke waarde nodig; niet gepubliceerd.
 
@@ -179,7 +180,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **Bron:** Raad van Discipline in het ressort Den Haag, zaaknummer 25-714/DH/DH.
 - **Korte beschrijving:** beslissing betreffende de eerste gemachtigde; volgens het dictum is het verzet gegrond, zijn onderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is een berisping opgelegd.
 - **Wat het kan ondersteunen:** de uitkomst van de specifieke tuchtprocedure en de omvang van de besliste klachtonderdelen.
-- **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING; een beschrijving en kort dictumfragment zijn publiek, de volledige beslissing blijft privé.
+- **Publicatiestatus:** PRIVÉ — PUBLIEK FRAGMENT; een beschrijving en kort dictumfragment zijn publiek; de volledige beslissing blijft privé.
 - **Gekoppelde stellingen:** T-08, T-09.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van de originele PDF.
 

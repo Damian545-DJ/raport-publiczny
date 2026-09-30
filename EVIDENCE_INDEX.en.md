@@ -15,6 +15,7 @@ This index identifies specific materials, dates, sources, possible evidentiary r
 
 - **PUBLIC** — an anonymized description, table or excerpt is publicly available.
 - **PUBLIC AFTER REDACTION** — the material may be published only after permanent removal of personal and identifying data.
+- **PRIVATE — PUBLIC EXCERPT** — the full document is private; only an anonymized selected field or short excerpt is public.
 - **PRIVATE — PUBLIC DESCRIPTION** — the original is held privately; only a safe description, date or result is public.
 - **PRIVATE** — the material is not publicly shared; it may be supplied to a competent institution or verified legal representative.
 
@@ -54,7 +55,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Source:** Rechtbank Den Haag, reference 10943706 RL EXPL 23-3936.
 - **Brief description:** court-stage document recording the advance and the gross-wage calculation from 6 May 2022.
 - **What it may support:** the literal scope of Intrixo's obligation and the two-week period.
-- **Publication status:** PRIVATE — PUBLIC DESCRIPTION; an anonymized excerpt and factual table are public.
+- **Publication status:** PRIVATE — PUBLIC EXCERPT; an anonymized excerpt and factual table are public; the full court record remains private.
 - **Linked claims:** T-01, T-02.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original PDF.
 
@@ -73,7 +74,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Source:** Worker 1 employment agreement.
 - **Brief description:** indefinite-term agreement for 32 hours per week, not an on-call agreement; NBBU Fase 4 is equivalent to ABU Phase C.
 - **What it may support:** the contractual working-hours baseline and agreement type used for payroll comparison.
-- **Publication status:** PRIVATE — PUBLIC DESCRIPTION; an anonymized record of the relevant fields is public.
+- **Publication status:** PRIVATE — PUBLIC EXCERPT; an anonymized excerpt of relevant fields is public; the full agreement remains private.
 - **Linked claims:** T-03, T-04.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original.
 
@@ -83,7 +84,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Source:** payslips issued by Intrixo / Voorne Putten.
 - **Brief description:** the contract-data field records one hour per week despite the 32-hour agreement.
 - **What it may support:** the existence of a payroll-data discrepancy requiring explanation; the field alone does not determine its financial effect.
-- **Publication status:** PUBLIC AFTER REDACTION; only a safe excerpt of the field is public.
+- **Publication status:** PRIVATE — PUBLIC EXCERPT; only a safe field excerpt is public; full payslips remain private.
 - **Linked claims:** T-03, T-04.
 - **Private-file SHA-256:** a separate value is required for every payslip; not published.
 
@@ -179,7 +180,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Source:** Raad van Discipline in the ressort Den Haag, reference 25-714/DH/DH.
 - **Brief description:** decision concerning the first representative; according to the operative part, the objection was upheld, parts a) and d) were upheld, b) and c) were dismissed, and a reprimand was imposed.
 - **What it may support:** the outcome of the specific disciplinary proceedings and the scope of the complaint parts decided.
-- **Publication status:** PRIVATE — PUBLIC DESCRIPTION; a summary and short operative-part excerpt are public, while the full decision remains private.
+- **Publication status:** PRIVATE — PUBLIC EXCERPT; a summary and short operative-part excerpt are public; the full decision remains private.
 - **Linked claims:** T-08, T-09.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original PDF.
 
