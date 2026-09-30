@@ -11,6 +11,7 @@ PL
 - Przy pięciu publicznych punktach dodano istniejące identyfikatory dowodów, rodzaj, datę lub okres, status ustalenia, zakres publicznego dostępu oraz odsyłacze do właściwych sekcji raportu; analogiczne odsyłacze dodano do ustaleń i indeksu w PL/EN/NL.
 - W indeksie odróżniono prywatny oryginał z publicznym fragmentem od prywatnego oryginału z publiczną tabelą opisową.
 - Uzupełniono dwie strony przekierowujące do raportu o podstawowe elementy dostępności; nie zmieniono ich adresów ani metadanych udostępniania.
+- Skorygowano audyt adresów kanonicznych: strony przekierowujące z `noindex` są sprawdzane względem celu przekierowania, bez zgłaszania fałszywych duplikatów.
 
 EN
 - Standardized the visible modification date of edited pages in PL/EN/NL to 30 September 2026.
@@ -21,6 +22,7 @@ EN
 - Added existing evidence IDs, type, date or period, finding status, public-access scope and report-section links to the five public points; aligned links in the findings and index across PL/EN/NL.
 - Distinguished private originals with public excerpts from private originals with a public descriptive table in the index.
 - Added basic accessibility landmarks to the two report redirect pages without changing their URLs or sharing metadata.
+- Corrected the canonical URL audit: `noindex` redirect pages are checked against their target without false duplicate reports.
 
 NL
 - De zichtbare wijzigingsdatum van de aangepaste pagina's in PL/EN/NL is gelijkgetrokken naar 30 september 2026.
@@ -31,6 +33,7 @@ NL
 - De vijf publieke punten voorzien van bestaande bewijs-ID’s, documentsoort, datum of periode, status, publieke toegankelijkheid en verwijzingen naar rapportsecties; verwijzingen in bevindingen en index gelijkgetrokken in PL/EN/NL.
 - In de index privéoriginelen met een publiek fragment onderscheiden van privéoriginelen met een publieke beschrijvende tabel.
 - De twee doorverwijspagina’s naar het rapport voorzien van basisstructuur voor toegankelijkheid, zonder URL’s of deelmetadata te wijzigen.
+- De controle van canonieke URL’s gecorrigeerd: doorverwijspagina’s met `noindex` worden getoetst aan hun doel zonder onterechte duplicaatmelding.
 
 ---
 

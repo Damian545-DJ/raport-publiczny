@@ -132,11 +132,22 @@ def check_html_quality(issues: list[AuditIssue]) -> None:
             add(issues, path_rel, "missing or weak meta description")
 
         canonical_match = re.search(r'<link\s+rel="canonical"\s+href="([^"]+)"\s*/?>', text, flags=re.IGNORECASE)
+        redirect_match = re.search(
+            r'<meta\s+http-equiv="refresh"\s+content="0;\s*url=([^"]+)"\s*/?>',
+            text,
+            flags=re.IGNORECASE,
+        )
         if canonical_match:
             canonical = canonical_match.group(1)
             if not canonical.startswith(BASE_URL):
                 add(issues, path_rel, "canonical URL is outside the site base")
-            if canonical in canonical_values:
+            if redirect_match:
+                # Share links redirect to the canonical page and must not reserve its URL.
+                if redirect_match.group(1) != canonical:
+                    add(issues, path_rel, "redirect target differs from canonical URL")
+                if not re.search(r'<meta\s+name="robots"\s+content="[^"]*noindex', text, flags=re.IGNORECASE):
+                    add(issues, path_rel, "redirect page must be noindex")
+            elif canonical in canonical_values:
                 add(issues, path_rel, f"canonical URL duplicates {canonical_values[canonical]}")
             else:
                 canonical_values[canonical] = path_rel
