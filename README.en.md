@@ -5,7 +5,7 @@
 **TL;DR:** This repository organizes anonymized documentation of an employment dispute involving wages, guaranteed hours, deductions, accommodation, legal services and institutional responses.
 
 **Status:** public anonymized version  
-**Last modified:** 2026-07-14  
+**Last modified:** 2026-09-30  
 **Sources last verified:** 2026-07-11  
 **Purpose:** enable factual verification and safe sharing with institutions, lawyers and media.
 

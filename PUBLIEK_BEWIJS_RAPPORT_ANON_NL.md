@@ -7,7 +7,7 @@
 **Auteurs:** Werkneemster 1 en Werknemer 2 – privégegevens verwijderd  
 **Karakter:** informatief en bewijsgericht document, geen vonnis en geen juridisch advies  
 **Rapportversie:** 2.0  
-**Bijgewerkt:** 14 juli 2026  
+**Pagina laatst gewijzigd:** 30 september 2026  **Bronnen laatst geverifieerd:** 11 juli 2026  
 **Publicatiestatus:** publieke, geanonimiseerde versie van het volledige rapport.
 
 ---

@@ -7,7 +7,7 @@
 **Autorzy:** Pracownica 1 i Pracownik 2 – dane prywatne usunięte  
 **Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna  
 **Wersja raportu:** 2.0  
-**Data aktualizacji:** 2026-07-14  
+**Ostatnia zmiana strony:** 2026-09-30  **Ostatnia weryfikacja źródeł:** 2026-07-11  
 **Status publikacji:** publiczna, zanonimizowana wersja pełnego raportu.
 
 ---

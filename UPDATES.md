@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-09-30 — uporządkowanie dat publikacji i weryfikacji
+
+PL
+- Ujednolicono widoczne daty zmiany edytowanych stron w wersjach PL/EN/NL na 30.09.2026.
+- Zachowano odrębne daty ostatniej weryfikacji źródeł: 02.08.2026 dla osi czasu poprawionej na podstawie dokumentów; wcześniejsze daty dla pozostałych części raportu.
+- Zmiana dotyczy oznaczeń dat i nie oznacza ponownej weryfikacji całych akt ani zmiany merytorycznego stanu sprawy.
+
+EN
+- Standardized the visible modification date of edited pages in PL/EN/NL to 30 September 2026.
+- Kept source-verification dates separate: 2 August 2026 for the document-checked timeline, and the earlier dates for other report sections.
+- This metadata update does not represent a new review of the complete case file or a change to the substantive case status.
+
+NL
+- De zichtbare wijzigingsdatum van de aangepaste pagina's in PL/EN/NL is gelijkgetrokken naar 30 september 2026.
+- Datums van bronverificatie blijven afzonderlijk: 2 augustus 2026 voor de aan documenten getoetste tijdlijn en de eerdere datums voor andere delen van het rapport.
+- Deze wijziging van datumaanduidingen is geen nieuwe controle van het volledige dossier of inhoudelijke wijziging van de zaakstatus.
+
+---
+
 ## 2026-08-02 — korekta osi czasu na podstawie dokumentów
 
 PL

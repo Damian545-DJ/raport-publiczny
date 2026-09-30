@@ -7,7 +7,7 @@
 **Authors:** Worker 1 and Worker 2 – private data removed  
 **Nature:** informational and evidentiary document, not a judgment or legal advice  
 **Report version:** 2.0  
-**Updated:** 14 July 2026  
+**Page last modified:** 30 September 2026  **Sources last verified:** 11 July 2026  
 **Publication status:** public, anonymized full-report version.
 
 ---
