@@ -201,7 +201,22 @@
       });
     }
 
-    function buildTableOfContents(lang) {
+    function caseSectionId(file, title) {
+      const normalized = title.toLowerCase().normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, " ").trim();
+      if (file.startsWith("TIMELINE.")) {
+        if (/^(pracownica 1|worker 1|werkneemster 1) /.test(normalized)) return "worker-1-timeline";
+        if (/^(pracownik 2|worker 2|werknemer 2) /.test(normalized)) return "worker-2-timeline";
+      }
+      if (file.startsWith("EVIDENCE_INDEX.")) {
+        if (/(pracownica 1|worker 1|werkneemster 1)$/.test(normalized)) return "worker-1-index";
+        if (/(pracownik 2|worker 2|werknemer 2)$/.test(normalized)) return "worker-2-index";
+      }
+      return null;
+    }
+
+    function buildTableOfContents(lang, file) {
       const content = document.getElementById("main-content");
       const headings = Array.from(content.querySelectorAll("h2, h3"));
       const toc = document.getElementById("toc");
@@ -213,7 +228,7 @@
       }
       const used = new Set();
       headings.forEach((heading, index) => {
-        let id = heading.id || heading.textContent.toLowerCase()
+        let id = caseSectionId(file, heading.textContent) || heading.id || heading.textContent.toLowerCase()
           .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
           .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
         if (!id) id = "section-" + (index + 1);
@@ -282,7 +297,11 @@
           }
         });
         enhanceRenderedTables(lang);
-        buildTableOfContents(lang);
+        buildTableOfContents(lang, file);
+        if (location.hash) {
+          const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+          if (target) requestAnimationFrame(() => target.scrollIntoView({ block: "start" }));
+        }
       } catch (error) {
         contentEl.replaceChildren();
         const message = document.createElement("p");

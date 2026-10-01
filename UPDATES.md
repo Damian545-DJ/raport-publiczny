@@ -4,12 +4,15 @@
 
 PL
 - Uzupełniono wprowadzenie na stronie głównej o wymienione przez autorów instytucje, organizacje, drogę dyscyplinarną pełnomocnika i aktualny status części spraw; zmieniono datę edycji strony, bez zmiany daty weryfikacji źródeł.
+- Rozdzielono na stronach wejściowych PL/EN/NL i głównej sprawy Pracownicy 1 oraz Pracownika 2; dodano osobne odnośniki do ich osi czasu i części indeksu, oznaczono wcześniejsze zestawienia jako dotyczące Pracownicy 1.
 
 EN
 - Expanded the main landing-page introduction with the institutions and organizations named by the authors, the representative's disciplinary path and the status of ongoing matters; updated the page modification date without changing the source-verification date.
+- Separated Worker 1 and Worker 2 on the PL/EN/NL entry pages and the main landing page, with case-specific timeline and evidence-index links; labelled existing summaries as Worker 1 material.
 
 NL
 - De inleiding op de hoofdpagina aangevuld met door de auteurs genoemde instanties en organisaties, het tuchtrechtelijke traject van de gemachtigde en de status van lopende kwesties; de wijzigingsdatum bijgewerkt zonder de datum van bronverificatie te wijzigen.
+- De zaken van Werkneemster 1 en Werknemer 2 op de PL/EN/NL-startpagina's en de hoofdpagina gescheiden, met eigen verwijzingen naar tijdlijn en bewijsindex; bestaande samenvattingen als materiaal van Werkneemster 1 aangeduid.
 
 ---
 
