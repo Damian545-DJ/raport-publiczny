@@ -3,16 +3,19 @@
 ## 2026-10-01 — uzupełnienie strony głównej
 
 PL
+- Dodano informację z 14.02.2026: po braku wyjaśnienia od SNCU Juridisch Loket zalecił Pracownikowi 2 kontakt z adwokatem i wskazał możliwość skierowania; uzupełniono strony PL/EN/NL oraz główną.
 - Dodano pięć faktów, sześć wydarzeń i kwestie do weryfikacji dla Pracownika 2 na stronach PL/EN/NL; na głównej stronie wyboru języka dodano pięć osobnych faktów Pracownika 2. Szczegóły odsyłają do jego osi czasu i indeksu.
 - Uzupełniono wprowadzenie na stronie głównej o wymienione przez autorów instytucje, organizacje, drogę dyscyplinarną pełnomocnika i aktualny status części spraw; zmieniono datę edycji strony, bez zmiany daty weryfikacji źródeł.
 - Rozdzielono na stronach wejściowych PL/EN/NL i głównej sprawy Pracownicy 1 oraz Pracownika 2; dodano osobne odnośniki do ich osi czasu i części indeksu, oznaczono wcześniejsze zestawienia jako dotyczące Pracownicy 1.
 
 EN
+- Added the 14 February 2026 Juridisch Loket recommendation to contact a lawyer, following the lack of an explanation from SNCU, to the PL/EN/NL pages and main landing page.
 - Added five facts, six timeline events and issues to verify for Worker 2 on the PL/EN/NL entry pages, plus five separate Worker 2 facts on the language landing page, with links to his timeline and evidence index.
 - Expanded the main landing-page introduction with the institutions and organizations named by the authors, the representative's disciplinary path and the status of ongoing matters; updated the page modification date without changing the source-verification date.
 - Separated Worker 1 and Worker 2 on the PL/EN/NL entry pages and the main landing page, with case-specific timeline and evidence-index links; labelled existing summaries as Worker 1 material.
 
 NL
+- Het advies van Juridisch Loket van 14 februari 2026 om contact op te nemen met een advocaat, nadat een toelichting van SNCU uitbleef, toegevoegd aan de PL/EN/NL-pagina’s en de hoofdpagina.
 - Vijf kernfeiten, zes gebeurtenissen en te verifiëren punten voor Werknemer 2 toegevoegd aan de PL/EN/NL-startpagina’s, plus vijf afzonderlijke feiten op de hoofdpagina, met links naar zijn tijdlijn en bewijsindex.
 - De inleiding op de hoofdpagina aangevuld met door de auteurs genoemde instanties en organisaties, het tuchtrechtelijke traject van de gemachtigde en de status van lopende kwesties; de wijzigingsdatum bijgewerkt zonder de datum van bronverificatie te wijzigen.
 - De zaken van Werkneemster 1 en Werknemer 2 op de PL/EN/NL-startpagina's en de hoofdpagina gescheiden, met eigen verwijzingen naar tijdlijn en bewijsindex; bestaande samenvattingen als materiaal van Werkneemster 1 aangeduid.
