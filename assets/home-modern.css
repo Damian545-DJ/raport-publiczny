@@ -162,6 +162,7 @@ h1 {
 .landing-hero h1 { max-width: 17ch; }
 .lead { max-width: 68ch; margin: 0; color: #34475a; font-size: clamp(1.02rem, 1.4vw, 1.18rem); }
 .lead strong { color: var(--text); }
+.landing-hero .lead + .lead { margin-top: 14px; }
 
 .status-row, .tag-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 0; }
 .status-chip, .tag {

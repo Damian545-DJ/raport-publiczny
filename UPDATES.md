@@ -1,5 +1,18 @@
 # Updates
 
+## 2026-10-01 — uzupełnienie strony głównej
+
+PL
+- Uzupełniono wprowadzenie na stronie głównej o wymienione przez autorów instytucje, organizacje, drogę dyscyplinarną pełnomocnika i aktualny status części spraw; zmieniono datę edycji strony, bez zmiany daty weryfikacji źródeł.
+
+EN
+- Expanded the main landing-page introduction with the institutions and organizations named by the authors, the representative's disciplinary path and the status of ongoing matters; updated the page modification date without changing the source-verification date.
+
+NL
+- De inleiding op de hoofdpagina aangevuld met door de auteurs genoemde instanties en organisaties, het tuchtrechtelijke traject van de gemachtigde en de status van lopende kwesties; de wijzigingsdatum bijgewerkt zonder de datum van bronverificatie te wijzigen.
+
+---
+
 ## 2026-09-30 — daty publikacji i opis strony dokumentów
 
 PL
