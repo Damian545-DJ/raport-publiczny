@@ -3,18 +3,21 @@
 ## 2026-10-01 — uzupełnienie strony głównej
 
 PL
+- Na stronach kontaktowych PL/EN/NL dodano krótką instrukcję zamawiania materiałów: dane do zgłoszenia, możliwe kategorie dokumentów po weryfikacji i uzgadniany bezpieczny sposób przekazania; doprecyzowano granicę między opisami publicznymi a prywatnymi aktami.
 - Dodano informację z 14.02.2026: po braku wyjaśnienia od SNCU Juridisch Loket zalecił Pracownikowi 2 kontakt z adwokatem i wskazał możliwość skierowania; uzupełniono strony PL/EN/NL oraz główną.
 - Dodano pięć faktów, sześć wydarzeń i kwestie do weryfikacji dla Pracownika 2 na stronach PL/EN/NL; na głównej stronie wyboru języka dodano pięć osobnych faktów Pracownika 2. Szczegóły odsyłają do jego osi czasu i indeksu.
 - Uzupełniono wprowadzenie na stronie głównej o wymienione przez autorów instytucje, organizacje, drogę dyscyplinarną pełnomocnika i aktualny status części spraw; zmieniono datę edycji strony, bez zmiany daty weryfikacji źródeł.
 - Rozdzielono na stronach wejściowych PL/EN/NL i głównej sprawy Pracownicy 1 oraz Pracownika 2; dodano osobne odnośniki do ich osi czasu i części indeksu, oznaczono wcześniejsze zestawienia jako dotyczące Pracownicy 1.
 
 EN
+- Added a concise request guide to the PL/EN/NL media pages, covering request details, document categories subject to verification, and individually agreed secure delivery; clarified the public/private records boundary.
 - Added the 14 February 2026 Juridisch Loket recommendation to contact a lawyer, following the lack of an explanation from SNCU, to the PL/EN/NL pages and main landing page.
 - Added five facts, six timeline events and issues to verify for Worker 2 on the PL/EN/NL entry pages, plus five separate Worker 2 facts on the language landing page, with links to his timeline and evidence index.
 - Expanded the main landing-page introduction with the institutions and organizations named by the authors, the representative's disciplinary path and the status of ongoing matters; updated the page modification date without changing the source-verification date.
 - Separated Worker 1 and Worker 2 on the PL/EN/NL entry pages and the main landing page, with case-specific timeline and evidence-index links; labelled existing summaries as Worker 1 material.
 
 NL
+- Aan de PL/EN/NL-mediapagina’s een korte aanvraaginstructie toegevoegd met gegevens voor het verzoek, mogelijke documentcategorieën na verificatie en een afzonderlijk af te spreken veilige overdracht; de grens tussen publieke beschrijvingen en privé-dossiers verduidelijkt.
 - Het advies van Juridisch Loket van 14 februari 2026 om contact op te nemen met een advocaat, nadat een toelichting van SNCU uitbleef, toegevoegd aan de PL/EN/NL-pagina’s en de hoofdpagina.
 - Vijf kernfeiten, zes gebeurtenissen en te verifiëren punten voor Werknemer 2 toegevoegd aan de PL/EN/NL-startpagina’s, plus vijf afzonderlijke feiten op de hoofdpagina, met links naar zijn tijdlijn en bewijsindex.
 - De inleiding op de hoofdpagina aangevuld met door de auteurs genoemde instanties en organisaties, het tuchtrechtelijke traject van de gemachtigde en de status van lopende kwesties; de wijzigingsdatum bijgewerkt zonder de datum van bronverificatie te wijzigen.
