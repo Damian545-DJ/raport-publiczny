@@ -109,7 +109,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 
 ## Berekeningen en correspondentie met de derde gemachtigde
 
-### E-007 — Urenexport van de bureauzijde / “B. [Worker 1] berekening uren”
+### E-007 — Door het uitzendbureau verstrekt urenoverzicht van Werkneemster 1
 - **Datum / periode:** ontvangen in correspondentie van maart–april 2026; betreft periodes vanaf 2022.
 - **Bron:** Intrixo / Home of People, verstrekt via mr. G.
 - **Korte beschrijving:** overzicht van uren of facturatiegegevens dat op zichzelf geen volledige berekening vormt van het verschuldigde brutoloon en het eindsaldo.
@@ -147,7 +147,7 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 
 ### E-011 — Derde berekening van EUR 7.741,03 bruto
 - **Datum:** 7 mei 2026.
-- **Bron:** e-mail en spreadsheet “[Worker 1] 2.xlsx” van mr. G.
+- **Bron:** e-mail en spreadsheet met de derde berekening voor Werkneemster 1, van mr. G.
 - **Korte beschrijving:** latere berekeningsversie die wezenlijk hoger is dan de twee eerdere resultaten.
 - **Wat het kan ondersteunen:** de ontwikkeling van de berekeningen en de noodzaak alle versies onafhankelijk met bronstukken te vergelijken.
 - **Publicatiestatus:** PRIVÉ — PUBLIEKE BESCHRIJVING.

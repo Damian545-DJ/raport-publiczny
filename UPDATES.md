@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-10-02 - anonimizacja indeksów i kontaktu
+
+PL
+- Zastąpiono identyfikujące nazwy arkuszy E-007 i E-011 neutralnymi opisami we wszystkich trzech językach.
+- Usunięto dane osobowe autora i odnośniki do prywatnego profilu ze stron dla mediów; kontakt opisano jako wcześniej uzgodniony prywatny kanał.
+- Rozszerzono kontrolę anonimizacji na publiczne treści, nazwy plików i odnośniki. Zmiana redakcyjna nie oznacza ponownej weryfikacji źródeł.
+
+EN
+- Replaced identifying spreadsheet names in E-007 and E-011 with neutral descriptions in all three languages.
+- Removed the author's personal details and personal-profile links from media pages; contact is described as a previously agreed private channel.
+- Extended anonymization checks to public content, filenames and links. This editorial change does not represent a new source review.
+
+NL
+- Identificerende bestandsnamen bij E-007 en E-011 vervangen door neutrale omschrijvingen in alle drie de talen.
+- Persoonsgegevens van de auteur en verwijzingen naar het persoonlijke profiel verwijderd van de mediapagina's; contact verloopt via een eerder overeengekomen privékanaal.
+- De anonimiseringscontrole uitgebreid naar publieke inhoud, bestandsnamen en links. Deze redactionele wijziging is geen nieuwe broncontrole.
+
+---
+
 ## 2026-10-01 — uzupełnienie strony głównej
 
 PL

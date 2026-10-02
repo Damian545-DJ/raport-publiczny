@@ -109,7 +109,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 
 ## Calculations and correspondence with the third representative
 
-### E-007 — Agency-provided hours export / “B. [Worker 1] berekening uren”
+### E-007 — Agency-provided hours spreadsheet for Worker 1
 - **Date / period:** received in March–April 2026 correspondence; covers periods from 2022.
 - **Source:** Intrixo / Home of People, supplied through mr. G.
 - **Brief description:** hours or invoicing-data schedule that is not by itself a complete calculation of gross wages due and the final balance.
@@ -147,7 +147,7 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 
 ### E-011 — Third calculation of EUR 7,741.03 gross
 - **Date:** 7 May 2026.
-- **Source:** email and “[Worker 1] 2.xlsx” spreadsheet from mr. G.
+- **Source:** email and spreadsheet containing the third calculation for Worker 1, from mr. G.
 - **Brief description:** later calculation version materially higher than the two earlier results.
 - **What it may support:** the evolution of the calculations and the need to compare all versions independently with source documents.
 - **Publication status:** PRIVATE — PUBLIC DESCRIPTION.

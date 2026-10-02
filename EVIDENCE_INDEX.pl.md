@@ -109,7 +109,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 
 ## Wyliczenia i korespondencja z trzecim pełnomocnikiem
 
-### E-007 — Eksport godzin / „B. [Worker 1] berekening uren” przekazany przez stronę agencyjną
+### E-007 — Arkusz godzin Pracownicy 1 przekazany przez stronę agencyjną
 - **Data / okres:** otrzymany w korespondencji w marcu–kwietniu 2026; obejmuje okres od 2022 r.
 - **Źródło:** Intrixo / Home of People, przekazane za pośrednictwem mr. G.
 - **Krótki opis:** zestawienie godzin lub danych fakturowych, niebędące samo w sobie pełnym rozliczeniem należnego brutto i salda końcowego.
@@ -147,7 +147,7 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 
 ### E-011 — Trzecie wyliczenie 7 741,03 EUR brutto
 - **Data:** 2026-05-07.
-- **Źródło:** e-mail i arkusz „[Worker 1] 2.xlsx” od mr. G.
+- **Źródło:** e-mail i arkusz trzeciej wersji wyliczenia dla Pracownicy 1 od mr. G.
 - **Krótki opis:** późniejsza wersja wyliczenia znacząco wyższa od dwóch wcześniejszych wyników.
 - **Co może potwierdzać:** ewolucję kalkulacji i potrzebę niezależnego porównania wszystkich wersji z dokumentami źródłowymi.
 - **Status publikacji:** PRYWATNY — OPIS PUBLICZNY.

@@ -3,8 +3,12 @@
 from __future__ import annotations
 
 from pathlib import Path
+import hashlib
+import html
 import re
 import sys
+import unicodedata
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 EXACT = 'een berekening van het sinds 6 mei 2022 verschuldigde bruto loon'
@@ -121,13 +125,47 @@ additional_forbidden = (
     "home-of-people-neemt-ook-efficient-at-work-over",
 )
 public_suffixes = {".md", ".html", ".xml", ".txt"}
+# Store comparison fingerprints rather than republishing private names in this
+# public script. This is a regression guard for known identifiers, not a general
+# personal-data detector. Check decoded links and filenames as well as prose.
+private_name_fingerprints = {
+    "6da0589cbf1dd2f7ac0cc5dd0fc9d53840f59da4f3627cd6da61fcd5c64c9bbc",
+    "fca3d9847bedaa9ac6ff3f168c30c46e4aec20022e9fa590259f984da2496fe3",
+    "566fad16245eddc4f639e1c47188b8a3d5e9956324cf6fa65eae9f1d47393066",
+    "720036c8101f751b82cdba6e74fbd217419a2d478dd49f6d7ba6697ed3810ece",
+}
+privacy_suffixes = public_suffixes | {".svg", ".json", ".css", ".js", ".py", ".yml", ".yaml"}
+
+
+def contains_private_name(value: str) -> bool:
+    decoded = html.unescape(unquote(value)).replace("_", " ")
+    normalized = "".join(
+        char for char in unicodedata.normalize("NFKD", decoded.casefold())
+        if not unicodedata.combining(char)
+    )
+    return any(
+        hashlib.sha256(token.encode("utf-8")).hexdigest() in private_name_fingerprints
+        for token in re.findall(r"\b[^\W\d_]+\b", normalized)
+    )
+
+
 for candidate in ROOT.rglob("*"):
-    if not candidate.is_file() or candidate.suffix.lower() not in public_suffixes:
+    if not candidate.is_file():
         continue
     relative = candidate.relative_to(ROOT)
-    if relative.parts and relative.parts[0] in {"scripts", ".github"}:
+    if any(part in {".git", "__pycache__", ".venv", "node_modules"} for part in relative.parts):
+        continue
+    if contains_private_name(relative.as_posix()):
+        issues.append("public filename contains a private personal identifier")
+    if candidate.suffix.lower() not in privacy_suffixes:
         continue
     current = candidate.read_text(encoding="utf-8", errors="ignore")
+    if contains_private_name(current):
+        issues.append(f"{relative.as_posix()}: private personal identifier remains in public content or a link")
+    if candidate.suffix.lower() not in public_suffixes:
+        continue
+    if relative.parts and relative.parts[0] in {"scripts", ".github"}:
+        continue
     for token in additional_forbidden:
         if token in current:
             issues.append(f"{relative.as_posix()}: public identifier or obsolete source remains: {token}")
