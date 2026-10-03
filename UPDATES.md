@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-10-03 — dwie sprawy i podsumowanie dla mediów
+
+PL
+- Skrócono wprowadzenie, przeniesiono kontekst instytucjonalny niżej i dodano wyraźne wejścia do obu spraw oraz materiałów dla mediów.
+- Dodano równoległe podsumowania, statusy, dowody, chronologie i pytania dla obu osób w PL/EN/NL. Wyjaśniono granice aktualności informacji i historyczny charakter tabeli z 14.07.2026; nie zmieniono daty weryfikacji źródeł.
+- Uporządkowano etykiety, oznaczono 5 000 EUR jako płatność, a sześć kart Pracownika 2 ułożono w trzy kolumny na dużym ekranie. Dodano jednostronicowe podsumowania dla redakcji oraz czytelne nazwy dokumentów.
+
+EN
+- Shortened the introduction, moved institutional context lower and added clear entries for both cases and media materials.
+- Added parallel summaries, statuses, evidence, chronologies and questions in PL/EN/NL. Explained information currency and the historical table dated 14 July 2026; source-verification dates are unchanged.
+- Standardized labels, identified EUR 5,000 as a payment and arranged Worker 2's six cards in three desktop columns. Added one-page editorial briefings and readable document names.
+
+NL
+- De inleiding ingekort, de institutionele context lager geplaatst en duidelijke ingangen voor beide zaken en mediamateriaal toegevoegd.
+- Parallelle samenvattingen, statussen, bewijzen, chronologieën en vragen in PL/EN/NL toegevoegd. De actualiteitsgrenzen en historische tabel van 14 juli 2026 toegelicht; broncontroledatums zijn ongewijzigd.
+- Labels geharmoniseerd, EUR 5.000 als betaling aangeduid en de zes kaarten van Werknemer 2 op grote schermen in drie kolommen geplaatst. Samenvattingen van één pagina voor redacties en leesbare documentnamen toegevoegd.
+
+---
+
 ## 2026-10-03 — język czytnika i kontrola przed publikacją
 
 PL

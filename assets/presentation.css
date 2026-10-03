@@ -1,0 +1,46 @@
+/* Equal case summaries and concise media presentation. */
+.overview-hero { grid-template-columns: 1fr; }
+.case-summary-grid { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 18px; }
+.case-summary { min-width: 0; padding: 20px; border: 1px solid #d5e0ea; border-radius: 16px; background: #f8fbff; scroll-margin-top: 100px; }
+.case-summary h3 { margin-top: 0; color: #063b69; font-size: 1.3rem; }
+.case-summary p { overflow-wrap: anywhere; }
+.case-path-links { display:flex; flex-wrap:wrap; gap:12px; margin-top:12px; }
+.date-note { color:#46596b; font-size:.94rem; }
+.case-divider { margin: 28px 0 12px; }
+.fact-grid.six-facts { display:grid; gap:12px; grid-template-columns: repeat(3,minmax(0,1fr)); }
+.six-facts .fact-card { padding:16px; border:1px solid #d5e0ea; border-radius:16px; }
+.six-facts .fact-value { display:block; margin:10px 0; font-weight:800; color:#063b69; }
+.six-facts .tag { display:inline-flex; border-radius:999px; padding:5px 9px; font-size:.78rem; font-weight:750; }
+.six-facts .tag.document { color:#063b69; background:#eaf3fc; }
+.six-facts .tag.verification { color:#9a5b00; background:#fff5dd; }
+.fact-grid.six-facts .fact-card:last-child { grid-column:auto; }
+.tag.payment { color:#176b4d; background:#e8f7f0; }
+.tag.statement { color:#6850a4; background:#f1edff; }
+.case-overview .case-summary-grid p { line-height:1.55; }
+.media-brief h3 { margin:18px 0 5px; }
+.media-brief a { overflow-wrap:anywhere; }
+.brief-note,.brief-site { font-size:.9rem; }
+.brief-site { overflow-wrap:anywhere; }
+.brief-actions { display:flex; flex-wrap:wrap; gap:8px; }
+@media(max-width:980px) { .fact-grid.six-facts { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:760px) {
+ .case-summary-grid,.fact-grid.six-facts { grid-template-columns:1fr; }
+ .case-summary { padding:16px; scroll-margin-top:12px; }
+ .landing-hero h1 { font-size:2.1rem; }
+ .landing-hero .language-card { padding:10px; gap:10px; }
+ .landing-hero .language-card small { display:none; }
+ .landing-hero .language-code { height:40px; }
+}
+@media print {
+ body:has(#media-brief) { background:#fff; font-size:10pt; line-height:1.35; }
+ body:has(#media-brief) .wrap { max-width:none; padding:0; }
+ body:has(#media-brief) nav,body:has(#media-brief) .skip-link,body:has(#media-brief) footer,body:has(#media-brief) main > :not(#media-brief) { display:none!important; }
+ #media-brief { border:0!important; border-radius:0!important; padding:0!important; margin:0; box-shadow:none; }
+ #media-brief a { display:inline!important; min-height:0!important; border:0!important; padding:0!important; margin:0!important; border-radius:0!important; box-shadow:none!important; font-size:inherit!important; text-decoration:underline; }
+ #media-brief h2 { font-size:17pt; }
+ #media-brief h3 { font-size:12pt; margin:12px 0 3px; }
+ #media-brief p { margin:6px 0; }
+ #media-brief .brief-note,#media-brief .brief-site { font-size:8.5pt; }
+ .case-summary-grid { display:block; }
+ .case-summary { break-inside:avoid; margin-bottom:12px; }
+}

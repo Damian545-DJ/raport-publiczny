@@ -22,6 +22,42 @@ The public version removes private-person data, exact accommodation and workplac
 
 ---
 
+## Two worker cases
+
+**Information in this report as of 3 October 2026**
+
+This summary uses published descriptions. Its preparation date does not represent a fresh review of private records. The general source-verification date remains 11 July 2026; later information carries its own dates and attribution.
+
+### Worker 1
+
+A dispute over the obligation to calculate gross wages from 6 May 2022, guaranteed hours, and reconciliation of payments and deductions.
+
+**Status described in the report:** The report provides no independently confirmed final balance. The disciplinary decision of 29 June 2026 was published on 31 July 2026. According to the authors, an appeal was lodged; its outcome and finality remain unconfirmed.
+
+**Key evidence:** E-001: process-verbaal; E-002: EUR 5,000 transfer; E-003–E-006: contract, payroll and bank records; E-008–E-012: calculations and correspondence; E-014: disciplinary decision.
+
+**Chronology:** 12 March 2024: process-verbaal → 18 March 2024: advance → April–May 2026: successive calculations → 29 June 2026: disciplinary decision.
+
+**Questions to resolve:** Was the complete gross-wage calculation from 6 May 2022 provided? How were payments and deductions allocated, and how was the advance accounted for separately?
+
+[Chronology](doc.html?file=TIMELINE.en.md#worker-1-timeline) · [Evidence index](doc.html?file=EVIDENCE_INDEX.en.md#worker-1-index)
+
+### Worker 2
+
+A separate dispute over scheduling under a 32-hour guarantee, negative balances and deductions, 61.11 hours of leave, and the final settlement.
+
+**Status described in the report:** The public timeline describes SNCU closing the report on 20 January 2026 and Juridisch Loket recommending a lawyer on 14 February 2026. These events do not settle the pay dispute; no later final outcome has been confirmed here.
+
+**Key evidence:** E-018: payslips; E-019: employee-system views; E-020–E-021: reports and legal assistance; E-022–E-023: accommodation and letters; E-024: issue map.
+
+**Chronology:** 24 June 2024: scheduling message → 25–29 July 2025: disputed leave approvals → 14 August 2025: payment demand → 20 January and 14 February 2026: institutional responses.
+
+**Questions to resolve:** How were guaranteed hours, corrections, leave and the final balance calculated? What justified the deductions and SNCU closing the report?
+
+[Chronology](doc.html?file=TIMELINE.en.md#worker-2-timeline) · [Evidence index](doc.html?file=EVIDENCE_INDEX.en.md#worker-2-index)
+
+---
+
 ## 1. Case summary
 
 - an open-ended **NBBU Fase 4 agreement, equivalent to ABU Phase C**, providing for 32 hours per week,
@@ -48,6 +84,9 @@ These figures are successive working calculations, not a final amount establishe
 ---
 
 ## 1B. Brief status of the main issues
+
+
+The table below describes the earlier position on 14 July 2026 and concerns Worker 1. Later information, including publication of the decision and the appeal note, appears in separate sections. The page-edit date is not the date on which the current procedural position was established.
 
 | Main issue | Status as of 14 July 2026 | Brief explanation |
 |---|---|---|

@@ -22,6 +22,42 @@ De openbare versie verwijdert gegevens van privépersonen, exacte huisvestings- 
 
 ---
 
+## Twee arbeidszaken
+
+**Stand van de informatie in dit rapport op 3 oktober 2026**
+
+Deze samenvatting gebruikt gepubliceerde beschrijvingen. De opmaakdatum betekent geen nieuwe controle van privéstukken. De algemene broncontroledatum blijft 11 juli 2026; latere informatie heeft eigen datums en bronvermeldingen.
+
+### Werkneemster 1
+
+Een geschil over de verplichting brutoloon vanaf 6 mei 2022 te berekenen, gegarandeerde uren en de afstemming van betalingen en inhoudingen.
+
+**Status volgens het rapport:** Het rapport bevat geen onafhankelijk bevestigd eindsaldo. De tuchtbeslissing van 29 juni 2026 is op 31 juli 2026 gepubliceerd. Volgens de auteurs is hoger beroep ingesteld; de uitkomst en onherroepelijkheid zijn niet bevestigd.
+
+**Kernbewijzen:** E-001: proces-verbaal; E-002: overboeking van EUR 5.000; E-003–E-006: contract, loonstroken en bankgegevens; E-008–E-012: berekeningen en correspondentie; E-014: tuchtbeslissing.
+
+**Chronologie:** 12 maart 2024: proces-verbaal → 18 maart 2024: voorschot → april–mei 2026: opeenvolgende berekeningen → 29 juni 2026: tuchtbeslissing.
+
+**Vragen ter verduidelijking:** Is de volledige brutoloonberekening vanaf 6 mei 2022 verstrekt? Hoe zijn betalingen en inhoudingen toegerekend en is het voorschot afzonderlijk verrekend?
+
+[Chronologie](doc.html?file=TIMELINE.nl.md#worker-1-timeline) · [Bewijsindex](doc.html?file=EVIDENCE_INDEX.nl.md#worker-1-index)
+
+### Werknemer 2
+
+Een afzonderlijk geschil over planning bij een garantie van 32 uur, negatieve saldi en inhoudingen, 61,11 verlofuren en de eindafrekening.
+
+**Status volgens het rapport:** De publieke tijdlijn beschrijft de sluiting van de melding door SNCU op 20 januari 2026 en het advies van Juridisch Loket om een advocaat te benaderen op 14 februari 2026. Daarmee is de loonkwestie niet beslist; een latere einduitkomst is hier niet bevestigd.
+
+**Kernbewijzen:** E-018: loonstroken; E-019: schermen uit het werknemerssysteem; E-020–E-021: meldingen en rechtshulp; E-022–E-023: huisvesting en brieven; E-024: overzicht van geschilpunten.
+
+**Chronologie:** 24 juni 2024: planningsbericht → 25–29 juli 2025: betwiste verloftoestemming → 14 augustus 2025: betalingsverzoek → 20 januari en 14 februari 2026: reacties van instanties.
+
+**Vragen ter verduidelijking:** Hoe zijn gegarandeerde uren, correcties, verlof en het eindsaldo berekend? Wat was de grond voor de inhoudingen en de sluiting van de melding door SNCU?
+
+[Chronologie](doc.html?file=TIMELINE.nl.md#worker-2-timeline) · [Bewijsindex](doc.html?file=EVIDENCE_INDEX.nl.md#worker-2-index)
+
+---
+
 ## 1. Samenvatting van de zaak
 
 - een arbeidsovereenkomst voor onbepaalde tijd in **NBBU Fase 4, de tegenhanger van ABU Fase C**, met 32 uur per week,
@@ -48,6 +84,9 @@ Deze bedragen zijn opeenvolgende werkberekeningen en geen door een bindende besl
 ---
 
 ## 1B. Korte status van de hoofdonderwerpen
+
+
+De onderstaande tabel beschrijft de eerdere stand op 14 juli 2026 en betreft Werkneemster 1. Latere informatie, waaronder de publicatie van de beslissing en de beroepsnotitie, staat in afzonderlijke secties. De wijzigingsdatum van de pagina is niet de datum waarop de actuele processtand is vastgesteld.
 
 | Hoofdonderwerp | Status per 14 juli 2026 | Korte uitleg |
 |---|---|---|

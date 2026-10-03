@@ -22,6 +22,42 @@ Wersja publiczna usuwa dane prywatnych osób, dokładne miejsca zakwaterowania i
 
 ---
 
+## Dwie sprawy pracownicze
+
+**Stan informacji w raporcie — 03.10.2026**
+
+Podsumowanie opiera się na opublikowanych opisach. Data jego przygotowania nie oznacza ponownej kontroli prywatnych akt. Ogólna data weryfikacji źródeł pozostaje 11.07.2026; późniejsze informacje mają własne daty i wskazane źródła.
+
+### Pracownica 1
+
+Spór o wykonanie obowiązku wyliczenia brutto od 06.05.2022, gwarantowane godziny oraz rozliczenie wypłat i potrąceń.
+
+**Status opisany w raporcie:** Raport nie przedstawia niezależnie potwierdzonego salda końcowego. Decyzję dyscyplinarną z 29.06.2026 opublikowano 31.07.2026. Według autorów wniesiono odwołanie; jego wynik i prawomocność pozostają niepotwierdzone.
+
+**Kluczowe dowody:** E-001: proces-verbaal; E-002: przelew 5 000 EUR; E-003–E-006: umowa, płace i bank; E-008–E-012: wyliczenia i korespondencja; E-014: decyzja dyscyplinarna.
+
+**Chronologia:** 12.03.2024: proces-verbaal → 18.03.2024: zaliczka → kwiecień–maj 2026: kolejne wyliczenia → 29.06.2026: decyzja dyscyplinarna.
+
+**Do wyjaśnienia:** Czy przekazano pełne wyliczenie brutto od 06.05.2022? Jak przypisano płatności i potrącenia oraz odrębnie rozliczono zaliczkę?
+
+[Chronologia](doc.html?file=TIMELINE.pl.md#worker-1-timeline) · [Indeks dowodów](doc.html?file=EVIDENCE_INDEX.pl.md#worker-1-index)
+
+### Pracownik 2
+
+Osobny spór o planowanie przy gwarancji 32 godzin, ujemne saldo i potrącenia, urlop 61,11 h oraz rozliczenie końcowe.
+
+**Status opisany w raporcie:** Publiczna chronologia opisuje zamknięcie zgłoszenia przez SNCU 20.01.2026 oraz zalecenie kontaktu z adwokatem przez Juridisch Loket 14.02.2026. Te informacje nie rozstrzygają rozliczenia; późniejszy końcowy wynik nie został tu potwierdzony.
+
+**Kluczowe dowody:** E-018: paski płacowe; E-019: widoki systemu pracowniczego; E-020–E-021: zgłoszenia i pomoc prawna; E-022–E-023: zakwaterowanie i pisma; E-024: mapa problemów.
+
+**Chronologia:** 24.06.2024: wiadomość o planowaniu → 25–29.07.2025: sporne zgody na urlop → 14.08.2025: wezwanie do zapłaty → 20.01 i 14.02.2026: odpowiedzi instytucji.
+
+**Do wyjaśnienia:** Jak rozliczono gwarantowane godziny, korekty, urlop i saldo końcowe? Jaka była podstawa potrąceń oraz zamknięcia zgłoszenia przez SNCU?
+
+[Chronologia](doc.html?file=TIMELINE.pl.md#worker-2-timeline) · [Indeks dowodów](doc.html?file=EVIDENCE_INDEX.pl.md#worker-2-index)
+
+---
+
 ## 1. Podsumowanie sprawy
 
 - umowa **NBBU Fase 4, będąca odpowiednikiem ABU Fase C**, zawarta na czas nieokreślony i przewidująca 32 godziny tygodniowo,
@@ -48,6 +84,9 @@ Kwoty przedstawiają kolejne wyniki roboczych kalkulacji, a nie prawomocnie usta
 ---
 
 ## 1B. Krótki status głównych wątków
+
+
+Tabela poniżej opisuje wcześniejszy etap — 14.07.2026 — i dotyczy Pracownicy 1. Późniejsze informacje, w tym publikacja decyzji i nota o odwołaniu, znajdują się w odrębnych sekcjach. Nie należy traktować daty edycji strony jako daty ustalenia aktualnego stanu postępowania.
 
 | Główny wątek | Status na 14.07.2026 | Krótkie wyjaśnienie |
 |---|---|---|
