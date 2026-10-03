@@ -7,7 +7,7 @@
 **Authors:** Worker 1 and Worker 2 – private data removed  
 **Nature:** informational and evidentiary document, not a judgment or legal advice  
 **Report version:** 2.0  
-**Page last modified:** 30 September 2026  **Sources last verified:** 11 July 2026  
+**Page last modified:** 3 October 2026  **Sources last verified:** 11 July 2026  
 **Publication status:** public, anonymized full-report version.
 
 ---
@@ -62,9 +62,9 @@ These figures are successive working calculations, not a final amount establishe
 
 ## 1C. Disciplinary decision of 29 June 2026
 
-The authors hold a decision of the Raad van Discipline in the ressort Den Haag dated 29 June 2026, reference **25-714/DH/DH**. According to the decision, the objection was upheld, complaint parts a) and d) were upheld, parts b) and c) were dismissed, and a reprimand was imposed on the lawyer.
+The decision of the Raad van Discipline in the ressort Den Haag dated 29 June 2026, reference **25-714/DH/DH**, ECLI **ECLI:NL:TADRSGR:2026:166**, was officially published on 31 July 2026 at [Tuchtrecht](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166). According to the published decision, the objection was upheld, complaint parts a) and d) were upheld, parts b) and c) were dismissed, and a reprimand was imposed on the lawyer.
 
-The full document is held privately. The public report contains only an anonymized description of the operative outcome and the case reference.
+The official publication is anonymized and publicly available; the authors' own source copy remains private. Availability of this decision does not by itself establish the outcome of any later appeal to the Hof van Discipline or finality.
 
 ---
 
@@ -72,7 +72,7 @@ The full document is held privately. The public report contains only an anonymiz
 
 | Publicly available | Held privately |
 |---|---|
-| anonymized full report, key findings, timeline and evidence-category index | complete court documents and the full disciplinary decision |
+| anonymized full report, key findings, timeline, evidence-category index and the official anonymized publication of the Raad van Discipline decision | complete court documents and the authors' own source copy of the disciplinary decision |
 | dates, working calculation amounts and descriptions of discrepancies | raw payslips, bank statements, invoices and complete correspondence |
 | safe descriptions of recordings and photographic material | original audio/video recordings, photographs and files containing personal data |
 | anonymized excerpts required for public verification | documents containing signatures, addresses, bank details, identifiers and other sensitive data |
