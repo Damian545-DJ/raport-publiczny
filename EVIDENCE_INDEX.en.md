@@ -175,12 +175,13 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Private-file SHA-256:** not published.
 
 ### E-014 — Raad van Discipline decision
-- **Public card and report:** [E-014 — excerpt / status](en/dowody.html#disciplinary-decision) · [report, 1C. Disciplinary decision](en/full-report.html#1c-disciplinary-decision-of-29-june-2026).
-- **Date:** 29 June 2026.
-- **Source:** Raad van Discipline in the ressort Den Haag, reference 25-714/DH/DH.
+- **Public card and report:** [E-014 — excerpt / status](en/dowody.html#disciplinary-decision) · [report, 1C. Disciplinary decision](en/full-report.html#1c-disciplinary-decision-of-29-june-2026) · [official Tuchtrecht publication — ECLI:NL:TADRSGR:2026:166](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166).
+- **Decision date:** 29 June 2026.
+- **Publication date:** 31 July 2026.
+- **Source:** Raad van Discipline in the ressort Den Haag, reference 25-714/DH/DH, ECLI:NL:TADRSGR:2026:166.
 - **Brief description:** decision concerning the first representative; according to the operative part, the objection was upheld, parts a) and d) were upheld, b) and c) were dismissed, and a reprimand was imposed.
-- **What it may support:** the outcome of the specific disciplinary proceedings and the scope of the complaint parts decided.
-- **Publication status:** PRIVATE — PUBLIC EXCERPT; a summary and short operative-part excerpt are public; the full decision remains private.
+- **What it may support:** the outcome before the Raad van Discipline and the scope of the complaint parts decided; publication itself does not establish the outcome of any later appeal or finality.
+- **Publication status:** OFFICIAL PUBLICATION AVAILABLE — the anonymized decision is publicly available on Tuchtrecht; the authors' own source copy remains private.
 - **Linked claims:** T-08, T-09.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original PDF.
 
