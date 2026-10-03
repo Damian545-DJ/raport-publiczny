@@ -218,11 +218,14 @@ Ten szerszy zakres jest potrzebny do weryfikacji salda i stanowiska o braku dals
 
 ---
 
-## 8. Zakwaterowanie i prywatność
+## 8. Zakwaterowanie, prywatność i nagrania rozmów w agencji
 
 - autorzy posiadają nagrania dotyczące wejść osób trzecich do zamieszkanego pomieszczenia,
-- wersja publiczna nie ujawnia dokładnego miejsca, twarzy, głosów ani danych osób prywatnych,
-- materiał może być przekazywany instytucjom lub pełnomocnikom w bezpiecznym trybie.
+- autorzy posiadają również nagrania rozmów przeprowadzonych w biurze agencji pracy, w tym rozmów z osobą pełniącą funkcję kierowniczą / przedstawicielką kierownictwa agencji,
+- nagrania dotyczą m.in. warunków pracy, rozliczeń, sytuacji pracowników oraz stanowiska przedstawianego przez agencję,
+- publiczna wersja raportu nie ujawnia dokładnego miejsca zakwaterowania, twarzy, głosów ani danych osób prywatnych,
+- pełne nagrania pozostają materiałem prywatnym i mogą zostać przekazane właściwym instytucjom, organom ścigania w Niderlandach, sądom lub pełnomocnikom w bezpiecznym trybie,
+- treść nagrań należy oceniać w całości i w kontekście pozostałych dokumentów; sam raport publiczny nie przesądza na ich podstawie odpowiedzialności żadnej osoby.
 
 ---
 
