@@ -218,11 +218,14 @@ Deze bredere gegevens zijn nodig om het eindsaldo en het standpunt dat geen verd
 
 ---
 
-## 8. Huisvesting en privacy
+## 8. Huisvesting, privacy en opnamen van gesprekken bij het uitzendbureau
 
 - de auteurs bezitten opnamen over binnentreden door derden in een bewoonde kamer,
-- de openbare versie onthult geen exacte locatie, gezichten, stemmen of gegevens van privépersonen,
-- het materiaal kan veilig aan instanties of gemachtigden worden verstrekt.
+- de auteurs bezitten ook opnamen van gesprekken die op het kantoor van het uitzendbureau zijn gevoerd, waaronder gesprekken met een persoon in een leidinggevende functie / een vertegenwoordiger van de leiding van het uitzendbureau,
+- de opnamen gaan onder meer over arbeidsvoorwaarden, afrekeningen, de situatie van werknemers en standpunten die door het uitzendbureau zijn ingenomen,
+- de openbare versie onthult geen exacte huisvestingslocatie, gezichten, stemmen of gegevens van privépersonen,
+- de volledige opnamen blijven privé-materiaal en kunnen in een beveiligde vorm worden verstrekt aan bevoegde instanties, Nederlandse opsporingsinstanties, gerechten of gemachtigden,
+- de inhoud van de opnamen moet in haar geheel en in samenhang met de overige documenten worden beoordeeld; het openbare rapport stelt op basis daarvan niet zelfstandig de verantwoordelijkheid van een persoon vast.
 
 ---
 
