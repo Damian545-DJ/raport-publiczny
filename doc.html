@@ -123,9 +123,8 @@
     }
 
     function documentLanguage(file) {
-      if (file.endsWith(".en.md")) return "en";
-      if (file.endsWith(".nl.md")) return "nl";
-      return "pl";
+      const match = file.match(/[._](pl|en|nl)\.md$/i);
+      return match ? match[1].toLowerCase() : "pl";
     }
 
     function toDocLinkIfMd(href) {

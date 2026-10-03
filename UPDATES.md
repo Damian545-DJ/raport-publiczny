@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-10-03 — język czytnika i kontrola przed publikacją
+
+PL
+- Czytnik rozpoznaje zarówno końcówki .en.md / .nl.md, jak i _EN.md / _NL.md. Przyciski, powrót na stronę, oznaczenie języka i informacja prawna odpowiadają językowi raportu.
+- Publikacja GitHub Pages wymaga powodzenia pełnego audytu. Audyt i publikacja pobierają ten sam identyfikator wersji; publikacja jest dozwolona tylko z głównej gałęzi.
+- Zmiana techniczna nie zmienia dowodów ani daty weryfikacji źródeł.
+
+EN
+- The viewer recognizes both .en.md / .nl.md and _EN.md / _NL.md filenames. Buttons, the home link, language declaration and legal notice match the report language.
+- GitHub Pages deployment requires a successful full audit. Audit and deployment check out the same commit; deployment is limited to the main branch.
+- This technical change does not alter evidence or source-verification dates.
+
+NL
+- De lezer herkent zowel .en.md / .nl.md als _EN.md / _NL.md. Knoppen, de startpaginalink, taalaanduiding en juridische informatie volgen de taal van het rapport.
+- Publicatie via GitHub Pages vereist een geslaagde volledige controle. Controle en publicatie gebruiken dezelfde commit; publicatie is beperkt tot de hoofdbranch.
+- Deze technische wijziging verandert geen bewijsstukken of broncontroledatums.
+
+---
+
 ## 2026-10-03 — uzupełnienie statusu odwołania i układu mobilnego
 
 PL

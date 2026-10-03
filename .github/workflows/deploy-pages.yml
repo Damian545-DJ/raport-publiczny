@@ -8,15 +8,22 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: github-pages
   cancel-in-progress: false
 
 jobs:
+  audit:
+    uses: ./.github/workflows/site-audit.yml
+
   validate-and-deploy:
+    needs: audit
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -24,8 +31,10 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      - name: Checkout current main
+      - name: Checkout audited commit
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
 
       - name: Validate required public files
         shell: bash
@@ -55,11 +64,11 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload current main as Pages artifact
+      - name: Upload audited commit as Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
-      - name: Deploy current main to GitHub Pages
+      - name: Deploy audited commit to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
