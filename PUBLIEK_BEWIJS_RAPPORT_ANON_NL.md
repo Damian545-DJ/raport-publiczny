@@ -7,7 +7,7 @@
 **Auteurs:** Werkneemster 1 en Werknemer 2 – privégegevens verwijderd  
 **Karakter:** informatief en bewijsgericht document, geen vonnis en geen juridisch advies  
 **Rapportversie:** 2.0  
-**Pagina laatst gewijzigd:** 30 september 2026  **Bronnen laatst geverifieerd:** 11 juli 2026  
+**Pagina laatst gewijzigd:** 3 oktober 2026  **Bronnen laatst geverifieerd:** 11 juli 2026  
 **Publicatiestatus:** publieke, geanonimiseerde versie van het volledige rapport.
 
 ---
@@ -62,9 +62,9 @@ Deze bedragen zijn opeenvolgende werkberekeningen en geen door een bindende besl
 
 ## 1C. Tuchtrechtelijke beslissing van 29 juni 2026
 
-De auteurs beschikken over een beslissing van de Raad van Discipline in het ressort Den Haag van 29 juni 2026, zaaknummer **25-714/DH/DH**. Volgens de beslissing is het verzet gegrond verklaard, zijn klachtonderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is aan de advocaat een berisping opgelegd.
+De beslissing van de Raad van Discipline in het ressort Den Haag van 29 juni 2026, zaaknummer **25-714/DH/DH**, ECLI **ECLI:NL:TADRSGR:2026:166**, is op 31 juli 2026 officieel gepubliceerd via [Tuchtrecht](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166). Volgens de gepubliceerde beslissing is het verzet gegrond verklaard, zijn klachtonderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is aan de advocaat een berisping opgelegd.
 
-Het volledige document wordt privé bewaard. Het publieke rapport bevat alleen een geanonimiseerde beschrijving van het dictum en het zaaknummer.
+De officiële publicatie is geanonimiseerd en openbaar beschikbaar; de eigen bronkopie van de auteurs blijft privé. De beschikbaarheid van deze beslissing bevestigt op zichzelf niet de uitkomst van een later hoger beroep bij het Hof van Discipline of de onherroepelijkheid.
 
 ---
 
@@ -72,7 +72,7 @@ Het volledige document wordt privé bewaard. Het publieke rapport bevat alleen e
 
 | Publiek beschikbaar | Privé bewaard |
 |---|---|
-| geanonimiseerd volledig rapport, belangrijkste bevindingen, tijdlijn en index van bewijscategorieën | volledige gerechtelijke stukken en de volledige tuchtrechtelijke beslissing |
+| geanonimiseerd volledig rapport, belangrijkste bevindingen, tijdlijn, index van bewijscategorieën en de officiële geanonimiseerde publicatie van de beslissing van de Raad van Discipline | volledige gerechtelijke stukken en de eigen bronkopie van de tuchtrechtelijke beslissing |
 | datums, bedragen van werkberekeningen en beschrijvingen van verschillen | ruwe loonstroken, bankafschriften, facturen en volledige correspondentie |
 | veilige beschrijvingen van opnamen en fotomateriaal | originele audio-/video-opnamen, foto's en bestanden met persoonsgegevens |
 | geanonimiseerde fragmenten die nodig zijn voor publieke verificatie | documenten met handtekeningen, adressen, bankgegevens, identificatoren en andere gevoelige gegevens |
