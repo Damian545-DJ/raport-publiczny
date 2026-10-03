@@ -1,5 +1,21 @@
 # Updates
 
+## 2026-10-03 — uzupełnienie statusu odwołania i układu mobilnego
+
+PL
+- Przy E-014, w ustaleniach i pełnych raportach PL/EN/NL dodano informację o odwołaniu z datą 03.10.2026 i przypisaniem do autorów. Aktualny wynik odwołania nie został niezależnie potwierdzony; data tej noty nie oznacza ponownej weryfikacji całych akt.
+- Na małych ekranach karty wyboru języka poprzedzają wprowadzenie. Nagłówek mieści się przy szerokości 320 px, a przyciski PL/EN/NL mają co najmniej 44 × 44 px.
+
+EN
+- Added appeal information dated 3 October 2026 and attributed to the authors beside E-014, in findings and full reports in PL/EN/NL. The current appeal outcome has not been independently confirmed; this note does not represent a new review of the complete case file.
+- On small screens, language cards precede the introduction. The header fits a 320 px viewport, and PL/EN/NL buttons are at least 44 × 44 px.
+
+NL
+- Bij E-014, in de bevindingen en volledige rapporten in PL/EN/NL informatie over hoger beroep toegevoegd, gedateerd 3 oktober 2026 en toegeschreven aan de auteurs. De actuele beroepsuitkomst is niet onafhankelijk bevestigd; deze notitie is geen nieuwe controle van het volledige dossier.
+- Op kleine schermen staan de taalkaarten vóór de inleiding. De kop past binnen een schermbreedte van 320 px en de PL/EN/NL-knoppen zijn ten minste 44 × 44 px.
+
+---
+
 ## 2026-10-03 — publiczna decyzja dyscyplinarna i języki mobilne
 
 PL

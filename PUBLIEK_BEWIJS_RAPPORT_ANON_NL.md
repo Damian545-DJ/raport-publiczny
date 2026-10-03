@@ -66,6 +66,8 @@ De beslissing van de Raad van Discipline in het ressort Den Haag van 29 juni 202
 
 De officiële publicatie is geanonimiseerd en openbaar beschikbaar; de eigen bronkopie van de auteurs blijft privé. De beschikbaarheid van deze beslissing bevestigt op zichzelf niet de uitkomst van een later hoger beroep bij het Hof van Discipline of de onherroepelijkheid.
 
+**Informatie over hoger beroep — 3 oktober 2026:** Volgens de auteurs heeft de eerste gemachtigde hoger beroep ingesteld bij het Hof van Discipline. De actuele uitkomst van het hoger beroep is niet onafhankelijk bevestigd. De publicatie van de beslissing bevestigt op zichzelf niet dat deze onherroepelijk is.
+
 ---
 
 ## 1D. Publiek document en privé bewaarde materialen

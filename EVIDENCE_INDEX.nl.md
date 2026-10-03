@@ -4,7 +4,7 @@
 
 **Catalogusversie:** 2.0  
 **Status:** publieke geanonimiseerde versie  
-**Laatst gewijzigd:** 2026-07-14  
+**Laatst gewijzigd:** 2026-10-03  
 **Bronnen laatst geverifieerd:** 2026-07-11
 
 Deze index identificeert concrete materialen, datums, bronnen, mogelijke bewijsbetekenis en publicatiestatus. Zij vervangt geen beoordeling van authenticiteit, volledigheid of bewijswaarde door een rechter, instantie of onafhankelijke deskundige.
@@ -184,6 +184,8 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **Publicatiestatus:** OFFICIËLE OPENBARE PUBLICATIE — de geanonimiseerde beslissing is openbaar beschikbaar via Tuchtrecht; de eigen bronkopie van de auteurs blijft privé.
 - **Gekoppelde stellingen:** T-08, T-09.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van de originele PDF.
+- **Informatie over hoger beroep — 3 oktober 2026:** Volgens de auteurs heeft de eerste gemachtigde hoger beroep ingesteld bij het Hof van Discipline. De actuele uitkomst van het hoger beroep is niet onafhankelijk bevestigd. De publicatie van de beslissing bevestigt op zichzelf niet dat deze onherroepelijk is.
+
 
 ## Opnamen en institutionele route
 

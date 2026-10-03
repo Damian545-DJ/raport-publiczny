@@ -66,6 +66,8 @@ The decision of the Raad van Discipline in the ressort Den Haag dated 29 June 20
 
 The official publication is anonymized and publicly available; the authors' own source copy remains private. Availability of this decision does not by itself establish the outcome of any later appeal to the Hof van Discipline or finality.
 
+**Appeal information — 3 October 2026:** According to the authors, the first representative lodged an appeal with the Hof van Discipline. The current outcome of the appeal has not been independently confirmed. Publication of the decision does not itself establish that it is final.
+
 ---
 
 ## 1D. Public document and privately held materials

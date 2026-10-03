@@ -142,6 +142,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible {
   box-shadow: var(--shadow);
 }
 .landing-hero { grid-template-columns: minmax(0, 1.15fr) minmax(340px, .85fr); }
+.landing-intro { grid-column: 1; grid-row: 1; }
+.landing-hero > .case-panel { grid-column: 2; grid-row: 1; }
 
 .eyebrow {
   margin: 0 0 13px;
@@ -303,6 +305,7 @@ h1 {
 
 @media (max-width: 980px) {
   .hero, .landing-hero { grid-template-columns: 1fr; }
+  .landing-intro, .landing-hero > .case-panel { grid-column: auto; grid-row: auto; }
   .fact-grid { grid-template-columns: repeat(2, 1fr); }
   .fact-card:last-child { grid-column: 1 / -1; min-height: auto; }
   .timeline-strip { grid-template-columns: repeat(3, 1fr); }
@@ -313,15 +316,10 @@ h1 {
   .site-shell { width: min(100% - 20px, 1180px); padding-top: 10px; }
   .site-header { position: relative; top: 0; min-height: 56px; border-radius: 18px; }
   .desktop-nav { display: none; }
-  .site-header > .lang-switch {
-    display: inline-flex;
-    margin-left: auto;
-    flex: 0 0 auto;
-  }
-  .site-header > .lang-switch a {
-    min-width: 29px;
-    padding: 4px 5px;
-  }
+  .site-header { flex-wrap: wrap; gap: 10px; }
+  .site-header > .brand { flex: 1; }
+  .site-header > .lang-switch { order: 3; width: 100%; justify-content: center; }
+  .site-header > .lang-switch a { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }
   .mobile-menu { display: block; margin-left: 0; }
   .hero { padding: 24px 19px; border-radius: 22px; }
   h1 { font-size: clamp(2rem, 11vw, 3.15rem); }

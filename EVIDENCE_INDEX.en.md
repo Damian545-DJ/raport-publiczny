@@ -4,7 +4,7 @@
 
 **Catalogue version:** 2.0  
 **Status:** public anonymized version  
-**Last modified:** 2026-07-14  
+**Last modified:** 2026-10-03  
 **Sources last verified:** 2026-07-11
 
 This index identifies specific materials, dates, sources, possible evidentiary relevance and publication status. It does not replace an assessment of authenticity, completeness or evidentiary weight by a court, authority or independent specialist.
@@ -184,6 +184,8 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 - **Publication status:** OFFICIAL PUBLICATION AVAILABLE — the anonymized decision is publicly available on Tuchtrecht; the authors' own source copy remains private.
 - **Linked claims:** T-08, T-09.
 - **Private-file SHA-256:** not published; to be recorded after verification of the original PDF.
+- **Appeal information — 3 October 2026:** According to the authors, the first representative lodged an appeal with the Hof van Discipline. The current outcome of the appeal has not been independently confirmed. Publication of the decision does not itself establish that it is final.
+
 
 ## Recordings and institutional route
 

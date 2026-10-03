@@ -66,6 +66,8 @@ Decyzja Raad van Discipline w ressort Den Haag z 29.06.2026 r., sygn. **25-714/D
 
 Oficjalna publikacja jest zanonimizowana i publicznie dostępna; własna kopia źródłowa autorów pozostaje prywatna. Sama dostępność tej decyzji nie potwierdza wyniku późniejszego odwołania do Hof van Discipline ani prawomocności.
 
+**Informacja o odwołaniu — 03.10.2026:** Według informacji autorów pierwszy pełnomocnik wniósł odwołanie do Hof van Discipline. Aktualny wynik odwołania nie został niezależnie potwierdzony. Sama publikacja decyzji nie potwierdza jej prawomocności.
+
 ---
 
 ## 1D. Dokument publiczny a materiały przechowywane prywatnie

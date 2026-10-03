@@ -4,7 +4,7 @@
 
 **Wersja katalogu:** 2.0  
 **Status:** publiczna wersja zanonimizowana  
-**Ostatnia zmiana:** 2026-07-14  
+**Ostatnia zmiana:** 2026-10-03  
 **Ostatnia weryfikacja źródeł:** 2026-07-11
 
 Ten indeks identyfikuje konkretne materiały, ich daty, źródła, możliwe znaczenie i status publikacji. Nie zastępuje oceny autentyczności, kompletności ani mocy dowodowej przez sąd, organ lub niezależnego specjalistę.
@@ -184,6 +184,8 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **Status publikacji:** PUBLICZNA PUBLIKACJA URZĘDOWA — zanonimizowana treść decyzji jest dostępna w Tuchtrecht; własna kopia źródłowa autorów pozostaje prywatna.
 - **Powiązane twierdzenia:** T-08, T-09.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po sprawdzeniu oryginalnego PDF.
+- **Informacja o odwołaniu — 03.10.2026:** Według informacji autorów pierwszy pełnomocnik wniósł odwołanie do Hof van Discipline. Aktualny wynik odwołania nie został niezależnie potwierdzony. Sama publikacja decyzji nie potwierdza jej prawomocności.
+
 
 ## Nagrania i działania instytucjonalne
 
