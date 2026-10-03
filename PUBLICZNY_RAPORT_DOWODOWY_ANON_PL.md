@@ -7,7 +7,7 @@
 **Autorzy:** Pracownica 1 i Pracownik 2 – dane prywatne usunięte  
 **Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna  
 **Wersja raportu:** 2.0  
-**Ostatnia zmiana strony:** 2026-09-30  **Ostatnia weryfikacja źródeł:** 2026-07-11  
+**Ostatnia zmiana strony:** 2026-10-03  **Ostatnia weryfikacja źródeł:** 2026-07-11  
 **Status publikacji:** publiczna, zanonimizowana wersja pełnego raportu.
 
 ---
@@ -62,9 +62,9 @@ Kwoty przedstawiają kolejne wyniki roboczych kalkulacji, a nie prawomocnie usta
 
 ## 1C. Decyzja dyscyplinarna z 29 czerwca 2026 r.
 
-Autorzy posiadają decyzję Raad van Discipline w ressort Den Haag z 29.06.2026 r., sygn. **25-714/DH/DH**. Według jej treści uwzględniono sprzeciw, zarzuty a) i d) uznano za zasadne, zarzuty b) i c) za niezasadne, a wobec adwokata zastosowano naganę.
+Decyzja Raad van Discipline w ressort Den Haag z 29.06.2026 r., sygn. **25-714/DH/DH**, ECLI **ECLI:NL:TADRSGR:2026:166**, została oficjalnie opublikowana 31.07.2026 r. w serwisie [Tuchtrecht](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166). Według opublikowanej decyzji uwzględniono sprzeciw, zarzuty a) i d) uznano za zasadne, zarzuty b) i c) za niezasadne, a wobec adwokata zastosowano naganę.
 
-Pełny dokument jest przechowywany prywatnie. W raporcie publicznym publikowany jest wyłącznie zanonimizowany opis rozstrzygnięcia i sygnatura.
+Oficjalna publikacja jest zanonimizowana i publicznie dostępna; własna kopia źródłowa autorów pozostaje prywatna. Sama dostępność tej decyzji nie potwierdza wyniku późniejszego odwołania do Hof van Discipline ani prawomocności.
 
 ---
 
@@ -72,7 +72,7 @@ Pełny dokument jest przechowywany prywatnie. W raporcie publicznym publikowany 
 
 | Publicznie dostępne | Przechowywane prywatnie |
 |---|---|
-| zanonimizowany pełny raport, krótkie ustalenia, oś czasu i indeks kategorii dowodów | pełne dokumenty sądowe i pełna decyzja dyscyplinarna |
+| zanonimizowany pełny raport, krótkie ustalenia, oś czasu, indeks kategorii dowodów oraz oficjalna zanonimizowana publikacja decyzji Raad van Discipline | pełne dokumenty sądowe i własna kopia źródłowa decyzji dyscyplinarnej |
 | daty, kwoty roboczych wyliczeń i opisy rozbieżności | surowe loonstrooki, wyciągi bankowe, faktury i kompletna korespondencja |
 | bezpieczne opisy nagrań i materiałów zdjęciowych | oryginalne nagrania audio/wideo, zdjęcia i pliki zawierające dane osobowe |
 | zanonimizowane fragmenty potrzebne do publicznej weryfikacji | dokumenty z podpisami, adresami, numerami kont, identyfikatorami i innymi danymi wrażliwymi |
