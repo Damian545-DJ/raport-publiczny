@@ -56,6 +56,16 @@ A separate dispute over scheduling under a 32-hour guarantee, negative balances 
 
 [Chronology](doc.html?file=TIMELINE.en.md#worker-2-timeline) · [Evidence index](doc.html?file=EVIDENCE_INDEX.en.md#worker-2-index)
 
+## Shared issue in both cases: 32 contractual hours versus “1:00” on payslips
+
+The same type of discrepancy appears in both separate case files: the Fase 4 agreement records **32 hours per week**, while some payslips contain the field **“Contracturen: 1:00 uur per week”**. The “1:00” field does not by itself prove that only one hour was paid, but it requires a source-level explanation of payroll data, guaranteed-hour accounting, corrections, wages and deductions.
+
+For Worker 2, a working review described in the evidence material covered **97 available payslip files**: “1:00” appeared in 89 files and “32:00” in 8. These are file counts, not separate weeks, because some files are different versions of the same accounting period.
+
+**EU-law context — Your Europe Advice no. 471776 of 4 June 2026:** the advice was independent and non-binding and did not constitute a finding of infringement. It nevertheless indicated that the discrepancy between 32 hours in the contract and one hour on a payslip raises a question about clear and consistent information on essential employment conditions under **Article 4 of Directive (EU) 2019/1152**; the accounting of hours, wages and deductions may require analysis under **Article 5(1) of Directive 2008/104/EC**; and **Article 45 TFEU** may also be relevant where practices affecting migrant workers are less transparent or make recovery of wages more difficult.
+
+This is not a claim that Your Europe Advice issued a binding decision finding a breach. The significance of the advice is that it connected this concrete, recurring discrepancy with EU-law provisions requiring further analysis.
+
 ---
 
 ## 1. Case summary
