@@ -223,8 +223,9 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 ### E-018 — Zbiorczy pakiet loonstrooków Pracownika 2
 - **Data / okres:** 2022–2025.
 - **Źródło:** paski płacowe wydane przez pracodawcę / dostępne w systemie pracowniczym.
-- **Krótki opis:** dokumenty zawierające godziny, kwoty brutto i netto, potrącenia, dodatki i salda.
-- **Co może potwierdzać:** sposób rozliczania Pracownika 2 i występowanie konkretnych pozycji płacowych.
+- **Krótki opis:** dokumenty zawierające godziny, kwoty brutto i netto, potrącenia, dodatki i salda; w roboczym przeglądzie 97 dostępnych plików oznaczenie „Contracturen: 1:00 uur per week” występowało w 89 plikach, a „32:00” w 8.
+- **Zastrzeżenie do zliczenia:** liczone są pliki, nie odrębne tygodnie; część plików to różne wersje rozliczenia tego samego okresu.
+- **Co może potwierdzać:** sposób rozliczania Pracownika 2, powtarzalność pola „1:00” mimo umowy na 32 godziny oraz występowanie konkretnych pozycji płacowych. Samo pole „1:00” nie dowodzi wypłaty wyłącznie za jedną godzinę.
 - **Status publikacji:** PRYWATNY; publicznie tylko zagregowana tabela po anonimizacji.
 - **Powiązane twierdzenia:** T-12.
 - **SHA-256 prywatnego pliku:** wymagany manifest dla każdego paska; nieopublikowany.
