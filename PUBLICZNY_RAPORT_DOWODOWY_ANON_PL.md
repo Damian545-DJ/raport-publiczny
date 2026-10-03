@@ -56,6 +56,16 @@ Osobny spór o planowanie przy gwarancji 32 godzin, ujemne saldo i potrącenia, 
 
 [Chronologia](doc.html?file=TIMELINE.pl.md#worker-2-timeline) · [Indeks dowodów](doc.html?file=EVIDENCE_INDEX.pl.md#worker-2-index)
 
+## Wspólny problem obu spraw: 32 godziny w umowie a „1:00” na paskach
+
+W obu odrębnych dossier występuje ten sam typ rozbieżności: umowa Fase 4 wskazuje **32 godziny tygodniowo**, podczas gdy na części pasków płacowych pojawia się pole **„Contracturen: 1:00 uur per week”**. Sam zapis „1:00” nie dowodzi, że wypłacano wynagrodzenie wyłącznie za jedną godzinę, ale wymaga źródłowego wyjaśnienia danych płacowych, sposobu rozliczania godzin gwarantowanych, korekt, wynagrodzenia i potrąceń.
+
+W odniesieniu do Pracownika 2 roboczy przegląd opisany w materiale dowodowym obejmował **97 dostępnych plików z paskami**: oznaczenie „1:00” występowało w 89 plikach, a „32:00” w 8. Liczone są pliki, nie odrębne tygodnie, ponieważ część plików stanowi różne wersje rozliczenia tego samego okresu.
+
+**Kontekst prawa UE — Your Europe Advice nr 471776 z 04.06.2026:** porada była niezależna i niewiążąca i nie stanowiła stwierdzenia naruszenia prawa. Wskazała jednak, że rozbieżność 32 h w umowie i 1 h na pasku rodzi wątpliwość co do jasności i spójności informacji o podstawowych warunkach zatrudnienia w świetle **art. 4 dyrektywy (UE) 2019/1152**; sposób rozliczania godzin, wynagrodzeń i potrąceń może wymagać analizy pod kątem **art. 5 ust. 1 dyrektywy 2008/104/WE**; wskazano też możliwe znaczenie **art. 45 TFUE** w odniesieniu do przejrzystości i dochodzenia wynagrodzenia przez pracowników migrujących.
+
+To nie jest twierdzenie, że Your Europe Advice wydało wiążącą decyzję o naruszeniu. Znaczenie opinii polega na tym, że konkretną, powtarzającą się rozbieżność w obu sprawach powiązano z przepisami prawa UE wymagającymi dalszej analizy.
+
 ---
 
 ## 1. Podsumowanie sprawy
