@@ -56,6 +56,16 @@ Een afzonderlijk geschil over planning bij een garantie van 32 uur, negatieve sa
 
 [Chronologie](doc.html?file=TIMELINE.nl.md#worker-2-timeline) · [Bewijsindex](doc.html?file=EVIDENCE_INDEX.nl.md#worker-2-index)
 
+## Gemeenschappelijk probleem in beide zaken: 32 contracturen tegenover “1:00” op loonstroken
+
+In beide afzonderlijke dossiers komt hetzelfde type afwijking voor: de Fase 4-overeenkomst vermeldt **32 uur per week**, terwijl op een deel van de loonstroken het veld **“Contracturen: 1:00 uur per week”** staat. Het veld “1:00” bewijst op zichzelf niet dat slechts één uur is uitbetaald, maar vereist een bronmatige uitleg van de loonadministratie, de verwerking van gegarandeerde uren, correcties, loon en inhoudingen.
+
+Voor Werknemer 2 omvatte een in het bewijsmateriaal beschreven werkcontrole **97 beschikbare loonstrookbestanden**: “1:00” kwam voor in 89 bestanden en “32:00” in 8. Dit zijn aantallen bestanden, niet afzonderlijke weken, omdat een deel van de bestanden verschillende versies van dezelfde afrekenperiode betreft.
+
+**EU-rechtelijke context — Your Europe Advice nr. 471776 van 4 juni 2026:** het advies was onafhankelijk en niet-bindend en vormde geen vaststelling van een schending. Het wees er wel op dat de afwijking tussen 32 uur in de overeenkomst en één uur op een loonstrook vragen oproept over duidelijke en consistente informatie over essentiële arbeidsvoorwaarden in het licht van **artikel 4 van Richtlijn (EU) 2019/1152**; de verwerking van uren, loon en inhoudingen kan nadere analyse vereisen op grond van **artikel 5, lid 1, van Richtlijn 2008/104/EG**; tevens kan **artikel 45 VWEU** relevant zijn wanneer praktijken voor migrerende werknemers minder transparant zijn of het innen van loon bemoeilijken.
+
+Dit is geen stelling dat Your Europe Advice een bindende beslissing over een schending heeft genomen. Het belang van het advies is dat deze concrete, terugkerende afwijking in verband is gebracht met bepalingen van EU-recht die nadere analyse vereisen.
+
 ---
 
 ## 1. Samenvatting van de zaak
