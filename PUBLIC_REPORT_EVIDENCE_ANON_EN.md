@@ -218,11 +218,14 @@ This broader material is necessary to verify the final balance and a no-further-
 
 ---
 
-## 8. Accommodation and privacy
+## 8. Accommodation, privacy and recordings of conversations at the agency
 
 - the authors hold recordings concerning third-party entry into an occupied room,
-- the public version does not disclose the exact location, faces, voices or private-person data,
-- the material can be supplied securely to institutions or representatives.
+- the authors also hold recordings of conversations conducted at the employment agency's office, including conversations with a person in a management role / a representative of the agency's management,
+- the recordings concern, among other things, working conditions, settlements, the workers' situation and positions presented by the agency,
+- the public version does not disclose the exact accommodation location, faces, voices or private-person data,
+- the full recordings remain private material and may be provided securely to competent institutions, law-enforcement authorities in the Netherlands, courts or legal representatives,
+- the recordings should be assessed in full and in the context of the remaining documents; the public report does not by itself determine any person's responsibility on the basis of those recordings.
 
 ---
 
