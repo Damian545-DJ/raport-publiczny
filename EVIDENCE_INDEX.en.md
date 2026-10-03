@@ -223,8 +223,9 @@ A SHA-256 value may show that a specific file has not changed since the hash was
 ### E-018 — Worker 2 payslip archive
 - **Date / period:** 2022–2025.
 - **Source:** payslips issued by the employer / available in the employee system.
-- **Brief description:** records containing hours, gross and net amounts, deductions, allowances and balances.
-- **What it may support:** how Worker 2 was paid and the occurrence of particular payroll items.
+- **Brief description:** records containing hours, gross and net amounts, deductions, allowances and balances; in a working review of 97 available files, “Contracturen: 1:00 uur per week” appeared in 89 files and “32:00” in 8.
+- **Counting caveat:** files are counted, not separate weeks; some files are different versions of the same accounting period.
+- **What it may support:** how Worker 2 was paid, the recurrence of the “1:00” field despite a 32-hour agreement, and the occurrence of particular payroll items. The “1:00” field alone does not prove payment for only one hour.
 - **Publication status:** PRIVATE; only an anonymized aggregate table may be public.
 - **Linked claims:** T-12.
 - **Private-file SHA-256:** a manifest is required for each payslip; not public.
