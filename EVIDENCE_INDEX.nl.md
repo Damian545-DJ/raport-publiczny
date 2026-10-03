@@ -223,8 +223,9 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 ### E-018 — Loonstrokenarchief Werknemer 2
 - **Datum / periode:** 2022–2025.
 - **Bron:** loonstroken uitgegeven door de werkgever / beschikbaar in het werknemerssysteem.
-- **Korte beschrijving:** documenten met uren, bruto- en nettobedragen, inhoudingen, toeslagen en saldi.
-- **Wat het kan ondersteunen:** hoe Werknemer 2 is afgerekend en welke loonposten voorkwamen.
+- **Korte beschrijving:** documenten met uren, bruto- en nettobedragen, inhoudingen, toeslagen en saldi; in een werkcontrole van 97 beschikbare bestanden kwam “Contracturen: 1:00 uur per week” voor in 89 bestanden en “32:00” in 8.
+- **Voorbehoud bij de telling:** bestanden worden geteld, niet afzonderlijke weken; een deel van de bestanden betreft verschillende versies van dezelfde afrekenperiode.
+- **Wat het kan ondersteunen:** hoe Werknemer 2 is afgerekend, het terugkerende veld “1:00” ondanks een overeenkomst van 32 uur en welke loonposten voorkwamen. Het veld “1:00” bewijst op zichzelf niet dat slechts één uur is uitbetaald.
 - **Publicatiestatus:** PRIVÉ; alleen een geanonimiseerde totaaltabel mag publiek zijn.
 - **Gekoppelde stellingen:** T-12.
 - **SHA-256 privébestand:** voor iedere loonstrook is een manifest vereist; niet publiek.
