@@ -175,12 +175,13 @@ Suma SHA-256 może potwierdzać, że konkretny plik nie zmienił się od chwili 
 - **SHA-256 prywatnego pliku:** nieopublikowana.
 
 ### E-014 — Decyzja Raad van Discipline
-- **Karta publiczna i raport:** [E-014 — fragment / status](pl/dowody.html#disciplinary-decision) · [raport, 1C. Decyzja dyscyplinarna](pl/full-report.html#1c-decyzja-dyscyplinarna-z-29-czerwca-2026-r).
-- **Data:** 2026-06-29.
-- **Źródło:** Raad van Discipline in het ressort Den Haag, sygn. 25-714/DH/DH.
+- **Karta publiczna i raport:** [E-014 — fragment / status](pl/dowody.html#disciplinary-decision) · [raport, 1C. Decyzja dyscyplinarna](pl/full-report.html#1c-decyzja-dyscyplinarna-z-29-czerwca-2026-r) · [oficjalna publikacja Tuchtrecht — ECLI:NL:TADRSGR:2026:166](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166).
+- **Data decyzji:** 2026-06-29.
+- **Data publikacji:** 2026-07-31.
+- **Źródło:** Raad van Discipline in het ressort Den Haag, sygn. 25-714/DH/DH, ECLI:NL:TADRSGR:2026:166.
 - **Krótki opis:** decyzja dotycząca pierwszego pełnomocnika; według sentencji sprzeciw uwzględniono, zarzuty a) i d) uznano za zasadne, b) i c) za niezasadne, zastosowano naganę.
-- **Co może potwierdzać:** wynik konkretnego postępowania dyscyplinarnego i zakres rozstrzygniętych zarzutów.
-- **Status publikacji:** PRYWATNY — FRAGMENT PUBLICZNY; publiczny jest opis i krótki odpis sentencji; pełna decyzja pozostaje prywatna.
+- **Co może potwierdzać:** wynik postępowania przed Raad van Discipline i zakres rozstrzygniętych zarzutów; sama publikacja nie potwierdza wyniku późniejszego odwołania ani prawomocności.
+- **Status publikacji:** PUBLICZNA PUBLIKACJA URZĘDOWA — zanonimizowana treść decyzji jest dostępna w Tuchtrecht; własna kopia źródłowa autorów pozostaje prywatna.
 - **Powiązane twierdzenia:** T-08, T-09.
 - **SHA-256 prywatnego pliku:** nieopublikowana; do wpisania po sprawdzeniu oryginalnego PDF.
 

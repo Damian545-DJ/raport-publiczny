@@ -175,12 +175,13 @@ Een SHA-256-waarde kan aantonen dat een specifiek bestand sinds het berekenen va
 - **SHA-256 privébestand:** niet gepubliceerd.
 
 ### E-014 — Beslissing Raad van Discipline
-- **Publieke kaart en rapport:** [E-014 — fragment / status](nl/dowody.html#disciplinary-decision) · [rapport, 1C. Tuchtbeslissing](nl/full-report.html#1c-tuchtrechtelijke-beslissing-van-29-juni-2026).
-- **Datum:** 29 juni 2026.
-- **Bron:** Raad van Discipline in het ressort Den Haag, zaaknummer 25-714/DH/DH.
+- **Publieke kaart en rapport:** [E-014 — fragment / status](nl/dowody.html#disciplinary-decision) · [rapport, 1C. Tuchtbeslissing](nl/full-report.html#1c-tuchtrechtelijke-beslissing-van-29-juni-2026) · [officiële publicatie Tuchtrecht — ECLI:NL:TADRSGR:2026:166](https://tuchtrecht.overheid.nl/ECLI:NL:TADRSGR:2026:166).
+- **Datum beslissing:** 29 juni 2026.
+- **Datum publicatie:** 31 juli 2026.
+- **Bron:** Raad van Discipline in het ressort Den Haag, zaaknummer 25-714/DH/DH, ECLI:NL:TADRSGR:2026:166.
 - **Korte beschrijving:** beslissing betreffende de eerste gemachtigde; volgens het dictum is het verzet gegrond, zijn onderdelen a) en d) gegrond en b) en c) ongegrond verklaard en is een berisping opgelegd.
-- **Wat het kan ondersteunen:** de uitkomst van de specifieke tuchtprocedure en de omvang van de besliste klachtonderdelen.
-- **Publicatiestatus:** PRIVÉ — PUBLIEK FRAGMENT; een beschrijving en kort dictumfragment zijn publiek; de volledige beslissing blijft privé.
+- **Wat het kan ondersteunen:** de uitkomst bij de Raad van Discipline en de omvang van de besliste klachtonderdelen; de publicatie op zichzelf bevestigt niet de uitkomst van een later hoger beroep of de onherroepelijkheid.
+- **Publicatiestatus:** OFFICIËLE OPENBARE PUBLICATIE — de geanonimiseerde beslissing is openbaar beschikbaar via Tuchtrecht; de eigen bronkopie van de auteurs blijft privé.
 - **Gekoppelde stellingen:** T-08, T-09.
 - **SHA-256 privébestand:** niet gepubliceerd; op te nemen na verificatie van de originele PDF.
 

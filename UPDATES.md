@@ -1,5 +1,27 @@
 # Updates
 
+## 2026-10-03 — publiczna decyzja dyscyplinarna i języki mobilne
+
+PL
+- Dodano bezpośredni link do oficjalnej, zanonimizowanej publikacji decyzji Raad van Discipline: ECLI:NL:TADRSGR:2026:166, sygn. 25-714/DH/DH, decyzja z 29.06.2026, publikacja z 31.07.2026.
+- Rozdzielono publiczną publikację urzędową od prywatnej kopii źródłowej autorów oraz zaznaczono, że sama publikacja nie potwierdza wyniku późniejszego odwołania ani prawomocności.
+- Poprawiono mobilny nagłówek tak, aby przełącznik PL / EN / NL pozostawał widoczny obok menu na małych ekranach.
+- Zaktualizowano datę modyfikacji zmienionych stron do 03.10.2026.
+
+EN
+- Added a direct link to the official anonymized Raad van Discipline publication: ECLI:NL:TADRSGR:2026:166, reference 25-714/DH/DH, decision dated 29 June 2026 and published 31 July 2026.
+- Distinguished the official public publication from the authors' private source copy and clarified that publication itself does not establish the result of any later appeal or finality.
+- Fixed the mobile header so the PL / EN / NL switch remains visible next to the menu on small screens.
+- Updated the modification date of the changed pages to 3 October 2026.
+
+NL
+- Een directe link toegevoegd naar de officiële geanonimiseerde publicatie van de Raad van Discipline: ECLI:NL:TADRSGR:2026:166, zaaknummer 25-714/DH/DH, beslissing van 29 juni 2026, gepubliceerd op 31 juli 2026.
+- De officiële openbare publicatie onderscheiden van de privé-bronkopie van de auteurs en verduidelijkt dat de publicatie op zichzelf niet de uitkomst van een later hoger beroep of de onherroepelijkheid bevestigt.
+- De mobiele header aangepast zodat PL / EN / NL op kleine schermen zichtbaar blijft naast het menu.
+- De wijzigingsdatum van de aangepaste pagina's bijgewerkt naar 3 oktober 2026.
+
+---
+
 ## 2026-10-02 - anonimizacja indeksów i kontaktu
 
 PL
