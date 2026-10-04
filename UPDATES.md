@@ -1,5 +1,21 @@
 # Updates
 
+## 2026-10-04 — większe napisy na dotychczasowej miniaturce
+
+PL
+- Dopracowano oryginalną granatową miniaturkę: zmniejszono ilustrację akt z lupą i powiększono napisy. Zachowano wszystkie dotychczasowe teksty, oznaczenia, logotypy instytucji, adres strony oraz wagę sądową.
+- Podłączono nowy plik podglądu. Treść strony, tytuły, opisy linków, dowody i daty weryfikacji źródeł pozostają bez zmian.
+
+EN
+- Refined the original navy thumbnail by reducing the files-and-magnifier illustration and enlarging the lettering. Preserved all existing text, markings, institutional logos, the website address and the scales of justice.
+- Connected the new preview file. Page content, link titles and descriptions, evidence and source-verification dates are unchanged.
+
+NL
+- De oorspronkelijke donkerblauwe miniatuur verfijnd door de dossiers met vergrootglas te verkleinen en de tekst te vergroten. Alle bestaande teksten, aanduidingen, logo's van instanties, het webadres en de weegschaal behouden.
+- Het nieuwe afbeeldingsbestand gekoppeld. Pagina-inhoud, linktitels en beschrijvingen, bewijzen en broncontroledatums blijven ongewijzigd.
+
+---
+
 ## 2026-10-04 — dokładne przedstawienie porady Your Europe Advice
 
 PL
