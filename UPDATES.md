@@ -1,5 +1,21 @@
 # Updates
 
+## 2026-10-04 — krótszy początek strony na telefonie
+
+PL
+- Skrócono tytuł i wprowadzenie na stronie wyboru języka. Pełne wyjaśnienie dotyczące prawa UE przeniesiono do sekcji z tłem spraw, aby karty PL/EN/NL mieściły się na pierwszym ekranie telefonu.
+- Zmiana prezentacji nie oznacza ponownej weryfikacji źródeł ani aktualizacji statusu postępowań.
+
+EN
+- Shortened the title and introduction on the language landing page. The full explanation about EU law is retained in the case-background section so the PL/EN/NL cards fit the first mobile screen.
+- This presentation change does not represent a new source review or an update to procedural status.
+
+NL
+- De titel en inleiding op de taalkeuzepagina ingekort. De volledige toelichting over EU-recht staat in de achtergrondsectie, zodat de PL/EN/NL-kaarten op het eerste mobiele scherm passen.
+- Deze wijziging in de presentatie is geen nieuwe broncontrole of actualisering van de processtand.
+
+---
+
 ## 2026-10-03 — dwie sprawy i podsumowanie dla mediów
 
 PL
