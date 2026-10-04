@@ -7,7 +7,7 @@
 **Authors:** Worker 1 and Worker 2 – private data removed  
 **Nature:** informational and evidentiary document, not a judgment or legal advice  
 **Report version:** 2.0  
-**Page last modified:** 3 October 2026  **Sources last verified:** 11 July 2026  
+**Page last modified:** 4 October 2026  **Sources last verified:** 11 July 2026<br>
 **Publication status:** public, anonymized full-report version.
 
 ---
@@ -62,9 +62,9 @@ The same type of discrepancy appears in both separate case files: the Fase 4 agr
 
 For Worker 2, a working review described in the evidence material covered **97 available payslip files**: “1:00” appeared in 89 files and “32:00” in 8. These are file counts, not separate weeks, because some files are different versions of the same accounting period.
 
-**EU-law context — Your Europe Advice no. 471776 of 4 June 2026:** the advice was independent and non-binding and did not constitute a finding of infringement. It nevertheless indicated that the discrepancy between 32 hours in the contract and one hour on a payslip raises a question about clear and consistent information on essential employment conditions under **Article 4 of Directive (EU) 2019/1152**; the accounting of hours, wages and deductions may require analysis under **Article 5(1) of Directive 2008/104/EC**; and **Article 45 TFEU** may also be relevant where practices affecting migrant workers are less transparent or make recovery of wages more difficult.
+**EU-law context — Your Europe Advice no. 471776 of 4 June 2026:** The advice was independent and non-binding. Based on the account of the case supplied, the reply assessed the agency’s practices, including covering its own obligations from amounts owed to workers, as incompatible with the principle of equal treatment of temporary agency workers under Article 5(1) of Directive 2008/104/EC. It also called for detailed analysis of the accounting of hours, wages and deductions. The discrepancy between 32 contractual hours and the field “Contracturen: 1:00 uur per week” raised a question about whether the worker had received clear and consistent information on employment conditions under Article 4 of Directive (EU) 2019/1152. It further stated that less transparent practices affecting migrant workers, or practices hindering the recovery of wages due, could constitute a breach of Article 45 TFEU.
 
-This is not a claim that Your Europe Advice issued a binding decision finding a breach. The significance of the advice is that it connected this concrete, recurring discrepancy with EU-law provisions requiring further analysis.
+**Significance of the advice:** The reply explicitly assessed the described practices as incompatible with equal treatment and conditionally identified a possible breach of Article 45 TFEU. This assessment is based on the account supplied and is not a binding determination by a court or supervisory authority. The reply was checked on 4 October 2026; this does not represent a fresh review of the entire case file.
 
 ---
 

@@ -7,7 +7,7 @@
 **Autorzy:** Pracownica 1 i Pracownik 2 – dane prywatne usunięte  
 **Charakter:** dokument informacyjny i dowodowy, nie wyrok ani porada prawna  
 **Wersja raportu:** 2.0  
-**Ostatnia zmiana strony:** 2026-10-03  **Ostatnia weryfikacja źródeł:** 2026-07-11  
+**Ostatnia zmiana strony:** 2026-10-04  **Ostatnia weryfikacja źródeł:** 2026-07-11<br>
 **Status publikacji:** publiczna, zanonimizowana wersja pełnego raportu.
 
 ---
@@ -62,9 +62,9 @@ W obu odrębnych dossier występuje ten sam typ rozbieżności: umowa Fase 4 wsk
 
 W odniesieniu do Pracownika 2 roboczy przegląd opisany w materiale dowodowym obejmował **97 dostępnych plików z paskami**: oznaczenie „1:00” występowało w 89 plikach, a „32:00” w 8. Liczone są pliki, nie odrębne tygodnie, ponieważ część plików stanowi różne wersje rozliczenia tego samego okresu.
 
-**Kontekst prawa UE — Your Europe Advice nr 471776 z 04.06.2026:** porada była niezależna i niewiążąca i nie stanowiła stwierdzenia naruszenia prawa. Wskazała jednak, że rozbieżność 32 h w umowie i 1 h na pasku rodzi wątpliwość co do jasności i spójności informacji o podstawowych warunkach zatrudnienia w świetle **art. 4 dyrektywy (UE) 2019/1152**; sposób rozliczania godzin, wynagrodzeń i potrąceń może wymagać analizy pod kątem **art. 5 ust. 1 dyrektywy 2008/104/WE**; wskazano też możliwe znaczenie **art. 45 TFUE** w odniesieniu do przejrzystości i dochodzenia wynagrodzenia przez pracowników migrujących.
+**Kontekst prawa UE — Your Europe Advice nr 471776 z 04.06.2026:** Porada była niezależna i niewiążąca. Na podstawie przedstawionego opisu sprawy w odpowiedzi oceniono, że praktyki agencji, w tym pokrywanie własnych zobowiązań z należności pracowników, są niezgodne z zasadą równego traktowania pracowników tymczasowych wynikającą z art. 5 ust. 1 dyrektywy 2008/104/WE. Jednocześnie wskazano potrzebę szczegółowej analizy rozliczania godzin, wynagrodzeń i potrąceń. Rozbieżność między 32 godzinami w umowie a polem „Contracturen: 1:00 uur per week” powiązano z wątpliwością, czy pracownik otrzymał jasne i spójne informacje o warunkach zatrudnienia zgodnie z art. 4 dyrektywy (UE) 2019/1152. Wskazano też, że mniej przejrzyste praktyki wobec pracowników migrujących lub utrudnianie dochodzenia należnego wynagrodzenia mogłyby stanowić naruszenie art. 45 TFUE.
 
-To nie jest twierdzenie, że Your Europe Advice wydało wiążącą decyzję o naruszeniu. Znaczenie opinii polega na tym, że konkretną, powtarzającą się rozbieżność w obu sprawach powiązano z przepisami prawa UE wymagającymi dalszej analizy.
+**Znaczenie opinii:** Odpowiedź zawiera wyraźną ocenę niezgodności opisanych praktyk z zasadą równego traktowania oraz warunkowe wskazanie możliwego naruszenia art. 45 TFUE. Ocena opiera się na przekazanym opisie sprawy i nie jest wiążącym rozstrzygnięciem sądu ani organu kontrolnego. Treść odpowiedzi sprawdzono 04.10.2026; nie oznacza to ponownej weryfikacji całych akt.
 
 ---
 

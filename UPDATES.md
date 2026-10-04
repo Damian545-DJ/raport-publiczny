@@ -1,5 +1,21 @@
 # Updates
 
+## 2026-10-04 — dokładne przedstawienie porady Your Europe Advice
+
+PL
+- Po sprawdzeniu oryginalnej odpowiedzi Your Europe Advice nr 471776 z 04.06.2026 poprawiono jej opis na stronie i w pełnych raportach PL/EN/NL. Przywrócono wyraźną ocenę niezgodności opisanych praktyk z zasadą równego traktowania z art. 5 ust. 1 dyrektywy 2008/104 oraz warunkowe wskazanie możliwego naruszenia art. 45 TFUE.
+- Zachowano charakter niezależnej, niewiążącej porady opartej na przedstawionym opisie. Sprawdzenie tej odpowiedzi nie stanowi ponownej weryfikacji całych akt.
+
+EN
+- After checking the original Your Europe Advice reply no. 471776 of 4 June 2026, corrected its description on the site and in the full PL/EN/NL reports. Restored its explicit assessment of the described practices as incompatible with equal treatment under Article 5(1) of Directive 2008/104, and its conditional indication of a possible breach of Article 45 TFEU.
+- Preserved the independent, non-binding nature of the advice and its reliance on the account supplied. Checking this reply is not a fresh review of the entire case file.
+
+NL
+- Na controle van het oorspronkelijke antwoord van Your Europe Advice nr. 471776 van 4 juni 2026 de beschrijving op de website en in de volledige PL/EN/NL-rapporten gecorrigeerd. De uitdrukkelijke beoordeling dat de beschreven praktijken onverenigbaar zijn met gelijke behandeling uit artikel 5, lid 1, van Richtlijn 2008/104, en de voorwaardelijke aanwijzing van een mogelijke schending van artikel 45 VWEU hersteld.
+- Het onafhankelijke, niet-bindende karakter van het advies en de grondslag in de voorgelegde beschrijving behouden. Deze controle is geen nieuwe controle van het volledige dossier.
+
+---
+
 ## 2026-10-04 — wspólna nawigacja i krótsze wprowadzenia
 
 PL
