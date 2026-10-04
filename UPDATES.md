@@ -1,5 +1,24 @@
 # Updates
 
+## 2026-10-04 — wspólna nawigacja i krótsze wprowadzenia
+
+PL
+- Ujednolicono nagłówki, menu, wybór języka, przyciski, szerokość treści i stopki. Aktywny dział jest oznaczany zgodnie z otwartą podstroną.
+- Skrócono wprowadzenia PL/EN/NL i dodano osobne wejścia do obu spraw oraz materiałów dla mediów. Pełny kontekst prawa UE i wszystkie dokumenty zachowano.
+- Zmiana prezentacji nie stanowi ponownej weryfikacji źródeł ani aktualizacji stanu postępowań.
+
+EN
+- Unified headers, menus, language selection, buttons, content width and footers. The active section now follows the current page.
+- Shortened the PL/EN/NL introductions and added separate entries to both cases and media materials. The full EU-law context and all documents are preserved.
+- This presentation change does not constitute a new source review or an update to procedural status.
+
+NL
+- Kopteksten, menu's, taalkeuze, knoppen, inhoudsbreedte en voetteksten geharmoniseerd. De actieve rubriek volgt de geopende pagina.
+- De PL/EN/NL-inleidingen ingekort en afzonderlijke ingangen voor beide zaken en mediamateriaal toegevoegd. De volledige EU-rechtelijke context en alle documenten zijn behouden.
+- Deze presentatiewijziging is geen nieuwe broncontrole of actualisering van de processtand.
+
+---
+
 ## 2026-10-04 — krótszy początek strony na telefonie
 
 PL

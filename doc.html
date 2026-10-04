@@ -61,11 +61,18 @@
     }
   </style>
   <link rel="stylesheet" href="assets/accessibility.css">
+<link rel="stylesheet" href="assets/site-chrome.css">
 </head>
 
 <body>
   <a id="skipLink" class="skip-link" href="#main-content">Przejdź do treści</a>
   <div class="wrap">
+<header class="site-header">
+ <a class="brand" href="pl/index.html">Raport publiczny</a>
+ <nav class="chrome-nav desktop-nav" aria-label="Główna nawigacja"><a data-section="0" href="pl/index.html">Start</a><a data-section="1" href="pl/najwazniejsze-ustalenia.html">Ustalenia</a><a data-section="2" href="pl/dowody.html">Dowody</a><a data-section="3" href="pl/timeline.html">Oś czasu</a><a data-section="4" href="pl/dla-instytucji.html">Instytucje</a><a data-section="5" href="pl/media.html">Media</a><a data-section="6" href="pl/full-report.html">Pełny raport</a></nav>
+ <div class="lang-switch" role="group" aria-label="Wersje językowe"><a data-language="pl" href="pl/index.html" hreflang="pl" lang="pl">PL</a><a data-language="en" href="en/index.html" hreflang="en" lang="en">EN</a><a data-language="nl" href="nl/index.html" hreflang="nl" lang="nl">NL</a></div>
+ <details class="mobile-menu"><summary>Menu</summary><nav aria-label="Menu mobilne"><a data-section="0" href="pl/index.html">Start</a><a data-section="1" href="pl/najwazniejsze-ustalenia.html">Ustalenia</a><a data-section="2" href="pl/dowody.html">Dowody</a><a data-section="3" href="pl/timeline.html">Oś czasu</a><a data-section="4" href="pl/dla-instytucji.html">Instytucje</a><a data-section="5" href="pl/media.html">Media</a><a data-section="6" href="pl/full-report.html">Pełny raport</a></nav></details>
+</header>
     <nav id="documentNav" class="top" aria-label="Nawigacja dokumentu">
       <a id="homeLink" class="btn" href="pl/index.html">← Strona główna</a>
       <a id="rawLink" class="btn" href="#" hidden>Otwórz plik bez czytnika</a>
@@ -79,6 +86,7 @@
     <main class="markdown-body md" id="main-content" tabindex="-1" aria-live="polite">Ładuję…</main>
   </div>
 
+  <script src="assets/site-navigation.js"></script>
   <script src="assets/markdown-fallback.js"></script>
   <script async src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
@@ -170,7 +178,7 @@
     function updateSchema(file, title, lang) {
       const schema = {
         "@context": "https://schema.org", "@type": "Report", name: title,
-        url: location.href, inLanguage: lang, 
+        url: location.href, inLanguage: lang,
         isAccessibleForFree: true,
         publisher: {"@type": "Organization", name: "Public evidence report project"},
         about: {"@type": "Thing", name: file}
@@ -253,6 +261,7 @@
       const raw = params.get("file") || "README.pl.md";
       const lang = documentLanguage(raw);
       applyInterfaceLanguage(lang);
+      updateReportNavigation(lang, raw);
       const t = UI[lang];
       const file = safeFileName(raw);
       const fileNameEl = document.getElementById("fileName");
@@ -320,8 +329,8 @@
       load();
     }
   </script>
-  <footer id="legalFooter" class="legal-footer" aria-label="Informacja prawna">
-    <p id="legalFooterText">© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów.</p>
+  <footer id="legalFooter" class="site-footer" aria-label="Informacja prawna">
+    <div class="footer-links"><a data-section="0" href="pl/index.html">Start</a><a data-section="1" href="pl/najwazniejsze-ustalenia.html">Ustalenia</a><a data-section="2" href="pl/dowody.html">Dowody</a><a data-section="3" href="pl/timeline.html">Oś czasu</a><a data-section="4" href="pl/dla-instytucji.html">Instytucje</a><a data-section="5" href="pl/media.html">Media</a><a data-section="6" href="pl/full-report.html">Pełny raport</a><a data-section="7" href="pl/home-of-people.html">Tło instytucjonalne</a><a href="archive.html">Archiwum źródeł</a><a data-privacy="true" href="doc.html?file=ANONYMIZATION.pl.md">Zasady anonimizacji</a><a href="doc.html?file=UPDATES.md">Historia aktualizacji</a></div><p id="legalFooterText">© 2026. Publiczna wersja jest zanonimizowana. Materiał ma charakter informacyjny i służy niezależnej weryfikacji dokumentów.</p>
   </footer>
 </body>
 </html>
